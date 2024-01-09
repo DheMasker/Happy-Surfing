@@ -1,0 +1,472 @@
+proxies:
+- alterId: 0
+  cipher: auto
+  name: 加拿大 082
+  network: ws
+  port: 443
+  server: cf.xiaolong.world
+  servername: live.iflix.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 0f73f90f-6b6a-4bfc-aa7b-3b6321ebc63d
+  ws-opts:
+    headers:
+      Host: cf.xiaolong.world
+    path: /35d5ef49ce?ed=2048
+- alterId: 2
+  cipher: auto
+  name: 加拿大 084
+  network: ws
+  port: 8880
+  server: cfyes.2021214.xyz
+  servername: live.iflix.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 81abd99d-4a84-3b21-9c51-59e29d0e5e03
+  ws-opts:
+    headers:
+      Host: cfyes.2021214.xyz
+    path: /v2ray
+- alterId: 64
+  cipher: auto
+  client-fingerprint: chrome
+  name: 美国 018
+  network: ws
+  port: 30000
+  server: 45.58.178.58
+  servername: live.iflix.com
+  skip-cert-verify: false
+  tfo: false
+  tls: true
+  type: vmess
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+  ws-opts:
+    headers:
+      Host: www.24483868.xyz
+    path: /path/282428170310
+- alterId: 64
+  cipher: auto
+  client-fingerprint: chrome
+  name: 美国 019
+  network: ws
+  port: 443
+  server: 107.149.197.195
+  servername: live.iflix.com
+  skip-cert-verify: false
+  tfo: false
+  tls: true
+  type: vmess
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+  ws-opts:
+    headers:
+      Host: www.33463286.xyz
+    path: /path/231112053308
+- alterId: 0
+  cipher: auto
+  grpc-opts:
+    grpc-service-name: fffffffstrrrrryyyyhhhhsnnnkakkkkdllllssasdf
+  name: 美国 027
+  network: grpc
+  port: 2087
+  server: 104.31.16.3
+  servername: live.iflix.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 98bd45bd-ad4a-4480-87b2-84f81c09aaa8
+- alterId: 0
+  cipher: auto
+  name: 加拿大 015
+  network: ws
+  port: 2096
+  server: 104.24.184.65
+  servername: live.iflix.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: ddde9cc7-00b1-4637-ce42-ccf7ceb0d612
+  ws-opts:
+    headers:
+      host: s1.shargh.shop
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 美国 002
+  network: ws
+  port: 2087
+  server: 198.41.217.5
+  servername: live.iflix.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 9c7de3e8-c2aa-4fe0-b689-9b26d21e9786
+  ws-opts:
+    headers:
+      host: docs2.obneh247.ir
+    path: /2v2rayTEAM
+- alterId: 0
+  cipher: auto
+  name: 加拿大 164
+  network: ws
+  port: 80
+  server: xjp3.shabijichang.com
+  servername: live.iflix.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 56278a1a-c7cc-459f-b00c-3037e4f99590
+  ws-opts:
+    headers:
+      Host: xjp3.shabijichang.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 029
+  network: ws
+  port: 2096
+  server: 162.159.129.71
+  servername: live.iflix.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: d8d39fca-8b6d-4f76-a505-e7917aa75435
+  ws-opts:
+    headers:
+      host: s1.shargh.shop
+    path: /
+- alterId: 2
+  cipher: auto
+  name: 俄罗斯 004
+  network: ws
+  port: 23432
+  server: ru1a.budog.xyz
+  servername: live.iflix.com
+  type: vmess
+  udp: true
+  uuid: 0509ec73-6fc9-3f5c-9277-202a64bec224
+  ws-headers:
+    Host: bing.com
+  ws-opts:
+    headers:
+      Host: bing.com
+    path: /index
+- alterId: 2
+  cipher: auto
+  name: 俄罗斯 005
+  network: ws
+  port: 34222
+  server: ru1b.budog.xyz
+  servername: live.iflix.com
+  type: vmess
+  udp: true
+  uuid: 0509ec73-6fc9-3f5c-9277-202a64bec224
+  ws-headers:
+    Host: bing.com
+  ws-opts:
+    headers:
+      Host: bing.com
+    path: /index
+- alterId: 2
+  cipher: auto
+  name: 德国 004
+  network: ws
+  port: 15415
+  server: de1aa.budog.xyz
+  servername: live.iflix.com
+  type: vmess
+  udp: true
+  uuid: 0509ec73-6fc9-3f5c-9277-202a64bec224
+  ws-headers:
+    Host: bing.com
+  ws-opts:
+    headers:
+      Host: bing.com
+    path: /index
+- alterId: 2
+  cipher: auto
+  name: 德国 005
+  network: ws
+  port: 1280
+  server: de1b.budog.xyz
+  servername: live.iflix.com
+  type: vmess
+  udp: true
+  uuid: 0509ec73-6fc9-3f5c-9277-202a64bec224
+  ws-headers:
+    Host: bing.com
+  ws-opts:
+    headers:
+      Host: bing.com
+    path: /index
+- alterId: 2
+  cipher: auto
+  name: 美国 057
+  network: ws
+  port: 13945
+  server: us2a.budog.xyz
+  servername: live.iflix.com
+  type: vmess
+  udp: true
+  uuid: 0509ec73-6fc9-3f5c-9277-202a64bec224
+  ws-headers:
+    Host: bing.com
+  ws-opts:
+    headers:
+      Host: bing.com
+    path: /index
+- alterId: 2
+  cipher: auto
+  name: 美国 058
+  network: ws
+  port: 14017
+  server: us2b.budog.xyz
+  servername: live.iflix.com
+  type: vmess
+  udp: true
+  uuid: 0509ec73-6fc9-3f5c-9277-202a64bec224
+  ws-headers:
+    Host: bing.com
+  ws-opts:
+    headers:
+      Host: bing.com
+    path: /index
+- alterId: 2
+  cipher: auto
+  name: 加拿大 285
+  network: ws
+  port: 8548
+  server: us2c.budog.xyz
+  servername: live.iflix.com
+  type: vmess
+  udp: true
+  uuid: 0509ec73-6fc9-3f5c-9277-202a64bec224
+  ws-headers:
+    Host: bing.com
+  ws-opts:
+    headers:
+      Host: bing.com
+    path: /index
+- alterId: 2
+  cipher: auto
+  name: 加拿大 286
+  network: ws
+  port: 1854
+  server: us2d.budog.xyz
+  servername: live.iflix.com
+  type: vmess
+  udp: true
+  uuid: 0509ec73-6fc9-3f5c-9277-202a64bec224
+  ws-headers:
+    Host: bing.com
+  ws-opts:
+    headers:
+      Host: bing.com
+    path: /index
+- alterId: 2
+  cipher: auto
+  name: 越南 004
+  network: ws
+  port: 18645
+  server: vn1c.budog.xyz
+  servername: live.iflix.com
+  type: vmess
+  udp: true
+  uuid: 0509ec73-6fc9-3f5c-9277-202a64bec224
+  ws-headers:
+    Host: bing.com
+  ws-opts:
+    headers:
+      Host: bing.com
+    path: /index
+- alterId: 0
+  cipher: auto
+  name: 香港 002
+  network: ws
+  port: 80
+  server: hkcn2.s2fjeyeeyafe.bond
+  servername: live.iflix.com
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: 65d79be3-7327-45f8-86fc-bd7f27948eec
+  ws-opts:
+    headers:
+      Host: hkcn2.s2fjeyeeyafe.bond
+    path: /zh-cn
+- alterId: 0
+  cipher: auto
+  name: 越南 005
+  network: ws
+  port: 1850
+  server: yn3.s2fjeyeeyafe.bond
+  servername: live.iflix.com
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: 65d79be3-7327-45f8-86fc-bd7f27948eec
+  ws-opts:
+    headers:
+      Host: yn3.s2fjeyeeyafe.bond
+    path: /zh-cn
+- alterId: 0
+  cipher: auto
+  name: 日本 003
+  network: ws
+  port: 80
+  server: hg1.s2fjeyeeyafe.bond
+  servername: live.iflix.com
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: 65d79be3-7327-45f8-86fc-bd7f27948eec
+  ws-opts:
+    headers:
+      Host: www.microsoft.com
+    path: /zh-cn
+- alterId: 0
+  cipher: auto
+  name: 加拿大 376
+  network: ws
+  port: 2087
+  server: 162.159.135.232
+  servername: live.iflix.com
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 1523c9d0-5e35-4dcb-b652-0bda0c2f7d04
+  ws-opts:
+    headers:
+      Host: new.alooo.site
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 377
+  network: ws
+  port: 2083
+  server: ir2.sibdoni.com
+  servername: live.iflix.com
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 69c7a7f2-fdd3-421b-ab02-50f0c7d6fe2c
+  ws-opts:
+    headers:
+      Host: loyuxkrwtz_o-g-g_g-g-g-g-g-g-g-g-g--0-xn-fg-g-g-_-g-g-g-g-g1r-.monisor.info
+    path: /graphql
+- alterId: 0
+  cipher: auto
+  name: 香港 002_3@409
+  network: ws
+  port: 80
+  server: hkcn2.s2fjeyeeyafe.bond
+  servername: live.iflix.com
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: 65d79be3-7327-45f8-86fc-bd7f27948eec
+  ws-opts:
+    headers:
+      Host: hkcn2.s2fjeyeeyafe.bond
+    path: /zh-cn
+- alterId: 0
+  cipher: auto
+  name: 越南 005_3@411
+  network: ws
+  port: 1850
+  server: yn3.s2fjeyeeyafe.bond
+  servername: live.iflix.com
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: 65d79be3-7327-45f8-86fc-bd7f27948eec
+  ws-opts:
+    headers:
+      Host: yn3.s2fjeyeeyafe.bond
+    path: /zh-cn
+- alterId: 0
+  cipher: auto
+  name: 日本 003_3@462
+  network: ws
+  port: 80
+  server: hg1.s2fjeyeeyafe.bond
+  servername: live.iflix.com
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: 65d79be3-7327-45f8-86fc-bd7f27948eec
+  ws-opts:
+    headers:
+      Host: www.microsoft.com
+    path: /zh-cn
+- alterId: 0
+  cipher: auto
+  name: 加拿大 376_3@583
+  network: ws
+  port: 2087
+  server: 162.159.135.232
+  servername: live.iflix.com
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 1523c9d0-5e35-4dcb-b652-0bda0c2f7d04
+  ws-opts:
+    headers:
+      Host: new.alooo.site
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 377_3@584
+  network: ws
+  port: 2083
+  server: ir2.sibdoni.com
+  servername: live.iflix.com
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 69c7a7f2-fdd3-421b-ab02-50f0c7d6fe2c
+  ws-opts:
+    headers:
+      Host: loyuxkrwtz_o-g-g_g-g-g-g-g-g-g-g-g--0-xn-fg-g-g-_-g-g-g-g-g1r-.monisor.info
+    path: /graphql
+- alterId: 0
+  cipher: auto
+  name: 加拿大 081
+  network: ws
+  port: 443
+  server: downloading.cmhkg.eu.org
+  servername: live.iflix.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: cd0a32e8-a3ee-4f2d-cb00-1ddf418e7e1c
+  ws-opts:
+    headers:
+      Host: downloading.cmhkg.eu.org
+    path: /SB
+- alterId: 0
+  cipher: auto
+  name: 菲律宾 001
+  network: ws
+  port: 443
+  server: gcore.lisir.tk
+  servername: live.iflix.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: cc08c09f-642b-4e9a-9e6a-4d335eaf2ac1
+  ws-opts:
+    headers:
+      Host: gcore.lisir.tk
+    path: /cc08c09f?ed=2048

@@ -1,0 +1,412 @@
+
+###
+
+
+
+ipv6: false
+mode: rule
+log-level: silent
+unified-delay: true
+dns:
+  enable: true
+  ipv6: false
+  nameserver:
+  - 8.8.8.8
+  - 8.8.4.4
+  default-nameserver:
+  - 8.8.8.8
+  - 8.8.4.4
+
+
+
+proxy-providers:
+
+
+
+##########################################
+  AiruopvpnVmessCdn:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/AiruopvpnVmessCdn.yaml"
+    interval: 28800
+    path: ./proxy_provider/AiruopvpnVmessCdn.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+  WilliamStar007vpnVmessCdn:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/WilliamStar007vpnVmessCdn.yaml"
+    interval: 28800
+    path: ./proxy_provider/WilliamStar007vpnVmessCdn.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+  anaervpnVmessCdn:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/anaervpnVmessCdn.yaml"
+    interval: 28800
+    path: ./proxy_provider/anaervpnVmessCdn.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+  grpcvpnVmessCdn:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/grpcvpnVmessCdn.yaml"
+    interval: 28800
+    path: ./proxy_provider/grpcvpnVmessCdn.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+  mahdiblandvpnVmessCdn:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/mahdiblandvpnVmessCdn.yaml"
+    interval: 28800
+    path: ./proxy_provider/mahdiblandvpnVmessCdn.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+  peasoftvpnVmessCdn:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/peasoftvpnVmessCdn.yaml"
+    interval: 28800
+    path: ./proxy_provider/peasoftvpnVmessCdn.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+  tbbatbbvpnVmessCdn:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/tbbatbbvpnVmessCdn.yaml"
+    interval: 28800
+    path: ./proxy_provider/tbbatbbvpnVmessCdn.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+  trojanvpnVmessCdn:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/trojanvpnVmessCdn.yaml"
+    interval: 28800
+    path: ./proxy_provider/trojanvpnVmessCdn.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+  vmessvpnVmessCdn:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/vmessvpnVmessCdn.yaml"
+    interval: 28800
+    path: ./proxy_provider/vmessvpnVmessCdn.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+  wsvpnVmessCdn:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/wsvpnVmessCdn.yaml"
+    interval: 28800
+    path: ./proxy_provider/wsvpnVmessCdn.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+
+##########################################
+  AiruopvpnTrojanCdn:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/AiruopvpnTrojanCdn.yaml"
+    interval: 28800
+    path: ./proxy_provider/AiruopvpnTrojanCdn.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+  WilliamStar007vpnTrojanCdn:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/WilliamStar007vpnTrojanCdn.yaml"
+    interval: 28800
+    path: ./proxy_provider/WilliamStar007vpnTrojanCdn.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+  anaervpnTrojanCdn:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/anaervpnTrojanCdn.yaml"
+    interval: 28800
+    path: ./proxy_provider/anaervpnTrojanCdn.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+  grpcvpnTrojanCdn:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/grpcvpnTrojanCdn.yaml"
+    interval: 28800
+    path: ./proxy_provider/grpcvpnTrojanCdn.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+  mahdiblandvpnTrojanCdn:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/mahdiblandvpnTrojanCdn.yaml"
+    interval: 28800
+    path: ./proxy_provider/mahdiblandvpnTrojanCdn.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+  peasoftvpnTrojanCdn:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/peasoftvpnTrojanCdn.yaml"
+    interval: 28800
+    path: ./proxy_provider/peasoftvpnTrojanCdn.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+  tbbatbbvpnTrojanCdn:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/tbbatbbvpnTrojanCdn.yaml"
+    interval: 28800
+    path: ./proxy_provider/tbbatbbvpnTrojanCdn.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+  trojanvpnTrojanCdn:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/trojanvpnTrojanCdn.yaml"
+    interval: 28800
+    path: ./proxy_provider/trojanvpnTrojanCdn.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+  vmessvpnTrojanCdn:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/vmessvpnTrojanCdn.yaml"
+    interval: 28800
+    path: ./proxy_provider/vmessvpnTrojanCdn.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+  wsvpnTrojanCdn:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/wsvpnTrojanCdn.yaml"
+    interval: 28800
+    path: ./proxy_provider/wsvpnTrojanCdn.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+
+##########################################
+
+  vpnTrojan:
+    type: http
+    url: "https://raw.githubusercontent.com/rektpartyaftermath/Colong-vmess/main/vpnTrojan.yaml.txt"
+    interval: 28800
+    path: ./proxy_provider/vpnTrojan.yaml.txt
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+
+  vpnVmess-cdn-opok:
+    type: http
+    url: "https://raw.githubusercontent.com/rektpartyaftermath/Colong-vmess/main/vpnVmess-cdn-opok.yaml.txt"
+    interval: 28800
+    path: ./proxy_provider/vpnVmess-cdn-opok.yaml.txt
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+
+  vpnVmess-cdn:
+    type: http
+    url: "https://raw.githubusercontent.com/rektpartyaftermath/Colong-vmess/main/vpnVmess-cdn.yaml.txt"
+    interval: 28800
+    path: ./proxy_provider/vpnVmess-Sni.yaml.txt
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+
+  vpnVmess:
+    type: http
+    url: "https://raw.githubusercontent.com/rektpartyaftermath/Colong-vmess/main/vpnVmess.yaml.txt"
+    interval: 28800
+    path: ./proxy_provider/vpnVmess.yaml.txt
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+
+##########################################
+
+##########################################
+proxy-groups:
+- name: CONTROL
+  type: select
+  proxies:
+  - URLTEST
+  - SELECT
+
+
+
+- name: SELECT
+  type: select
+  use:
+  - AiruopvpnTrojanCdn
+  - WilliamStar007vpnTrojanCdn
+  - anaervpnTrojanCdn
+  - mahdiblandvpnTrojanCdn
+  - peasoftvpnTrojanCdn
+  - tbbatbbvpnTrojanCdn
+
+  - grpcvpnTrojanCdn
+  - trojanvpnTrojanCdn
+  - vmessvpnTrojanCdn
+  - wsvpnTrojanCdn
+
+  - AiruopvpnVmessCdn
+  - WilliamStar007vpnVmessCdn
+  - anaervpnVmessCdn
+  - mahdiblandvpnVmessCdn
+  - peasoftvpnVmessCdn
+  - tbbatbbvpnVmessCdn
+
+  - grpcvpnVmessCdn
+  - trojanvpnVmessCdn
+  - vmessvpnVmessCdn
+  - wsvpnVmessCdn
+
+  - vpnTrojan
+  - vpnVmess-cdn-opok
+  - vpnVmess-cdn
+  - vpnVmess
+
+
+  
+- name: URLTEST
+  type: url-test
+  use:
+  - AiruopvpnTrojanCdn
+  - WilliamStar007vpnTrojanCdn
+  - anaervpnTrojanCdn
+  - mahdiblandvpnTrojanCdn
+  - peasoftvpnTrojanCdn
+  - tbbatbbvpnTrojanCdn
+
+  - grpcvpnTrojanCdn
+  - trojanvpnTrojanCdn
+  - vmessvpnTrojanCdn
+  - wsvpnTrojanCdn
+
+  - AiruopvpnVmessCdn
+  - WilliamStar007vpnVmessCdn
+  - anaervpnVmessCdn
+  - mahdiblandvpnVmessCdn
+  - peasoftvpnVmessCdn
+  - tbbatbbvpnVmessCdn
+
+  - grpcvpnVmessCdn
+  - trojanvpnVmessCdn
+  - vmessvpnVmessCdn
+  - wsvpnVmessCdn
+
+  - vpnTrojan
+  - vpnVmess-cdn-opok
+  - vpnVmess-cdn
+  - vpnVmess
+
+
+
+  interval: 9
+  
+
+
+rules:
+
+
+
+- MATCH,CONTROL
+
+
+
+###

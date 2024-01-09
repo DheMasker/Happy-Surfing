@@ -1,0 +1,374 @@
+proxies:
+- name: 德国 001
+  network: tcp
+  password: 2a9abeb7-6f97-4d33-9069-f6e009d88455
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: 20-24-33-134.nhost.00cdn.com
+  type: trojan
+  udp: true
+- name: 德国 002
+  network: tcp
+  password: 3ed4d5f3-68e9-42fc-978a-22afc2523e5a
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: de1.xn--mes358a9urctx.com
+  type: trojan
+  udp: true
+- name: 加拿大 133
+  network: ws
+  password: 3f23c1eb-ace4-49ec-a7f0-f591b006b95a
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: jus1.jsjc.sbs
+  type: trojan
+  ws-opts:
+    headers:
+      Host: jus1.jsjc.sbs
+    path: /jsjc/us1
+- name: 加拿大 134
+  network: ws
+  password: 3f23c1eb-ace4-49ec-a7f0-f591b006b95a
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: jus2.jsjc.sbs
+  type: trojan
+  ws-opts:
+    headers:
+      Host: jus2.jsjc.sbs
+    path: /jsjc/us2
+- name: 美国 035
+  network: ws
+  password: d2698cf9-c47e-455c-8384-12e642cbba15
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: false
+  sni: 6us3.pqjc.buzz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 6us3.pqjc.buzz
+    path: /pq/us3
+- name: 美国 036
+  network: ws
+  password: d2698cf9-c47e-455c-8384-12e642cbba15
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: false
+  sni: p6us4.pqjc.buzz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: p6us4.pqjc.buzz
+    path: /pq/us4
+- name: 加拿大 249
+  network: ws
+  password: e1be7c0c-69da-4699-a105-64e949da366c
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: p1jp1.pqjc.buzz
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: p1jp1.pqjc.buzz
+    path: '%2Fpq%2Fjp1'
+- name: 美国 050
+  network: ws
+  password: e1be7c0c-69da-4699-a105-64e949da366c
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: 2jp2.pqjc.buzz
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: 2jp2.pqjc.buzz
+    path: '%2Fpq%2Fjp2'
+- name: 美国 051
+  network: ws
+  password: e1be7c0c-69da-4699-a105-64e949da366c
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: 2jp3.pqjc.buzz
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: 2jp3.pqjc.buzz
+    path: '%2Fpq%2Fjp3'
+- name: 美国 052
+  network: ws
+  password: e1be7c0c-69da-4699-a105-64e949da366c
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: 2jp4.pqjc.buzz
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: 2jp4.pqjc.buzz
+    path: '%2Fpq%2Fjp4'
+- name: 俄罗斯 003
+  network: ws
+  password: e1be7c0c-69da-4699-a105-64e949da366c
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: 3jp5.pqjc.buzz
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: 3jp5.pqjc.buzz
+    path: '%2Fpq%2Fjp5'
+- name: 美国 055
+  network: ws
+  password: 097f6b5f-bcf9-4a24-9f0d-d1feaa638d86
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: 3us2.pqjc.buzz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 3us2.pqjc.buzz
+    path: /pq/us2
+- name: 美国 056
+  network: ws
+  password: 097f6b5f-bcf9-4a24-9f0d-d1feaa638d86
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: p1us1.pqjc.buzz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: p1us1.pqjc.buzz
+    path: /pq/us1
+- name: 加拿大 289
+  network: ws
+  password: 41aa073b-68fa-40c0-9b1c-9dc42c0b312c
+  port: 8443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: vps.restia.love
+  type: trojan
+  ws-opts:
+    headers:
+      Host: vps.restia.love
+    path: 41aa073b-68fa-40c0-9b1c-9dc42c0b312c-trojan
+- name: 新加坡 002
+  network: tcp
+  password: d549d79b-9599-4f40-8d50-9b85112c38f4
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: 144-22-163-118.nhost.00cdn.com
+  type: trojan
+  udp: true
+- name: 美国 078
+  network: tcp
+  password: d549d79b-9599-4f40-8d50-9b85112c38f4
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: 144-22-163-118.nhost.00cdn.com
+  type: trojan
+  udp: true
+- name: 美国 079
+  network: tcp
+  password: d549d79b-9599-4f40-8d50-9b85112c38f4
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: 144-22-163-118.nhost.00cdn.com
+  type: trojan
+  udp: true
+- name: 美国 080
+  network: tcp
+  password: d549d79b-9599-4f40-8d50-9b85112c38f4
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: 144-22-163-118.nhost.00cdn.com
+  type: trojan
+  udp: true
+- name: 美国 081
+  network: tcp
+  password: d549d79b-9599-4f40-8d50-9b85112c38f4
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: 144-22-163-118.nhost.00cdn.com
+  type: trojan
+  udp: true
+- alpn:
+  - http/1.1
+  name: 美国 097
+  network: tcp
+  password: telegram-id-directvpn
+  port: 22222
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: trj.rollingnext.co.uk
+  type: trojan
+  udp: true
+- alpn:
+  - http/1.1
+  name: 英国 008
+  network: tcp
+  password: telegram-id-directvpn
+  port: 22222
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: trj.rollingnext.co.uk
+  type: trojan
+  udp: true
+- name: 美国 098
+  network: tcp
+  password: telegram-id-directvpn
+  port: 22222
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: trj.rollingnext.co.uk
+  type: trojan
+  udp: true
+- name: 美国 099
+  network: tcp
+  password: telegram-id-privatevpns
+  port: 22222
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: trj.rollingnext.co.uk
+  type: trojan
+  udp: true
+- name: 美国 106
+  network: tcp
+  password: 93ec7261-1c92-4149-848a-26b6fb9fc4ce
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: tw01.trojanyyds.xyz
+  type: trojan
+  udp: true
+- name: 韩国 002
+  network: tcp
+  password: 7ea8830e-3120-4973-a0b6-4c25219eadfc
+  port: 21852
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: ip3691376078.mobgslb.tbcache.com
+  type: trojan
+  udp: true
+- name: 美国 111
+  network: tcp
+  password: telegram-id-privatevpns
+  port: 22222
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: trj.rollingnext.co.uk
+  type: trojan
+  udp: true
+- name: 新加坡 002_3@463
+  network: tcp
+  password: d549d79b-9599-4f40-8d50-9b85112c38f4
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: 144-22-163-118.nhost.00cdn.com
+  type: trojan
+  udp: true
+- name: 美国 078_3@464
+  network: tcp
+  password: d549d79b-9599-4f40-8d50-9b85112c38f4
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: 144-22-163-118.nhost.00cdn.com
+  type: trojan
+  udp: true
+- name: 美国 079_3@465
+  network: tcp
+  password: d549d79b-9599-4f40-8d50-9b85112c38f4
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: 144-22-163-118.nhost.00cdn.com
+  type: trojan
+  udp: true
+- name: 美国 080_3@466
+  network: tcp
+  password: d549d79b-9599-4f40-8d50-9b85112c38f4
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: 144-22-163-118.nhost.00cdn.com
+  type: trojan
+  udp: true
+- name: 美国 081_3@467
+  network: tcp
+  password: d549d79b-9599-4f40-8d50-9b85112c38f4
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: 144-22-163-118.nhost.00cdn.com
+  type: trojan
+  udp: true
+- alpn:
+  - http/1.1
+  name: 美国 097_3@541
+  network: tcp
+  password: telegram-id-directvpn
+  port: 22222
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: trj.rollingnext.co.uk
+  type: trojan
+  udp: true
+- alpn:
+  - http/1.1
+  name: 英国 008_3@542
+  network: tcp
+  password: telegram-id-directvpn
+  port: 22222
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: trj.rollingnext.co.uk
+  type: trojan
+  udp: true
+- name: 美国 098_3@543
+  network: tcp
+  password: telegram-id-directvpn
+  port: 22222
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: trj.rollingnext.co.uk
+  type: trojan
+  udp: true
+- name: 美国 099_3@544
+  network: tcp
+  password: telegram-id-privatevpns
+  port: 22222
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: trj.rollingnext.co.uk
+  type: trojan
+  udp: true
+- name: 韩国 002_3@569
+  network: tcp
+  password: 7ea8830e-3120-4973-a0b6-4c25219eadfc
+  port: 21852
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: ip3691376078.mobgslb.tbcache.com
+  type: trojan
+  udp: true

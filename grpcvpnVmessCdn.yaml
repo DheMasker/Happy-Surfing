@@ -1,0 +1,3463 @@
+proxies:
+- name: RELAY-172.67.197.82-0188 | 25.059MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: vmess
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  alterId: 1
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: odelia.autos
+- name: 🇮🇸IS-89.221.224.92-0082 | 22.503MB
+  server: zendesk1.shopee.tw
+  port: 80
+  type: vmess
+  uuid: 3f9461ac-51dc-4114-988f-f65f7260edf7
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: is2.xv2ray.net
+- name: 🇮🇸IS-89.221.224.92-0381 | 22.083MB
+  server: zendesk1.shopee.tw
+  port: 80
+  type: vmess
+  uuid: 3f9461ac-51dc-4114-988f-f65f7260edf7
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: is2.xv2ray.net
+- name: RELAY-172.67.128.246-0066 | 18.788MB
+  server: zendesk1.shopee.tw
+  port: 2083
+  type: vmess
+  uuid: 09430d48-8fcd-48e5-b213-f3a81a7e48cb
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: im.unohana.link
+- name: RELAY-172.67.183.110-0187 | 18.708MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: vmess
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  alterId: 1
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: RELAY-172.67.183.110-0187 | 18.708MB
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: waynn.makeup
+- name: RELAY-172.67.170.75-0126 | 16.135MB
+  server: zendesk1.shopee.tw
+  port: 80
+  type: vmess
+  uuid: 2a8a10fb-9ca3-367e-a234-cf09f841be4f
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: us2e-preventintent.v2freevpn.com
+- name: RELAY-172.67.193.150-0084 | 11.83MB
+  server: zendesk1.shopee.tw
+  port: 8080
+  type: vmess
+  uuid: 32a1d578-16ea-49a9-b49e-3f9efc64b9cb
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: us-new03.gujuji.top
+- name: LT-94.131.13.110-0113 | 11.417MB
+  server: zendesk1.shopee.tw
+  port: 80
+  type: vmess
+  uuid: d3e40d59-b53c-4f4e-8867-bb598be864d2
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: lt1-vmess.sshmax.xyz
+- name: 🇫🇷FR-51.91.39.11-0109 | 11.368MB
+  server: zendesk1.shopee.tw
+  port: 34140
+  type: vmess
+  uuid: ccfc884c-896e-4280-a11e-c6a3bb6e9fe9
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: kom5649l.sbs
+- name: RELAY-104.21.41.208-0075 | 11.111MB
+  server: zendesk1.shopee.tw
+  port: 8080
+  type: vmess
+  uuid: 32a1d578-16ea-49a9-b49e-3f9efc64b9cb
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: fr-new01.gujuji.top
+- name: EE-5.181.23.38-0203 | 10.875MB
+  server: zendesk1.shopee.tw
+  port: 80
+  type: vmess
+  uuid: 83018580-58ce-464f-b75c-2a1331a8f016
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  servername: EE-5.181.23.38-0203 | 10.875MB
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: ee1.xv2ray.net
+- name: RELAY-104.21.44.200-0139 | 9.999MB
+  server: zendesk1.shopee.tw
+  port: 8880
+  type: vmess
+  uuid: 4b5e4565-322f-4223-a891-78a84f189726
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: pla.yj2022.gq
+- name: 🇯🇵JP-109.123.230.157-0134 | 9.796MB
+  server: zendesk1.shopee.tw
+  port: 80
+  type: vmess
+  uuid: 59517e0b-ae1c-41d3-9c44-c44cea6f7546
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: internet.life.com.by
+- name: RELAY-162.159.136.76-0146 | 9.532MB
+  server: zendesk1.shopee.tw
+  port: 2052
+  type: vmess
+  uuid: 2dbeeb76-a71f-493f-bd92-33f0193291c5
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: hkyx.651568.xyz
+- name: 🇯🇵JP-109.123.230.157-0060 | 8.766MB
+  server: zendesk1.shopee.tw
+  port: 80
+  type: vmess
+  uuid: a19f357b-c836-4cf6-9e43-72390e6a00df
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: dl.kgvn.garenanow.com
+- name: RELAY-162.159.134.198-0067 | 8.704MB
+  server: zendesk1.shopee.tw
+  port: 8080
+  type: vmess
+  uuid: 2dbeeb76-a71f-493f-bd92-33f0193291c5
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: sgyx.651568.xyz
+- name: VN-103.82.27.129-0129 | 8.57MB
+  server: zendesk1.shopee.tw
+  port: 80
+  type: vmess
+  uuid: c95357eb-2869-4511-8940-f0dc5e1ec9b1
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: vn7.5gsieutocdo.com
+- name: VN-103.179.189.240-0105 | 8.057MB
+  server: zendesk1.shopee.tw
+  port: 80
+  type: vmess
+  uuid: c95357eb-2869-4511-8940-f0dc5e1ec9b1
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: dl.kgvn.garenanow.com
+- name: VN-103.75.185.226-0102 | 8.031MB
+  server: zendesk1.shopee.tw
+  port: 80
+  type: vmess
+  uuid: 9e5999ba-870a-46b1-8500-37c640371ec6
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: bs5.loadingip.com
+- name: VN-103.75.185.221-0121 | 7.785MB
+  server: zendesk1.shopee.tw
+  port: 80
+  type: vmess
+  uuid: 9e5999ba-870a-46b1-8500-37c640371ec6
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: bs4.loadingip.com
+- name: RELAY-172.67.129.249-0141 | 7.706MB
+  server: zendesk1.shopee.tw
+  port: 80
+  type: vmess
+  uuid: c97cf46e-1554-36cb-8b36-c3556b883dc4
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: v118a.ai88888.top
+- name: EE-5.181.23.67-0510 | 7.551MB
+  server: zendesk1.shopee.tw
+  port: 2082
+  type: vmess
+  uuid: e342ac69-9671-4b47-bd62-64002ac97d8b
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: ee1-vmess.sshmax.xyz
+- name: RELAY-172.64.80.1-0061 | 7.527MB
+  server: zendesk1.shopee.tw
+  port: 8880
+  type: vmess
+  uuid: 4b5e4565-322f-4223-a891-78a84f189726
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: fra.yj2022.gq
+- name: 🇳🇱NL-95.179.186.161-0502 | 7.459MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: vmess
+  uuid: dfbbc8de-8a4f-407d-8069-6de38d83c4e1
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: hdfy4s2d1.foriran.trade
+- name: RELAY-172.67.170.75-0029 | 6.911MB
+  server: zendesk1.shopee.tw
+  port: 80
+  type: vmess
+  uuid: 2a8a10fb-9ca3-367e-a234-cf09f841be4f
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: us3e-mmnnfr9dop0.v2freevpn.com
+- name: RELAY-172.67.203.169-0056 | 6.65MB
+  server: zendesk1.shopee.tw
+  port: 8880
+  type: vmess
+  uuid: 4b5e4565-322f-4223-a891-78a84f189726
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: nla.yj2022.gq
+- name: RELAY-104.21.41.208-0095 | 6.157MB
+  server: zendesk1.shopee.tw
+  port: 8080
+  type: vmess
+  uuid: e2b13230-2e75-4946-bd07-f700aef9e90d
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: uk-new01.gujuji.top
+- name: RELAY-172.67.229.25-0135 | 6.131MB
+  server: zendesk1.shopee.tw
+  port: 2086
+  type: vmess
+  uuid: 58fe1542-5290-40ad-815a-77707a81afe5
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: ca6.tehme100.fun
+- name: VN-103.56.163.90-0068 | 5.777MB
+  server: zendesk1.shopee.tw
+  port: 80
+  type: vmess
+  uuid: c95357eb-2869-4511-8940-f0dc5e1ec9b1
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: inet.5gsieutocdo.com
+- alterId: 0
+  cipher: auto
+  name: 加拿大 155
+  network: ws
+  port: 8880
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tfo: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 309f84b9-49dd-408d-a0b6-8860393be802
+  ws-opts:
+    headers:
+      Host: uszhang.sanfen002.top
+    path: /grdhhgrdhhhhhhj?ed=2048
+- alterId: 0
+  cipher: auto
+  name: 加拿大 156
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tfo: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 309f84b9-49dd-408d-a0b6-8860393be802
+  ws-opts:
+    headers:
+      Host: freesg.sanfen002.top
+    path: /grdhhgrdhhhhhhj?ed=2048
+- alterId: 0
+  cipher: auto
+  name: 加拿大 157
+  network: ws
+  port: 8080
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tfo: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 309f84b9-49dd-408d-a0b6-8860393be802
+  ws-opts:
+    headers:
+      Host: freesg.sanfen002.top
+    path: /grdhhgrdhhhhhhj?ed=2048
+- alterId: 0
+  cipher: auto
+  name: 加拿大 158
+  network: ws
+  port: 2095
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 03e7297c-c657-4e2a-abf9-4f95bed444a1
+  ws-opts:
+    headers:
+      Host: cf-us.doushimeng.com
+    path: /asdas
+- alterId: 0
+  cipher: auto
+  name: 加拿大 159
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 03e7297c-c657-4e2a-abf9-4f95bed444a1
+  ws-opts:
+    headers:
+      Host: cf-tw.doushimeng.com
+    path: /asdas
+- alterId: 0
+  cipher: auto
+  name: 加拿大 164
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  servername: xjp3.shabijichang.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 56278a1a-c7cc-459f-b00c-3037e4f99590
+  ws-opts:
+    headers:
+      Host: xjp3.shabijichang.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 165
+  network: ws
+  port: 8080
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: fd2c62e1-eff8-420f-88b1-c46df63dc6dc
+  ws-opts:
+    headers:
+      Host: ca-new01.gujuji.top
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 176
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: fb512649-3738-493c-887b-a93eb5fc1f60
+  ws-opts:
+    headers:
+      Host: sgp-2.888401.xyz
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 177
+  network: ws
+  port: 8080
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 309f84b9-49dd-408d-a0b6-8860393be802
+  ws-opts:
+    headers:
+      Host: jpan33.sanfen003.top
+    path: /grdohhgrdh4hhhhhj?ed=2048
+- alterId: 0
+  cipher: auto
+  name: 加拿大 178
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 309f84b9-49dd-408d-a0b6-8860393be802
+  ws-opts:
+    headers:
+      Host: jpan33.sanfen003.top
+    path: /grdohhgrdh4hhhhhj?ed=2048
+- alterId: 0
+  cipher: auto
+  name: 加拿大 179
+  network: ws
+  port: 2082
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 309f84b9-49dd-408d-a0b6-8860393be802
+  ws-opts:
+    headers:
+      Host: jpan33.sanfen003.top
+    path: /grdohhgrdh4hhhhhj?ed=2048
+- alterId: 0
+  cipher: auto
+  name: 加拿大 180
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: c458695d-6908-45c3-9512-e0c46418454c
+  ws-opts:
+    headers:
+      Host: hdlb2.shabijichang.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 181
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 10ea3b2a-b615-45f1-b1b7-c62bafe8c80c
+  ws-opts:
+    headers:
+      Host: se4.shabijichang.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 184
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: d8d3482e-6d58-4e86-b870-e7fbe893d8b9
+  ws-opts:
+    headers:
+      Host: dIGIkAlA.ONlINeviSioNsTore.sITE
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 美国 034
+  network: ws
+  port: 2095
+  server: zendesk1.shopee.tw
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: e412e583-ce9b-3cf5-8812-32b9fa47562b
+  ws-opts:
+    headers:
+      Host: camtlebc.76898102.xyz
+    path: /funsdfrh
+- alterId: 0
+  cipher: auto
+  name: 加拿大 191
+  network: ws
+  port: 8880
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: c78452f0-8489-43d8-87c6-68e55e3ce245
+  ws-opts:
+    headers:
+      Host: ssrsub-cf-v2.trojan.tel
+    path: /api/v3/download.getFile
+- alterId: 0
+  cipher: auto
+  name: 加拿大 192
+  network: ws
+  port: 2095
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: c78452f0-8489-43d8-87c6-68e55e3ce245
+  ws-opts:
+    headers:
+      Host: ssrsub-cf-v2.trojan.tel
+    path: /api/v3/download.getFile
+- alterId: 0
+  cipher: auto
+  name: 加拿大 193
+  network: ws
+  port: 2096
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 0809f6b2-f5d8-472e-831e-48c2e61e461f
+  ws-opts:
+    headers:
+      Host: frab.carfin.tech
+    path: /Frankfurt
+- alterId: 0
+  cipher: auto
+  name: 加拿大 197
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  tls: false
+  type: vmess
+  uuid: c458695d-6908-45c3-9512-e0c46418454c
+  ws-opts:
+    headers:
+      Host: sbl2.shabijichang.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 199
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 424de996-b8ac-4472-af7e-098f353b76a3
+  ws-opts:
+    headers:
+      Host: buyvmus2.fastcloud.top
+    path: /scloud
+- alterId: 0
+  cipher: auto
+  name: 加拿大 201
+  network: ws
+  port: 8080
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: f199b5ef-c3a2-4913-9b4f-8032c6b62177
+  ws-opts:
+    headers:
+      Host: kr-01.gujuji.top
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 206
+  network: ws
+  port: 2082
+  server: zendesk1.shopee.tw
+  tls: false
+  type: vmess
+  uuid: 70666776-4e9f-4350-b3f0-afaff6a70db0
+  ws-opts:
+    headers:
+      Host: au-01.jikuai.xyz
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 207
+  network: ws
+  port: 2082
+  server: zendesk1.shopee.tw
+  tls: false
+  type: vmess
+  uuid: 70666776-4e9f-4350-b3f0-afaff6a70db0
+  ws-opts:
+    headers:
+      Host: fr-01.jikuai.xyz
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 208
+  network: ws
+  port: 2082
+  server: zendesk1.shopee.tw
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: 3fb3147b-0da5-4c56-a900-7c883e0a9761
+  ws-opts:
+    headers:
+      Host: uspp.sanfen002.top
+    path: /grdhhgrdhhhhhhj?ed
+- alterId: 0
+  cipher: auto
+  name: 加拿大 209
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: c458695d-6908-45c3-9512-e0c46418454c
+  ws-opts:
+    headers:
+      Host: xn2.shabijichang.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 210
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: c458695d-6908-45c3-9512-e0c46418454c
+  ws-opts:
+    headers:
+      Host: xn3.shabijichang.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 214
+  network: ws
+  port: 8080
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: afcff523-ba80-46ca-9d72-8753c271bae7
+  ws-opts:
+    headers:
+      Host: us-new03.gujuji.top
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 218
+  network: ws
+  port: 2082
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 70666776-4e9f-4350-b3f0-afaff6a70db0
+  ws-opts:
+    headers:
+      Host: us-02.jikuai.xyz
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 美国 039
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: dfaecaa8-8cb7-4947-9f0a-3299691692d6
+  ws-opts:
+    headers:
+      Host: dl.kgvn.garenanow.com
+    path: /anti13.zingfast.vn
+- alterId: 0
+  cipher: auto
+  name: 加拿大 222
+  network: ws
+  port: 8443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 35be0dcf-0b1b-427d-e5e7-b85e7693df58
+  ws-opts:
+    headers:
+      Host: api.lp-airdrop.top
+    path: /login
+- alterId: 0
+  cipher: auto
+  name: 美国 040
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: ee65c32d-afc8-4d54-b91e-b334354fa5c2
+  ws-opts:
+    headers:
+      Host: n1700303376.izwhvan.cn
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 227
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 6da3e574-52f1-4690-a53b-2847ce756456
+  ws-opts:
+    headers:
+      Host: haxteuilq.1145114.me
+    path: /lonan
+- alterId: 0
+  cipher: auto
+  name: 加拿大 228
+  network: ws
+  port: 8880
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 2a683a54-f098-4d98-92fc-762b85d907b9
+  ws-opts:
+    headers:
+      Host: ssrsub.v002.ssrsub.com
+    path: /api/v3/download.getFile
+- alterId: 0
+  cipher: auto
+  name: 加拿大 229
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: ece2a2e1-4bb3-4a52-9677-921e47c7a9a9
+  ws-opts:
+    headers:
+      Host: dl.kgvn.garenanow.com
+    path: /anti13.zingfast.vn
+- alterId: 0
+  cipher: auto
+  name: 德国 003
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: ece2a2e1-4bb3-4a52-9677-921e47c7a9a9
+  ws-opts:
+    headers:
+      Host: dl.kgvn.garenanow.com
+    path: /anti13.zingfast.vn
+- alterId: 0
+  cipher: auto
+  name: 加拿大 230
+  network: ws
+  port: 8880
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 4b5e4565-322f-4223-a891-78a84f189726
+  ws-opts:
+    headers:
+      Host: nla.yj2022.gq
+    path: /doxwPZje9wMMZi4m9xY8GkU5zT3Hs4kRDL4W3nistSRmDw3x2
+- alterId: 0
+  cipher: auto
+  name: 加拿大 232
+  network: ws
+  port: 2096
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: c0ec8bd0-ddc1-48cd-b352-9dfe15bbead0
+  ws-opts:
+    headers:
+      Host: tElEWebIOn.hAsMAIlkOrEa.sTORe
+    path: /?ed=2048
+- alterId: 0
+  cipher: auto
+  name: 加拿大 234
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 872270f5-f3ef-45d6-ac6b-14c50d07dcdb
+  ws-opts:
+    headers:
+      Host: cf-kr.colacloud.site
+    path: /sssddd
+- alterId: 0
+  cipher: auto
+  name: 加拿大 235
+  network: ws
+  port: 2086
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 872270f5-f3ef-45d6-ac6b-14c50d07dcdb
+  ws-opts:
+    headers:
+      Host: cf-nls.colacloud.site
+    path: /sssddd
+- alterId: 0
+  cipher: auto
+  name: 加拿大 236
+  network: ws
+  port: 8080
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 3bbea0a7-6b6a-47fb-8c0a-7d535a5ea56e
+  ws-opts:
+    headers:
+      Host: us-new02.gujuji.top
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 法国 001
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 3a19be40-cf8c-4347-b474-3a2eb9d4b230
+  ws-opts:
+    headers:
+      Host: 4fr2.09vpn.com
+    path: /vmess/
+- alterId: 0
+  cipher: auto
+  grpc-opts:
+    grpc-mode: none
+    grpc-service-name: /
+  name: 加拿大 241
+  network: grpc
+  port: 443
+  server: zendesk1.shopee.tw
+  servername: ''
+  skip-cert-verify: true
+  tfo: false
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 7bd934c5-5043-4491-8757-fedf3012a52a
+- alterId: 0
+  cipher: auto
+  name: 美国 053
+  network: grpc
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 800c9e1b-7a1a-4139-93ac-432aa52ad867
+- alterId: 0
+  cipher: auto
+  name: 加拿大 250
+  network: ws
+  port: 2082
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 3a40c353-90f9-37a6-9f7b-68afb9cc13e0
+  ws-opts:
+    headers:
+      Host: ydb.76898102.xyz
+    path: /buiaebd
+- alterId: 0
+  cipher: auto
+  name: 加拿大 251
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 244e4b2c-535f-4820-99bd-c1c903b2bc6b
+  ws-opts:
+    headers:
+      Host: tr2-vmess.sshmax.xyz
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 加拿大 252
+  network: ws
+  port: 8080
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: f32fb637-67eb-48be-9f29-4523c4720de7
+  ws-opts:
+    headers:
+      Host: kryx.651568.xyz
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 253
+  network: ws
+  port: 8080
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 579fd6f1-7618-4fff-8635-9dba4a61df96
+  ws-opts:
+    headers:
+      Host: cc.992688.xyz
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 254
+  network: ws
+  port: 8080
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: f32fb637-67eb-48be-9f29-4523c4720de7
+  ws-opts:
+    headers:
+      Host: kryx.651568.xyz
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 255
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 7e85049a-2b44-4621-991f-1e10e2210bc9
+  ws-opts:
+    headers:
+      Host: lv1-vmess.sshmax.xyz
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 加拿大 257
+  network: ws
+  port: 8080
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 4b5e4565-322f-4223-a891-78a84f189726
+  ws-opts:
+    headers:
+      Host: polouk.yj2022.gq
+    path: /r8ykwif5rffiqJeJ49zLka7PbhWz3wiHs8cSeiRyZL
+- alterId: 0
+  cipher: auto
+  name: 加拿大 258
+  network: ws
+  port: 8880
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: f4892ad7-5bb9-4976-9086-99f1086241c1
+  ws-opts:
+    headers:
+      Host: losangeles.freenode.pro
+    path: /microsoft?ed=1024
+- alterId: 0
+  cipher: auto
+  name: 加拿大 259
+  network: ws
+  port: 8080
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: f4892ad7-5bb9-4976-9086-99f1086241c1
+  ws-opts:
+    headers:
+      Host: usopenvz3-52026022940dc1234123455cf1.freenode.pro
+    path: /Onlinemedicallearningvideos/HEAC*?ed=2048
+- alterId: 0
+  cipher: auto
+  name: 加拿大 260
+  network: ws
+  port: 2052
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: f4892ad7-5bb9-4976-9086-99f1086241c1
+  ws-opts:
+    headers:
+      Host: usopenvz2-10726022940b71234123487d70001.freenode.pro
+    path: /Onlinemedicallearningvideos/HEAC*?ed=2048
+- alterId: 0
+  cipher: auto
+  name: 加拿大 261
+  network: ws
+  port: 2095
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: f4892ad7-5bb9-4976-9086-99f1086241c1
+  ws-opts:
+    headers:
+      Host: de-data-02.ikuan.dev
+    path: /cloudvideo?ed=1024
+- alterId: 0
+  cipher: auto
+  name: 加拿大 270
+  network: ws
+  port: 2052
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 59a660f7-508f-476c-a38f-0a37de0ca415
+  ws-opts:
+    headers:
+      Host: ca-cfcdn.aikunapp.com
+    path: /index?ed=2048
+- alterId: 0
+  cipher: auto
+  name: 加拿大 271
+  network: ws
+  port: 2052
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 59a660f7-508f-476c-a38f-0a37de0ca415
+  ws-opts:
+    headers:
+      Host: jp-cdn.784654.xyz
+    path: /index?ed=2048
+- alterId: 0
+  cipher: auto
+  name: 加拿大 272
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 0d0a8974-ee9c-455c-acec-add3c9cb5025
+  ws-opts:
+    headers:
+      Host: yyjc-hk-ipv6-1.shaniugpt.top
+    path: /yyjc-hk-ipv6-1
+- alterId: 0
+  cipher: auto
+  name: 加拿大 273
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 0d0a8974-ee9c-455c-acec-add3c9cb5025
+  ws-opts:
+    headers:
+      Host: yyjc-hk-ipv6-1.shaniugpt.top
+    path: /yyjc-hk-ipv6-1
+- alterId: 0
+  cipher: auto
+  name: 加拿大 274
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 0d0a8974-ee9c-455c-acec-add3c9cb5025
+  ws-opts:
+    headers:
+      Host: yyjc-sg1.shaniugpt.top
+    path: /yyjc-sg1
+- alterId: 0
+  cipher: auto
+  name: 加拿大 275
+  network: ws
+  port: 8080
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 97bba5ca-185c-4e6a-ac64-96e920d4eeda
+  ws-opts:
+    headers:
+      Host: moon.chanell.mci.v-x4ssd.space
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 276
+  network: ws
+  port: 8880
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 4b5e4565-322f-4223-a891-78a84f189726
+  ws-opts:
+    headers:
+      Host: fra.yj2022.gq
+    path: /9sTFt5L554kPVWmuJ2k8baS4bEY83PZ66xb4twoBBtsiMPK2b
+- alterId: 0
+  cipher: auto
+  name: 加拿大 278
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: c97cf46e-1554-36cb-8b36-c3556b883dc4
+  ws-opts:
+    headers:
+      Host: v118a.ai88888.top
+    path: /526-dekDP6Otf
+- alterId: 0
+  cipher: auto
+  name: 加拿大 279
+  network: ws
+  port: 2052
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 50a029a5-2d6f-46eb-a1fe-612ff152fe21
+  ws-opts:
+    headers:
+      Host: hkda001.qkhbyf.tech
+    path: /lonan
+- alterId: 2
+  cipher: auto
+  name: 俄罗斯 004
+  network: ws
+  port: 23432
+  server: zendesk1.shopee.tw
+  servername: bing.com
+  type: vmess
+  udp: true
+  uuid: 0509ec73-6fc9-3f5c-9277-202a64bec224
+  ws-headers:
+    Host: bing.com
+  ws-opts:
+    headers:
+      Host: bing.com
+    path: /index
+- alterId: 2
+  cipher: auto
+  name: 俄罗斯 005
+  network: ws
+  port: 34222
+  server: zendesk1.shopee.tw
+  servername: bing.com
+  type: vmess
+  udp: true
+  uuid: 0509ec73-6fc9-3f5c-9277-202a64bec224
+  ws-headers:
+    Host: bing.com
+  ws-opts:
+    headers:
+      Host: bing.com
+    path: /index
+- alterId: 2
+  cipher: auto
+  name: 德国 004
+  network: ws
+  port: 15415
+  server: zendesk1.shopee.tw
+  servername: bing.com
+  type: vmess
+  udp: true
+  uuid: 0509ec73-6fc9-3f5c-9277-202a64bec224
+  ws-headers:
+    Host: bing.com
+  ws-opts:
+    headers:
+      Host: bing.com
+    path: /index
+- alterId: 2
+  cipher: auto
+  name: 德国 005
+  network: ws
+  port: 1280
+  server: zendesk1.shopee.tw
+  servername: bing.com
+  type: vmess
+  udp: true
+  uuid: 0509ec73-6fc9-3f5c-9277-202a64bec224
+  ws-headers:
+    Host: bing.com
+  ws-opts:
+    headers:
+      Host: bing.com
+    path: /index
+- alterId: 2
+  cipher: auto
+  name: 美国 057
+  network: ws
+  port: 13945
+  server: zendesk1.shopee.tw
+  servername: bing.com
+  type: vmess
+  udp: true
+  uuid: 0509ec73-6fc9-3f5c-9277-202a64bec224
+  ws-headers:
+    Host: bing.com
+  ws-opts:
+    headers:
+      Host: bing.com
+    path: /index
+- alterId: 2
+  cipher: auto
+  name: 美国 058
+  network: ws
+  port: 14017
+  server: zendesk1.shopee.tw
+  servername: bing.com
+  type: vmess
+  udp: true
+  uuid: 0509ec73-6fc9-3f5c-9277-202a64bec224
+  ws-headers:
+    Host: bing.com
+  ws-opts:
+    headers:
+      Host: bing.com
+    path: /index
+- alterId: 2
+  cipher: auto
+  name: 加拿大 285
+  network: ws
+  port: 8548
+  server: zendesk1.shopee.tw
+  servername: bing.com
+  type: vmess
+  udp: true
+  uuid: 0509ec73-6fc9-3f5c-9277-202a64bec224
+  ws-headers:
+    Host: bing.com
+  ws-opts:
+    headers:
+      Host: bing.com
+    path: /index
+- alterId: 2
+  cipher: auto
+  name: 加拿大 286
+  network: ws
+  port: 1854
+  server: zendesk1.shopee.tw
+  servername: bing.com
+  type: vmess
+  udp: true
+  uuid: 0509ec73-6fc9-3f5c-9277-202a64bec224
+  ws-headers:
+    Host: bing.com
+  ws-opts:
+    headers:
+      Host: bing.com
+    path: /index
+- alterId: 2
+  cipher: auto
+  name: 越南 004
+  network: ws
+  port: 18645
+  server: zendesk1.shopee.tw
+  servername: bing.com
+  type: vmess
+  udp: true
+  uuid: 0509ec73-6fc9-3f5c-9277-202a64bec224
+  ws-headers:
+    Host: bing.com
+  ws-opts:
+    headers:
+      Host: bing.com
+    path: /index
+- alterId: 0
+  cipher: auto
+  name: 加拿大 287
+  network: ws
+  port: 2086
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 22425357-dc2f-4001-afe2-7f56a7210fca
+  ws-opts:
+    headers:
+      Host: cf-jp.handboy.site
+    path: /asdas
+- alterId: 0
+  cipher: auto
+  name: 加拿大 288
+  network: ws
+  port: 8880
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 4b5e4565-322f-4223-a891-78a84f189726
+  ws-opts:
+    headers:
+      Host: pla.yj2022.gq
+    path: /r8ykwif5rffiqJeJ49zLQtAUESmka7PbhWz3wiHs8cSeiRyZL
+- alterId: 0
+  cipher: auto
+  name: 瑞典 001
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 63de2350-41d9-4a03-ad8a-72a8c3759b94
+  ws-opts:
+    headers:
+      Host: lying-oldest-neighbors-flexible.trycloudflare.com
+    path: 63de2350-41d9-4a03-ad8a-72a8c3759b94-vm
+- alterId: 0
+  cipher: auto
+  name: 加拿大 297
+  network: ws
+  port: 2095
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 78fd41e5-346a-3bf4-b942-be0fad711979
+  ws-opts:
+    headers:
+      Host: amstdheac.76898102.xyz
+    path: /funsdfrh
+- alterId: 0
+  cipher: auto
+  name: 加拿大 299
+  network: ws
+  port: 2052
+  server: zendesk1.shopee.tw
+  tls: false
+  type: vmess
+  uuid: bf3d038a-93a2-4e24-886c-6bc64e3c3a90
+  ws-opts:
+    headers:
+      Host: mgtow_cdn.yunjisuan.cf
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 美国 059
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  tls: true
+  type: vmess
+  uuid: ea4909ef-7ca6-4b46-bf2e-6c07896ef338
+  ws-opts:
+    headers:
+      Host: cold-dawn-9246.fly.dev
+    path: /ea4909ef-7ca6-4b46-bf2e-6c07896ef338-vm
+- alterId: 0
+  cipher: auto
+  name: 立陶宛 001
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  tls: false
+  type: vmess
+  uuid: ea2928cb-f9cc-4747-ab60-d23abe3ba1e6
+  ws-opts:
+    headers:
+      Host: lt2-vmess.sshmax.xyz
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 加拿大 300
+  network: ws
+  port: 2082
+  server: zendesk1.shopee.tw
+  tls: false
+  type: vmess
+  uuid: bf3d038a-93a2-4e24-886c-6bc64e3c3a90
+  ws-opts:
+    headers:
+      Host: els_cdnone.yunjisuan.cf
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 301
+  network: ws
+  port: 2095
+  server: zendesk1.shopee.tw
+  tls: false
+  type: vmess
+  uuid: 78fd41e5-346a-3bf4-b942-be0fad711979
+  ws-opts:
+    headers:
+      Host: frsadubias.76898102.xyz
+    path: /funsdfrh
+- alterId: 0
+  cipher: auto
+  name: 瑞典 002
+  network: ws
+  port: 2082
+  server: zendesk1.shopee.tw
+  tls: false
+  type: vmess
+  uuid: bf3d038a-93a2-4e24-886c-6bc64e3c3a90
+  ws-opts:
+    headers:
+      Host: els_cdnone.yunjisuan.cf
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 俄罗斯 006
+  network: tcp
+  port: 8443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 6b65926e-110d-4728-a807-5670d8829e09
+  ws-headers:
+    Host: internet.life.com.by
+- alterId: 0
+  cipher: auto
+  name: 美国 060
+  network: ws
+  port: 2095
+  server: zendesk1.shopee.tw
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 7b529a8b-d306-4744-b4e5-c29aaa42ec0b
+  ws-opts:
+    headers:
+      Host: uk.kfcvme50.life
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 302
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  ws-opts:
+    headers:
+      Host: octavi.cfd
+    path: linkvws
+- alterId: 0
+  cipher: auto
+  name: 日本 001
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 65d79be3-7327-45f8-86fc-bd7f27948eec
+  ws-opts:
+    headers:
+      Host: www.microsoft.com
+    path: /zh-cn
+- alterId: 0
+  cipher: auto
+  name: 香港 002
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  servername: www.microsoft.com
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: 65d79be3-7327-45f8-86fc-bd7f27948eec
+  ws-opts:
+    headers:
+      Host: hkcn2.s2fjeyeeyafe.bond
+    path: /zh-cn
+- alterId: 0
+  cipher: auto
+  name: 美国 061
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 65d79be3-7327-45f8-86fc-bd7f27948eec
+  ws-opts:
+    headers:
+      Host: www.microsoft.com
+    path: /zh-cn
+- alterId: 0
+  cipher: auto
+  name: 越南 005
+  network: ws
+  port: 1850
+  server: zendesk1.shopee.tw
+  servername: www.microsoft.com
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: 65d79be3-7327-45f8-86fc-bd7f27948eec
+  ws-opts:
+    headers:
+      Host: yn3.s2fjeyeeyafe.bond
+    path: /zh-cn
+- alterId: 0
+  cipher: auto
+  name: 中華人民共和國 001
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 65d79be3-7327-45f8-86fc-bd7f27948eec
+  ws-opts:
+    headers:
+      Host: www.microsoft.com
+    path: /zh-cn
+- alterId: 0
+  cipher: auto
+  name: 加拿大 309
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: f81447b2-5466-483c-bf86-ef9832b389dd
+  ws-opts:
+    headers:
+      Host: www.applefoods.gay
+    path: /f81447b2-5466-483c-bf86-ef9832b389dd-vmess
+- alterId: 1
+  cipher: auto
+  name: 加拿大 313
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 74dd674d-35fa-4f75-8b05-0f276e15c091
+  ws-opts:
+    headers:
+      Host: 2876be99-f.3nvx.com
+    path: /assets
+- alterId: 0
+  cipher: auto
+  name: 荷兰 006
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 673ba378-840f-4928-81f2-203148d07350
+  ws-opts:
+    headers:
+      Host: cowochtmtrkers.turbo021.link
+    path: /673ba378-840f-4928-81f2-203148d07350
+- alterId: 0
+  cipher: auto
+  name: 加拿大 314
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 4fa35ea4-668e-4d7b-9bbc-b83681060617
+  ws-opts:
+    headers:
+      Host: rlhrwtqusd.site
+    path: /kwhmvws
+- alterId: 0
+  cipher: auto
+  name: 加拿大 317
+  network: ws
+  port: 2083
+  server: zendesk1.shopee.tw
+  tls: true
+  type: vmess
+  uuid: 9e9b80f1-5555-4f7d-a209-d23b9d9dc047
+  ws-opts:
+    headers:
+      Host: PAneljadid.mookoMEilz.homes
+    path: /snsk
+- alterId: 0
+  cipher: auto
+  name: 加拿大 318
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  tls: false
+  type: vmess
+  uuid: 5f797b91-c7ec-4178-d19e-9b069b70b446
+  ws-opts:
+    headers:
+      Host: zUlA9.eSmAIlkORea.sHop
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 319
+  network: ws
+  port: 8080
+  server: zendesk1.shopee.tw
+  tls: false
+  type: vmess
+  uuid: 54d4d640-731c-4572-d0d4-e8a617816470
+  ws-opts:
+    headers:
+      Host: icu4.mac2win.top
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 321
+  network: ws
+  port: 8880
+  server: zendesk1.shopee.tw
+  tls: false
+  type: vmess
+  uuid: ce9aadc8-8c6e-4867-d247-9a84b469ac27
+  ws-opts:
+    headers:
+      Host: a3.bcbot.in
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 324
+  network: ws
+  port: 2082
+  server: zendesk1.shopee.tw
+  tls: false
+  type: vmess
+  uuid: bf3d038a-93a2-4e24-886c-6bc64e3c3a90
+  ws-opts:
+    headers:
+      Host: mgtow_cdn.yunjisuan.cf
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 325
+  network: ws
+  port: 2082
+  server: zendesk1.shopee.tw
+  tls: false
+  type: vmess
+  uuid: bf3d038a-93a2-4e24-886c-6bc64e3c3a90
+  ws-opts:
+    headers:
+      Host: els_cdnone.yunjisuan.cf
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 日本 003
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  servername: www.microsoft.com
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: 65d79be3-7327-45f8-86fc-bd7f27948eec
+  ws-opts:
+    headers:
+      Host: www.microsoft.com
+    path: /zh-cn
+- alterId: 0
+  cipher: auto
+  name: 美国 082
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 102dacdf-8d95-4e54-9466-5d6c10a88ec9
+  ws-opts:
+    headers:
+      host: sgyd2.xingsu.fun
+    path: /xingsu
+- alterId: 0
+  cipher: auto
+  name: 加拿大 327
+  network: ws
+  port: 8080
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 95ef08c8-7dd3-45b7-b815-c3cf5a4385d9
+  ws-opts:
+    headers:
+      host: yyjc-hk-20240101.shaniugpt.top
+    path: /20240101
+- alterId: 0
+  cipher: auto
+  name: 加拿大 328
+  network: ws
+  port: 8080
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 95ef08c8-7dd3-45b7-b815-c3cf5a4385d9
+  ws-opts:
+    headers:
+      host: yyjc-hk-20240101.shaniugpt.top
+    path: /20240101
+- alterId: 0
+  cipher: auto
+  name: 加拿大 329
+  network: ws
+  port: 8080
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 95ef08c8-7dd3-45b7-b815-c3cf5a4385d9
+  ws-opts:
+    headers:
+      host: yyjc-hk-20240101.shaniugpt.top
+    path: /20240101
+- alterId: 0
+  cipher: auto
+  name: 加拿大 330
+  network: ws
+  port: 2053
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 4f72299a-7e3d-4b63-941c-8db09fe2352b
+  ws-opts:
+    headers:
+      host: cc-download.ztt.icu
+    path: /cctv5/hd.m3u8
+- alterId: 0
+  cipher: auto
+  name: 加拿大 331
+  network: ws
+  port: 2083
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 4f72299a-7e3d-4b63-941c-8db09fe2352b
+  ws-opts:
+    headers:
+      host: ft-download.ztt.icu
+    path: /cctv5/hd.m3u8
+- alterId: 1
+  cipher: auto
+  name: 加拿大 334
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 74dd674d-35fa-4f75-8b05-0f276e15c091
+  ws-opts:
+    headers:
+      Host: e691d61a-f.3nvx.com
+    path: /assets
+- alterId: 0
+  cipher: auto
+  name: 加拿大 335
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 539d1f3c-619c-4180-9603-d23e2b4db62f
+  ws-opts:
+    headers:
+      Host: copies-bandwidth-harold-tops.trycloudflare.com
+    path: 539d1f3c-619c-4180-9603-d23e2b4db62f-vm
+- alterId: 0
+  cipher: auto
+  name: 加拿大 337
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: fd64710a-35ea-4b90-9fdd-9072e6c2ba71
+  ws-opts:
+    headers:
+      Host: cdn.vpnsell.beauty
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 越南 006
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 7a9eab7e-f9be-4b4d-8cbb-eaaee62d9eee
+  ws-opts:
+    headers:
+      Host: lienquan.garena.vn
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 340
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: edbb1059-1633-4271-b66e-ed4fba47a1bf
+  ws-opts:
+    headers:
+      Host: linde06.indiavideo.sbs
+    path: /linkws
+- alterId: 0
+  cipher: auto
+  name: 加拿大 343
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: a92c5c73-9f40-44e4-85ec-641076354c31
+  ws-opts:
+    headers:
+      Host: cdn8.gsmvp.com
+    path: /a382454ef84c0/
+- alterId: 1
+  cipher: auto
+  name: 日本 004
+  network: tcp
+  port: 46485
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: a578216f-70ea-32f2-8950-125e930f6bf4
+- alterId: 0
+  cipher: auto
+  name: 越南 007
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 9e5999ba-870a-46b1-8500-37c640371ec6
+  ws-opts:
+    headers:
+      Host: bs5.loadingip.com
+    path: /bs
+- alterId: 0
+  cipher: auto
+  name: 加拿大 347
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 2a8a10fb-9ca3-367e-a234-cf09f841be4f
+  ws-opts:
+    headers:
+      Host: fr1e-unmetered.v2freevpn.com
+    path: /v133PDXkklxLEcOvD
+- alterId: 0
+  cipher: auto
+  name: 美国 086
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 5e4ca1d9-868a-4655-bba2-b193668a8d48
+  ws-opts:
+    headers:
+      Host: cloudflare.bilibilinode1.top
+    path: /114514
+- alterId: 0
+  cipher: auto
+  name: 加拿大 354
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 04602f60-746d-3f43-8beb-a739e9c2902c
+  ws-opts:
+    headers:
+      Host: lovemylive.top
+    path: /yuihjk11dsu7skb3g30
+- alterId: 0
+  cipher: auto
+  name: 美国 087
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 04602f60-746d-3f43-8beb-a739e9c2902c
+  ws-opts:
+    headers:
+      Host: lovemylive.top
+    path: /6788y88u3yfuyis03
+- alterId: 0
+  cipher: auto
+  name: 德国 008
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 04602f60-746d-3f43-8beb-a739e9c2902c
+  ws-opts:
+    headers:
+      Host: lovemylive.top
+    path: /dkmfjfkmd239wq20
+- alterId: 0
+  cipher: auto
+  name: 美国 088
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 04602f60-746d-3f43-8beb-a739e9c2902c
+  ws-opts:
+    headers:
+      Host: lovemylive.top
+    path: /rfededxcvbniuyt5671ss23
+- alterId: 0
+  cipher: auto
+  name: 美国 089
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 04602f60-746d-3f43-8beb-a739e9c2902c
+  ws-opts:
+    headers:
+      Host: lovemylive.top
+    path: /jfsds2u4ud22d2209
+- alterId: 0
+  cipher: auto
+  name: 法国 002
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 04602f60-746d-3f43-8beb-a739e9c2902c
+  ws-opts:
+    headers:
+      Host: lovemylive.top
+    path: /jfjhju4u9fi9d2207
+- alterId: 0
+  cipher: auto
+  name: 英国 006
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 04602f60-746d-3f43-8beb-a739e9c2902c
+  ws-opts:
+    headers:
+      Host: lovemylive.top
+    path: /yuihj7ythg27
+- alterId: 0
+  cipher: auto
+  name: 美国 090
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 04602f60-746d-3f43-8beb-a739e9c2902c
+  ws-opts:
+    headers:
+      Host: lovemylive.top
+    path: /y111d2su7ut67ythg28
+- alterId: 0
+  cipher: auto
+  name: 美国 091
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 04602f60-746d-3f43-8beb-a739e9c2902c
+  ws-opts:
+    headers:
+      Host: lovemylive.top
+    path: /yuihjk11dsu7ut67ythg26
+- alterId: 0
+  cipher: auto
+  name: 美国 092
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 04602f60-746d-3f43-8beb-a739e9c2902c
+  ws-opts:
+    headers:
+      Host: lovemylive.top
+    path: /yuihjn6ythg29
+- alterId: 0
+  cipher: auto
+  name: 加拿大 355
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  udp: true
+  uuid: de04add9-5c68-8bab-950c-08cd5320df18
+  ws-opts:
+    headers:
+      Host: cup-without-disappointed-objects.trycloudflare.com
+    path: /argo-vmess?ed=2048
+- alterId: 0
+  cipher: auto
+  name: 加拿大 356
+  network: ws
+  port: 8080
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 2dbeeb76-a71f-493f-bd92-33f0193291c5
+  ws-opts:
+    headers:
+      Host: kryx.651568.xyz
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 美国 104
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: b99696e5-2f1b-4640-9b7b-05edd1a26a3b
+  ws-opts:
+    headers:
+      Host: vmess.myv2ray.space
+    path: /b99696e5-2f1b-4640-9b7b-05edd1a26a3b
+- alterId: 0
+  cipher: auto
+  name: 加拿大 360
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 56278a1a-c7cc-459f-b00c-3037e4f99590
+  ws-opts:
+    headers:
+      Host: cc3.shabijichang.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 361
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 45f63e92-f782-4cac-84b8-e61cb5a5bfd0
+  ws-opts:
+    headers:
+      Host: adenc35.fixedlfoat.top
+    path: /linkws
+- alterId: 0
+  cipher: auto
+  name: 加拿大 362
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: f584de15-2034-4170-a723-f48c2bae5e0f
+  ws-opts:
+    headers:
+      Host: afrhms16v.bestxray.buzz
+    path: /linkws
+- alterId: 0
+  cipher: auto
+  name: 加拿大 363
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 1052f24e-7b09-45eb-b0c5-d858eb124192
+  ws-opts:
+    headers:
+      Host: glweidf.cfd
+    path: /linkws
+- alterId: 0
+  cipher: auto
+  name: 加拿大 364
+  network: ws
+  port: 2052
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 2dbeeb76-a71f-493f-bd92-33f0193291c5
+  ws-opts:
+    headers:
+      Host: hkyx.651568.xyz
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 365
+  network: ws
+  port: 2052
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 2dbeeb76-a71f-493f-bd92-33f0193291c5
+  ws-opts:
+    headers:
+      Host: hkyx.651568.xyz
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 366
+  network: ws
+  port: 2086
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: bf3d038a-93a2-4e24-886c-6bc64e3c3a90
+  ws-opts:
+    headers:
+      Host: mgtow_cdn.yunjisuan.cf
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 367
+  network: ws
+  port: 8880
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: bf3d038a-93a2-4e24-886c-6bc64e3c3a90
+  ws-opts:
+    headers:
+      Host: mgthree_cdn.yunjisuan.cf
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 立陶宛 002
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: d3e40d59-b53c-4f4e-8867-bb598be864d2
+  ws-opts:
+    headers:
+      Host: lt1-vmess.sshmax.xyz
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 加拿大 371
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: f256a3ae-0f85-4a1d-d0cd-2d0b4b73f4f1
+  ws-opts:
+    headers:
+      Host: v3ra3do.wakeuptimerap.shop
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 372
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 2a8a10fb-9ca3-367e-a234-cf09f841be4f
+  ws-opts:
+    headers:
+      Host: us3e-mmnnfr9dop0.v2freevpn.com
+    path: /v118-fccxmxm35
+- alterId: 0
+  cipher: auto
+  name: 加拿大 373
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: d0eeeadb-f223-42bf-a239-99c3377c9b40
+  ws-opts:
+    headers:
+      Host: uspz.edge.233.tw
+    path: /geg/44?ed=2048
+- alterId: 0
+  cipher: auto
+  name: 加拿大 375
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 2a456600-5611-4d90-964a-8eb6fcd6048b
+  ws-opts:
+    headers:
+      Host: rs2.nimserver.top
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 加拿大 377
+  network: ws
+  port: 2083
+  server: zendesk1.shopee.tw
+  servername: loyuxkrwtz_o-g-g_g-g-g-g-g-g-g-g-g--0-xn-fg-g-g-_-g-g-g-g-g1r-.monisor.info
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 69c7a7f2-fdd3-421b-ab02-50f0c7d6fe2c
+  ws-opts:
+    headers:
+      Host: loyuxkrwtz_o-g-g_g-g-g-g-g-g-g-g-g--0-xn-fg-g-g-_-g-g-g-g-g1r-.monisor.info
+    path: /graphql
+- alterId: 1
+  cipher: auto
+  name: 加拿大 380
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 76221bfb-e92f-4e80-81c5-6fe48f50ac0b
+  ws-opts:
+    headers:
+      Host: glweidf.sbs
+    path: /linkws
+- alterId: 0
+  cipher: auto
+  name: 美国 110
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 04602f60-746d-3f43-8beb-a739e9c2902c
+  ws-opts:
+    headers:
+      Host: v2.lovemylive.top
+    path: /fsdfasf2f2dddsaa
+- alterId: 0
+  cipher: auto
+  name: 立陶宛 003
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 04602f60-746d-3f43-8beb-a739e9c2902c
+  ws-opts:
+    headers:
+      Host: cloudreve.top
+    path: /njhjdfhjf94irei234re22
+- alterId: 0
+  cipher: auto
+  name: 韩国 003
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 04602f60-746d-3f43-8beb-a739e9c2902c
+  ws-opts:
+    headers:
+      Host: cloudreve.top
+    path: /rfcsd12121ds24
+- alterId: 0
+  cipher: auto
+  name: 加拿大 383
+  network: ws
+  port: 2052
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: bf3d038a-93a2-4e24-886c-6bc64e3c3a90
+  ws-opts:
+    headers:
+      host: mg_cdn.yunjisuan.cf
+    path: /
+- alterId: 0
+  cipher: chacha20-poly1305
+  name: 加拿大 385
+  network: ws
+  port: 2082
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 819aa317-b82f-45a4-8226-c1de31361f97
+  ws-opts:
+    headers:
+      Host: mehdi20.goodbyefilteringchannel.space
+    path: /forwardv2ray1forwardv2ray4
+- alterId: 1
+  cipher: auto
+  name: 加拿大 386
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 950db6aa-4926-4616-816e-ec0312dcb87b
+  ws-opts:
+    headers:
+      Host: jahfkjha.cfd
+    path: /linkws
+- alterId: 0
+  cipher: auto
+  name: 加拿大 387
+  network: ws
+  port: 2052
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 2b0c5996-216f-4933-9aed-92458ff4988f
+  ws-opts:
+    headers:
+      Host: oiichk.yydsii.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 388
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 2b0c5996-216f-4933-9aed-92458ff4988f
+  ws-opts:
+    headers:
+      Host: oiictw.yydsii.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 澳大利亞 001
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 2b0c5996-216f-4933-9aed-92458ff4988f
+  ws-opts:
+    headers:
+      Host: oiictw.yydsii.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 韩国 004
+  network: ws
+  port: 25706
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 2b0c5996-216f-4933-9aed-92458ff4988f
+  ws-opts:
+    headers:
+      Host: kr.yydsii.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 302_3@407
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  ws-opts:
+    headers:
+      Host: octavi.cfd
+    path: linkvws
+- alterId: 0
+  cipher: auto
+  name: 日本 001_3@408
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 65d79be3-7327-45f8-86fc-bd7f27948eec
+  ws-opts:
+    headers:
+      Host: www.microsoft.com
+    path: /zh-cn
+- alterId: 0
+  cipher: auto
+  name: 香港 002_3@409
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  servername: www.microsoft.com
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: 65d79be3-7327-45f8-86fc-bd7f27948eec
+  ws-opts:
+    headers:
+      Host: hkcn2.s2fjeyeeyafe.bond
+    path: /zh-cn
+- alterId: 0
+  cipher: auto
+  name: 美国 061_3@410
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 65d79be3-7327-45f8-86fc-bd7f27948eec
+  ws-opts:
+    headers:
+      Host: www.microsoft.com
+    path: /zh-cn
+- alterId: 0
+  cipher: auto
+  name: 越南 005_3@411
+  network: ws
+  port: 1850
+  server: zendesk1.shopee.tw
+  servername: www.microsoft.com
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: 65d79be3-7327-45f8-86fc-bd7f27948eec
+  ws-opts:
+    headers:
+      Host: yn3.s2fjeyeeyafe.bond
+    path: /zh-cn
+- alterId: 0
+  cipher: auto
+  name: 中華人民共和國 001_3@412
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 65d79be3-7327-45f8-86fc-bd7f27948eec
+  ws-opts:
+    headers:
+      Host: www.microsoft.com
+    path: /zh-cn
+- alterId: 0
+  cipher: auto
+  name: 加拿大 309_3@421
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: f81447b2-5466-483c-bf86-ef9832b389dd
+  ws-opts:
+    headers:
+      Host: www.applefoods.gay
+    path: /f81447b2-5466-483c-bf86-ef9832b389dd-vmess
+- alterId: 1
+  cipher: auto
+  name: 加拿大 313_3@429
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 74dd674d-35fa-4f75-8b05-0f276e15c091
+  ws-opts:
+    headers:
+      Host: 2876be99-f.3nvx.com
+    path: /assets
+- alterId: 0
+  cipher: auto
+  name: 荷兰 006_3@430
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 673ba378-840f-4928-81f2-203148d07350
+  ws-opts:
+    headers:
+      Host: cowochtmtrkers.turbo021.link
+    path: /673ba378-840f-4928-81f2-203148d07350
+- alterId: 0
+  cipher: auto
+  name: 加拿大 314_3@431
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 4fa35ea4-668e-4d7b-9bbc-b83681060617
+  ws-opts:
+    headers:
+      Host: rlhrwtqusd.site
+    path: /kwhmvws
+- alterId: 0
+  cipher: auto
+  name: 加拿大 319_3@436
+  network: ws
+  port: 8080
+  server: zendesk1.shopee.tw
+  tls: false
+  type: vmess
+  uuid: 54d4d640-731c-4572-d0d4-e8a617816470
+  ws-opts:
+    headers:
+      Host: icu4.mac2win.top
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 324_3@442
+  network: ws
+  port: 2082
+  server: zendesk1.shopee.tw
+  tls: false
+  type: vmess
+  uuid: bf3d038a-93a2-4e24-886c-6bc64e3c3a90
+  ws-opts:
+    headers:
+      Host: mgtow_cdn.yunjisuan.cf
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 325_3@443
+  network: ws
+  port: 2082
+  server: zendesk1.shopee.tw
+  tls: false
+  type: vmess
+  uuid: bf3d038a-93a2-4e24-886c-6bc64e3c3a90
+  ws-opts:
+    headers:
+      Host: els_cdnone.yunjisuan.cf
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 日本 003_3@462
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  servername: www.microsoft.com
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: 65d79be3-7327-45f8-86fc-bd7f27948eec
+  ws-opts:
+    headers:
+      Host: www.microsoft.com
+    path: /zh-cn
+- alterId: 0
+  cipher: auto
+  name: 美国 082_3@468
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 102dacdf-8d95-4e54-9466-5d6c10a88ec9
+  ws-opts:
+    headers:
+      host: sgyd2.xingsu.fun
+    path: /xingsu
+- alterId: 0
+  cipher: auto
+  name: 加拿大 327_3@469
+  network: ws
+  port: 8080
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 95ef08c8-7dd3-45b7-b815-c3cf5a4385d9
+  ws-opts:
+    headers:
+      host: yyjc-hk-20240101.shaniugpt.top
+    path: /20240101
+- alterId: 0
+  cipher: auto
+  name: 加拿大 328_3@470
+  network: ws
+  port: 8080
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 95ef08c8-7dd3-45b7-b815-c3cf5a4385d9
+  ws-opts:
+    headers:
+      host: yyjc-hk-20240101.shaniugpt.top
+    path: /20240101
+- alterId: 0
+  cipher: auto
+  name: 加拿大 329_3@471
+  network: ws
+  port: 8080
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 95ef08c8-7dd3-45b7-b815-c3cf5a4385d9
+  ws-opts:
+    headers:
+      host: yyjc-hk-20240101.shaniugpt.top
+    path: /20240101
+- alterId: 0
+  cipher: auto
+  name: 加拿大 330_3@472
+  network: ws
+  port: 2053
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 4f72299a-7e3d-4b63-941c-8db09fe2352b
+  ws-opts:
+    headers:
+      host: cc-download.ztt.icu
+    path: /cctv5/hd.m3u8
+- alterId: 0
+  cipher: auto
+  name: 加拿大 331_3@473
+  network: ws
+  port: 2083
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 4f72299a-7e3d-4b63-941c-8db09fe2352b
+  ws-opts:
+    headers:
+      host: ft-download.ztt.icu
+    path: /cctv5/hd.m3u8
+- alterId: 1
+  cipher: auto
+  name: 加拿大 334_3@479
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 74dd674d-35fa-4f75-8b05-0f276e15c091
+  ws-opts:
+    headers:
+      Host: e691d61a-f.3nvx.com
+    path: /assets
+- alterId: 0
+  cipher: auto
+  name: 加拿大 335_3@480
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 539d1f3c-619c-4180-9603-d23e2b4db62f
+  ws-opts:
+    headers:
+      Host: copies-bandwidth-harold-tops.trycloudflare.com
+    path: 539d1f3c-619c-4180-9603-d23e2b4db62f-vm
+- alterId: 0
+  cipher: auto
+  name: 加拿大 337_3@482
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: fd64710a-35ea-4b90-9fdd-9072e6c2ba71
+  ws-opts:
+    headers:
+      Host: cdn.vpnsell.beauty
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 越南 006_3@489
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 7a9eab7e-f9be-4b4d-8cbb-eaaee62d9eee
+  ws-opts:
+    headers:
+      Host: lienquan.garena.vn
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 340_3@496
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: edbb1059-1633-4271-b66e-ed4fba47a1bf
+  ws-opts:
+    headers:
+      Host: linde06.indiavideo.sbs
+    path: /linkws
+- alterId: 0
+  cipher: auto
+  name: 加拿大 343_3@501
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: a92c5c73-9f40-44e4-85ec-641076354c31
+  ws-opts:
+    headers:
+      Host: cdn8.gsmvp.com
+    path: /a382454ef84c0/
+- name: RELAY-104.19.154.92-0005 | 30.763MB
+  server: zendesk1.shopee.tw
+  port: 2083
+  type: vmess
+  uuid: 9e9b80f1-5555-4f7d-a209-d23b9d9dc047
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: PAneljadid.mookoMEilz.homes
+- alterId: 1
+  cipher: auto
+  name: 日本 004_3@505
+  network: tcp
+  port: 46485
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: a578216f-70ea-32f2-8950-125e930f6bf4
+- alterId: 0
+  cipher: auto
+  name: 越南 007_3@507
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 9e5999ba-870a-46b1-8500-37c640371ec6
+  ws-opts:
+    headers:
+      Host: bs5.loadingip.com
+    path: /bs
+- alterId: 0
+  cipher: auto
+  name: 加拿大 347_3@510
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 2a8a10fb-9ca3-367e-a234-cf09f841be4f
+  ws-opts:
+    headers:
+      Host: fr1e-unmetered.v2freevpn.com
+    path: /v133PDXkklxLEcOvD
+- name: RELAY-104.26.13.8-0091 | 30.559MB
+  server: zendesk1.shopee.tw
+  port: 80
+  type: vmess
+  uuid: 7fc27c1c-5052-4d6b-8099-1a8c04f1cd7b
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: PArspAcK51.eSMAILkOrEA.sHoP
+- alterId: 0
+  cipher: auto
+  name: 美国 086_3@517
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 5e4ca1d9-868a-4655-bba2-b193668a8d48
+  ws-opts:
+    headers:
+      Host: cloudflare.bilibilinode1.top
+    path: /114514
+- alterId: 0
+  cipher: auto
+  name: 加拿大 354_3@519
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 04602f60-746d-3f43-8beb-a739e9c2902c
+  ws-opts:
+    headers:
+      Host: lovemylive.top
+    path: /yuihjk11dsu7skb3g30
+- alterId: 0
+  cipher: auto
+  name: 美国 087_3@520
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 04602f60-746d-3f43-8beb-a739e9c2902c
+  ws-opts:
+    headers:
+      Host: lovemylive.top
+    path: /6788y88u3yfuyis03
+- alterId: 0
+  cipher: auto
+  name: 德国 008_3@521
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 04602f60-746d-3f43-8beb-a739e9c2902c
+  ws-opts:
+    headers:
+      Host: lovemylive.top
+    path: /dkmfjfkmd239wq20
+- alterId: 0
+  cipher: auto
+  name: 美国 088_3@522
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 04602f60-746d-3f43-8beb-a739e9c2902c
+  ws-opts:
+    headers:
+      Host: lovemylive.top
+    path: /rfededxcvbniuyt5671ss23
+- alterId: 0
+  cipher: auto
+  name: 美国 089_3@523
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 04602f60-746d-3f43-8beb-a739e9c2902c
+  ws-opts:
+    headers:
+      Host: lovemylive.top
+    path: /jfsds2u4ud22d2209
+- alterId: 0
+  cipher: auto
+  name: 法国 002_3@524
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 04602f60-746d-3f43-8beb-a739e9c2902c
+  ws-opts:
+    headers:
+      Host: lovemylive.top
+    path: /jfjhju4u9fi9d2207
+- name: RELAY-104.26.13.8-0362 | 30.468MB
+  server: zendesk1.shopee.tw
+  port: 80
+  type: vmess
+  uuid: 7fc27c1c-5052-4d6b-8099-1a8c04f1cd7b
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: PArspAcK51.eSMAILkOrEA.sHoP
+- alterId: 0
+  cipher: auto
+  name: 英国 006_3@525
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 04602f60-746d-3f43-8beb-a739e9c2902c
+  ws-opts:
+    headers:
+      Host: lovemylive.top
+    path: /yuihj7ythg27
+- alterId: 0
+  cipher: auto
+  name: 美国 090_3@526
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 04602f60-746d-3f43-8beb-a739e9c2902c
+  ws-opts:
+    headers:
+      Host: lovemylive.top
+    path: /y111d2su7ut67ythg28
+- alterId: 0
+  cipher: auto
+  name: 美国 091_3@527
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 04602f60-746d-3f43-8beb-a739e9c2902c
+  ws-opts:
+    headers:
+      Host: lovemylive.top
+    path: /yuihjk11dsu7ut67ythg26
+- alterId: 0
+  cipher: auto
+  name: 美国 092_3@528
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 04602f60-746d-3f43-8beb-a739e9c2902c
+  ws-opts:
+    headers:
+      Host: lovemylive.top
+    path: /yuihjn6ythg29
+- alterId: 0
+  cipher: auto
+  name: 美国 104_3@551
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: b99696e5-2f1b-4640-9b7b-05edd1a26a3b
+  ws-opts:
+    headers:
+      Host: vmess.myv2ray.space
+    path: /b99696e5-2f1b-4640-9b7b-05edd1a26a3b
+- alterId: 0
+  cipher: auto
+  name: 加拿大 360_3@556
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 56278a1a-c7cc-459f-b00c-3037e4f99590
+  ws-opts:
+    headers:
+      Host: cc3.shabijichang.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 361_3@558
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 45f63e92-f782-4cac-84b8-e61cb5a5bfd0
+  ws-opts:
+    headers:
+      Host: adenc35.fixedlfoat.top
+    path: /linkws
+- alterId: 0
+  cipher: auto
+  name: 加拿大 362_3@559
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: f584de15-2034-4170-a723-f48c2bae5e0f
+  ws-opts:
+    headers:
+      Host: afrhms16v.bestxray.buzz
+    path: /linkws
+- alterId: 0
+  cipher: auto
+  name: 加拿大 363_3@560
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 1052f24e-7b09-45eb-b0c5-d858eb124192
+  ws-opts:
+    headers:
+      Host: glweidf.cfd
+    path: /linkws
+- alterId: 0
+  cipher: auto
+  name: 加拿大 365_3@562
+  network: ws
+  port: 2052
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 2dbeeb76-a71f-493f-bd92-33f0193291c5
+  ws-opts:
+    headers:
+      Host: hkyx.651568.xyz
+    path: /
+- name: RELAY-172.67.81.238-0177 | 30.348MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: vmess
+  uuid: 27ab0787-2981-4eb6-b18f-7e93b417cecc
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: RELAY-172.67.81.238-0177 | 30.348MB
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: mmmmm.ariyannetwork.pro
+- alterId: 0
+  cipher: auto
+  name: 加拿大 366_3@564
+  network: ws
+  port: 2086
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: bf3d038a-93a2-4e24-886c-6bc64e3c3a90
+  ws-opts:
+    headers:
+      Host: mgtow_cdn.yunjisuan.cf
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 立陶宛 002_3@574
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: d3e40d59-b53c-4f4e-8867-bb598be864d2
+  ws-opts:
+    headers:
+      Host: lt1-vmess.sshmax.xyz
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 加拿大 372_3@578
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 2a8a10fb-9ca3-367e-a234-cf09f841be4f
+  ws-opts:
+    headers:
+      Host: us3e-mmnnfr9dop0.v2freevpn.com
+    path: /v118-fccxmxm35
+- alterId: 0
+  cipher: auto
+  name: 加拿大 373_3@579
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: d0eeeadb-f223-42bf-a239-99c3377c9b40
+  ws-opts:
+    headers:
+      Host: uspz.edge.233.tw
+    path: /geg/44?ed=2048
+- alterId: 0
+  cipher: auto
+  name: 加拿大 375_3@582
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 2a456600-5611-4d90-964a-8eb6fcd6048b
+  ws-opts:
+    headers:
+      Host: rs2.nimserver.top
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 加拿大 377_3@584
+  network: ws
+  port: 2083
+  server: zendesk1.shopee.tw
+  servername: loyuxkrwtz_o-g-g_g-g-g-g-g-g-g-g-g--0-xn-fg-g-g-_-g-g-g-g-g1r-.monisor.info
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 69c7a7f2-fdd3-421b-ab02-50f0c7d6fe2c
+  ws-opts:
+    headers:
+      Host: loyuxkrwtz_o-g-g_g-g-g-g-g-g-g-g-g--0-xn-fg-g-g-_-g-g-g-g-g1r-.monisor.info
+    path: /graphql
+- alterId: 0
+  cipher: auto
+  name: 美国 110_3@592
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 04602f60-746d-3f43-8beb-a739e9c2902c
+  ws-opts:
+    headers:
+      Host: v2.lovemylive.top
+    path: /fsdfasf2f2dddsaa
+- alterId: 0
+  cipher: auto
+  name: 立陶宛 003_3@593
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 04602f60-746d-3f43-8beb-a739e9c2902c
+  ws-opts:
+    headers:
+      Host: cloudreve.top
+    path: /njhjdfhjf94irei234re22
+- alterId: 0
+  cipher: auto
+  name: 韩国 003_3@594
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 04602f60-746d-3f43-8beb-a739e9c2902c
+  ws-opts:
+    headers:
+      Host: cloudreve.top
+    path: /rfcsd12121ds24
+- alterId: 0
+  cipher: chacha20-poly1305
+  name: 加拿大 385_3@599
+  network: ws
+  port: 2082
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 819aa317-b82f-45a4-8226-c1de31361f97
+  ws-opts:
+    headers:
+      Host: mehdi20.goodbyefilteringchannel.space
+    path: /forwardv2ray1forwardv2ray4
+- alterId: 1
+  cipher: auto
+  name: 加拿大 386_3@604
+  network: ws
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 950db6aa-4926-4616-816e-ec0312dcb87b
+  ws-opts:
+    headers:
+      Host: jahfkjha.cfd
+    path: /linkws
+- alterId: 0
+  cipher: auto
+  name: 加拿大 387_3@605
+  network: ws
+  port: 2052
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 2b0c5996-216f-4933-9aed-92458ff4988f
+  ws-opts:
+    headers:
+      Host: oiichk.yydsii.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 388_3@606
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 2b0c5996-216f-4933-9aed-92458ff4988f
+  ws-opts:
+    headers:
+      Host: oiictw.yydsii.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 澳大利亞 001_3@607
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 2b0c5996-216f-4933-9aed-92458ff4988f
+  ws-opts:
+    headers:
+      Host: oiictw.yydsii.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 韩国 004_3@608
+  network: ws
+  port: 25706
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  type: vmess
+  uuid: 2b0c5996-216f-4933-9aed-92458ff4988f
+  ws-opts:
+    headers:
+      Host: kr.yydsii.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 🇻🇳 越南【付费推荐：https://jdyvip.link/】50_9@21
+  network: ws
+  port: 80
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5278f5d3-f001-4459-94b6-7e0915238998
+  ws-opts:
+    headers:
+      Host: bs2.loadingip.com
+    path: /bs
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸 美国【付费推荐：https://jdyvip.link/】127_9@32
+  network: ws
+  port: 8080
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 2dbeeb76-a71f-493f-bd92-33f0193291c5
+  ws-opts:
+    headers:
+      Host: kryx.651568.xyz
+    path: /

@@ -1,0 +1,1707 @@
+proxies:
+- name: LATEST-UPDATE📅TUE-19-DEY-1402🕑15:34 | 112.87MB
+  server: zendesk1.shopee.tw
+  port: 1080
+  type: trojan
+  password: bcaaabc-caba-abac-abcd-baabaacbcccb
+  skip-cert-verify: false
+- name: 🇺🇸TR-TCP-TLS🇺🇸US-3.12.173.235:22222📡PING-053.24-MS | 99.27MB
+  server: zendesk1.shopee.tw
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trj.rollingnext.co.uk
+  skip-cert-verify: false
+- name: 🇺🇸TR-TCP-TLS🇺🇸US-23.82.12.36:443📡PING-057.39-MS | 80.943MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: sharecentre
+  sni: sgp.sharecentre.xyz
+  skip-cert-verify: false
+- name: 🇺🇸TR-TCP-TLS🇺🇸US-138.197.5.103:443📡PING-063.17-MS | 80.858MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: xxoo
+  sni: us.blazeppn.info
+  skip-cert-verify: false
+- name: 🇺🇸TR-TCP-NA🇺🇸US-165.227.221.123:443📡PING-063.18-MS | 74.604MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: 6c609341-9919-417c-b4c4-b8dc84057072
+  skip-cert-verify: false
+- name: 🇺🇸TR-TCP-NA🇺🇸US-132.145.208.20:443📡PING-063.99-MS | 73.282MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: 9Mdw86d7Cz
+  sni: no.09.ijg.cc
+  skip-cert-verify: false
+- name: 🇺🇸TR-TCP-NA🇺🇸US-15.204.240.119:443📡PING-066.90-MS | 71.516MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: f9b7e3d0-ac52-11ee-b951-1239d0255272
+  skip-cert-verify: false
+- name: 🇨🇦TR-TCP-NA🇨🇦CA-172.105.9.186:443📡PING-071.15-MS | 43.645MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: 543c1af9-17c3-4d3c-b1d9-eb0f035e95c7
+  skip-cert-verify: false
+- name: 🇨🇦TR-TCP-NA🇨🇦CA-204.216.110.155:40003📡PING-085.84-MS | 43.49MB
+  server: zendesk1.shopee.tw
+  port: 40003
+  type: trojan
+  password: 57edfecf-5694-4a34-8072-54a4f0636a62
+  sni: frontend.kuangbiaoyun.com
+  skip-cert-verify: false
+- name: 🇨🇦TR-TCP-TLS🇨🇦CA-204.216.110.155:40007📡PING-085.95-MS | 43.457MB
+  server: zendesk1.shopee.tw
+  port: 40007
+  type: trojan
+  password: 57edfecf-5694-4a34-8072-54a4f0636a62
+  sni: frontend.kuangbiaoyun.com
+  skip-cert-verify: false
+- name: TR-TCP-NA🇻🇳VN-103.14.224.189:443📡PING-202.20-MS | 9.23MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: 7a2c5296-683d-48db-9856-373cafac48b5
+  sni: dl.kgvn.garenanow.com
+  skip-cert-verify: false
+- name: TR-TCP-NA🇻🇳VN-103.173.255.21:443📡PING-211.25-MS | 9.21MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: 29ea82cf-f956-42b2-a5dc-35feea39e7ff
+  sni: glc-vn.windowsupdatea.com
+  skip-cert-verify: false
+- name: TR-TCP-NA🇻🇳VN-103.166.185.11:443📡PING-213.38-MS | 8.785MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: mothai3456789080898
+  sni: dl.kgvn.garenanow.com
+  skip-cert-verify: false
+- name: TR-TCP-TLS🇻🇳VN-103.197.184.41:443📡PING-218.83-MS | 8.199MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: b379fd8e-75c6-4bd6-8a5b-88f3e64bb3fa
+  sni: dl.kgvn.garenanow.com
+  skip-cert-verify: false
+- name: TR-TCP-TLS🇻🇳VN-103.154.63.16:443📡PING-222.25-MS | 7.405MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: cb85c4a1-5ad3-4194-a919-2bbb5b987564
+  sni: dl.kgvn.garenanow.com
+  skip-cert-verify: false
+- name: 🇷🇺TR-TCP-TLS🇷🇺RU-91.206.92.17:443📡PING-223.17-MS | 7.166MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: 1d0a80ca-0f96-4016-ac51-c284dedd28a1
+  sni: insaneguo2333.top
+  skip-cert-verify: false
+- name: TR-TCP-TLS🇦🇪AE-3.29.95.54:443📡PING-259.45-MS | 7.152MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: your_password
+  sni: aws-uae-1.f1rocketnode.com
+  skip-cert-verify: false
+- name: TR-GRPC-REALITY🇮🇷IR-213.176.1.122:34970📡PING-268.39-MS | 7.142MB
+  server: zendesk1.shopee.tw
+  port: 34970
+  type: trojan
+  password: HyZOgWDnXj
+  sni: soft98.ir
+  skip-cert-verify: false
+- name: TR-TCP-NA🇰🇿KZ-94.131.2.150:443📡PING-276.32-MS | 7.095MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: c1457367-7309-40ca-a3eb-4537f0a8c0a9
+  skip-cert-verify: false
+- name: TR-TCP-TLS🇿🇦ZA-13.244.104.87:443📡PING-277.48-MS | 6.709MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: your_password
+  sni: aws-za-capetown-1.f1rocketnode.com
+  skip-cert-verify: false
+- name: 🇨🇦TR-TCP-TLS🇨🇦CA-204.216.110.155:40005📡PING-087.62-MS | 42.437MB
+  server: zendesk1.shopee.tw
+  port: 40005
+  type: trojan
+  password: 57edfecf-5694-4a34-8072-54a4f0636a62
+  sni: frontend.kuangbiaoyun.com
+  skip-cert-verify: false
+- name: 🇺🇸TR-TCP-TLS🇺🇸US-206.168.190.219:8443📡PING-043.03-MS | 6.469MB
+  server: zendesk1.shopee.tw
+  port: 8443
+  type: trojan
+  password: 1d4ddd40-3134-11ee-8623-1239d0255272
+  sni: ba24.ir
+  skip-cert-verify: false
+- name: 🇺🇸TR-TCP-NA🇺🇸US-45.33.13.239:443📡PING-040.00-MS | 5.833MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: 58e0f26f-67c7-4d13-a90f-d31679097bc6
+  skip-cert-verify: false
+- name: 🇺🇸TR-TCP-NA🇺🇸US-45.79.22.201:443📡PING-038.76-MS | 5.832MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: 07e52cb1-7ab7-479f-819a-e3df91510cb5
+  skip-cert-verify: false
+- name: 🇺🇸TR-GRPC-TLS🇺🇸US-162.251.82.187:2096📡PING-033.25-MS | 5.581MB
+  server: zendesk1.shopee.tw
+  port: 2096
+  type: trojan
+  password: 46d778a6-7461-4665-a0b5-e0d4a2e5cbc8
+  sni: rigatel.filmseri.sbs
+  skip-cert-verify: false
+- name: 🇺🇸TR-TCP-TLS🇺🇸US-44.228.224.252:22222📡PING-032.98-MS | 4.857MB
+  server: zendesk1.shopee.tw
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trj.rollingnext.co.uk
+  skip-cert-verify: false
+- name: 🇺🇸TR-TCP-TLS🇺🇸US-141.193.68.81:443📡PING-022.60-MS | 4.705MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: 29ea82cf-f956-42b2-a5dc-35feea39e7ff
+  sni: glc-us3.windowsupdatea.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.19.154.92:2083📡PING-019.99-MS | 4.697MB
+  server: zendesk1.shopee.tw
+  port: 2083
+  type: trojan
+  password: qweqweqweqeasdasd
+  sni: marz.afdiran.org
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.16.183.101:443📡PING-019.62-MS | 4.539MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: f68b1ea9-3c4e-405a-98b1-35ee3db36000
+  sni: tws23.kallepache.store
+  skip-cert-verify: false
+- name: 🇺🇸TR-TCP-NA🇺🇸US-78.111.104.138:19235📡PING-018.46-MS | 4.151MB
+  server: zendesk1.shopee.tw
+  port: 19235
+  type: trojan
+  password: af84eec7-8324-30b9-89b8-a8a7e4fb5d3a
+  sni: eplcgame.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.18.114.93:2053📡PING-016.65-MS | 4.114MB
+  server: zendesk1.shopee.tw
+  port: 2053
+  type: trojan
+  password: T-Me-DarkVPNpro
+  sni: mrarsha7totemsmugglers.sprotarsha.top
+  skip-cert-verify: false
+- name: 🇯🇵TR-TCP-NA🇯🇵JP-52.140.200.217:443📡PING-106.91-MS | 40.792MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: 93ec7261-1c92-4149-848a-26b6fb9fc4ce
+  sni: hk03.trojanyyds.xyz
+  skip-cert-verify: false
+- name: 🇺🇸TR-TCP-TLS🇺🇸US-146.190.154.33:47012📡PING-016.57-MS | 4.066MB
+  server: zendesk1.shopee.tw
+  port: 47012
+  type: trojan
+  password: eMKwugaRis
+  sni: android.googleapis.com
+  skip-cert-verify: false
+- name: 🇺🇸TR-TCP-NA🇺🇸US-147.182.207.176:443📡PING-016.57-MS | 4.038MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: 6ca647f5-91c2-4bf6-b444-762f171ad696
+  sni: 13-231-155-134.nhost.00cdn.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.16.125.175:2083📡PING-016.47-MS | 4.008MB
+  server: zendesk1.shopee.tw
+  port: 2083
+  type: trojan
+  password: qG9K8AGnn9XH5jUqeFu96g
+  sni: cdn13.cdn2cdn.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.19.155.92:2083📡PING-016.34-MS | 3.815MB
+  server: zendesk1.shopee.tw
+  port: 2083
+  type: trojan
+  password: qweqweqweqeasdasd
+  sni: marz.afdiran.org
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.18.115.131:443📡PING-016.28-MS | 3.654MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: T-Me-DarkVPNpro
+  sni: thepr0misedlandkadaksingh.sonicstar.buzz
+  skip-cert-verify: false
+- name: TR-GRPC-TLS🏴‍☠️NA-104.16.126.175:443📡PING-016.26-MS | 3.531MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: hLZuO1aWEe
+  sni: 7016218797.ganjhozor.shop
+  skip-cert-verify: false
+- name: TR-GRPC-TLS🏴‍☠️NA-104.16.122.175:443📡PING-016.25-MS | 3.368MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: HhnIbLmRXJ
+  sni: 2600627423.cdngame.shop
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.16.32.142:443📡PING-016.25-MS | 3.214MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: f68b1ea9-3c4e-405a-98b1-35ee3db36000
+  sni: tws23.kallepache.store
+  skip-cert-verify: false
+- name: TR-GRPC-TLS🏴‍☠️NA-104.18.213.21:2096📡PING-016.22-MS | 3.106MB
+  server: zendesk1.shopee.tw
+  port: 2096
+  type: trojan
+  password: DUvWfvC7xH
+  sni: my.gjgjhjvjjjjgjbvxhkinkhgijmvy02.cfd
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.18.65.43:2053📡PING-016.21-MS | 3.026MB
+  server: zendesk1.shopee.tw
+  port: 2053
+  type: trojan
+  password: 3T-Me-DarkVPNpro
+  sni: mrarsha6sapthasagaradaacheell0side.sprotarsha.top
+  skip-cert-verify: false
+- name: 🇯🇵TR-TCP-TLS🇯🇵JP-18.176.134.145:36116📡PING-107.69-MS | 39.851MB
+  server: zendesk1.shopee.tw
+  port: 36116
+  type: trojan
+  password: 1ded3da1-9003-44d5-a575-b8477c26dd38
+  sni: jp01.abpilot.xyz
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.18.192.65:2053📡PING-016.19-MS | 2.987MB
+  server: zendesk1.shopee.tw
+  port: 2053
+  type: trojan
+  password: oQ7wjcnDxa
+  sni: mrarsha7totemsmugglers.sprotarsha.top
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.19.220.47:2083📡PING-016.17-MS | 2.792MB
+  server: zendesk1.shopee.tw
+  port: 2083
+  type: trojan
+  password: 780ie4oTbc
+  sni: Bsgs63g5dvGs6s6bwh-Gsysg62vHsys3jsh-Gsgs5Sgw5v3Sgs7gsa.danesh-bonyan.Store
+  skip-cert-verify: false
+- name: TR-GRPC-TLS🏴‍☠️NA-104.16.125.175:443📡PING-016.15-MS | 2.77MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: UbUkiVMg9a
+  sni: 9649284771.ganjhozor.shop
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.16.123.175:2083📡PING-016.14-MS | 2.745MB
+  server: zendesk1.shopee.tw
+  port: 2083
+  type: trojan
+  password: qG9K8AGnn9XH5jUqeFu96g
+  sni: cdn13.cdn2cdn.com
+  skip-cert-verify: false
+- name: TR-GRPC-TLS🏴‍☠️NA-104.16.124.175:443📡PING-016.08-MS | 2.472MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: hLZuO1aWEe
+  sni: 7016218797.ganjhozor.shop
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.16.122.175:2083📡PING-016.05-MS | 2.308MB
+  server: zendesk1.shopee.tw
+  port: 2083
+  type: trojan
+  password: qG9K8AGnn9XH5jUqeFu96g
+  sni: cdn13.cdn2cdn.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.16.126.175:2083📡PING-016.04-MS | 2.272MB
+  server: zendesk1.shopee.tw
+  port: 2083
+  type: trojan
+  password: qG9K8AGnn9XH5jUqeFu96g
+  sni: cdn13.cdn2cdn.com
+  skip-cert-verify: false
+- name: 🇺🇸TR-TCP-NA🇺🇸US-173.255.240.201:443📡PING-016.01-MS | 2.231MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: 7e23957d-535a-4dc6-9482-e6f44518da87
+  sni: 13-231-155-134.nhost.00cdn.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.19.255.38:2053📡PING-016.00-MS | 2.206MB
+  server: zendesk1.shopee.tw
+  port: 2053
+  type: trojan
+  password: T-Me-DarkVPNpro
+  sni: mrarsha7totemsmugglers.sprotarsha.top
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.16.124.175:2083📡PING-015.99-MS | 2.092MB
+  server: zendesk1.shopee.tw
+  port: 2083
+  type: trojan
+  password: qG9K8AGnn9XH5jUqeFu96g
+  sni: cdn13.cdn2cdn.com
+  skip-cert-verify: false
+- name: 🇯🇵TR-TCP-TLS🇯🇵JP-35.77.80.66:567📡PING-110.50-MS | 39.35MB
+  server: zendesk1.shopee.tw
+  port: 567
+  type: trojan
+  password: 2d8a021a-0ba2-4a3c-bbd1-f63b743c2920
+  sni: a4.zgc.su
+  skip-cert-verify: false
+- name: TR-GRPC-TLS🏴‍☠️NA-104.16.123.175:443📡PING-015.95-MS | 1.886MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: hLZuO1aWEe
+  sni: 7016218797.ganjhozor.shop
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.18.220.93:2053📡PING-015.87-MS | 1.776MB
+  server: zendesk1.shopee.tw
+  port: 2053
+  type: trojan
+  password: T-Me-DarkVPNpro
+  sni: mrarsha7totemsmugglers.sprotarsha.top
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.18.145.235:2053📡PING-015.86-MS | 1.754MB
+  server: zendesk1.shopee.tw
+  port: 2053
+  type: trojan
+  password: 3T-Me-DarkVPNpro
+  sni: mrarsha6sapthasagaradaacheell0side.sprotarsha.top
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.18.203.99:2053📡PING-015.73-MS | 1.691MB
+  server: zendesk1.shopee.tw
+  port: 2053
+  type: trojan
+  password: T-Me-DarkVPNpro
+  sni: mrarsha7totemsmugglers.sprotarsha.top
+  skip-cert-verify: false
+- name: 🇺🇸TR-WS-TLS🇺🇸US-172.67.131.245:443📡PING-010.77-MS | 1.385MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: 0b65bb06-6b28-487a-8e3c-820dda51e977
+  sni: series-v1.samanehha.co
+  skip-cert-verify: false
+- name: 🇦🇺TR-TCP-TLS🇦🇺AU-103.224.212.212:443📡PING-010.75-MS | 1.284MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: 9KogHwaY7hVD
+  sni: eu-east-ruo.openssl3.com
+  skip-cert-verify: false
+- name: 🇺🇸TR-GRPC-TLS🇺🇸US-172.67.204.84:443📡PING-010.60-MS | 1.277MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: Nu5EqwcJ2OCuvKAcSQeGdg
+  sni: cdn-22.gsmxreality.com
+  skip-cert-verify: false
+- name: 🇺🇸TR-WS-TLS🇺🇸US-172.67.180.35:443📡PING-009.87-MS | 1.229MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: Libertas
+  sni: ironone.libertasiran.cloud
+  skip-cert-verify: false
+- name: TR-GRPC-TLS🏴‍☠️NA-162.159.128.233:443📡PING-009.15-MS | 1.173MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: x6BpmoLkOZ
+  sni: 6605733587.yadakii.store
+  skip-cert-verify: false
+- name: 🇺🇸TR-WS-TLS🇺🇸US-172.67.173.143:8443📡PING-009.12-MS | 1.132MB
+  server: zendesk1.shopee.tw
+  port: 8443
+  type: trojan
+  password: WbsgeocgpO
+  sni: AkakAlLams.moOkomeIlz.homeS
+  skip-cert-verify: false
+- name: 🇯🇵TR-TCP-TLS🇯🇵JP-18.176.134.145:36501📡PING-112.52-MS | 37.116MB
+  server: zendesk1.shopee.tw
+  port: 36501
+  type: trojan
+  password: 1ded3da1-9003-44d5-a575-b8477c26dd38
+  sni: us01.abpilot.xyz
+  skip-cert-verify: false
+- name: 🇨🇳TR-WS-TLS🇨🇳CN-103.184.44.78:2053📡PING-009.07-MS | 1.104MB
+  server: zendesk1.shopee.tw
+  port: 2053
+  type: trojan
+  password: Q0Jqz6dchw
+  sni: vilnius.vpns.fun
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.21.16.153:2096📡PING-008.95-MS | 1.104MB
+  server: zendesk1.shopee.tw
+  port: 2096
+  type: trojan
+  password: ffk6awd3VX
+  sni: De.Melov2ray.Shop
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.23.114.114:443📡PING-008.87-MS | 1.104MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: T-Me-DarkVPNpro
+  sni: thepr0misedlandkadaksingh.sonicstar.buzz
+  skip-cert-verify: false
+- name: 🇺🇸TR-WS-NA🇺🇸US-172.67.159.13:443📡PING-008.82-MS | 1.103MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: 09518de0-ab7c-11ee-a089-1239d0255272
+  sni: uk1.test3.net
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.21.16.153:443📡PING-008.80-MS | 1.1MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: RCtLHyqq9W
+  sni: De.Melov2ray.Shop
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.27.2.123:443📡PING-008.78-MS | 1.099MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: T-Me-DarkVPNpro
+  sni: thepr0misedlandkadaksingh.sonicstar.buzz
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.21.69.44:2087📡PING-008.75-MS | 1.097MB
+  server: zendesk1.shopee.tw
+  port: 2087
+  type: trojan
+  password: 6t3TUKrRLp
+  sni: top.jd-vpn.shop
+  skip-cert-verify: false
+- name: 🇺🇸TR-WS-TLS🇺🇸US-172.67.213.169:8443📡PING-008.73-MS | 1.096MB
+  server: zendesk1.shopee.tw
+  port: 8443
+  type: trojan
+  password: rYMVp4jHMT
+  sni: De.Melov2ray.Shop
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.31.16.216:443📡PING-008.72-MS | 1.095MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: f68b1ea9-3c4e-405a-98b1-35ee3db36000
+  sni: tws23.kallepache.store
+  skip-cert-verify: false
+- name: 🇺🇸TR-TCP-TLS🇺🇸US-172.67.148.79:2053📡PING-008.64-MS | 1.095MB
+  server: zendesk1.shopee.tw
+  port: 2053
+  type: trojan
+  password: 728dc354-4704-4d08-805f-d14c5839da27
+  sni: jp4.666676.xyz
+  skip-cert-verify: false
+- name: 🇬🇧TR-TCP-NA🇬🇧GB-139.162.205.63:443📡PING-131.57-MS | 36.319MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: 0958063a-92e4-4dc8-b5f0-77ff747733d4
+  skip-cert-verify: false
+- name: 🇺🇸TR-WS-TLS🇺🇸US-172.67.213.169:2096📡PING-008.62-MS | 1.095MB
+  server: zendesk1.shopee.tw
+  port: 2096
+  type: trojan
+  password: ffk6awd3VX
+  sni: De.Melov2ray.Shop
+  skip-cert-verify: false
+- name: 🇺🇸TR-GRPC-TLS🇺🇸US-172.67.136.239:2096📡PING-008.56-MS | 1.095MB
+  server: zendesk1.shopee.tw
+  port: 2096
+  type: trojan
+  password: D2GD5v4pYP
+  sni: zanbor1.v2raynngg.top
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.24.188.53:443📡PING-008.52-MS | 1.095MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: T-Me-DarkVPNpro
+  sni: thepr0misedlandkadaksingh.sonicstar.buzz
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.21.67.195:443📡PING-008.50-MS | 1.095MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: Libertasone*
+  sni: ironone.libertasiran.cloud
+  skip-cert-verify: false
+- name: 🇺🇸TR-WS-TLS🇺🇸US-172.67.193.36:443📡PING-008.50-MS | 1.095MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: t-me-DarkVPNpro
+  sni: kaathal-thecorelastresort.sonicstar.buzz
+  skip-cert-verify: false
+- name: TR-WS-NA🏴‍☠️NA-104.21.41.21:443📡PING-008.49-MS | 1.095MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: f9b7e3d0-ac52-11ee-b951-1239d0255272
+  sni: us1.test3.net
+  skip-cert-verify: false
+- name: TR-WS-NONE🏴‍☠️NA-104.21.32.9:2095📡PING-008.48-MS | 1.094MB
+  server: zendesk1.shopee.tw
+  port: 2095
+  type: trojan
+  password: jc5FpF7qfm
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.21.3.146:2053📡PING-008.48-MS | 1.094MB
+  server: zendesk1.shopee.tw
+  port: 2053
+  type: trojan
+  password: Xwt7Ie1gqB
+  sni: gr.tucn-serves.info
+  skip-cert-verify: false
+- name: 🇺🇸TR-WS-TLS🇺🇸US-172.67.8.101:2053📡PING-008.47-MS | 1.094MB
+  server: zendesk1.shopee.tw
+  port: 2053
+  type: trojan
+  password: 2T-Me-DarkVPNpro
+  sni: mrarsha6sapthasagaradaacheell0side.sprotarsha.top
+  skip-cert-verify: false
+- name: TR-TCP-TLS🏴‍☠️NA-104.21.73.195:443📡PING-008.45-MS | 1.094MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: your_password
+  sni: aws-aus-sydney-1.f1cflinea.com
+  skip-cert-verify: false
+- name: 🇫🇷TR-TCP-TLS🇫🇷FR-51.159.59.186:443📡PING-131.71-MS | 34.717MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: e30dbfd0-f15a-11ed-9080-1239d0255272
+  sni: fr.test3.net
+  skip-cert-verify: false
+- name: 🇺🇸TR-WS-NA🇺🇸US-167.68.5.183:443📡PING-008.45-MS | 1.094MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: 097f6b5f-bcf9-4a24-9f0d-d1feaa638d86
+  sni: 6us3.pqjc.buzz
+  skip-cert-verify: false
+- name: TR-GRPC-TLS🏴‍☠️NA-162.159.138.232:443📡PING-008.44-MS | 1.094MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: x6BpmoLkOZ
+  sni: 6605733587.yadakii.store
+  skip-cert-verify: false
+- name: 🇺🇸TR-GRPC-TLS🇺🇸US-173.245.58.34:2096📡PING-008.44-MS | 1.093MB
+  server: zendesk1.shopee.tw
+  port: 2096
+  type: trojan
+  password: DUvWfvC7xH
+  sni: my1.gjgjhjvjjjjgjbvxhkinkhgijmvy02.cfd
+  skip-cert-verify: false
+- name: TR-GRPC-TLS🏴‍☠️NA-104.21.81.230:2083📡PING-008.44-MS | 1.093MB
+  server: zendesk1.shopee.tw
+  port: 2083
+  type: trojan
+  password: BWDcALS5TU
+  sni: lllliraniv2rayllll.norooz.shop
+  skip-cert-verify: false
+- name: 🇺🇸TR-GRPC-TLS🇺🇸US-172.67.165.194:2083📡PING-008.44-MS | 1.093MB
+  server: zendesk1.shopee.tw
+  port: 2083
+  type: trojan
+  password: BWDcALS5TU
+  sni: lllliraniv2rayllll.norooz.shop
+  skip-cert-verify: false
+- name: TR-GRPC-TLS🏴‍☠️NA-104.25.254.75:2096📡PING-008.43-MS | 1.093MB
+  server: zendesk1.shopee.tw
+  port: 2096
+  type: trojan
+  password: 46d778a6-7461-4665-a0b5-e0d4a2e5cbc8
+  sni: hamrah.filmseri.sbs
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.24.144.216:2053📡PING-008.43-MS | 1.093MB
+  server: zendesk1.shopee.tw
+  port: 2053
+  type: trojan
+  password: 3T-Me-DarkVPNpro
+  sni: mrarsha6sapthasagaradaacheell0side.sprotarsha.top
+  skip-cert-verify: false
+- name: 🇺🇸TR-WS-TLS🇺🇸US-172.67.202.213:2053📡PING-008.43-MS | 1.092MB
+  server: zendesk1.shopee.tw
+  port: 2053
+  type: trojan
+  password: 2T-Me-DarkVPNpro
+  sni: mrarsha6sapthasagaradaacheell0side.sprotarsha.top
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.21.16.153:2083📡PING-008.43-MS | 1.092MB
+  server: zendesk1.shopee.tw
+  port: 2083
+  type: trojan
+  password: fWUFlpXHsW
+  sni: De.Melov2ray.Shop
+  skip-cert-verify: false
+- name: 🇳🇱TR-GRPC-TLS🇳🇱NL-188.114.98.0:443📡PING-008.42-MS | 1.092MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: 01596265-168b-46a7-bcb7-25662c7a9546
+  sni: hdfy7c1.foriran2.eu.org
+  skip-cert-verify: false
+- name: 🇬🇧TR-TCP-NA🇬🇧GB-178.79.188.106:443📡PING-136.43-MS | 34.655MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: 237943bc-157d-46cf-85c3-dc1a70cfc0f6
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.21.56.219:8443📡PING-008.42-MS | 1.092MB
+  server: zendesk1.shopee.tw
+  port: 8443
+  type: trojan
+  password: lLGTjjwcrF
+  sni: zanbor3.v2raynngg.top
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.18.20.239:2053📡PING-008.42-MS | 1.092MB
+  server: zendesk1.shopee.tw
+  port: 2053
+  type: trojan
+  password: 2T-Me-DarkVPNpro
+  sni: mrarsha6sapthasagaradaacheell0side.sprotarsha.top
+  skip-cert-verify: false
+- name: TR-GRPC-TLS🏴‍☠️NA-104.25.255.254:443📡PING-008.42-MS | 1.092MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: a6292090-afe1-4640-97a7-4f1d1d877cf1
+  sni: hdfy8c1.foriran.me
+  skip-cert-verify: false
+- name: TR-GRPC-TLS🏴‍☠️NA-162.159.137.232:443📡PING-008.41-MS | 1.091MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: x6BpmoLkOZ
+  sni: 6605733587.yadakii.store
+  skip-cert-verify: false
+- name: 🇺🇸TR-WS-TLS🇺🇸US-172.67.204.135:443📡PING-008.41-MS | 1.091MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: 1pHZuP3bA8
+  sni: api.samsungnewblogs.tech
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.22.64.179:2053📡PING-008.41-MS | 1.091MB
+  server: zendesk1.shopee.tw
+  port: 2053
+  type: trojan
+  password: 2T-Me-DarkVPNpro
+  sni: mrarsha6sapthasagaradaacheell0side.sprotarsha.top
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.21.16.153:8443📡PING-008.40-MS | 1.09MB
+  server: zendesk1.shopee.tw
+  port: 8443
+  type: trojan
+  password: rYMVp4jHMT
+  sni: De.Melov2ray.Shop
+  skip-cert-verify: false
+- name: 🇺🇸TR-WS-TLS🇺🇸US-172.67.213.169:443📡PING-008.40-MS | 1.09MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: RCtLHyqq9W
+  sni: De.Melov2ray.Shop
+  skip-cert-verify: false
+- name: TR-WS-NONE🏴‍☠️NA-104.21.56.144:80📡PING-008.40-MS | 1.09MB
+  server: zendesk1.shopee.tw
+  port: 80
+  type: trojan
+  password: EcpUdX16OV
+  skip-cert-verify: false
+- name: 🇺🇸TR-GRPC-TLS🇺🇸US-172.66.47.74:2096📡PING-008.40-MS | 1.09MB
+  server: zendesk1.shopee.tw
+  port: 2096
+  type: trojan
+  password: 46d778a6-7461-4665-a0b5-e0d4a2e5cbc8
+  sni: mokhaberat.filmseri.sbs
+  skip-cert-verify: false
+- name: 🇳🇱TR-TCP-NA🇳🇱NL-172.233.38.90:443📡PING-137.17-MS | 34.634MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: 7d6057b0-f54a-4577-823b-30c2a9660b39
+  skip-cert-verify: false
+- name: TR-TCP-TLS🏴‍☠️NA-104.21.32.17:443📡PING-008.39-MS | 1.09MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: jagoanssh-Aweqdcc
+  sni: to.ruangguru.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.21.69.44:2083📡PING-008.39-MS | 1.089MB
+  server: zendesk1.shopee.tw
+  port: 2083
+  type: trojan
+  password: -DSSaJivz_AkFuParhe4pg
+  sni: fr.19kalA.cO
+  skip-cert-verify: false
+- name: TR-GRPC-TLS🏴‍☠️NA-162.159.136.232:443📡PING-008.39-MS | 1.088MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: x6BpmoLkOZ
+  sni: 6605733587.yadakii.store
+  skip-cert-verify: false
+- name: 🇺🇸TR-WS-TLS🇺🇸US-172.67.194.57:443📡PING-008.39-MS | 1.088MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: c533cb40-a038-11ee-9537-1239d0255272
+  sni: us1.test3.net
+  skip-cert-verify: false
+- name: 🇺🇸TR-WS-TLS🇺🇸US-172.67.190.164:2053📡PING-008.39-MS | 1.088MB
+  server: zendesk1.shopee.tw
+  port: 2053
+  type: trojan
+  password: 2T-Me-DarkVPNpro
+  sni: mrarsha6sapthasagaradaacheell0side.sprotarsha.top
+  skip-cert-verify: false
+- name: TR-TCP-TLS🏴‍☠️NA-104.21.12.87:443📡PING-008.39-MS | 1.088MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: 0b65bb06-6b28-487a-8e3c-820dda51e977
+  sni: series-v1.samanehha.co
+  skip-cert-verify: false
+- name: 🇺🇸TR-TCP-TLS🇺🇸US-172.67.165.204:443📡PING-008.39-MS | 1.088MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: your_password
+  sni: aws-aus-sydney-1.f1cflinea.com
+  skip-cert-verify: false
+- name: 🇺🇸TR-GRPC-TLS🇺🇸US-159.246.55.31:2096📡PING-008.39-MS | 1.088MB
+  server: zendesk1.shopee.tw
+  port: 2096
+  type: trojan
+  password: 46d778a6-7461-4665-a0b5-e0d4a2e5cbc8
+  sni: irancel.filmseri.sbs
+  skip-cert-verify: false
+- name: TR-WS-NONE🏴‍☠️NA-104.21.20.148:2086📡PING-008.39-MS | 1.088MB
+  server: zendesk1.shopee.tw
+  port: 2086
+  type: trojan
+  password: FreeV2Alpha
+  skip-cert-verify: false
+- name: 🇺🇸TR-TCP-TLS🇺🇸US-172.67.188.24:443📡PING-008.39-MS | 1.088MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: your_password
+  sni: aws-es-madrid-1.f1cflineb.com
+  skip-cert-verify: false
+- name: 🇳🇱TR-TCP-TLS🇳🇱NL-37.48.65.144:443📡PING-137.27-MS | 33.824MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: 0cb2cd1f-870b-485c-914a-60aba39eed39
+  sni: tt6.tjvpn.top
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.27.7.128:2053📡PING-008.39-MS | 1.088MB
+  server: zendesk1.shopee.tw
+  port: 2053
+  type: trojan
+  password: oQ7wjcnDxa
+  sni: mrarsha7totemsmugglers.sprotarsha.top
+  skip-cert-verify: false
+- name: 🇺🇸TR-WS-TLS🇺🇸US-172.67.204.84:2083📡PING-008.39-MS | 1.088MB
+  server: zendesk1.shopee.tw
+  port: 2083
+  type: trojan
+  password: -DSSaJivz_AkFuParhe4pg
+  sni: fr.19kalA.cO
+  skip-cert-verify: false
+- name: 🇳🇱TR-TCP-NA🇳🇱NL-195.123.218.157:443📡PING-138.22-MS | 32.614MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: 8be6e2ad-a580-4ddd-9051-aaab4a2473c1
+  skip-cert-verify: false
+- name: 🇬🇧TR-TCP-TLS🇬🇧GB-35.176.229.161:22222📡PING-138.68-MS | 32.445MB
+  server: zendesk1.shopee.tw
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trj.rollingnext.co.uk
+  skip-cert-verify: false
+- name: 🇬🇧TR-TCP-TLS🇬🇧GB-52.56.188.32:22222📡PING-138.76-MS | 32.314MB
+  server: zendesk1.shopee.tw
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trj.rollingnext.co.uk
+  skip-cert-verify: false
+- name: 🇬🇧TR-TCP-TLS🇬🇧GB-13.43.130.131:22222📡PING-138.84-MS | 32.237MB
+  server: zendesk1.shopee.tw
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trj.rollingnext.co.uk
+  skip-cert-verify: false
+- name: 🇳🇱TR-GRPC-TLS🇳🇱NL-95.179.128.114:443📡PING-138.90-MS | 32.206MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: a6292090-afe1-4640-97a7-4f1d1d877cf1
+  sni: hdfy8d1.cpi1.eu.org
+  skip-cert-verify: false
+- name: 美国 035
+  network: ws
+  password: d2698cf9-c47e-455c-8384-12e642cbba15
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: false
+  sni: 6us3.pqjc.buzz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 6us3.pqjc.buzz
+    path: /pq/us3
+- name: 美国 036
+  network: ws
+  password: d2698cf9-c47e-455c-8384-12e642cbba15
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: false
+  sni: p6us4.pqjc.buzz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: p6us4.pqjc.buzz
+    path: /pq/us4
+- name: 🇳🇱TR-TCP-NA🇳🇱NL-167.71.79.61:443📡PING-138.98-MS | 31.716MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: b9f3ff1a-9c85-48e1-9809-7a6431c4329f
+  skip-cert-verify: false
+- name: TR-TCP-NA🇹🇷TR-194.116.191.73:443📡PING-139.42-MS | 31.153MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: 1c0ca759-66c5-4dc7-81e9-eee7bbcafae7
+  skip-cert-verify: false
+- name: 🇩🇪TR-TCP-NA🇩🇪DE-213.202.216.14:443📡PING-139.95-MS | 31.131MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: 3f23c1eb-ace4-49ec-a7f0-f591b006b95a
+  sni: downloadde.xn--mes358acgm99l.com
+  skip-cert-verify: false
+- name: 🇫🇷TR-TCP-TLS🇫🇷FR-13.37.187.183:22222📡PING-141.23-MS | 31.027MB
+  server: zendesk1.shopee.tw
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trj.rollingnext.co.uk
+  skip-cert-verify: false
+- name: 🇩🇪TR-TCP-NA🇩🇪DE-5.104.107.143:443📡PING-141.46-MS | 30.99MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: 48cacdca-a254-4da9-b1b6-44ea262c5a72
+  sni: de1.xn--mes358a9urctx.com
+  skip-cert-verify: false
+- name: 🇫🇷TR-TCP-TLS🇫🇷FR-15.236.64.14:443📡PING-141.62-MS | 30.93MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: your_password
+  sni: aws-fr-paris-1.f1rocketnode.com
+  skip-cert-verify: false
+- name: 🇳🇱TR-TCP-TLS🇳🇱NL-51.158.146.183:443📡PING-141.78-MS | 30.718MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: f6a0a650-306e-11ee-b692-1239d0255272
+  sni: Speedtest.net
+  skip-cert-verify: false
+- name: 加拿大 249
+  network: ws
+  password: e1be7c0c-69da-4699-a105-64e949da366c
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: p1jp1.pqjc.buzz
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: p1jp1.pqjc.buzz
+    path: '%2Fpq%2Fjp1'
+- name: 美国 050
+  network: ws
+  password: e1be7c0c-69da-4699-a105-64e949da366c
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: 2jp2.pqjc.buzz
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: 2jp2.pqjc.buzz
+    path: '%2Fpq%2Fjp2'
+- name: 美国 051
+  network: ws
+  password: e1be7c0c-69da-4699-a105-64e949da366c
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: 2jp3.pqjc.buzz
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: 2jp3.pqjc.buzz
+    path: '%2Fpq%2Fjp3'
+- name: 美国 052
+  network: ws
+  password: e1be7c0c-69da-4699-a105-64e949da366c
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: 2jp4.pqjc.buzz
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: 2jp4.pqjc.buzz
+    path: '%2Fpq%2Fjp4'
+- name: 俄罗斯 003
+  network: ws
+  password: e1be7c0c-69da-4699-a105-64e949da366c
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: 3jp5.pqjc.buzz
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: 3jp5.pqjc.buzz
+    path: '%2Fpq%2Fjp5'
+- name: 🇫🇷TR-TCP-NA🇫🇷FR-172.232.56.94:443📡PING-141.93-MS | 30.712MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: e2d63b63-8929-4557-b7aa-8b460e1c9ab5
+  skip-cert-verify: false
+- name: 🇩🇪TR-TCP-NA🇩🇪DE-172.104.157.236:443📡PING-142.31-MS | 30.694MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: 0515f391-29d3-4561-8d53-154d51094ff9
+  skip-cert-verify: false
+- name: 🇩🇪TR-TCP-NA🇩🇪DE-139.59.130.9:443📡PING-142.60-MS | 30.597MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: b4b043c0-1eed-4018-a018-a4919efeba24
+  skip-cert-verify: false
+- name: 🇬🇧TR-TCP-TLS🇬🇧GB-51.38.71.175:80📡PING-142.61-MS | 30.51MB
+  server: zendesk1.shopee.tw
+  port: 80
+  type: trojan
+  password: b640d791-ff83-4300-b509-c2a02f97f167
+  sni: uk1.trojanvh.xyz
+  skip-cert-verify: false
+- name: 美国 055
+  network: ws
+  password: 097f6b5f-bcf9-4a24-9f0d-d1feaa638d86
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: 3us2.pqjc.buzz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 3us2.pqjc.buzz
+    path: /pq/us2
+- name: 美国 056
+  network: ws
+  password: 097f6b5f-bcf9-4a24-9f0d-d1feaa638d86
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: p1us1.pqjc.buzz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: p1us1.pqjc.buzz
+    path: /pq/us1
+- name: 🇩🇪TR-TCP-NA🇩🇪DE-161.35.203.56:443📡PING-142.95-MS | 30.444MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: 3b8903d3-d66c-4c18-a2e9-be04a47f1a48
+  skip-cert-verify: false
+- name: 🇩🇪TR-TCP-TLS🇩🇪DE-52.59.15.84:22222📡PING-143.02-MS | 30.322MB
+  server: zendesk1.shopee.tw
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trj.rollingnext.co.uk
+  skip-cert-verify: false
+- name: 加拿大 289
+  network: ws
+  password: 41aa073b-68fa-40c0-9b1c-9dc42c0b312c
+  port: 8443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: vps.restia.love
+  type: trojan
+  ws-opts:
+    headers:
+      Host: vps.restia.love
+    path: 41aa073b-68fa-40c0-9b1c-9dc42c0b312c-trojan
+- name: 🇩🇪TR-TCP-TLS🇩🇪DE-95.179.254.136:443📡PING-143.86-MS | 29.74MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: mainssh-ddoejfv14
+  sni: frtgrpc.mainssh.xyz
+  skip-cert-verify: false
+- name: 🇩🇪TR-GRPC-TLS🇩🇪DE-209.250.236.93:443📡PING-143.98-MS | 29.736MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: Cl150MQWlG
+  sni: irancell-ir-4.mmdruby13.store
+  skip-cert-verify: false
+- name: 🇩🇪TR-TCP-TLS🇩🇪DE-52.29.133.208:22222📡PING-144.15-MS | 29.631MB
+  server: zendesk1.shopee.tw
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trj.rollingnext.co.uk
+  skip-cert-verify: false
+- name: 🇫🇷TR-TCP-TLS🇫🇷FR-35.181.210.21:22222📡PING-144.40-MS | 29.481MB
+  server: zendesk1.shopee.tw
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trj.rollingnext.co.uk
+  skip-cert-verify: false
+- name: 🇩🇪TR-TCP-TLS🇩🇪DE-35.156.99.75:22222📡PING-144.73-MS | 29.414MB
+  server: zendesk1.shopee.tw
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trj.rollingnext.co.uk
+  skip-cert-verify: false
+- name: 🇩🇪TR-TCP-TLS🇩🇪DE-52.28.170.58:22222📡PING-144.94-MS | 29.334MB
+  server: zendesk1.shopee.tw
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trj.rollingnext.co.uk
+  skip-cert-verify: false
+- name: 🇫🇷TR-TCP-TLS🇫🇷FR-13.39.246.36:22222📡PING-145.14-MS | 29.157MB
+  server: zendesk1.shopee.tw
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trj.rollingnext.co.uk
+  skip-cert-verify: false
+- name: 🇬🇧TR-TCP-TLS🇬🇧GB-3.9.234.83:22222📡PING-145.20-MS | 29.085MB
+  server: zendesk1.shopee.tw
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trj.rollingnext.co.uk
+  skip-cert-verify: false
+- name: 新加坡 002
+  network: tcp
+  password: d549d79b-9599-4f40-8d50-9b85112c38f4
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: 144-22-163-118.nhost.00cdn.com
+  type: trojan
+  udp: true
+- name: 美国 078
+  network: tcp
+  password: d549d79b-9599-4f40-8d50-9b85112c38f4
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: 144-22-163-118.nhost.00cdn.com
+  type: trojan
+  udp: true
+- name: 美国 079
+  network: tcp
+  password: d549d79b-9599-4f40-8d50-9b85112c38f4
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: 144-22-163-118.nhost.00cdn.com
+  type: trojan
+  udp: true
+- name: 美国 080
+  network: tcp
+  password: d549d79b-9599-4f40-8d50-9b85112c38f4
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: 144-22-163-118.nhost.00cdn.com
+  type: trojan
+  udp: true
+- name: 美国 081
+  network: tcp
+  password: d549d79b-9599-4f40-8d50-9b85112c38f4
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: 144-22-163-118.nhost.00cdn.com
+  type: trojan
+  udp: true
+- name: 🇫🇷TR-TCP-TLS🇫🇷FR-15.237.156.60:22222📡PING-145.97-MS | 28.951MB
+  server: zendesk1.shopee.tw
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trj.rollingnext.co.uk
+  skip-cert-verify: false
+- name: TR-TCP-TLS🇮🇪IE-52.212.192.154:22222📡PING-146.60-MS | 28.928MB
+  server: zendesk1.shopee.tw
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trj.rollingnext.co.uk
+  skip-cert-verify: false
+- name: TR-TCP-TLS🇮🇪IE-3.255.27.21:22222📡PING-146.95-MS | 27.905MB
+  server: zendesk1.shopee.tw
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trj.rollingnext.co.uk
+  skip-cert-verify: false
+- name: 🇫🇷TR-TCP-NA🇫🇷FR-172.232.56.121:443📡PING-148.42-MS | 27.708MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: 4bbbb975-f2ff-4c1f-b69e-e3831504f7d3
+  skip-cert-verify: false
+- name: 🇬🇧TR-TCP-NA🇬🇧GB-198.244.252.93:443📡PING-148.49-MS | 26.779MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: c33883045c
+  sni: uk1.connecton.surf
+  skip-cert-verify: false
+- name: 🇭🇰TR-TCP-NA🇭🇰HK-20.239.59.192:443📡PING-148.79-MS | 26.745MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: 93ec7261-1c92-4149-848a-26b6fb9fc4ce
+  sni: hk03.trojanyyds.xyz
+  skip-cert-verify: false
+- name: 🇭🇰TR-TCP-NA🇭🇰HK-20.24.103.157:443📡PING-149.14-MS | 26.711MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: 93ec7261-1c92-4149-848a-26b6fb9fc4ce
+  sni: hk03.trojanyyds.xyz
+  skip-cert-verify: false
+- name: 🇬🇧TR-TCP-NA🇬🇧GB-51.38.65.155:443📡PING-149.62-MS | 25.492MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: 09ec6e80-add1-11ee-b5fa-1239d0255272
+  skip-cert-verify: false
+- alpn:
+  - http/1.1
+  name: 美国 097
+  network: tcp
+  password: telegram-id-directvpn
+  port: 22222
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: trj.rollingnext.co.uk
+  type: trojan
+  udp: true
+- alpn:
+  - http/1.1
+  name: 英国 008
+  network: tcp
+  password: telegram-id-directvpn
+  port: 22222
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: trj.rollingnext.co.uk
+  type: trojan
+  udp: true
+- name: 美国 098
+  network: tcp
+  password: telegram-id-directvpn
+  port: 22222
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: trj.rollingnext.co.uk
+  type: trojan
+  udp: true
+- name: 美国 099
+  network: tcp
+  password: telegram-id-privatevpns
+  port: 22222
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: trj.rollingnext.co.uk
+  type: trojan
+  udp: true
+- name: 🇫🇷TR-TCP-NA🇫🇷FR-193.70.112.90:443📡PING-151.56-MS | 25.449MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: fc1e07b5-840b-4446-8232-94b0606f2e0d
+  skip-cert-verify: false
+- name: 🇫🇷TR-TCP-TLS🇫🇷FR-51.210.182.170:443📡PING-151.67-MS | 24.418MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: c64c6830-97d7-11ee-aff4-1239d0255272
+  sni: fr1.test3.net
+  skip-cert-verify: false
+- name: 美国 106
+  network: tcp
+  password: 93ec7261-1c92-4149-848a-26b6fb9fc4ce
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: tw01.trojanyyds.xyz
+  type: trojan
+  udp: true
+- name: 🇦🇺TR-TCP-NA🇦🇺AU-172.105.174.37:443📡PING-151.68-MS | 24.352MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: b85db495-3d51-48b7-ad9a-d674f0e7c4a2
+  skip-cert-verify: false
+- name: 韩国 002
+  network: tcp
+  password: 7ea8830e-3120-4973-a0b6-4c25219eadfc
+  port: 21852
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: ip3691376078.mobgslb.tbcache.com
+  type: trojan
+  udp: true
+- name: 🇬🇧TR-TCP-TLS🇬🇧GB-13.43.255.197:22222📡PING-154.00-MS | 24.326MB
+  server: zendesk1.shopee.tw
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trj.rollingnext.co.uk
+  skip-cert-verify: false
+- name: TR-TCP-TLS🇮🇹IT-15.160.138.221:443📡PING-154.23-MS | 24.286MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: your_password
+  sni: aws-it-milan-1.f1rocketnode.com
+  skip-cert-verify: false
+- name: 美国 111
+  network: tcp
+  password: telegram-id-privatevpns
+  port: 22222
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: trj.rollingnext.co.uk
+  type: trojan
+  udp: true
+- name: TR-TCP-NA🇸🇪SE-172.232.147.80:443📡PING-155.13-MS | 24.28MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: ca373cf6-cd08-4189-816d-9480474036dd
+  skip-cert-verify: false
+- name: 🇬🇧TR-TCP-TLS🇬🇧GB-13.42.89.140:22222📡PING-155.85-MS | 24.061MB
+  server: zendesk1.shopee.tw
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trj.rollingnext.co.uk
+  skip-cert-verify: false
+- name: 🇬🇧TR-TCP-TLS🇬🇧GB-3.11.76.32:22222📡PING-156.17-MS | 23.52MB
+  server: zendesk1.shopee.tw
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trj.rollingnext.co.uk
+  skip-cert-verify: false
+- name: 🇩🇪TR-TCP-TLS🇩🇪DE-3.77.77.255:22222📡PING-156.32-MS | 23.002MB
+  server: zendesk1.shopee.tw
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trj.rollingnext.co.uk
+  skip-cert-verify: false
+- name: 🇫🇷TR-TCP-TLS🇫🇷FR-13.39.231.121:22222📡PING-156.61-MS | 22.579MB
+  server: zendesk1.shopee.tw
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trj.rollingnext.co.uk
+  skip-cert-verify: false
+- name: 🇫🇷TR-TCP-TLS🇫🇷FR-13.39.230.9:22222📡PING-156.68-MS | 22.518MB
+  server: zendesk1.shopee.tw
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trj.rollingnext.co.uk
+  skip-cert-verify: false
+- name: 新加坡 002_3@463
+  network: tcp
+  password: d549d79b-9599-4f40-8d50-9b85112c38f4
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: 144-22-163-118.nhost.00cdn.com
+  type: trojan
+  udp: true
+- name: 🇫🇷TR-TCP-TLS🇫🇷FR-35.180.4.65:22222📡PING-157.94-MS | 22.083MB
+  server: zendesk1.shopee.tw
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trj.rollingnext.co.uk
+  skip-cert-verify: false
+- name: 美国 078_3@464
+  network: tcp
+  password: d549d79b-9599-4f40-8d50-9b85112c38f4
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: 144-22-163-118.nhost.00cdn.com
+  type: trojan
+  udp: true
+- name: 美国 079_3@465
+  network: tcp
+  password: d549d79b-9599-4f40-8d50-9b85112c38f4
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: 144-22-163-118.nhost.00cdn.com
+  type: trojan
+  udp: true
+- name: 美国 080_3@466
+  network: tcp
+  password: d549d79b-9599-4f40-8d50-9b85112c38f4
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: 144-22-163-118.nhost.00cdn.com
+  type: trojan
+  udp: true
+- name: 美国 081_3@467
+  network: tcp
+  password: d549d79b-9599-4f40-8d50-9b85112c38f4
+  port: 443
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: 144-22-163-118.nhost.00cdn.com
+  type: trojan
+  udp: true
+- name: 🇩🇪TR-TCP-NA🇩🇪DE-91.195.240.12:443📡PING-158.52-MS | 21.961MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: d11f1d67-f409-48ef-9767-a0fe081fe81d
+  sni: data-ar.efyunpan.com
+  skip-cert-verify: false
+- name: TR-TCP-TLS🇸🇪SE-16.171.12.136:443📡PING-158.57-MS | 21.59MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: your_password
+  sni: aws-se-stockholm-1.f1rocketnode.com
+  skip-cert-verify: false
+- name: TR-TCP-TLS🇸🇪SE-16.16.43.233:22222📡PING-158.84-MS | 20.066MB
+  server: zendesk1.shopee.tw
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trj.rollingnext.co.uk
+  skip-cert-verify: false
+- name: 🇩🇪TR-TCP-TLS🇩🇪DE-18.199.58.30:22222📡PING-159.25-MS | 19.724MB
+  server: zendesk1.shopee.tw
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trj.rollingnext.co.uk
+  skip-cert-verify: false
+- name: TR-TCP-TLS🇸🇪SE-51.20.164.42:22222📡PING-159.42-MS | 19.256MB
+  server: zendesk1.shopee.tw
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trj.rollingnext.co.uk
+  skip-cert-verify: false
+- name: TR-TCP-TLS🇸🇪SE-51.20.247.44:22222📡PING-159.45-MS | 18.638MB
+  server: zendesk1.shopee.tw
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trj.rollingnext.co.uk
+  skip-cert-verify: false
+- alpn:
+  - http/1.1
+  name: 美国 097_3@541
+  network: tcp
+  password: telegram-id-directvpn
+  port: 22222
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: trj.rollingnext.co.uk
+  type: trojan
+  udp: true
+- name: TR-TCP-TLS🇸🇪SE-51.20.173.209:22222📡PING-159.46-MS | 18.316MB
+  server: zendesk1.shopee.tw
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trj.rollingnext.co.uk
+  skip-cert-verify: false
+- alpn:
+  - http/1.1
+  name: 英国 008_3@542
+  network: tcp
+  password: telegram-id-directvpn
+  port: 22222
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: trj.rollingnext.co.uk
+  type: trojan
+  udp: true
+- name: 美国 098_3@543
+  network: tcp
+  password: telegram-id-directvpn
+  port: 22222
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: trj.rollingnext.co.uk
+  type: trojan
+  udp: true
+- name: 美国 099_3@544
+  network: tcp
+  password: telegram-id-privatevpns
+  port: 22222
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: trj.rollingnext.co.uk
+  type: trojan
+  udp: true
+- name: TR-TCP-TLS🇸🇪SE-16.171.191.23:22222📡PING-159.50-MS | 16.842MB
+  server: zendesk1.shopee.tw
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trj.rollingnext.co.uk
+  skip-cert-verify: false
+- name: TR-TCP-TLS🇮🇪IE-99.81.35.151:22222📡PING-159.86-MS | 16.49MB
+  server: zendesk1.shopee.tw
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trj.rollingnext.co.uk
+  skip-cert-verify: false
+- name: 韩国 002_3@569
+  network: tcp
+  password: 7ea8830e-3120-4973-a0b6-4c25219eadfc
+  port: 21852
+  server: zendesk1.shopee.tw
+  skip-cert-verify: true
+  sni: ip3691376078.mobgslb.tbcache.com
+  type: trojan
+  udp: true
+- name: TR-TCP-TLS🇸🇪SE-51.21.139.253:22222📡PING-159.91-MS | 15.785MB
+  server: zendesk1.shopee.tw
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trj.rollingnext.co.uk
+  skip-cert-verify: false
+- name: TR-TCP-TLS🇮🇪IE-54.170.237.126:22222📡PING-160.06-MS | 15.27MB
+  server: zendesk1.shopee.tw
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trj.rollingnext.co.uk
+  skip-cert-verify: false
+- name: TR-TCP-TLS🇸🇪SE-51.21.123.39:22222📡PING-160.10-MS | 14.84MB
+  server: zendesk1.shopee.tw
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trj.rollingnext.co.uk
+  skip-cert-verify: false
+- name: 🇩🇪TR-TCP-TLS🇩🇪DE-3.79.162.137:22222📡PING-160.51-MS | 13.336MB
+  server: zendesk1.shopee.tw
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trj.rollingnext.co.uk
+  skip-cert-verify: false
+- name: TR-TCP-TLS🇮🇪IE-54.194.53.143:22222📡PING-161.12-MS | 13.239MB
+  server: zendesk1.shopee.tw
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trj.rollingnext.co.uk
+  skip-cert-verify: false
+- name: TR-TCP-TLS🇮🇪IE-63.35.41.96:22222📡PING-161.24-MS | 12.991MB
+  server: zendesk1.shopee.tw
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trj.rollingnext.co.uk
+  skip-cert-verify: false
+- name: 🇮🇸TR-TCP-TLS🇮🇸IS-89.221.224.93:80📡PING-166.71-MS | 12.134MB
+  server: zendesk1.shopee.tw
+  port: 80
+  type: trojan
+  password: 9e77b491-73d4-4ea3-985b-cfe3ae583580
+  sni: is1-t.sshmax.xyz
+  skip-cert-verify: false
+- name: TR-TCP-TLS🇫🇮FI-135.181.253.237:443📡PING-166.76-MS | 11.864MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: cba32ac1-abbb-4371-ba50-19eb5c38748c
+  sni: xvqn.de
+  skip-cert-verify: false
+- name: 🇮🇸TR-TCP-TLS🇮🇸IS-89.221.224.94:80📡PING-166.80-MS | 11.674MB
+  server: zendesk1.shopee.tw
+  port: 80
+  type: trojan
+  password: 28c79056-ccfd-4cc1-93d4-c337cc782e65
+  sni: is2-t.sshmax.xyz
+  skip-cert-verify: false
+- name: TR-TCP-NA🇺🇦UA-45.137.155.49:443📡PING-168.55-MS | 11.58MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: 176ac91d-44a9-4772-9b09-6592ae8dc87a
+  skip-cert-verify: false
+- name: 🇭🇰TR-TCP-NA🇭🇰HK-194.156.98.99:443📡PING-171.43-MS | 11.455MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: 3c84d547-d058-48ef-8fd9-f9215cfbcbba
+  skip-cert-verify: false
+- name: 🇸🇬TR-TCP-TLS🇸🇬SG-146.190.109.139:37335📡PING-173.43-MS | 11.452MB
+  server: zendesk1.shopee.tw
+  port: 37335
+  type: trojan
+  password: GsbahCRP0D
+  sni: m.netflix.net
+  skip-cert-verify: false
+- name: 🇸🇬TR-TCP-TLS🇸🇬SG-146.190.99.69:53428📡PING-173.54-MS | 11.417MB
+  server: zendesk1.shopee.tw
+  port: 53428
+  type: trojan
+  password: XGtpNVzpoq
+  sni: m.twitter.com
+  skip-cert-verify: false
+- name: 🇸🇬TR-TCP-NA🇸🇬SG-172.104.182.182:443📡PING-173.83-MS | 11.415MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: 545eb693-6e9d-4e17-becd-ac21747a63c1
+  skip-cert-verify: false
+- name: 🇭🇰TR-TCP-TLS🇭🇰HK-112.120.127.15:443📡PING-173.83-MS | 10.331MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: 29ea82cf-f956-42b2-a5dc-35feea39e7ff
+  sni: glc-hkt1.windowsupdatea.com
+  skip-cert-verify: false
+- name: 🇸🇬TR-TCP-TLS🇸🇬SG-146.190.99.69:18436📡PING-173.97-MS | 10.175MB
+  server: zendesk1.shopee.tw
+  port: 18436
+  type: trojan
+  password: d6GPvKJEY8
+  sni: m.zoom.us
+  skip-cert-verify: false
+- name: 🇸🇬TR-TCP-NA🇸🇬SG-47.128.236.101:567📡PING-174.10-MS | 10.116MB
+  server: zendesk1.shopee.tw
+  port: 567
+  type: trojan
+  password: 2d8a021a-0ba2-4a3c-bbd1-f63b743c2920
+  skip-cert-verify: false
+- name: 🇸🇬TR-TCP-TLS🇸🇬SG-146.190.6.145:3020📡PING-178.72-MS | 10.104MB
+  server: zendesk1.shopee.tw
+  port: 3020
+  type: trojan
+  password: DcsS6NiMuEeoc_5er71Q6A
+  sni: android.googleapis.com
+  skip-cert-verify: false
+- name: 🇸🇬TR-TCP-TLS🇸🇬SG-139.180.211.152:29512📡PING-179.12-MS | 9.966MB
+  server: zendesk1.shopee.tw
+  port: 29512
+  type: trojan
+  password: H6K7FTsGGF
+  sni: android.googleapis.com
+  skip-cert-verify: false
+- name: 🇸🇬TR-TCP-TLS🇸🇬SG-146.190.99.69:23995📡PING-181.26-MS | 9.698MB
+  server: zendesk1.shopee.tw
+  port: 23995
+  type: trojan
+  password: JjUKMNMXu2
+  sni: android.googleapis.com
+  skip-cert-verify: false
+- name: 🇸🇬TR-TCP-NA🇸🇬SG-167.71.212.138:443📡PING-183.31-MS | 9.683MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: bbd6a38d-9ece-4f05-a416-22df5f1c5365
+  skip-cert-verify: false
+- name: TR-TCP-NA🇮🇩ID-172.232.234.79:443📡PING-185.25-MS | 9.597MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: 231f43f3-92bc-4b1d-8ba0-31f3c17ff84e
+  skip-cert-verify: false
+- name: TR-TCP-TLS🇻🇳VN-103.72.96.55:443📡PING-193.07-MS | 9.336MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: c95357eb-2869-4511-8940-f0dc5e1ec9b1
+  sni: hanoiidc2.5gsieutocdo.com
+  skip-cert-verify: false
+- name: TR-TCP-NA🇻🇳VN-103.9.77.6:443📡PING-198.05-MS | 9.269MB
+  server: zendesk1.shopee.tw
+  port: 443
+  type: trojan
+  password: 5a92d674-308c-4d95-b283-28383e63a59b
+  skip-cert-verify: false
