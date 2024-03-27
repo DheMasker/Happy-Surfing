@@ -1,0 +1,176 @@
+proxies:
+- name: 🇳🇱TR-GRPC-NA🇳🇱NL-188.114.98.0:443📡PING-002.47-MS | 103.671MB
+  server: 188.114.98.0
+  port: 443
+  type: trojan
+  password: 01596265-168b-46a7-bcb7-25662c7a9546
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇺🇸TR-GRPC-TLS🇺🇸US-172.67.196.164:443📡PING-002.28-MS | 99.1MB
+  server: 172.67.196.164
+  port: 443
+  type: trojan
+  password: a966a7ae-ac21-472d-be60-7726b724fc5d
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇺🇸TR-GRPC-TLS🇺🇸US-172.67.196.164:443📡PING-002.22-MS | 98.888MB
+  server: 172.67.196.164
+  port: 443
+  type: trojan
+  password: a966a7ae-ac21-472d-be60-7726b724fc5d
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: TR-GRPC-TLS🏴‍☠️NA-104.21.68.153:443📡PING-002.04-MS | 97.596MB
+  server: 104.21.68.153
+  port: 443
+  type: trojan
+  password: a966a7ae-ac21-472d-be60-7726b724fc5d
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇺🇸TR-GRPC-TLS🇺🇸US-172.67.192.61:2087📡PING-002.01-MS | 93.496MB
+  server: 172.67.192.61
+  port: 2087
+  type: trojan
+  password: 7bc052e2-f009-4fc9-91a3-dd8410a5784f
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: TR-GRPC-TLS🏴‍☠️NA-104.21.51.242:2087📡PING-001.76-MS | 92.525MB
+  server: 104.21.51.242
+  port: 2087
+  type: trojan
+  password: 7bc052e2-f009-4fc9-91a3-dd8410a5784f
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: TR-GRPC-TLS🏴‍☠️NA-104.21.68.153:443📡PING-001.60-MS | 91.537MB
+  server: 104.21.68.153
+  port: 443
+  type: trojan
+  password: a966a7ae-ac21-472d-be60-7726b724fc5d
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇺🇸US-3.131.217.171-0435 | 68.187MB
+  server: 3.131.217.171
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇨🇳TW-118.165.45.4-0549 | 11.182MB
+  server: b12.ntbq.dynu.net
+  port: 9755
+  type: trojan
+  password: e63d3dd2-1fdc-45d7-857a-ab32e26c4f73
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇨🇳TW-220.141.146.9-0556 | 7.677MB
+  server: ty11t.twty.dynu.net
+  port: 13761
+  type: trojan
+  password: 88bc7d94-8e1f-4d80-9549-ace0d0d98db2
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇬🇧GB-18.168.166.125-0670 | 6.342MB
+  server: 18.168.166.125
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇨🇳TW-61.228.134.75-0571 | 5.497MB
+  server: b13.ntbq.dynu.net
+  port: 9489
+  type: trojan
+  password: 08c8768a-31ee-447e-81aa-845399553dbf
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇨🇳TW-61.228.130.14-0582 | 4.681MB
+  server: b24.ntbq.dynu.net
+  port: 3271
+  type: trojan
+  password: 88bc7d94-8e1f-4d80-9549-ace0d0d98db2
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇺🇸US-44.239.71.206-0679 | 4.587MB
+  server: 44.239.71.206
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇬🇧GB-52.56.161.112-0669 | 26.986MB
+  server: 52.56.161.112
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇬🇧GB-18.135.43.165-0659 | 26.644MB
+  server: 18.135.43.165
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇫🇷FR-13.37.76.57-0650 | 25.865MB
+  server: 13.37.76.57
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇫🇷FR-13.39.129.14-0672 | 25.731MB
+  server: 13.39.129.14
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇫🇷FR-13.37.67.77-0651 | 25.435MB
+  server: 13.37.67.77
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇩🇪DE-18.153.135.55-0430 | 24.115MB
+  server: 18.153.135.55
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇬🇧GB-13.43.246.56-0648 | 23.279MB
+  server: 13.43.246.56
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: IE-63.33.4.128-0657 | 21.734MB
+  server: 63.33.4.128
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: SE-13.51.123.185-0673 | 20.439MB
+  server: 13.51.123.185
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: SE-13.48.161.130-0674 | 20.232MB
+  server: 13.48.161.130
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: SE-13.49.220.175-0432 | 19.715MB
+  server: 13.49.220.175
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: live.iflix.com
+  skip-cert-verify: false

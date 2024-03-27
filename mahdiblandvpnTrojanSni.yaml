@@ -1,0 +1,78 @@
+proxies:
+- name: 🇺🇸US-138.197.5.103-0733 | 2.884MB
+  server: us.blazeppn.info
+  port: 443
+  type: trojan
+  password: xxoo
+  skip-cert-verify: false
+  sni: live.iflix.com
+- name: 🇺🇸US-192.9.239.232-0271 | 2.442MB
+  server: us03.freeflyingcloud.xyz
+  port: 30018
+  type: trojan
+  password: af087a9c-39cb-4df6-9099-a652a147149f
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇯🇵JP-150.230.209.32-0294 | 20.505MB
+  server: jp01.freeflyingcloud.xyz
+  port: 44402
+  type: trojan
+  password: af087a9c-39cb-4df6-9099-a652a147149f
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇫🇷FR-13.39.140.9-0308 | 18.03MB
+  server: 13.39.140.9
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇫🇷FR-15.188.104.170-0745 | 17.566MB
+  server: 15.188.104.170
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇨🇳TW-114.37.113.63-0300 | 11.522MB
+  server: b23.ntbq.dynu.net
+  port: 18701
+  type: trojan
+  password: 7170dcdc-7866-4bb6-957d-a5aa046e7c0f
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇨🇳TW-61.228.130.14-0157 | 10.766MB
+  server: b24.ntbq.dynu.net
+  port: 3271
+  type: trojan
+  password: 158141ca-528d-407d-88f2-c0ddca399b26
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇨🇳TW-61.228.144.7-0116 | 10.571MB
+  server: b22.ntbq.dynu.net
+  port: 19489
+  type: trojan
+  password: 7170dcdc-7866-4bb6-957d-a5aa046e7c0f
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇷🇺RU-45.140.169.83-0214 | 9.559MB
+  server: ru01.freeflyingcloud.xyz
+  port: 30002
+  type: trojan
+  password: af087a9c-39cb-4df6-9099-a652a147149f
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇨🇳TW-220.141.146.9-0118 | 7.514MB
+  server: ty11t.twty.dynu.net
+  port: 13761
+  type: trojan
+  password: 661ee645-8e3f-42ab-9e60-a19d5e7a89eb
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇨🇳TW-118.165.45.4-0146 | 6.196MB
+  server: b12.ntbq.dynu.net
+  port: 9755
+  type: trojan
+  password: 158141ca-528d-407d-88f2-c0ddca399b26
+  sni: live.iflix.com
+  skip-cert-verify: false

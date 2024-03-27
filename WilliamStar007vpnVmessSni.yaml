@@ -1,0 +1,49 @@
+proxies:
+- alterId: 64
+  cipher: auto
+  client-fingerprint: chrome
+  name: 美国 006_2@23
+  network: ws
+  port: 443
+  server: 107.148.0.160
+  servername: live.iflix.com
+  skip-cert-verify: false
+  tfo: false
+  tls: true
+  type: vmess
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+  ws-opts:
+    headers:
+      Host: www.25349182.xyz
+    path: /path/311227222808
+- alterId: 64
+  cipher: auto
+  client-fingerprint: chrome
+  name: 日本 001_2@24
+  network: ws
+  port: 48000
+  server: 103.72.5.18
+  servername: live.iflix.com
+  skip-cert-verify: false
+  tfo: false
+  tls: true
+  type: vmess
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+  ws-opts:
+    headers:
+      Host: www.17438016.xyz
+    path: /path/311227222808
+- alterId: 0
+  cipher: auto
+  name: 美国 012_2@53
+  network: ws
+  port: 2053
+  server: 172.67.150.173
+  servername: live.iflix.com
+  tls: true
+  type: vmess
+  uuid: bfccd2a4-a421-4d4f-f564-a081f4a12d7e
+  ws-opts:
+    headers:
+      Host: u04.tk3322.com
+    path: /u04

@@ -1,0 +1,723 @@
+proxies:
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸_US_美国_2_0@4
+  network: ws
+  port: 2095
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 6658a3a6-225a-4d33-a5d2-82cfde565b4e
+  ws-opts:
+    headers:
+      host: ssrsub.v03.ssrsub.com
+    path: /api/v3/download.getFile
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸_US_美国_3_0@5
+  network: ws
+  port: 443
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: ea4909ef-7ca6-4b46-bf2e-6c07896ef338
+  ws-opts:
+    path: /ea4909ef-7ca6-4b46-bf2e-6c07896ef338-vm
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸_US_美国_5_0@8
+  network: ws
+  port: 2052
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 7a737f41-b792-4260-94ff-3d864da67b80
+  ws-opts:
+    headers:
+      host: mahilu.site
+    path: /
+- alterId: 2
+  cipher: auto
+  name: 🇦🇶NOWHERE-0.0.0.0-102_1@102
+  network: ws
+  port: 2504
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 3b78a19f-20f8-34f5-a818-2a02e10446ac
+  ws-headers:
+    Host: tw2504.cloudmatrix.xyz
+  ws-path: /hls/cctv5phd.m3u8
+- alterId: 2
+  cipher: auto
+  name: 🇦🇶NOWHERE-0.0.0.0-103_1@103
+  network: ws
+  port: 443
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 5c70da5d-e641-3bf8-b7dc-5babd843ff3c
+  ws-headers:
+    Host: 0319tw123.fans8.xyz
+  ws-path: /nmsl
+- alterId: 2
+  cipher: auto
+  name: 🇦🇶NOWHERE-0.0.0.0-104_1@104
+  network: ws
+  port: 443
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 5c70da5d-e641-3bf8-b7dc-5babd843ff3c
+  ws-headers:
+    Host: 0322tw.fans8.xyz
+  ws-path: /nl
+- alterId: 2
+  cipher: auto
+  name: 🇦🇶NOWHERE-0.0.0.0-106_1@106
+  network: tcp
+  port: 20467
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 64749822-654a-3050-9aac-ba94af918f47
+  ws-headers:
+    Host: sg04.xiaocloud.icu
+  ws-path: /
+- alterId: 2
+  cipher: auto
+  name: 🇦🇶NOWHERE-0.0.0.0-107_1@107
+  network: tcp
+  port: 20265
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 64749822-654a-3050-9aac-ba94af918f47
+  ws-headers:
+    Host: sg02.xiaocloud.icu
+  ws-path: /
+- alterId: 0
+  cipher: auto
+  name: 🏁RELAY-104.21.61.214-113_1@113
+  network: ws
+  port: 8080
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 22826b44-5c1a-4b4b-dbaa-83a2e8bd95f0
+  ws-headers:
+    Host: www.darkroom.lol
+  ws-path: /
+- alterId: 0
+  cipher: auto
+  name: 🏁RELAY-172.67.161.114-115_1@115
+  network: ws
+  port: 8880
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 4154143c-bbba-47a4-9f79-c2ed087cbcc9
+  ws-headers:
+    Host: server31.beheshtbaneh.com
+  ws-path: /
+- alterId: 0
+  cipher: auto
+  name: 🇨🇳CN-120.233.42.83-116_1@116
+  network: ws
+  port: 20401
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: b1478e24-4916-3abe-8f17-15931012ecbe
+  ws-headers:
+    Host: data-us-v1.shwjfkw.cn
+  ws-path: /debian
+- alterId: 0
+  cipher: auto
+  name: 🇦🇶FASTLY-151.101.64.144-122_1@122
+  network: ws
+  port: 443
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 77848824-93b7-4b89-ffd0-e91afff406ce
+  ws-headers:
+    Host: zheshiscp.com
+  ws-path: /77848824
+- alterId: 0
+  cipher: auto
+  name: 🏁RELAY-172.67.161.114-123_1@123
+  network: ws
+  port: 8880
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 044ba8ed-7285-472a-bc14-fb91dc6be4c9
+  ws-headers:
+    Host: server32.beheshtbaneh.com
+  ws-path: /
+- alterId: 64
+  cipher: auto
+  name: 🇦🇶NOWHERE-0.0.0.0-128_1@128
+  network: ws
+  port: 2095
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: b710770a-fdaf-41fb-bbe4-68a6c41e2605
+  ws-headers:
+    Host: xt.ylks01.eu.org
+  ws-path: /blue
+- alterId: 64
+  cipher: auto
+  name: 🇦🇶NOWHERE-0.0.0.0-129_1@129
+  network: ws
+  port: 443
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 8237ec34-143a-11ee-8019-000017022008
+  ws-headers:
+    Host: aaaa.wxx.gay
+  ws-path: /look
+- alterId: 64
+  cipher: auto
+  name: 🏁RELAY-104.21.67.88-131_1@131
+  network: ws
+  port: 443
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 3853a2ab-6bec-4503-89b9-d3cbcc6b69c9
+  ws-headers:
+    Host: hkd1.quickerlink.xyz
+  ws-path: /h6jr23x9h3lqiitg
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸_US_美国_6_0@15
+  network: ws
+  port: 8080
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: ef8c954e-014f-4b36-8273-9b5086afab34
+  ws-opts:
+    headers:
+      host: bibliographic-sword-sequence-advertisers.trycloudflare.com
+    path: ef8c954e-014f-4b36-8273-9b5086afab34-vm
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸_US_美国->🇨🇦_CA_加拿大_3_0@16
+  network: ws
+  port: 8080
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 82cb93a3-65a9-4dac-a2a7-d997b6c26d6a
+  ws-opts:
+    headers:
+      host: larger-marketing-amounts-skin.trycloudflare.com
+    path: 82cb93a3-65a9-4dac-a2a7-d997b6c26d6a-vm
+- alterId: 0
+  cipher: auto
+  name: 🏁RELAY-104.17.127.50-188_1@188
+  network: ws
+  port: 2052
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 160fdf6d-e27b-4763-bcef-22587c161a6e
+  ws-headers:
+    Host: tw1bQiWSE4x.fzbqfrse.xyz
+  ws-path: /video/GQ2qE5Us9g
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸_US_美国_7_0@17
+  network: ws
+  port: 2086
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 3f09c198-da80-44ce-a72b-40bc600b2321
+  ws-opts:
+    headers:
+      host: us77SmSk86j.fzbqfrse.xyz
+    path: /video/Z7qdcrAGRw
+- alterId: 0
+  cipher: auto
+  name: 🏁RELAY-10.10.34.36-190_1@190
+  network: ws
+  port: 2086
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 7d93e992-48cf-42d4-84f8-75768e815a4c
+  ws-headers:
+    Host: admin.arzonhost.ir
+  ws-path: /
+- alterId: 0
+  cipher: auto
+  name: 🇨🇳CN-183.240.187.197-194_1@193
+  network: ws
+  port: 20301
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: b1478e24-4916-3abe-8f17-15931012ecbe
+  ws-headers:
+    Host: data-jp-v1.usabooks.com.cn
+  ws-path: /debian
+- alterId: 0
+  cipher: auto
+  name: 🏁RELAY-10.10.34.36-222_1@221
+  network: ws
+  port: 2086
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: e690ff9e-1676-4be3-d136-dcae586cb1e7
+  ws-headers:
+    Host: mizban.arzonhost.ir
+  ws-path: /
+- alterId: 0
+  cipher: auto
+  name: 🏁RELAY-162.159.7.226-236_1@235
+  network: ws
+  port: 8080
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: ef8c954e-014f-4b36-8273-9b5086afab34
+  ws-headers:
+    Host: bibliographic-sword-sequence-advertisers.trycloudflare.com
+  ws-path: ef8c954e-014f-4b36-8273-9b5086afab34-vm
+- alterId: 0
+  cipher: auto
+  name: 🏁RELAY-172.67.214.33-246_1@245
+  network: ws
+  port: 2095
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 7a737f41-b792-4260-94ff-3d864da67b80
+  ws-headers:
+    Host: jpc.flha.ru
+  ws-path: /
+- alterId: 0
+  cipher: auto
+  name: 🏁RELAY-172.67.53.69-248_1@247
+  network: ws
+  port: 8080
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: c18beb85-c67b-46ed-b8cc-4cbfeae5f194
+  ws-headers:
+    Host: eu1.openxai.link
+  ws-path: /
+- alterId: 0
+  cipher: auto
+  name: 美国 001_2@3
+  network: ws
+  port: 80
+  server: 104.17.224.203
+  skip-cert-verify: true
+  type: vmess
+  uuid: 4d68da82-e8d0-4eaa-aec9-0df4a23e1a04
+  ws-opts:
+    headers:
+      Host: de.sanfen002.top
+    path: /?ed=2048
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 加拿大 005_2@8
+  network: ws
+  port: 2082
+  server: 104.17.224.203
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a
+  ws-opts:
+    headers:
+      Host: s1c.v2.v001sss.xyz
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 011_2@17
+  network: ws
+  port: 8080
+  server: 104.17.224.203
+  skip-cert-verify: true
+  type: vmess
+  uuid: 3b52fe01-aa51-49f7-b4e7-31b683ffb2a7
+  ws-opts:
+    headers:
+      Host: lanmaoyunvm.ksr.free.hr
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 014_2@21
+  network: ws
+  port: 8080
+  server: 104.17.224.203
+  skip-cert-verify: true
+  type: vmess
+  uuid: 3b52fe01-aa51-49f7-b4e7-31b683ffb2a7
+  ws-opts:
+    headers:
+      Host: lanmaoyun-fr.ksr.free.hr
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 加拿大 015_2@22
+  network: ws
+  port: 2095
+  server: 104.17.224.203
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: 7a737f41-b792-4260-94ff-3d864da67b80
+  ws-opts:
+    headers:
+      Host: onea.flha.ru
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 030_2@49
+  network: ws
+  port: 8080
+  server: 104.17.224.203
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 007ed733-b751-44fa-ae72-69dbc9aaeccb
+  ws-opts:
+    headers:
+      Host: us.mooon.top
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 038_2@59
+  network: ws
+  port: 80
+  server: 104.17.224.203
+  skip-cert-verify: true
+  type: vmess
+  uuid: bc5e1ebf-9602-4177-b890-18e9d4cd23be
+  ws-opts:
+    headers:
+      Host: hytron.kfcvme50.life
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 039_2@60
+  network: ws
+  port: 80
+  server: 104.17.224.203
+  skip-cert-verify: true
+  type: vmess
+  uuid: bc5e1ebf-9602-4177-b890-18e9d4cd23be
+  ws-opts:
+    headers:
+      Host: hkbn.kfcvme50.life
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 040_2@61
+  network: ws
+  port: 80
+  server: 104.17.224.203
+  skip-cert-verify: true
+  type: vmess
+  uuid: bc5e1ebf-9602-4177-b890-18e9d4cd23be
+  ws-opts:
+    headers:
+      Host: hkbn.kfcvme50.life
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 042_2@72
+  network: ws
+  port: 2087
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 6bcb91d7-3d6b-40ad-93f4-b326d0ed20a4
+  ws-opts:
+    headers:
+      Host: v013.583181.xyz
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸_US_美国_10_0@27
+  network: ws
+  port: 8880
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 6658a3a6-225a-4d33-a5d2-82cfde565b4e
+  ws-opts:
+    headers:
+      host: ssrsub.v03.ssrsub.com
+    path: /api/v3/download.getFile
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸_US_美国_11_0@28
+  network: ws
+  port: 8080
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: d9c5ec6a-a8d8-4732-8447-56fbd2f93e96
+  ws-opts:
+    headers:
+      host: pcs-referenced-camera-concerns.trycloudflare.com
+    path: d9c5ec6a-a8d8-4732-8447-56fbd2f93e96-vm
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸_US_美国_14_5@15
+  network: ws
+  port: 8080
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 9258153a-dc97-4e39-9037-009abfc4fed0
+  ws-opts:
+    headers:
+      host: per-essex-patterns-bowling.trycloudflare.com
+    path: 9258153a-dc97-4e39-9037-009abfc4fed0-vm
+- alterId: 2
+  cipher: auto
+  name: 🇦🇶NOWHERE-0.0.0.0-030_1@30
+  network: ws
+  port: 2405
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 3b78a19f-20f8-34f5-a818-2a02e10446ac
+  ws-headers:
+    Host: us2405.cloudmatrix.xyz
+  ws-path: /hls/cctv5phd.m3u8
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸_US_美国_24_5@27
+  network: ws
+  port: 8080
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: f9c92e9c-5f92-4ff7-99a1-91a973b6ec57
+  ws-opts:
+    headers:
+      host: en.laobideng.xyz
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸_US_美国->🇿🇦_ZA_南非_5@31
+  network: ws
+  port: 80
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 56278a1a-c7cc-459f-b00c-3037e4f99590
+  ws-opts:
+    headers:
+      host: yhnsb3.shabijichang.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸_US_美国->🇪🇸_ES_西班牙_5@32
+  network: ws
+  port: 8080
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: f9c92e9c-5f92-4ff7-99a1-91a973b6ec57
+  ws-opts:
+    headers:
+      host: us2.laobideng.xyz
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸_US_美国_26_5@33
+  network: ws
+  port: 8880
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: f9c92e9c-5f92-4ff7-99a1-91a973b6ec57
+  ws-opts:
+    headers:
+      host: us1.laobideng.xyz
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 🇺🇲 美国【付费推荐：https://jdyvip.link/】99_8@32
+  network: ws
+  port: 8080
+  server: 104.17.224.203
+  tls: false
+  type: vmess
+  uuid: 9b196b50-37f2-4f4b-b175-06273adc6207
+  ws-opts:
+    headers:
+      Host: technological-mel-fill-decide.trycloudflare.com
+    path: 9b196b50-37f2-4f4b-b175-06273adc6207-vm
+- alterId: 0
+  cipher: auto
+  name: 🇺🇲 美国【付费推荐：https://jdyvip.link/】59_8@35
+  network: ws
+  port: 80
+  server: 104.17.224.203
+  tls: false
+  type: vmess
+  uuid: bd8c41a8-7598-4c28-9965-522545e14892
+  ws-opts:
+    headers:
+      Host: ssrsub.v03.ssrsub.com
+    path: /api/v3/download.getFile
+- alterId: 0
+  cipher: auto
+  name: 🇦🇶NOWHERE-0.0.0.0-042_1@42
+  network: ws
+  port: 443
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 09026629-dc08-4f64-82da-c91399baa883
+  ws-headers:
+    Host: djbccok.tk
+  ws-path: /
+- alterId: 2
+  cipher: auto
+  name: 🇦🇶NOWHERE-0.0.0.0-046_1@46
+  network: ws
+  port: 443
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 5c70da5d-e641-3bf8-b7dc-5babd843ff3c
+  ws-headers:
+    Host: 0319hzm01.fans8.xyz
+  ws-path: /nmsl
+- alterId: 0
+  cipher: auto
+  name: 🇦🇶NOWHERE-0.0.0.0-065_1@65
+  network: ws
+  port: 8443
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: ddec8c44-a2e7-11ec-96d8-52ac0014346a
+  ws-headers:
+    Host: v2ray.ifuckgfw.ga
+  ws-path: /AIYjzOJE/
+- alterId: 0
+  cipher: auto
+  name: 🇦🇶NOWHERE-0.0.0.0-075_1@75
+  network: ws
+  port: 17247
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 8e7ad1a3-ed57-406e-fd6c-0f2399993fec
+  ws-headers:
+    Host: san.515223.xyz
+  ws-path: /
+- alterId: 2
+  cipher: auto
+  name: 🇦🇶NOWHERE-0.0.0.0-093_1@93
+  network: ws
+  port: 443
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 5c70da5d-e641-3bf8-b7dc-5babd843ff3c
+  ws-headers:
+    Host: 0320jp.fans8.xyz
+  ws-path: /ray
+- alterId: 1
+  cipher: auto
+  name: 🇦🇶NOWHERE-0.0.0.0-096_1@96
+  network: ws
+  port: 8886
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 24b5c7d2-2d22-37c7-82c2-e2e86affecc8
+  ws-headers:
+    Host: apple.com
+  ws-path: /hk
+- alterId: 2
+  cipher: auto
+  name: 🇦🇶NOWHERE-0.0.0.0-097_1@97
+  network: ws
+  port: 60021
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 0a6e2599-5683-33ed-9f50-deef337c9924
+  ws-headers:
+    Host: nn01.nfeng6.pp.ua
+  ws-path: /
+- alterId: 2
+  cipher: auto
+  name: 🇦🇶NOWHERE-0.0.0.0-099_1@99
+  network: ws
+  port: 443
+  server: 104.17.224.203
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 5c70da5d-e641-3bf8-b7dc-5babd843ff3c
+  ws-headers:
+    Host: 0314tw02.fans8.xyz
+  ws-path: /ray

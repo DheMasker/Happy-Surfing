@@ -1,0 +1,134 @@
+proxies:
+- name: 🇨🇦CA-3.99.79.60-0437 | 112.76MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇺🇸US-3.131.217.171-0435 | 68.187MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇨🇳TW-118.165.45.4-0549 | 11.182MB
+  server: 104.17.224.203
+  port: 9755
+  type: trojan
+  password: e63d3dd2-1fdc-45d7-857a-ab32e26c4f73
+  sni: b12.ntbq.dynu.net
+  skip-cert-verify: false
+- name: 🇨🇳TW-220.141.146.9-0556 | 7.677MB
+  server: 104.17.224.203
+  port: 13761
+  type: trojan
+  password: 88bc7d94-8e1f-4d80-9549-ace0d0d98db2
+  sni: ty11t.twty.dynu.net
+  skip-cert-verify: false
+- name: 🇬🇧GB-18.168.166.125-0670 | 6.342MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇨🇳TW-61.228.134.75-0571 | 5.497MB
+  server: 104.17.224.203
+  port: 9489
+  type: trojan
+  password: 08c8768a-31ee-447e-81aa-845399553dbf
+  sni: b13.ntbq.dynu.net
+  skip-cert-verify: false
+- name: 🇨🇳TW-61.228.130.14-0582 | 4.681MB
+  server: 104.17.224.203
+  port: 3271
+  type: trojan
+  password: 88bc7d94-8e1f-4d80-9549-ace0d0d98db2
+  sni: b24.ntbq.dynu.net
+  skip-cert-verify: false
+- name: 🇺🇸US-44.239.71.206-0679 | 4.587MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇬🇧GB-52.56.161.112-0669 | 26.986MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇬🇧GB-18.135.43.165-0659 | 26.644MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇫🇷FR-13.37.76.57-0650 | 25.865MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇫🇷FR-13.39.129.14-0672 | 25.731MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇫🇷FR-13.37.67.77-0651 | 25.435MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇩🇪DE-18.153.135.55-0430 | 24.115MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇬🇧GB-13.43.246.56-0648 | 23.279MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: IE-63.33.4.128-0657 | 21.734MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: SE-13.51.123.185-0673 | 20.439MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: SE-13.48.161.130-0674 | 20.232MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: SE-13.49.220.175-0432 | 19.715MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false

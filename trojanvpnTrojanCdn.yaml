@@ -1,0 +1,777 @@
+proxies:
+- name: LATEST-UPDATE📅WED-08-FARVARDIN-1403🕑15:19 | 139.709MB
+  server: 104.17.224.203
+  port: 1080
+  type: trojan
+  password: aaacbcb-abac-baac-cbad-abbcabbcccaa
+  skip-cert-verify: false
+- name: 🇺🇸TR-TCP-TLS🇺🇸US-192.9.239.232:30018📡PING-052.04-MS | 129.763MB
+  server: 104.17.224.203
+  port: 30018
+  type: trojan
+  password: af087a9c-39cb-4df6-9099-a652a147149f
+  sni: us03.freeflyingcloud.xyz
+  skip-cert-verify: false
+- name: 🇺🇸TR-TCP-TLS🇺🇸US-44.239.71.206:22222📡PING-070.62-MS | 94.028MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: TR-TCP-TLS🇮🇪IE-3.255.39.98:22222📡PING-086.79-MS | 91.609MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: TR-TCP-TLS🇮🇪IE-54.194.16.78:22222📡PING-086.83-MS | 86.219MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: TR-TCP-TLS🇮🇪IE-52.211.35.65:22222📡PING-086.90-MS | 86.122MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: TR-TCP-TLS🇮🇪IE-52.31.191.112:22222📡PING-086.93-MS | 85.74MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: TR-TCP-TLS🇮🇪IE-63.33.4.128:22222📡PING-087.32-MS | 84.488MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇬🇧TR-TCP-NA🇬🇧GB-198.244.190.189:443📡PING-094.32-MS | 84.15MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: 48ac328a-d9e7-481c-b749-a0d0d66a749c
+  skip-cert-verify: false
+- name: 🇬🇧TR-TCP-NA🇬🇧GB-46.101.75.66:443📡PING-095.61-MS | 79.144MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: 64228596-6837-482f-91e6-452734bd3a65
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.16.159.4:443📡PING-001.79-MS | 15.68MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: b4e8771997c94732acbc9ec4d19c2589
+  sni: bangladeshipatri.com
+  skip-cert-verify: false
+- name: TR-GRPC-TLS🏴‍☠️NA-104.21.51.242:2087📡PING-001.76-MS | 15.676MB
+  server: 104.17.224.203
+  port: 2087
+  type: trojan
+  password: 7bc052e2-f009-4fc9-91a3-dd8410a5784f
+  sni: grpcfr.arminhadadi.site
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.17.147.4:443📡PING-001.75-MS | 15.659MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: 4732adfa16c6450bbef87264e41332db
+  sni: jobscareertoday.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.16.159.9:443📡PING-001.74-MS | 15.613MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: ce8b8b30ebba45f2a38dd608b85e8628
+  sni: bangladeshipatri.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.16.159.5:443📡PING-001.71-MS | 15.466MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: 984e400bf5d541b7b0815913fe0c432a
+  sni: bangladeshipatri.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.16.159.2:443📡PING-001.62-MS | 14.809MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: cb1f26aa437d4bfa9b841d28503ce8cc
+  sni: jobscareerforstudent.com
+  skip-cert-verify: false
+- name: TR-GRPC-TLS🏴‍☠️NA-104.21.68.153:443📡PING-001.60-MS | 14.739MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: a966a7ae-ac21-472d-be60-7726b724fc5d
+  sni: erorbpn.arminhadadi.onflashdrive.app
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-198.41.220.2:443📡PING-001.55-MS | 14.524MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: 242a3d8eee5e4ed1a6bfa4141d549a25
+  sni: jobscareerfortoday.com
+  skip-cert-verify: false
+- name: 🇳🇱TR-TCP-NA🇳🇱NL-103.214.68.57:10003📡PING-000.00-MS | 13.936MB
+  server: 104.17.224.203
+  port: 10003
+  type: trojan
+  password: 6x8HcghsjS
+  sni: yes998.chickenkiller.com
+  skip-cert-verify: false
+- name: ‍💻DEVELOPED-BYSOROUSH-MIRZAEI📌FOLLOW-CONTACTSYDSRSMRZ | 13.39MB
+  server: 104.17.224.203
+  port: 8080
+  type: trojan
+  password: abacbca-aacb-baca-cbad-acccabcbabab
+  skip-cert-verify: false
+- name: 🇬🇧TR-TCP-TLS🇬🇧GB-18.168.238.16:22222📡PING-096.97-MS | 78.341MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇬🇧TR-TCP-TLS🇬🇧GB-52.56.161.112:22222📡PING-097.53-MS | 75.039MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇨🇳TW-118.165.45.4-0549 | 11.182MB
+  server: 104.17.224.203
+  port: 9755
+  type: trojan
+  password: e63d3dd2-1fdc-45d7-857a-ab32e26c4f73
+  sni: b12.ntbq.dynu.net
+  skip-cert-verify: false
+- name: 🇬🇧TR-TCP-TLS🇬🇧GB-18.135.43.165:22222📡PING-098.28-MS | 74.079MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇬🇧TR-TCP-TLS🇬🇧GB-13.43.246.56:22222📡PING-098.41-MS | 71.45MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇨🇳TW-220.141.146.9-0556 | 7.677MB
+  server: 104.17.224.203
+  port: 13761
+  type: trojan
+  password: 88bc7d94-8e1f-4d80-9549-ace0d0d98db2
+  sni: ty11t.twty.dynu.net
+  skip-cert-verify: false
+- name: 🇬🇧TR-TCP-TLS🇬🇧GB-18.168.166.125:22222📡PING-098.91-MS | 65.916MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇬🇧GB-18.168.166.125-0670 | 6.342MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇳🇱TR-TCP-NA🇳🇱NL-142.93.226.128:443📡PING-102.88-MS | 63.476MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: 763faeec-72b7-4849-8509-2565993078be
+  skip-cert-verify: false
+- name: 🇨🇳TW-61.228.134.75-0571 | 5.497MB
+  server: 104.17.224.203
+  port: 9489
+  type: trojan
+  password: 08c8768a-31ee-447e-81aa-845399553dbf
+  sni: b13.ntbq.dynu.net
+  skip-cert-verify: false
+- name: 🇫🇷TR-TCP-TLS🇫🇷FR-13.39.129.14:22222📡PING-102.96-MS | 48.634MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇨🇳TW-61.228.130.14-0582 | 4.681MB
+  server: 104.17.224.203
+  port: 3271
+  type: trojan
+  password: 88bc7d94-8e1f-4d80-9549-ace0d0d98db2
+  sni: b24.ntbq.dynu.net
+  skip-cert-verify: false
+- name: 🇺🇸US-44.239.71.206-0679 | 4.587MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇫🇷TR-TCP-TLS🇫🇷FR-13.37.67.77:22222📡PING-102.98-MS | 46.691MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇳🇱TR-TCP-NA🇳🇱NL-188.119.112.242:443📡PING-103.00-MS | 45.606MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: 0b6499ea-c60e-436f-b63b-6dae4bf54779
+  skip-cert-verify: false
+- name: 🇫🇷TR-TCP-TLS🇫🇷FR-13.39.140.9:22222📡PING-103.27-MS | 45.552MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇫🇷TR-TCP-TLS🇫🇷FR-13.37.76.57:22222📡PING-103.92-MS | 45.126MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇫🇷TR-TCP-NA🇫🇷FR-141.94.115.231:443📡PING-104.06-MS | 42.814MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: e96f263f-8788-44fa-8bb1-25fb4a8c2a6d
+  skip-cert-verify: false
+- name: 🇫🇷TR-TCP-TLS🇫🇷FR-13.37.13.250:22222📡PING-104.07-MS | 41.203MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇫🇷TR-TCP-TLS🇫🇷FR-15.188.104.170:22222📡PING-104.51-MS | 41.073MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇩🇪TR-TCP-NA🇩🇪DE-51.75.77.237:443📡PING-105.02-MS | 38.966MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: 895afd17-1136-4ca2-9f8a-246f2c35d5ab
+  skip-cert-verify: false
+- name: 🇩🇪TR-TCP-NA🇩🇪DE-164.90.167.242:443📡PING-106.37-MS | 38.429MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: fa7f425f-7f66-4994-93ef-7eb05e047d1a
+  skip-cert-verify: false
+- name: 🇫🇷TR-TCP-NA🇫🇷FR-193.70.112.90:443📡PING-106.57-MS | 37.254MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: fc1e07b5-840b-4446-8232-94b0606f2e0d
+  skip-cert-verify: false
+- name: 🇩🇪TR-TCP-NA🇩🇪DE-95.164.68.116:2053📡PING-107.04-MS | 36.992MB
+  server: 104.17.224.203
+  port: 2053
+  type: trojan
+  password: f37a931d-7092-48fe-b82f-a98da3040eb2
+  sni: ftp.debian.org
+  skip-cert-verify: false
+- name: 🇩🇪TR-TCP-TLS🇩🇪DE-3.127.13.21:22222📡PING-107.34-MS | 36.473MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇫🇷TR-TCP-NA🇫🇷FR-172.232.62.234:443📡PING-107.77-MS | 35.997MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: 33ff7f6f-5412-45d5-b922-3b700b935140
+  skip-cert-verify: false
+- name: 🇩🇪TR-TCP-TLS🇩🇪DE-52.29.201.22:22222📡PING-109.23-MS | 34.613MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇩🇪TR-TCP-TLS🇩🇪DE-35.156.248.148:22222📡PING-109.68-MS | 34.526MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇩🇪TR-TCP-TLS🇩🇪DE-18.153.135.55:22222📡PING-110.09-MS | 34.048MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇩🇪TR-TCP-TLS🇩🇪DE-18.159.122.129:22222📡PING-110.22-MS | 33.672MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇩🇪TR-TCP-TLS🇩🇪DE-3.66.128.166:22222📡PING-111.77-MS | 33.104MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: TR-TCP-TLS🇸🇪SE-16.171.228.184:22222📡PING-124.39-MS | 32.472MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: TR-TCP-TLS🇸🇪SE-13.51.123.185:22222📡PING-124.85-MS | 32.296MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: TR-TCP-TLS🇸🇪SE-13.48.161.130:22222📡PING-125.43-MS | 32.183MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: TR-TCP-NA🇮🇹IT-95.164.46.235:443📡PING-127.11-MS | 31.772MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: 79412735-17ed-4e2e-9264-b7738413120e
+  skip-cert-verify: false
+- name: TR-TCP-TLS🇸🇪SE-16.170.83.108:22222📡PING-127.85-MS | 31.66MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: TR-TCP-TLS🇮🇪IE-34.251.97.90:22222📡PING-128.52-MS | 31.496MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: TR-TCP-TLS🇸🇪SE-13.49.220.175:22222📡PING-128.87-MS | 31.347MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇪🇸TR-TCP-NA🇪🇸ES-94.131.117.240:443📡PING-132.68-MS | 31.199MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: 87f2224c-59b9-4e05-b9d4-7cacd8ff54c3
+  skip-cert-verify: false
+- name: TR-TCP-NA🇱🇻LV-195.123.213.46:443📡PING-133.19-MS | 31.169MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: f2548fc1-c023-49dc-8030-dbf4888aff69
+  skip-cert-verify: false
+- name: TR-TCP-NA🇹🇷TR-95.164.116.35:443📡PING-136.23-MS | 31.156MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: d0d67bba-a71d-4e3e-8469-1d214198ad34
+  skip-cert-verify: false
+- name: 🇷🇺TR-TCP-TLS🇷🇺RU-45.140.169.83:30002📡PING-142.60-MS | 31.148MB
+  server: 104.17.224.203
+  port: 30002
+  type: trojan
+  password: af087a9c-39cb-4df6-9099-a652a147149f
+  sni: ru01.freeflyingcloud.xyz
+  skip-cert-verify: false
+- name: 🇯🇵TR-TCP-NA🇯🇵JP-139.162.112.174:443📡PING-150.72-MS | 31.102MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: 1fcee0f6-f908-49d2-b45f-b369c8a8ca41
+  skip-cert-verify: false
+- name: TR-TCP-TLS🇸🇪SE-13.49.182.1:22222📡PING-155.72-MS | 30.739MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇬🇧TR-TCP-TLS🇬🇧GB-18.168.246.125:22222📡PING-159.65-MS | 30.718MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇰🇷TR-TCP-TLS🇰🇷KR-193.122.125.90:24852📡PING-173.69-MS | 30.694MB
+  server: 104.17.224.203
+  port: 24852
+  type: trojan
+  password: af087a9c-39cb-4df6-9099-a652a147149f
+  sni: kr01.freeflyingcloud.xyz
+  skip-cert-verify: false
+- name: 🇨🇳TR-TCP-TLS🇹🇼TW-61.228.144.7:19489📡PING-176.25-MS | 30.58MB
+  server: 104.17.224.203
+  port: 19489
+  type: trojan
+  password: 658b678c-ef4f-43c7-83e5-91ee4c883110
+  sni: b22.ntbq.dynu.net
+  skip-cert-verify: false
+- name: 🇨🇳TR-TCP-NA🇹🇼TW-61.228.134.75:9489📡PING-178.45-MS | 30.201MB
+  server: 104.17.224.203
+  port: 9489
+  type: trojan
+  password: 6152dab2-5a09-44fe-9c14-3ece9dbbc4b8
+  sni: b13.ntbq.dynu.net
+  skip-cert-verify: false
+- name: 🇨🇳TR-TCP-TLS🇹🇼TW-61.228.130.14:3271📡PING-179.34-MS | 29.95MB
+  server: 104.17.224.203
+  port: 3271
+  type: trojan
+  password: 583017fb-7c2c-492c-ae6c-5be82f3dba8e
+  sni: b24.ntbq.dynu.net
+  skip-cert-verify: false
+- name: 🇨🇳TR-TCP-TLS🇹🇼TW-36.232.130.61:14656📡PING-182.72-MS | 29.809MB
+  server: 104.17.224.203
+  port: 14656
+  type: trojan
+  password: 74dc1ab2-cd8e-4c51-9d64-64e83ee1367c
+  sni: nc12.twtc.dynu.net
+  skip-cert-verify: false
+- name: 🇦🇺TR-TCP-NA🇦🇺AU-192.53.168.192:443📡PING-187.13-MS | 29.627MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: acb05e97-0ce2-4ba4-996a-bcd1c1f6b578
+  skip-cert-verify: false
+- name: 🇸🇬TR-TCP-NA🇸🇬SG-172.104.63.96:443📡PING-211.41-MS | 29.589MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: 3b11409f-91ee-4457-b291-b281e11a1cbb
+  skip-cert-verify: false
+- name: 🇸🇬TR-WS-NONE🇸🇬SG-128.199.193.14:28856📡PING-213.89-MS | 29.138MB
+  server: 104.17.224.203
+  port: 28856
+  type: trojan
+  password: FdiVDAituq
+  skip-cert-verify: false
+- name: 🇸🇬TR-TCP-NA🇸🇬SG-139.162.39.206:443📡PING-215.42-MS | 29.069MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: f6a5ad14-c0ca-4646-9713-359f84a32ad7
+  skip-cert-verify: false
+- name: 🇸🇬TR-TCP-NA🇸🇬SG-139.162.49.215:443📡PING-216.60-MS | 28.465MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: b3965d2d-3b82-45cc-927b-1336aca3f3fe
+  skip-cert-verify: false
+- name: TR-TCP-NA🇰🇿KZ-95.164.114.43:443📡PING-219.41-MS | 28.428MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: 499c3578-7317-4c6f-984b-fa0437cdf8c4
+  skip-cert-verify: false
+- name: 🇭🇰TR-TCP-NA🇭🇰HK-194.156.98.99:443📡PING-220.11-MS | 28.342MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: 94ddbcbf-f976-4fa4-b563-b913e7d5766c
+  skip-cert-verify: false
+- name: TR-TCP-NA🇻🇳VN-103.9.77.6:443📡PING-220.19-MS | 28.094MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: 5a92d674-308c-4d95-b283-28383e63a59b
+  skip-cert-verify: false
+- name: TR-TCP-NA🇮🇩ID-172.232.251.19:443📡PING-225.98-MS | 27.895MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: cc638799-b3c9-4836-b15f-59ed3d0a9b02
+  skip-cert-verify: false
+- name: 🇮🇳TR-TCP-NA🇮🇳IN-172.235.9.254:443📡PING-254.94-MS | 27.428MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: 867f9588-c514-49c5-bcd8-f6976219aeaa
+  skip-cert-verify: false
+- name: 🇺🇸TR-TCP-TLS🇺🇸US-15.181.201.80:443📡PING-037.62-MS | 27.044MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: pjdnqv
+  sni: aws-us-dallas-1.f1rocketnode.com
+  skip-cert-verify: false
+- name: 🇺🇸TR-TCP-TLS🇺🇸US-3.131.217.171:22222📡PING-032.93-MS | 26.584MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇺🇸TR-TCP-TLS🇺🇸US-3.137.124.235:22222📡PING-030.24-MS | 26.048MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇺🇸TR-TCP-NA🇺🇸US-50.116.21.188:443📡PING-022.69-MS | 25.691MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: 2da099cf-ee67-4bfa-b41f-f06ed54b2e5f
+  skip-cert-verify: false
+- name: 🇺🇸TR-TCP-NA🇺🇸US-45.79.9.231:443📡PING-022.57-MS | 25.436MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: 96bb652f-98cf-4207-aa5f-0eea485f39a9
+  skip-cert-verify: false
+- name: 🇨🇦TR-TCP-TLS🇨🇦CA-3.99.79.60:22222📡PING-021.44-MS | 25.402MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇨🇦TR-TCP-TLS🇨🇦CA-15.222.42.201:22222📡PING-021.30-MS | 25.365MB
+  server: 104.17.224.203
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇨🇦TR-TCP-NA🇨🇦CA-172.105.25.249:443📡PING-012.44-MS | 24.093MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: f6181a66-12ac-43a7-abbe-d3cb8fb4ab7c
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.16.192.158:443📡PING-004.38-MS | 24.072MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: f0eb8c92ce8946aaba856569cff1a16b
+  sni: jobscareerforlawyers.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.19.171.7:443📡PING-002.74-MS | 22.902MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: 984e400bf5d541b7b0815913fe0c432a
+  sni: jobscareerforstudent.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.17.147.1:443📡PING-002.62-MS | 22.894MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  sni: jobscareerforstudent.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-198.41.220.16:443📡PING-002.61-MS | 22.574MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: b0b861c2c85346a389b9e95769c3cba4
+  sni: avianrecruit.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-198.41.220.10:443📡PING-002.60-MS | 21.783MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: 2cba4104747d49d18319e5ade1b93ab5
+  sni: jobscareerforstudent.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.17.147.77:443📡PING-002.59-MS | 21.643MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: 71409d3e488548e8bb076d229778f008
+  sni: bangladeshipatri.com
+  skip-cert-verify: false
+- name: 🇺🇸TR-WS-NA🇺🇸US-172.67.204.84:443📡PING-002.53-MS | 21.615MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: a93780f0-ebcf-11ee-afd4-1239d0255272
+  sni: us1.test3.net
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.19.171.3:443📡PING-002.51-MS | 21.4MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: f0eb8c92ce8946aaba856569cff1a16b
+  sni: sherasheba.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.19.159.144:443📡PING-002.50-MS | 21.294MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: 4aec4e7f8cf8454ea4613659822e1a61
+  sni: avianrecruit.com
+  skip-cert-verify: false
+- name: 🇳🇱TR-GRPC-NA🇳🇱NL-188.114.98.0:443📡PING-002.47-MS | 21.153MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: 01596265-168b-46a7-bcb7-25662c7a9546
+  sni: hdfy7c1.foriran2.eu.org
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.16.159.10:443📡PING-002.45-MS | 21.056MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: 4aec4e7f8cf8454ea4613659822e1a61
+  sni: bangladeshipatri.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-198.41.220.20:443📡PING-002.31-MS | 20.811MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: e8105dfd24414268b6c7652c63731097
+  sni: avianrecruit.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🇨🇷CR-190.93.246.247:443📡PING-002.31-MS | 20.483MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: dba20dcb635e430fa4d3bfc303a149d2
+  sni: jobscareerforlawyers.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-198.41.220.5:443📡PING-002.30-MS | 20.426MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: cb1f26aa437d4bfa9b841d28503ce8cc
+  sni: jobscareertoday.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.19.171.9:443📡PING-002.29-MS | 20.282MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: 984e400bf5d541b7b0815913fe0c432a
+  sni: jobscareerfortoday.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.16.192.146:443📡PING-002.26-MS | 20.267MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  sni: jobscareertoday.com
+  skip-cert-verify: false
+- name: 🇺🇸TR-GRPC-TLS🇺🇸US-172.67.196.164:443📡PING-002.22-MS | 19.736MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: a966a7ae-ac21-472d-be60-7726b724fc5d
+  sni: erorbpn.arminhadadi.onflashdrive.app
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.16.123.175:2083📡PING-002.20-MS | 19.529MB
+  server: 104.17.224.203
+  port: 2083
+  type: trojan
+  password: qG9K8AGnn9XH5jUqeFu96g
+  sni: cdn13.cdn2cdn.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-198.41.220.12:443📡PING-002.04-MS | 19.378MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: 242a3d8eee5e4ed1a6bfa4141d549a25
+  sni: jobscareerforlawyers.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-198.41.220.8:443📡PING-002.01-MS | 18.848MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: b4e8771997c94732acbc9ec4d19c2589
+  sni: jobscareerforstudent.com
+  skip-cert-verify: false
+- name: 🇺🇸TR-GRPC-TLS🇺🇸US-172.67.192.61:2087📡PING-002.01-MS | 18.444MB
+  server: 104.17.224.203
+  port: 2087
+  type: trojan
+  password: 7bc052e2-f009-4fc9-91a3-dd8410a5784f
+  sni: grpcfr.arminhadadi.site
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.21.25.193:2083📡PING-001.93-MS | 16.888MB
+  server: 104.17.224.203
+  port: 2083
+  type: trojan
+  password: 6dCf6Syv1FwpjcAoCB2vfQ
+  sni: cdn15.cdn2cdn.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.16.159.3:443📡PING-001.93-MS | 16.574MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: dba20dcb635e430fa4d3bfc303a149d2
+  sni: bangladeshipatri.com
+  skip-cert-verify: false
+- name: TR-WS-NA🏴‍☠️NA-104.21.69.44:443📡PING-001.92-MS | 15.991MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: a3bce210-eacc-11ee-be58-1239d0255272
+  sni: de2.test3.net
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.17.215.2:443📡PING-001.84-MS | 15.917MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: 669d0ac7b5b64ebbb1abb75d5d540a5c
+  sni: jobscareerforstudent.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.16.159.7:443📡PING-001.83-MS | 15.9MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: 4732adfa16c6450bbef87264e41332db
+  sni: bangladeshipatri.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.17.147.8:443📡PING-001.83-MS | 15.755MB
+  server: 104.17.224.203
+  port: 443
+  type: trojan
+  password: 4aec4e7f8cf8454ea4613659822e1a61
+  sni: jobscareerforstudent.com
+  skip-cert-verify: false

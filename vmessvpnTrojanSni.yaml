@@ -1,0 +1,36 @@
+proxies:
+- name: 🇨🇳TW-220.141.146.9-0556 | 7.677MB
+  server: ty11t.twty.dynu.net
+  port: 13761
+  type: trojan
+  password: 88bc7d94-8e1f-4d80-9549-ace0d0d98db2
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇬🇧GB-18.168.166.125-0670 | 6.342MB
+  server: 18.168.166.125
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇨🇳TW-61.228.134.75-0571 | 5.497MB
+  server: b13.ntbq.dynu.net
+  port: 9489
+  type: trojan
+  password: 08c8768a-31ee-447e-81aa-845399553dbf
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇨🇳TW-61.228.130.14-0582 | 4.681MB
+  server: b24.ntbq.dynu.net
+  port: 3271
+  type: trojan
+  password: 88bc7d94-8e1f-4d80-9549-ace0d0d98db2
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇺🇸US-44.239.71.206-0679 | 4.587MB
+  server: 44.239.71.206
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: live.iflix.com
+  skip-cert-verify: false

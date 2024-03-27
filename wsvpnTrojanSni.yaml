@@ -1,0 +1,316 @@
+proxies:
+- name: TR-WS-TLS🏴‍☠️NA-198.41.220.8:443📡PING-002.01-MS | 22.721MB
+  server: 198.41.220.8
+  port: 443
+  type: trojan
+  password: b4e8771997c94732acbc9ec4d19c2589
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.17.147.8:443📡PING-001.94-MS | 21.841MB
+  server: 104.17.147.8
+  port: 443
+  type: trojan
+  password: 4aec4e7f8cf8454ea4613659822e1a61
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.16.159.3:443📡PING-001.93-MS | 21.251MB
+  server: 104.16.159.3
+  port: 443
+  type: trojan
+  password: dba20dcb635e430fa4d3bfc303a149d2
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.21.25.193:2083📡PING-001.93-MS | 20.905MB
+  server: 104.21.25.193
+  port: 2083
+  type: trojan
+  password: 6dCf6Syv1FwpjcAoCB2vfQ
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: TR-WS-NA🏴‍☠️NA-104.21.69.44:443📡PING-001.92-MS | 20.633MB
+  server: 104.21.69.44
+  port: 443
+  type: trojan
+  password: a3bce210-eacc-11ee-be58-1239d0255272
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.17.215.2:443📡PING-001.88-MS | 20.181MB
+  server: 104.17.215.2
+  port: 443
+  type: trojan
+  password: 669d0ac7b5b64ebbb1abb75d5d540a5c
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: TR-WS-NA🏴‍☠️NA-104.21.69.44:443📡PING-001.86-MS | 19.941MB
+  server: 104.21.69.44
+  port: 443
+  type: trojan
+  password: a3bce210-eacc-11ee-be58-1239d0255272
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.17.215.2:443📡PING-001.84-MS | 19.831MB
+  server: 104.17.215.2
+  port: 443
+  type: trojan
+  password: 669d0ac7b5b64ebbb1abb75d5d540a5c
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.16.159.7:443📡PING-001.83-MS | 19.07MB
+  server: 104.16.159.7
+  port: 443
+  type: trojan
+  password: 4732adfa16c6450bbef87264e41332db
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.17.147.8:443📡PING-001.83-MS | 18.953MB
+  server: 104.17.147.8
+  port: 443
+  type: trojan
+  password: 4aec4e7f8cf8454ea4613659822e1a61
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.16.159.9:443📡PING-001.80-MS | 18.49MB
+  server: 104.16.159.9
+  port: 443
+  type: trojan
+  password: ce8b8b30ebba45f2a38dd608b85e8628
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.16.159.4:443📡PING-001.79-MS | 18.087MB
+  server: 104.16.159.4
+  port: 443
+  type: trojan
+  password: b4e8771997c94732acbc9ec4d19c2589
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.16.159.7:443📡PING-001.77-MS | 17.843MB
+  server: 104.16.159.7
+  port: 443
+  type: trojan
+  password: 4732adfa16c6450bbef87264e41332db
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.17.147.4:443📡PING-001.75-MS | 16.866MB
+  server: 104.17.147.4
+  port: 443
+  type: trojan
+  password: 4732adfa16c6450bbef87264e41332db
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.16.159.9:443📡PING-001.74-MS | 16.576MB
+  server: 104.16.159.9
+  port: 443
+  type: trojan
+  password: ce8b8b30ebba45f2a38dd608b85e8628
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.16.159.5:443📡PING-001.71-MS | 16.252MB
+  server: 104.16.159.5
+  port: 443
+  type: trojan
+  password: 984e400bf5d541b7b0815913fe0c432a
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.16.159.5:443📡PING-001.64-MS | 16.207MB
+  server: 104.16.159.5
+  port: 443
+  type: trojan
+  password: 984e400bf5d541b7b0815913fe0c432a
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.16.159.2:443📡PING-001.62-MS | 16.101MB
+  server: 104.16.159.2
+  port: 443
+  type: trojan
+  password: cb1f26aa437d4bfa9b841d28503ce8cc
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-198.41.220.2:443📡PING-001.55-MS | 16.029MB
+  server: 198.41.220.2
+  port: 443
+  type: trojan
+  password: 242a3d8eee5e4ed1a6bfa4141d549a25
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇨🇳TW-220.141.146.9-0556 | 7.677MB
+  server: ty11t.twty.dynu.net
+  port: 13761
+  type: trojan
+  password: 88bc7d94-8e1f-4d80-9549-ace0d0d98db2
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇬🇧GB-18.168.166.125-0670 | 6.342MB
+  server: 18.168.166.125
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇨🇳TW-61.228.134.75-0571 | 5.497MB
+  server: b13.ntbq.dynu.net
+  port: 9489
+  type: trojan
+  password: 08c8768a-31ee-447e-81aa-845399553dbf
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇨🇳TW-61.228.130.14-0582 | 4.681MB
+  server: b24.ntbq.dynu.net
+  port: 3271
+  type: trojan
+  password: 88bc7d94-8e1f-4d80-9549-ace0d0d98db2
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇺🇸US-44.239.71.206-0679 | 4.587MB
+  server: 44.239.71.206
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇸🇬TR-WS-NONE🇸🇬SG-128.199.193.14:28856📡PING-213.89-MS | 37.789MB
+  server: 128.199.193.14
+  port: 28856
+  type: trojan
+  password: FdiVDAituq
+  skip-cert-verify: false
+  sni: live.iflix.com
+- name: 🇸🇬TR-WS-NONE🇸🇬SG-128.199.193.14:28856📡PING-216.25-MS | 37.69MB
+  server: 128.199.193.14
+  port: 28856
+  type: trojan
+  password: FdiVDAituq
+  skip-cert-verify: false
+  sni: live.iflix.com
+- name: TR-WS-TLS🏴‍☠️NA-104.16.192.158:443📡PING-004.38-MS | 32.628MB
+  server: 104.16.192.158
+  port: 443
+  type: trojan
+  password: f0eb8c92ce8946aaba856569cff1a16b
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.19.171.7:443📡PING-002.74-MS | 32.156MB
+  server: 104.19.171.7
+  port: 443
+  type: trojan
+  password: 984e400bf5d541b7b0815913fe0c432a
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.17.147.1:443📡PING-002.62-MS | 30.88MB
+  server: 104.17.147.1
+  port: 443
+  type: trojan
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-198.41.220.16:443📡PING-002.61-MS | 30.746MB
+  server: 198.41.220.16
+  port: 443
+  type: trojan
+  password: b0b861c2c85346a389b9e95769c3cba4
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-198.41.220.10:443📡PING-002.60-MS | 30.058MB
+  server: 198.41.220.10
+  port: 443
+  type: trojan
+  password: 2cba4104747d49d18319e5ade1b93ab5
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.17.147.77:443📡PING-002.59-MS | 29.623MB
+  server: 104.17.147.77
+  port: 443
+  type: trojan
+  password: 71409d3e488548e8bb076d229778f008
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇺🇸TR-WS-NA🇺🇸US-172.67.204.84:443📡PING-002.56-MS | 28.713MB
+  server: 172.67.204.84
+  port: 443
+  type: trojan
+  password: a93780f0-ebcf-11ee-afd4-1239d0255272
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇺🇸TR-WS-NA🇺🇸US-172.67.204.84:443📡PING-002.53-MS | 28.305MB
+  server: 172.67.204.84
+  port: 443
+  type: trojan
+  password: a93780f0-ebcf-11ee-afd4-1239d0255272
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.19.171.3:443📡PING-002.51-MS | 28.294MB
+  server: 104.19.171.3
+  port: 443
+  type: trojan
+  password: f0eb8c92ce8946aaba856569cff1a16b
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.19.159.144:443📡PING-002.50-MS | 28.138MB
+  server: 104.19.159.144
+  port: 443
+  type: trojan
+  password: 4aec4e7f8cf8454ea4613659822e1a61
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.16.159.10:443📡PING-002.45-MS | 27.909MB
+  server: 104.16.159.10
+  port: 443
+  type: trojan
+  password: 4aec4e7f8cf8454ea4613659822e1a61
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-198.41.220.20:443📡PING-002.31-MS | 26.729MB
+  server: 198.41.220.20
+  port: 443
+  type: trojan
+  password: e8105dfd24414268b6c7652c63731097
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🇨🇷CR-190.93.246.247:443📡PING-002.31-MS | 25.814MB
+  server: 190.93.246.247
+  port: 443
+  type: trojan
+  password: dba20dcb635e430fa4d3bfc303a149d2
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-198.41.220.5:443📡PING-002.30-MS | 25.629MB
+  server: 198.41.220.5
+  port: 443
+  type: trojan
+  password: cb1f26aa437d4bfa9b841d28503ce8cc
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.19.171.9:443📡PING-002.29-MS | 25.515MB
+  server: 104.19.171.9
+  port: 443
+  type: trojan
+  password: 984e400bf5d541b7b0815913fe0c432a
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.16.192.146:443📡PING-002.26-MS | 24.595MB
+  server: 104.16.192.146
+  port: 443
+  type: trojan
+  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-104.16.123.175:2083📡PING-002.20-MS | 23.89MB
+  server: 104.16.123.175
+  port: 2083
+  type: trojan
+  password: qG9K8AGnn9XH5jUqeFu96g
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-198.41.220.20:443📡PING-002.20-MS | 23.705MB
+  server: 198.41.220.20
+  port: 443
+  type: trojan
+  password: e8105dfd24414268b6c7652c63731097
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: TR-WS-TLS🏴‍☠️NA-198.41.220.12:443📡PING-002.04-MS | 23.63MB
+  server: 198.41.220.12
+  port: 443
+  type: trojan
+  password: 242a3d8eee5e4ed1a6bfa4141d549a25
+  sni: live.iflix.com
+  skip-cert-verify: false
