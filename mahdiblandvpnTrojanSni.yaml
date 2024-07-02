@@ -1,0 +1,455 @@
+proxies:
+- name: 🇺🇸US-159.223.207.182-0750 | 147.827MB
+  server: 159.223.207.182
+  port: 34428
+  type: trojan
+  password: zIvR7ryOXv
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇺🇸US-185.180.13.70-0051 | 86.251MB
+  server: 185.180.13.70
+  port: 43118
+  type: trojan
+  password: ypDt8RkT7J
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇬🇧GB-198.244.190.189-0894 | 17.174MB
+  server: uk-full.privateip.net
+  port: 443
+  type: trojan
+  password: d150c8c3-a667-4d3e-843c-739f8558c7d2
+  skip-cert-verify: false
+  sni: live.iflix.com
+- name: 🇬🇧GB-23.106.32.171-0127 | 16.559MB
+  server: 23.106.32.171
+  port: 443
+  type: trojan
+  password: F9D3CpxDl8a3ezeZNSBSAa2RcZNSBSAa2RcY8IyagD67Yn3S30ZTElRj4wFX5On3S30ZT
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇫🇷FR-51.158.217.195-0130 | 15.881MB
+  server: 51.158.217.195
+  port: 43118
+  type: trojan
+  password: ypDt8RkT7J
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇫🇷FR-51.158.217.60-0191 | 15.379MB
+  server: 51.158.217.60
+  port: 43118
+  type: trojan
+  password: ypDt8RkT7J
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇫🇷FR-51.158.217.197-0141 | 15.303MB
+  server: 51.158.217.197
+  port: 43118
+  type: trojan
+  password: ypDt8RkT7J
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇫🇷FR-51.158.217.161-0110 | 15.079MB
+  server: 51.158.217.161
+  port: 43118
+  type: trojan
+  password: ypDt8RkT7J
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇫🇷FR-51.158.217.130-0087 | 14.81MB
+  server: 51.158.217.130
+  port: 43118
+  type: trojan
+  password: ypDt8RkT7J
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇫🇷FR-51.158.217.57-0200 | 14.782MB
+  server: 51.158.217.57
+  port: 43118
+  type: trojan
+  password: ypDt8RkT7J
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇸🇬SG-13.213.49.161-0921 | 14.743MB
+  server: valance.protocolbuffer.com
+  port: 28332
+  type: trojan
+  password: D2F4KSxOpeCyZ337FDCwlRR6S78Ca93nn6TCBSXS3lqgZA83D83Fu5eaIgpRjYO39aEpa
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇸🇬SG-13.213.49.161-0135 | 14.721MB
+  server: 13.213.49.161
+  port: 28332
+  type: trojan
+  password: D2F4KSxOpeCyZ337FDCwlRR6S78Ca93nn6TCBSXS3lqgZA83D83Fu5eaIgpRjYO39aEpa
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇫🇷FR-62.210.83.57-0145 | 14.626MB
+  server: 62.210.83.57
+  port: 43118
+  type: trojan
+  password: ypDt8RkT7J
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: IT-212.102.54.11-0069 | 14.524MB
+  server: 212.102.54.11
+  port: 43118
+  type: trojan
+  password: ypDt8RkT7J
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇩🇪DE-169.150.206.186-0173 | 14.482MB
+  server: 169.150.206.186
+  port: 43118
+  type: trojan
+  password: ypDt8RkT7J
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇸🇬SG-172.104.58.163-0081 | 14.162MB
+  server: 172.104.58.163
+  port: 443
+  type: trojan
+  password: c3d6d2e4-05a5-4a48-b91a-070b5e9fcdfb
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇫🇷FR-62.210.82.54-0180 | 14.143MB
+  server: 62.210.82.54
+  port: 43118
+  type: trojan
+  password: ypDt8RkT7J
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇸🇬SG-172.104.58.163-0945 | 14.084MB
+  server: sg2-full.privateip.net
+  port: 443
+  type: trojan
+  password: c3d6d2e4-05a5-4a48-b91a-070b5e9fcdfb
+  skip-cert-verify: false
+  sni: live.iflix.com
+- name: 🇫🇷FR-51.159.102.179-0129 | 14.083MB
+  server: 51.159.102.179
+  port: 43118
+  type: trojan
+  password: ypDt8RkT7J
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇫🇷FR-213.186.36.123-0199 | 13.921MB
+  server: 213.186.36.123
+  port: 43118
+  type: trojan
+  password: ypDt8RkT7J
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: SE-121.127.46.131-0165 | 13.52MB
+  server: 121.127.46.131
+  port: 43118
+  type: trojan
+  password: ypDt8RkT7J
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: ID-172.232.250.227-0939 | 12.937MB
+  server: id-full.privateip.net
+  port: 443
+  type: trojan
+  password: f3082a98-5936-4d31-a6f8-c9da3b9cf457
+  skip-cert-verify: false
+  sni: live.iflix.com
+- name: ID-172.232.250.227-0107 | 12.872MB
+  server: 172.232.250.227
+  port: 443
+  type: trojan
+  password: f3082a98-5936-4d31-a6f8-c9da3b9cf457
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇨🇳TW-61.224.111.199-0103 | 11.414MB
+  server: tj-tw02.yiyo2way.xyz
+  port: 9980
+  type: trojan
+  password: 4179ca8a-d210-34c2-9d17-125377a5abd2
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇺🇸US-3.132.232.249-0167 | 44.872MB
+  server: 3.132.232.249
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: TR-207.211.215.169-0138 | 8.607MB
+  server: 207.211.215.169
+  port: 43118
+  type: trojan
+  password: ypDt8RkT7J
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: CZ-89.187.189.88-0101 | 7.935MB
+  server: 89.187.189.88
+  port: 43118
+  type: trojan
+  password: ypDt8RkT7J
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇵🇱PL-151.115.83.178-0073 | 6.486MB
+  server: 151.115.83.178
+  port: 43118
+  type: trojan
+  password: ypDt8RkT7J
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇵🇱PL-151.115.83.239-0192 | 5.267MB
+  server: 151.115.83.239
+  port: 43118
+  type: trojan
+  password: ypDt8RkT7J
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇯🇵JP-18.183.164.91-2704 | 4.996MB
+  server: jp07.421421.xyz
+  port: 20230
+  type: trojan
+  password: 0bfa2050-b165-4156-859c-70f36d300dce
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇫🇷FR-51.44.46.28-0184 | 3.637MB
+  server: 51.44.46.28
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇫🇷FR-15.237.204.41-207_1@206
+  password: telegram-id-directvpn
+  port: 22222
+  server: 15.237.204.41
+  skip-cert-verify: true
+  sni: live.iflix.com
+  type: trojan
+- name: 🇷🇺RU-176.32.35.167-210_1@209
+  password: 85bce006-4885-11ee-8792-f23c9164ca5d
+  port: 1007
+  server: 004282c1-sbdj40-sdlngq-1n7jq.ru.z7zi.com
+  skip-cert-verify: true
+  type: trojan
+  sni: live.iflix.com
+- name: 🇫🇷FR-35.181.213.154-213_1@212
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 35.181.213.154
+  skip-cert-verify: true
+  sni: live.iflix.com
+  type: trojan
+- name: 🇮🇪IE-34.247.43.253-219_1@218
+  password: telegram-id-directvpn
+  port: 22222
+  server: 34.247.43.253
+  skip-cert-verify: true
+  sni: live.iflix.com
+  type: trojan
+- name: 🏁RELAY-104.21.51.242-231_1@230
+  password: 241f01b9-8dfc-474f-8342-3fbd5c46417e
+  port: 2087
+  server: 104.21.51.242
+  skip-cert-verify: true
+  sni: live.iflix.com
+  type: trojan
+- name: 🇬🇧GB-35.179.33.22-232_1@231
+  password: telegram-id-directvpn
+  port: 22222
+  server: 35.179.33.22
+  skip-cert-verify: true
+  sni: live.iflix.com
+  type: trojan
+- name: 🇸🇪SE-95.164.33.62-233_1@232
+  password: 0b1371aa-649d-41dc-9126-338c87936500
+  port: 443
+  server: 95.164.33.62
+  skip-cert-verify: true
+  sni: live.iflix.com
+  type: trojan
+  ws-path: h=%2Fwebsocket
+- name: 美国 002_2@3
+  network: tcp
+  password: c2c76420-257f-492a-b20f-6560f3bfa78d
+  port: 443
+  server: kz.mjt000.com
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+  sni: live.iflix.com
+- name: 美国 004_2@8
+  network: tcp
+  password: 27876_t7d7f4e3f
+  port: 443
+  server: 23.142.200.175
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+  sni: live.iflix.com
+- client-fingerprint: chrome
+  name: 俄罗斯 002_2@26
+  network: tcp
+  password: 85bce006-4885-11ee-8792-f23c9164ca5d
+  port: 1007
+  server: 176.32.35.167
+  skip-cert-verify: true
+  sni: live.iflix.com
+  type: trojan
+  udp: false
+- client-fingerprint: chrome
+  name: 美国 017_2@27
+  network: tcp
+  password: telegram-id-directvpn
+  port: 22222
+  server: 13.49.11.215
+  skip-cert-verify: false
+  sni: live.iflix.com
+  type: trojan
+  udp: false
+- client-fingerprint: chrome
+  name: 美国 018_2@28
+  network: tcp
+  password: telegram-id-directvpn
+  port: 22222
+  server: 3.67.57.153
+  skip-cert-verify: false
+  sni: live.iflix.com
+  type: trojan
+  udp: false
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.26.8.202
+  skip-cert-verify: true
+  sni: live.iflix.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇨🇦CA-15.156.56.172-0112 | 38.308MB
+  server: 15.156.56.172
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇨🇦CA-15.157.52.5-0852 | 37.374MB
+  server: 15.157.52.5
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇺🇸US-89.187.181.172-0123 | 34.922MB
+  server: 89.187.181.172
+  port: 43118
+  type: trojan
+  password: ypDt8RkT7J
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇺🇸US-138.199.41.25-0058 | 31.586MB
+  server: 138.199.41.25
+  port: 43118
+  type: trojan
+  password: ypDt8RkT7J
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇨🇦CA-138.199.57.185-0188 | 29.285MB
+  server: 138.199.57.185
+  port: 43118
+  type: trojan
+  password: ypDt8RkT7J
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇯🇵JP-154.31.115.81-0134 | 25.294MB
+  server: 154.31.115.81
+  port: 28335
+  type: trojan
+  password: Z3TxDc6q8CZy3DaAaeARzS2pOAaeARzS2pO3DXwFKl40OF7YNyS9Y3RBlCSEeaF7YNyS9
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇯🇵JP-45.88.43.212-0855 | 21.152MB
+  server: tj-jp02.yiyo2way.xyz
+  port: 9980
+  type: trojan
+  password: 4179ca8a-d210-34c2-9d17-125377a5abd2
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇬🇧GB-178.79.140.181-0892 | 20.551MB
+  server: 178.79.140.181
+  port: 443
+  type: trojan
+  password: 30761083-5dcd-49d6-85b5-33756ef1f7ed
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇬🇧GB-178.79.140.181-0889 | 20.525MB
+  server: uk2-full.privateip.net
+  port: 443
+  type: trojan
+  password: 30761083-5dcd-49d6-85b5-33756ef1f7ed
+  skip-cert-verify: false
+  sni: live.iflix.com
+- name: 🇳🇱NL-188.119.112.242-0909 | 20.09MB
+  server: nl-full.privateip.net
+  port: 443
+  type: trojan
+  password: a906625d-446c-468f-9e26-1d15981fa0e9
+  skip-cert-verify: false
+  sni: live.iflix.com
+- name: 🇳🇱NL-188.119.112.242-0172 | 20.077MB
+  server: 188.119.112.242
+  port: 443
+  type: trojan
+  password: a906625d-446c-468f-9e26-1d15981fa0e9
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: IE-108.128.13.131-0097 | 20.046MB
+  server: 108.128.13.131
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇩🇪DE-91.107.183.205-0903 | 18.973MB
+  server: 91.107.183.205
+  port: 5060
+  type: trojan
+  password: eLpjAXg6pM
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇫🇷FR-172.233.255.109-0907 | 18.88MB
+  server: fr2-full.privateip.net
+  port: 443
+  type: trojan
+  password: 0280b529-2747-4b7a-ab11-bad6453150b9
+  skip-cert-verify: false
+  sni: live.iflix.com
+- name: 🇯🇵JP-138.199.23.100-0861 | 18.421MB
+  server: 138.199.23.100
+  port: 43118
+  type: trojan
+  password: ypDt8RkT7J
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇩🇪DE-91.107.183.205-0902 | 18.419MB
+  server: sv1.ahsg.top
+  port: 5060
+  type: trojan
+  password: eLpjAXg6pM
+  skip-cert-verify: false
+  sni: live.iflix.com
+- name: 🇫🇷FR-172.233.255.109-0924 | 18.017MB
+  server: 172.233.255.109
+  port: 443
+  type: trojan
+  password: 0280b529-2747-4b7a-ab11-bad6453150b9
+  sni: live.iflix.com
+  skip-cert-verify: false
+- name: 🇬🇧GB-198.244.190.189-0128 | 17.496MB
+  server: 198.244.190.189
+  port: 443
+  type: trojan
+  password: d150c8c3-a667-4d3e-843c-739f8558c7d2
+  sni: live.iflix.com
+  skip-cert-verify: false

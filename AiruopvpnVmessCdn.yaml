@@ -1,0 +1,71 @@
+proxies:
+- name: 🇺🇸US-45.145.73.239-076 | 76.807MB
+  server: 104.22.5.240
+  port: 443
+  type: vmess
+  uuid: 50e59d23-d9bb-463e-b9c0-dffc8ff633df
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: aa.com
+- name: RELAY-104.19.222.10-048 | 4.063MB
+  server: 104.22.5.240
+  port: 8080
+  type: vmess
+  uuid: d22e082c-3742-421f-aabd-2511eec9148c
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: us5PhAx6xsj.fzbqfrse.xyz
+- name: RELAY-162.159.153.2-145 | 47.225MB
+  server: 104.22.5.240
+  port: 8880
+  type: vmess
+  uuid: 760e05da-2333-4db4-9de4-2926cd3c64cf
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: usa.tgqyjc2024.qyjc666.xyz
+- name: RELAY-104.18.97.131-044 | 16.593MB
+  server: 104.22.5.240
+  port: 80
+  type: vmess
+  uuid: d22e082c-3742-421f-aabd-2511eec9148c
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 6Sn8mFtTjp3.yofnhkfc.xyz
+- name: RELAY-172.66.44.128-038 | 12.54MB
+  server: 104.22.5.240
+  port: 2052
+  type: vmess
+  uuid: d22e082c-3742-421f-aabd-2511eec9148c
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: zifstzamhk1.yofnhkfc.xyz

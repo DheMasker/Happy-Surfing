@@ -1,0 +1,111 @@
+proxies:
+- alterId: 0
+  cipher: auto
+  country: CA
+  h2-opts: {}
+  http-opts: {}
+  name: 0|-https://t.me/MrXbin-39
+  network: tcp
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 1b3d460b-91cc-46f9-909d-73823128ee0a
+- alterId: 0
+  cipher: auto
+  name: 10,11|香港|@ripaojiedian
+  network: ws
+  port: '2052'
+  server: 104.22.5.240
+  servername: ''
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: d22e082c-3742-421f-aabd-2511eec9148c
+  ws-opts:
+    headers:
+      Host: zifstzamhk1.yofnhkfc.xyz
+    path: /video/VuDFdktz
+- alterId: 0
+  cipher: auto
+  name: 10,11|日本3|@ripaojiedian
+  network: ws
+  port: '80'
+  server: 104.22.5.240
+  servername: ''
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: d22e082c-3742-421f-aabd-2511eec9148c
+  ws-opts:
+    headers:
+      Host: 6Sn8mFtTjp3.yofnhkfc.xyz
+    path: /video/X37qXHip
+- alterId: 0
+  cipher: auto
+  name: 10|🇯🇵 日本4|@ripaojiedian
+  network: ws
+  port: 46011
+  server: 104.22.5.240
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: e0affd30-6517-4f32-a2bd-71faab70b40a
+  ws-opts:
+    headers:
+      Host: mmjp11.micloud.buzz
+    path: /zh-cn
+- alterId: 0
+  cipher: auto
+  name: 10|🇯🇵 日本6|@ripaojiedian
+  port: 37459
+  server: 104.22.5.240
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: d5c462c7-859a-44e2-aac3-31d19a3e1362
+- alterId: 0
+  cipher: auto
+  name: 10,11|美国2|@ripaojiedian
+  network: ws
+  port: '8080'
+  server: 104.22.5.240
+  servername: ''
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: d22e082c-3742-421f-aabd-2511eec9148c
+  ws-opts:
+    headers:
+      Host: us5PhAx6xsj.fzbqfrse.xyz
+    path: /video/f8ZKTGaGoC/
+- alterId: 0
+  cipher: auto
+  name: 11|日本4|@ripaojiedian
+  network: ws
+  port: '46011'
+  server: 104.22.5.240
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: e0affd30-6517-4f32-a2bd-71faab70b40a
+  ws-opts:
+    headers:
+      Host: ''
+    path: /zh-cn
+- alterId: 0
+  cipher: auto
+  name: 11|日本6|@ripaojiedian
+  network: tcp
+  port: '37459'
+  server: 104.22.5.240
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: d5c462c7-859a-44e2-aac3-31d19a3e1362

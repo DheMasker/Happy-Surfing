@@ -1,0 +1,227 @@
+proxies:
+- name: 加拿大 205
+  type: vmess
+  network: ws
+  server: 104.22.5.240
+  port: 2082
+  uuid: 4bd22b62-c5fa-4871-8b11-f92fe1636c6d
+  servername: xianggang.mojc.xyz
+  skip-cert-verify: true
+  alterId: 0
+  cipher: auto
+  delay: 2342
+  ws-opts:
+    headers:
+      Host: xianggang.mojc.xyz
+    path: /?ed=2048
+- name: 美国 001
+  type: vmess
+  network: ws
+  server: 104.22.5.240
+  port: 2052
+  uuid: fbac5c1a-9190-4c48-af29-f8f3c47cb90c
+  tls: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: ybr.redbullplus.xyz
+    path: /
+- name: 加拿大 106
+  type: vmess
+  network: ws
+  server: 104.22.5.240
+  port: 8080
+  uuid: f990bb63-8fb3-43d0-b89f-61fe8713a461
+  tls: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: helan.jidexufei.top
+    path: /cctv13/hd.m3u8
+- name: 加拿大 008
+  type: vmess
+  network: ws
+  server: 104.22.5.240
+  port: 2082
+  uuid: 460258a8-89fc-4853-9d29-083bf285070f
+  tls: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: 2.irvn.debian.6.i.6.6.fxp.debian.org.speedtest.net.列列男事的事列上赛男.ghormehsabzi.cyou.
+    path: /
+- name: 加拿大 018
+  type: vmess
+  network: ws
+  server: 104.22.5.240
+  port: 2082
+  uuid: 1e3e82b2-36c0-44aa-80ad-5c3f693824f1
+  tls: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: hongkong.tgqyjc2024.qyjc666.xyz
+    path: /?ed=2048
+- name: 加拿大 027
+  type: vmess
+  network: ws
+  server: 104.22.5.240
+  port: 8080
+  uuid: 1e3e82b2-36c0-44aa-80ad-5c3f693824f1
+  tls: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: japan.tgqyjc2024.qyjc666.xyz
+    path: /?ed=2048
+- name: 加拿大 028
+  type: vmess
+  network: ws
+  server: 104.22.5.240
+  port: 2052
+  uuid: 1e3e82b2-36c0-44aa-80ad-5c3f693824f1
+  tls: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: japan.tgqyjc2024.qyjc666.xyz
+    path: /?ed=2048
+- name: 哈萨克斯坦 002
+  type: vmess
+  network: tcp
+  server: 104.22.5.240
+  port: 2083
+  uuid: d19b7c3b-d183-4bd8-9917-fec99ed81698
+  servername: kz-v2ray.ipracevpn.com
+  tls: true
+  alterId: 0
+  cipher: auto
+- name: 加拿大 071
+  type: vmess
+  network: ws
+  server: 104.22.5.240
+  port: 2052
+  uuid: 60bcbd52-0c88-4da3-aee2-cc1f9d5ca224
+  skip-cert-verify: true
+  tls: false
+  udp: true
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: ybr.redbullplus.xyz
+    path: /
+- name: 加拿大 072
+  type: vmess
+  network: ws
+  server: 104.22.5.240
+  port: 2086
+  uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
+  servername: ip002.dtku47.xyz
+  udp: true
+  alterId: 0
+  cipher: auto
+  delay: 1116
+  ws-opts:
+    headers:
+      Host: ip002.dtku47.xyz
+    path: 29eebb60-b27b-4a9d-bba5-947763d9205e-vm
+- name: 加拿大 074
+  type: vmess
+  network: ws
+  server: 104.22.5.240
+  port: 80
+  uuid: 6c168fcc-2231-4f3b-8c1e-f6391692df4a
+  skip-cert-verify: true
+  tls: false
+  udp: true
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: range-shape-b3fuegu.bananok182.workers.dev
+    path: /hms02.fxiaomi.sbs/link
+- name: 加拿大 151
+  type: vmess
+  network: ws
+  server: 104.22.5.240
+  port: 2052
+  uuid: 94282f95-994a-441e-93b5-68d2c9f866ba
+  tls: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: hanguo.mojc.xyz
+    path: /?ed=2048
+- name: 加拿大 003
+  type: vmess
+  network: ws
+  server: 104.22.5.240
+  port: 8080
+  uuid: 5ad59c1e-617c-407b-ad62-1bd16f6c20d4
+  tls: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: riben.mojc.xyz
+    path: /?ed=2048
+- name: 加拿大 081
+  type: vmess
+  network: ws
+  server: 104.22.5.240
+  port: 2052
+  uuid: 9d4d2803-cbf8-4c49-afeb-3ce17ae0007a
+  tls: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: lrb1.gyyun.top
+    path: /?ed=2048
+- name: 加拿大 131
+  type: vmess
+  network: ws
+  server: 104.22.5.240
+  port: 2052
+  uuid: 9d4d2803-cbf8-4c49-afeb-3ce17ae0007a
+  tls: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: lrb1.gyyun.top
+    path: /?ed=2048
+- name: 加拿大 140
+  type: vmess
+  network: ws
+  server: 104.22.5.240
+  port: 80
+  uuid: c3572b9c-db66-4656-91b2-853750a422ef
+  tls: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: xianggang.mojc.xyz
+    path: /?ed=2048
+- name: 加拿大 186
+  type: vmess
+  network: ws
+  server: 104.22.5.240
+  port: 2052
+  uuid: 9d4d2803-cbf8-4c49-afeb-3ce17ae0007a
+  tls: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: lrb1.gyyun.top
+    path: /?ed=2048

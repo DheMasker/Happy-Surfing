@@ -1,0 +1,102 @@
+proxies:
+- name: RELAY-104.21.69.44-0099 | 70.172MB
+  server: 104.22.5.240
+  port: 443
+  type: vmess
+  uuid: 950db6aa-4926-4616-816e-ec0312dcb87b
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: RELAY-104.21.69.44-0099 | 70.172MB
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: jahfkjha.cfd
+- name: RELAY-104.18.97.131-2736 | 16.28MB
+  server: 104.22.5.240
+  port: 80
+  type: vmess
+  uuid: d22e082c-3742-421f-aabd-2511eec9148c
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 6Sn8mFtTjp3.yofnhkfc.xyz
+- name: 🇺🇸US-45.145.73.239-0083 | 51.25MB
+  server: 104.22.5.240
+  port: 443
+  type: vmess
+  uuid: 50e59d23-d9bb-463e-b9c0-dffc8ff633df
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: aa.com
+- name: RELAY-104.19.41.148-2730 | 8.132MB
+  server: 104.22.5.240
+  port: 2052
+  type: vmess
+  uuid: d22e082c-3742-421f-aabd-2511eec9148c
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: zifstzamhk1.yofnhkfc.xyz
+- name: RELAY-172.67.105.102-1769 | 24.025MB
+  server: 104.22.5.240
+  port: 8080
+  type: vmess
+  uuid: d22e082c-3742-421f-aabd-2511eec9148c
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: us5PhAx6xsj.fzbqfrse.xyz
+- name: RELAY-104.21.95.165-0131 | 23.576MB
+  server: 104.22.5.240
+  port: 443
+  type: vmess
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: RELAY-104.21.95.165-0131 | 23.576MB
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: sareikela.com
+- name: RELAY-104.21.61.197-0104 | 23.015MB
+  server: 104.22.5.240
+  port: 443
+  type: vmess
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: RELAY-104.21.61.197-0104 | 23.015MB
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: to.tilebani.com
