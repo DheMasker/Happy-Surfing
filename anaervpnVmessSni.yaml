@@ -14,21 +14,6 @@ proxies:
     headers:
       Host: snowy-river-f497.turkeys-radford.workers.dev
     path: /linde06.indiavideo.sbs/linkws
-- name: 加拿大 205
-  type: vmess
-  network: ws
-  server: baobaojichang.bbjc.xyz
-  port: 2082
-  uuid: 4bd22b62-c5fa-4871-8b11-f92fe1636c6d
-  servername: live.iflix.com
-  skip-cert-verify: true
-  alterId: 0
-  cipher: auto
-  delay: 2342
-  ws-opts:
-    headers:
-      Host: xianggang.mojc.xyz
-    path: /?ed=2048
 - name: 加拿大 256
   type: vmess
   network: ws
@@ -100,21 +85,6 @@ proxies:
   alterId: 0
   cipher: auto
   delay: 907
-  ws-opts:
-    headers:
-      Host: ip11.freegradely.xyz
-    path: github.com/Alvin9999
-- name: 加拿大 271
-  type: vmess
-  network: ws
-  server: 104.19.55.49
-  port: 2086
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  servername: live.iflix.com
-  skip-cert-verify: true
-  alterId: 0
-  cipher: auto
-  delay: 906
   ws-opts:
     headers:
       Host: ip11.freegradely.xyz
@@ -201,81 +171,62 @@ proxies:
   tls: true
   alterId: 0
   cipher: auto
-- name: RELAY-104.19.45.72-0808 | 12.256MB
-  server: 104.19.45.72
-  port: 8443
+- name: 保加利亚 001
   type: vmess
-  uuid: 39135a39-e6ca-43df-a360-d859eea58d86
+  network: ws
+  server: 147.78.140.231
+  port: 443
+  uuid: f584de15-2034-4170-a723-f48c2bae5e0f
+  servername: live.iflix.com
+  tls: true
   alterId: 0
   cipher: auto
-  tls: true
-  skip-cert-verify: false
-  servername: live.iflix.com
-  network: ws
   ws-opts:
-    path: /
     headers:
-      Host: hk01.leleles.us
-- name: RELAY-104.19.47.185-0794 | 11.964MB
-  server: 104.19.47.185
-  port: 8443
+      Host: llow-disk-4b7b.bigapax481.workers.dev
+    path: /afrhms16v.bestxray.buzz/linkws
+- name: 加拿大 029
   type: vmess
-  uuid: 39135a39-e6ca-43df-a360-d859eea58d86
+  network: ws
+  server: 104.21.94.64
+  port: 443
+  uuid: 39cec18f-a439-427c-9a4e-aeb6fcdf6f53
+  servername: live.iflix.com
+  tls: true
   alterId: 0
   cipher: auto
-  tls: true
-  skip-cert-verify: false
-  servername: live.iflix.com
-  network: ws
   ws-opts:
-    path: /
     headers:
-      Host: hk01.linkitnow.net
-- name: RELAY-104.19.47.23-0793 | 10.983MB
-  server: 104.19.47.23
-  port: 8443
+      Host: linja05.hwcar.sbs
+    path: /linkws
+- name: 加拿大 046
   type: vmess
+  network: ws
+  server: 104.19.48.26
+  port: 8443
   uuid: 39135a39-e6ca-43df-a360-d859eea58d86
+  servername: live.iflix.com
+  tls: true
   alterId: 0
   cipher: auto
-  tls: true
-  skip-cert-verify: false
-  servername: live.iflix.com
-  network: ws
   ws-opts:
-    path: /
     headers:
       Host: hk01.linkitnow.net
-- name: RELAY-104.19.46.245-0797 | 10.837MB
-  server: 104.19.46.245
-  port: 8443
+    path: /
+- name: 加拿大 047
   type: vmess
+  network: ws
+  server: 104.19.45.73
+  port: 8443
   uuid: 39135a39-e6ca-43df-a360-d859eea58d86
+  servername: live.iflix.com
+  tls: true
   alterId: 0
   cipher: auto
-  tls: true
-  skip-cert-verify: false
-  servername: live.iflix.com
-  network: ws
   ws-opts:
-    path: /
     headers:
       Host: hk01.leleles.us
-- name: RELAY-104.19.45.11-0811 | 10.639MB
-  server: 104.19.45.11
-  port: 8443
-  type: vmess
-  uuid: 39135a39-e6ca-43df-a360-d859eea58d86
-  alterId: 0
-  cipher: auto
-  tls: true
-  skip-cert-verify: false
-  servername: live.iflix.com
-  network: ws
-  ws-opts:
     path: /
-    headers:
-      Host: hk01.leleles.us
 - name: RELAY-104.19.48.40-0809 | 9.564MB
   server: 104.19.48.40
   port: 8443
@@ -728,3 +679,18 @@ proxies:
     headers:
       Host: subhk.osafari599.workers.dev
     path: /linde06.indiavideo.sbs/linkws
+- name: 加拿大 205
+  type: vmess
+  network: ws
+  server: baobaojichang.bbjc.xyz
+  port: 2082
+  uuid: 4bd22b62-c5fa-4871-8b11-f92fe1636c6d
+  servername: live.iflix.com
+  skip-cert-verify: true
+  alterId: 0
+  cipher: auto
+  delay: 2342
+  ws-opts:
+    headers:
+      Host: xianggang.mojc.xyz
+    path: /?ed=2048

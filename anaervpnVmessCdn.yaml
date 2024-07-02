@@ -1,19 +1,4 @@
 proxies:
-- name: 加拿大 205
-  type: vmess
-  network: ws
-  server: 104.22.5.240
-  port: 2082
-  uuid: 4bd22b62-c5fa-4871-8b11-f92fe1636c6d
-  servername: xianggang.mojc.xyz
-  skip-cert-verify: true
-  alterId: 0
-  cipher: auto
-  delay: 2342
-  ws-opts:
-    headers:
-      Host: xianggang.mojc.xyz
-    path: /?ed=2048
 - name: 美国 001
   type: vmess
   network: ws
@@ -102,6 +87,35 @@ proxies:
   tls: true
   alterId: 0
   cipher: auto
+- name: 加拿大 034
+  type: vmess
+  network: ws
+  server: 104.22.5.240
+  port: 8880
+  uuid: 4de74afe-2614-4153-ba5f-ead3cc545118
+  tls: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: akmg1.gyyun.top
+    path: /?ed=2048
+- name: 加拿大 040
+  type: vmess
+  network: ws
+  server: 104.22.5.240
+  port: 2052
+  uuid: d22e082c-3742-421f-aabd-2511eec9148c
+  skip-cert-verify: false
+  tls: false
+  tfo: false
+  alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: zifstzamhk1.yofnhkfc.xyz
+    path: /video/VuDFdktz
 - name: 加拿大 071
   type: vmess
   network: ws
@@ -224,4 +238,19 @@ proxies:
   ws-opts:
     headers:
       Host: lrb1.gyyun.top
+    path: /?ed=2048
+- name: 加拿大 205
+  type: vmess
+  network: ws
+  server: 104.22.5.240
+  port: 2082
+  uuid: 4bd22b62-c5fa-4871-8b11-f92fe1636c6d
+  servername: xianggang.mojc.xyz
+  skip-cert-verify: true
+  alterId: 0
+  cipher: auto
+  delay: 2342
+  ws-opts:
+    headers:
+      Host: xianggang.mojc.xyz
     path: /?ed=2048

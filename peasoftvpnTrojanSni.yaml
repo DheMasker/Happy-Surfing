@@ -1,39 +1,22 @@
 proxies:
-- name: 0|-https://t.me/MrXbin-38
-  password: 4a67f957-d53d-486d-8295-1add754fc16d
+- country: JP
+  name: 0|-https://t.me/MrXbin-82
+  password: 4aa9ee7a-ffee-4ca4-a588-f5fa9e979c38
+  port: 20230
+  server: jp08.421421.xyz
+  skip-cert-verify: true
+  sni: live.iflix.com
+  type: trojan
+  udp: true
+- country: JP
+  name: 0|-https://t.me/MrXbin-83
+  password: 2155145a-b1b5-443a-8977-670f6bd10f02
   port: 50001
-  server: agroup.node1.t.nodelist-gfwairport2.top
+  server: bgroup.node1.t.nodelist-gfwairport2.top
   skip-cert-verify: true
   type: trojan
   udp: true
   sni: live.iflix.com
-- country: DE
-  name: 0|-https://t.me/MrXbin-95
-  password: telegram-id-privatevpns
-  port: 22222
-  server: 35.159.180.44
-  skip-cert-verify: true
-  sni: live.iflix.com
-  type: trojan
-  udp: true
-- country: DE
-  name: 0|-https://t.me/MrXbin-96
-  password: telegram-id-privatevpns
-  port: 22222
-  server: 3.121.2.15
-  skip-cert-verify: true
-  sni: live.iflix.com
-  type: trojan
-  udp: true
-- country: GB
-  name: 0|-https://t.me/MrXbin-99
-  password: telegram-id-privatevpns
-  port: 22222
-  server: 18.133.4.70
-  skip-cert-verify: true
-  sni: live.iflix.com
-  type: trojan
-  udp: true
 - name: 10|🇭🇰 香港4|@ripaojiedian
   password: RmdXQRXg
   port: 4027
@@ -41,15 +24,6 @@ proxies:
   skip-cert-verify: true
   type: trojan
   sni: live.iflix.com
-- country: JP
-  name: 0|-https://t.me/MrXbin-102
-  password: 2e660d96-f2d2-43c0-aa62-bf92edbac0cf
-  port: 20230
-  server: jp07.421421.xyz
-  skip-cert-verify: true
-  sni: live.iflix.com
-  type: trojan
-  udp: true
 - name: 10|🇭🇰 香港6|@ripaojiedian
   password: f5c49e40-f3f4-3252-b80f-2ec1dd55c177
   port: 13002
@@ -120,6 +94,15 @@ proxies:
   skip-cert-verify: true
   sni: live.iflix.com
   type: trojan
+- country: US
+  name: 0|-https://t.me/MrXbin-95
+  password: 361f238c-ed2a-418d-8c1d-45d6f0e8abe2
+  port: 443
+  server: hk3.lvwf8n-hh8e-2300-nmoo-d2e9naobeacn.9d8f269f96b25232-759cbb36d6548597.kaufen
+  skip-cert-verify: true
+  sni: live.iflix.com
+  type: trojan
+  udp: true
 - name: 🇬🇧GB-3.9.164.189-194_1@194
   password: E6r93XCOsyM9
   port: 16733
@@ -210,15 +193,6 @@ proxies:
   type: trojan
   udp: true
   sni: live.iflix.com
-- country: US
-  name: 0|-https://t.me/MrXbin-116
-  password: telegram-id-privatevpns
-  port: 22222
-  server: 51.20.46.249
-  skip-cert-verify: true
-  sni: live.iflix.com
-  type: trojan
-  udp: true
 - client-fingerprint: chrome
   name: 俄罗斯 002_2@26
   network: tcp
@@ -249,15 +223,6 @@ proxies:
   sni: live.iflix.com
   type: trojan
   udp: false
-- country: US
-  name: 0|-https://t.me/MrXbin-117
-  password: wkmY1R4EcP
-  port: 443
-  server: 104.207.139.204
-  skip-cert-verify: true
-  type: trojan
-  udp: true
-  sni: live.iflix.com
 - name: 🇺🇸_US_美国_8_5@18
   network: ws
   password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba

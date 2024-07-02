@@ -12,13 +12,6 @@ proxies:
     headers:
       Host: tjjd.yzyx1.v6.army
     path: /?ed=2048
-- name: 🇨🇳TW-61.224.111.199-0103 | 11.414MB
-  server: tj-tw02.yiyo2way.xyz
-  port: 9980
-  type: trojan
-  password: 4179ca8a-d210-34c2-9d17-125377a5abd2
-  sni: live.iflix.com
-  skip-cert-verify: false
 - name: TR-207.211.215.169-0138 | 8.607MB
   server: 207.211.215.169
   port: 43118
@@ -245,17 +238,6 @@ proxies:
   ws-opts:
     headers:
       Host: mailbox.CpiForPersia.Uk
-    path: trojan-ws/
-- name: 加拿大 191
-  type: trojan
-  network: ws
-  server: 172.67.73.163
-  port: 2096
-  password: d3e663d2-5cce-56e1-a199-2fec6078fcb4
-  sni: live.iflix.com
-  ws-opts:
-    headers:
-      Host: mailbox.CpIfOrperSiA.UK
     path: trojan-ws/
 - name: 加拿大 194
   type: trojan

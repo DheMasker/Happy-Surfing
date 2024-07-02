@@ -4,7 +4,7 @@ proxies:
   country: CA
   h2-opts: {}
   http-opts: {}
-  name: 0|-https://t.me/MrXbin-39
+  name: 0|-https://t.me/MrXbin-32
   network: tcp
   port: 443
   server: 104.22.5.240
