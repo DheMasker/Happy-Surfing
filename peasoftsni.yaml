@@ -1628,22 +1628,6 @@ proxies:
   fingerprint: ''
   ws-opts:
     path: /
-- alterId: 0
-  cipher: auto
-  name: 13,14|台湾|@ripaojiedian
-  network: ws
-  port: '27029'
-  server: ccc-29.rabbitpro-in-3.com
-  servername: ''
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: 4aaca0a5-7d55-3358-81ec-25b5e371ed90
-  ws-opts:
-    headers:
-      Host: v1-29.rabbitpro-out.com
-    path: /hls
 - uuid: d11b94a6-3d1b-4c65-828d-ede1f9d77c90
   server: hajlab.ucdavis.edu
   name: b9e61dccb38c44a4b02a7c2c76ab4aa9_@_%40V2rayNG_account_free`
@@ -2031,6 +2015,22 @@ proxies:
   ws-opts:
     path: 
       /@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048
+- alterId: 0
+  cipher: auto
+  name: 13,14|台湾|@ripaojiedian
+  network: ws
+  port: '27029'
+  server: ccc-29.rabbitpro-in-3.com
+  servername: ''
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: 4aaca0a5-7d55-3358-81ec-25b5e371ed90
+  ws-opts:
+    headers:
+      Host: v1-29.rabbitpro-out.com
+    path: /hls
 - uuid: dcf390e4-0f6c-4a6d-c068-8377fa0f1fe1
   server: 151.101.2.165
   name: 
