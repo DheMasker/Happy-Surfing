@@ -1,35 +1,4 @@
 proxies:
-- alterId: 2
-  cipher: auto
-  name: 1|🇺🇸2 |  1.7MB/s
-  network: ws
-  port: 23617
-  server: 17.mamamajd.site
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: eb93d5fa-19a5-3c33-97d6-13944c1effdf
-  ws-opts:
-    headers:
-      Host: 17.mamamajd.site
-    path: /
-- alterId: 2
-  cipher: auto
-  name: 1|🇺🇸5 |  3.5MB/s
-  network: ws
-  port: 22642
-  server: tk.hzlt.tkddns.xyz
-  servername: tk.hzlt.tkddns.xyz
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 98e96c9f-4bb3-39d4-9a2c-fac04257f7c7
-  ws-opts:
-    headers:
-      Host: zxjp-b.tkong.cc
-    path: /
 - name: 🇺🇸US-142.4.108.147-5986 | 22.556MB
   server: 142.4.108.147
   port: 38007
@@ -1506,6 +1475,18 @@ proxies:
     headers:
       Host: pcs-referenced-camera-concerns.trycloudflare.com
     path: d9c5ec6a-a8d8-4732-8447-56fbd2f93e96-vm
+- name: 🇺🇸US-38.14.107.226-5984 | 33.251MB
+  server: 38.14.107.226
+  port: 38003
+  type: vmess
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+  alterId: 64
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
 - name: 🇺🇸US-38.174.190.75-5989 | 31.961MB
   server: 38.174.190.75
   port: 38007
