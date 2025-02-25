@@ -1289,6 +1289,38 @@ proxies:
   uuid: 21f54c15-c624-460a-d6f3-95bb2041ea4a
   ws-opts:
     path: /
+- alterId: 2
+  cipher: auto
+  name: 2|🇺🇸1 |  5.2MB/s
+  network: ws
+  port: 23617
+  server: 17.mamamajd.site
+  skip-cert-verify: true
+  tfo: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: a5b9cbfc-1cc4-32a1-8abd-fc1f964e3563
+  ws-opts:
+    headers:
+      Host: 17.mamamajd.site
+    path: /
+- alterId: 2
+  cipher: auto
+  name: 2|🌀1- |  6.2MB/s
+  network: ws
+  port: 23612
+  server: 12.mamamajd.site
+  skip-cert-verify: true
+  tfo: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: a5b9cbfc-1cc4-32a1-8abd-fc1f964e3563
+  ws-opts:
+    headers:
+      Host: 12.mamamajd.site
+    path: /
 - alterId: 0
   cipher: auto
   name: 🇯🇵 节点日期：04-02_8@0
@@ -1471,6 +1503,22 @@ proxies:
     headers:
       Host: pcs-referenced-camera-concerns.trycloudflare.com
     path: d9c5ec6a-a8d8-4732-8447-56fbd2f93e96-vm
+- alterId: 2
+  cipher: auto
+  name: 2|🌀2- |  6.0MB/s
+  network: ws
+  port: 23614
+  server: 14.mamamajd.site
+  skip-cert-verify: true
+  tfo: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: a5b9cbfc-1cc4-32a1-8abd-fc1f964e3563
+  ws-opts:
+    headers:
+      Host: 14.mamamajd.site
+    path: /
 - name: 🇫🇷FR-51.77.20.137-8261 | 27.928MB
   server: 51.77.20.137
   port: 443
