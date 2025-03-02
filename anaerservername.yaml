@@ -1,0 +1,3453 @@
+proxies:
+- name: 美国 049
+  type: vless
+  network: ws
+  server: 104.24.37.192
+  port: 80
+  uuid: 9a2680ff-c5d5-410a-9108-8d6b10e4ea1e
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: ppal03.dolobe7975.workers.dev
+    path: /?ed=2560
+- name: 美国 069
+  type: vless
+  network: ws
+  server: 172.67.135.195
+  port: 2052
+  uuid: 0d710c53-876d-401f-97f0-6bd1a8db941a
+  skip-cert-verify: true
+  udp: true
+  xudp: true
+  ws-opts:
+    headers:
+      Host: sWEeT-DIsK-b69d.TUdTudtrUHtRU.wOrkERS.dev
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+        Gecko) Chrome/51.0.2704.63 Safari/537.36
+    path: /J61hhknxUXEwJZLq/MTU5LjY5LjE1My4xMTQ=?ed=2560
+- name: 美国 034
+  type: vless
+  network: ws
+  server: 104.26.15.85
+  port: 80
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: a.xn--i-sx6a60i.us.kg.
+    path: /?ed=2560
+- name: 美国 036
+  type: vless
+  network: ws
+  server: 104.26.14.85
+  port: 80
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  skip-cert-verify: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: a.xn--i-sx6a60i.us.kg.
+    path: /?ed=2560
+- name: 美国 038
+  type: vless
+  network: ws
+  server: 172.67.73.163
+  port: 80
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  skip-cert-verify: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: a.xn--i-sx6a60i.us.kg.
+    path: /?ed=2560
+- name: 美国 056
+  type: vless
+  network: ws
+  server: 104.26.12.101
+  port: 2052
+  uuid: dfc1a9ab-6241-4b73-92f7-b299fc6b7751
+  servername: graph.facebook.com
+  skip-cert-verify: true
+  udp: true
+  client-fingerprint: chrome
+  delay: 2905
+  ws-opts:
+    headers:
+      Host: Yak-Khanda-kUn-eY-gUL.biNG.com.xn--cR8HaaaAaAAAaAaaAaAaAAaAAaaaAAAAAaAaaAaaaAaaaaAAaaAAAaaaaAa.xN--Cr8hAaAaaAaaAAAAAAaaaAAAaAAaaAaAaAAAAAA.TREPAspeEdTEsT.NEtrag.cOm.PX.Com.sh017.IR.XN--Cr8hAaaAaaAaaAaaaAAAaaaAaaAaaaAaAAAaaaA.yek.dDnS-ip.nEt
+    path: /?ed=1080/telegram
+- name: 美国 046
+  type: vless
+  network: ws
+  server: 66.235.200.191
+  port: 80
+  uuid: e497da22-d020-40fb-a1fa-bc294066a2d2
+  servername: graph.facebook.com
+  skip-cert-verify: false
+  tls: false
+  udp: true
+  ws-opts:
+    headers:
+      Host: pormang.webhost99.workers.dev
+    path: /
+- name: 俄罗斯 004
+  type: vless
+  network: ws
+  server: 185.174.138.194
+  port: 80
+  uuid: e497da22-d020-40fb-a1fa-bc294066a2d2
+  servername: graph.facebook.com
+  skip-cert-verify: false
+  tls: false
+  udp: true
+  ws-opts:
+    headers:
+      Host: pormang.webhost99.workers.dev
+    path: /
+- name: 美国 051
+  type: vless
+  network: ws
+  server: 66.235.200.58
+  port: 80
+  uuid: e497da22-d020-40fb-a1fa-bc294066a2d2
+  servername: graph.facebook.com
+  skip-cert-verify: false
+  tls: false
+  udp: true
+  ws-opts:
+    headers:
+      Host: pormang.webhost99.workers.dev
+    path: /
+- name: 荷兰 004
+  type: vless
+  network: ws
+  server: 45.149.12.128
+  port: 80
+  uuid: e497da22-d020-40fb-a1fa-bc294066a2d2
+  servername: graph.facebook.com
+  skip-cert-verify: false
+  tls: false
+  udp: true
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: pormang.webhost99.workers.dev
+    path: /
+- name: 美国 013
+  type: vless
+  network: ws
+  server: 172.64.146.66
+  port: 2095
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: xijinpingnmsl.s4ar.workers.dev
+    path: /?ed=2560
+- name: 美国 014
+  type: vless
+  network: ws
+  server: 104.18.20.69
+  port: 2095
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: fuckingcloudflare.20241225.workers.dev
+    path: /?ed=2560
+- name: 美国 015
+  type: vless
+  network: ws
+  server: 104.18.21.94
+  port: 2095
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: fuckingcloudflare.2-5e8.workers.dev
+    path: /?ed=2560
+- name: 美国 016
+  type: vless
+  network: ws
+  server: 104.18.21.69
+  port: 2095
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: fuckingxijinping.xijinpingbigsb.workers.dev
+    path: /?ed=2560
+- name: 美国 018
+  type: vless
+  network: ws
+  server: 172.67.218.90
+  port: 80
+  uuid: 65b3cbba-e6ac-485a-9481-976a0415eab9
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: bLue-sNoW-a243.GeleNE5962.wOrKeRS.dEV
+    path: /Fvy0Y7NJ7uucUDha?ed=2560
+- name: 美国 020
+  type: vless
+  network: ws
+  server: 172.67.190.211
+  port: 2082
+  uuid: 54b3cbba-e6ac-485a-9481-976a0873eab9
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: bLaCk-trutH-63Bc.DoviF72324.WoRKeRs.dev
+    path: /?ed=2560
+- name: 荷兰 002
+  type: vless
+  network: ws
+  server: 45.131.5.160
+  port: 2086
+  uuid: f366e744-abcd-4b5b-bd5e-2bd97b6443bf
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: fva64rbmjfkfznnptk6imz6sihrno35m4csom83admge5tfxniwduyuyt954fdh.ks3om.workers.Dev
+    path: /
+- name: 美国 023
+  type: vless
+  network: ws
+  server: 104.16.19.242
+  port: 8880
+  uuid: 1853d1d2-1ccf-48e6-ae05-0c0bb285a8c4
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: winter-bush-f08c-ppal03.himigaw787.workers.dev
+    path: /?
+- name: 美国 024
+  type: vless
+  network: ws
+  server: 172.67.187.251
+  port: 2095
+  uuid: f3562b04-2f2b-433a-80b4-45f60d659004
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: 925tg.3gnc3sjz.workers.dev
+    path: /?ed=2560
+- name: 巴西 002
+  type: vless
+  network: ws
+  server: 188.114.97.1
+  port: 8880
+  uuid: 91d9b8d8-2aab-4e1a-9573-0d59e9cd7f8e
+  servername: graph.facebook.com
+  tls: false
+  ws-opts:
+    headers:
+      Host: falcunargo-channel.be3374a836.workers.Dev
+    path: /?ed=2048
+- name: 美国 026
+  type: vless
+  network: ws
+  server: 172.64.92.243
+  port: 80
+  uuid: 590dfbde-f8c8-429b-b947-39bb767ddd9c
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: square-moon-bc81-ppal03.tivere6418.workers.dev
+    path: /?ed=2560
+- name: 美国 027
+  type: vless
+  network: ws
+  server: 172.64.86.167
+  port: 80
+  uuid: 7ee0cedb-1f06-4be9-8444-51f289a4bf12
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: morning-sound-6fa2-ppal03.tinemo7285.workers.dev
+    path: /?ed=2560
+- name: 美国 031
+  type: vless
+  network: ws
+  server: 104.24.248.85
+  port: 80
+  uuid: 7fea28c6-f9b0-45ce-b7c2-ed3a3991d1e8
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: curly-waterfall-509e-ppal03.wimiba9167.workers.dev
+    path: /?ed=2560
+- name: 美国 032
+  type: vless
+  network: ws
+  server: 104.16.19.242
+  port: 80
+  uuid: 1853d1d2-1ccf-48e6-ae05-0c0bb285a8c4
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: winter-bush-f08c-ppal03.himigaw787.workers.dev
+    path: /?ed=2560
+- name: 荷兰 005
+  type: vless
+  network: ws
+  server: 45.131.5.91
+  port: 2086
+  uuid: f366e744-abcd-4b5b-bd5e-2bd97b6443bf
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: fva64rbmjfkfznnptk6imz6sihrno35m4csom83admge5tfxniwduyuyt954fdh.ks3om.workers.Dev
+    path: /
+- name: 美国 033
+  type: vmess
+  network: ws
+  server: 172.67.183.56
+  port: 80
+  uuid: 4bf074f4-7e9c-4e4b-a10d-156e26199729
+  skip-cert-verify: false
+  tls: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: us03s.5d8ecf82.cfd
+    path: /
+- name: 美国 037
+  type: trojan
+  network: ws
+  server: 172.66.47.83
+  port: 443
+  password: '%3AZ%23%253cdIG%27c*%3B*O%7D'
+  skip-cert-verify: true
+  udp: true
+  tfo: false
+  sni: JoinmAhDiSeRvER-csn.PaGeS.DEv
+  ws-opts:
+    headers:
+      Host: JoinmAhDiSeRvER-csn.PaGeS.DEv
+    path: /trVxXjc9031MC8sntF?ed=2560
+- name: 美国 039
+  type: trojan
+  network: ws
+  server: 104.21.16.1
+  port: 8443
+  password: s42%26umY%28K5n*csP4
+  skip-cert-verify: true
+  udp: true
+  tfo: false
+  sni: JOInMAHDiseRVer-EEu.pAGEs.dEv
+  ws-opts:
+    headers:
+      Host: JOInMAHDiseRVer-EEu.pAGEs.dEv
+    path: /trOagy9SuM2cDpqUqO?ed=2560
+- name: 荷兰 007
+  type: vless
+  network: ws
+  server: 45.131.210.118
+  port: 80
+  uuid: daf24a6d-2f78-4cab-867a-4da0f4c91cff
+  servername: graph.facebook.com
+  tls: false
+  ws-opts:
+    headers:
+      Host: 1224.j9q1xuv8.workers.dev
+    path: /Telegram
+- name: 美国 041
+  type: trojan
+  network: ws
+  server: 190.93.244.66
+  port: 443
+  password: bpb-trojan
+  sni: zeming13.us.kg
+  ws-opts:
+    headers:
+      Host: zeming13.us.kg
+    path: /tr
+- name: 美国 042
+  type: vless
+  network: ws
+  server: 104.21.27.250
+  port: 80
+  uuid: a9a9eebe-3716-58b2-99f3-aa5e58160be9
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: iranvps.fastroot.ir
+    path: /vless
+- name: 美国 045
+  type: vmess
+  network: ws
+  server: 6b2a30.50f8-2268-45e0.cfd
+  port: 80
+  uuid: 0ba4a240-1586-4a54-929c-26389c8a4111
+  skip-cert-verify: false
+  tls: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: jp01s.50f8-2268-45e0.cfd
+    path: /
+- name: 美国 047
+  type: vmess
+  network: ws
+  server: 172.67.153.119
+  port: 80
+  uuid: 4bf074f4-7e9c-4e4b-a10d-156e26199729
+  skip-cert-verify: false
+  tls: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: us03s.5d8ecf82.cfd
+    path: /
+- name: 美国 048
+  type: vmess
+  network: ws
+  server: 172.67.172.168
+  port: 80
+  uuid: 4bf074f4-7e9c-4e4b-a10d-156e26199729
+  skip-cert-verify: false
+  tls: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: us03s.5d8ecf82.cfd
+    path: /
+- name: 美国 040
+  type: vmess
+  network: ws
+  server: biazh.mmzhk.website
+  port: 443
+  uuid: 5b2ad717-20db-4e2e-bce7-c388e578ed9e
+  tls: true
+  udp: true
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: biazh.mmzhk.website
+    path: /
+- name: 美国 043
+  type: vmess
+  network: ws
+  server: pdizy.whmvmkwuey.store
+  port: 443
+  uuid: 88157597-2b84-47be-aafb-b7fcd8cf1a8b
+  tls: true
+  udp: true
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: pdizy.whmvmkwuey.store
+    path: /
+- name: 加拿大 001
+  type: vmess
+  network: ws
+  server: s5.db-link02.top
+  port: 2086
+  uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d
+  skip-cert-verify: true
+  tls: false
+  udp: true
+  tfo: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: 100-68-4-71.s5.db-link02.top
+    path: /dabai.in104.25.98.224
+- name: 巴西 003
+  type: vless
+  network: ws
+  server: 188.114.96.223
+  port: 80
+  uuid: eb201923-0e39-4425-bd0f-6244cd24ef2a
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: zaq11000d.b835a8094d.workers.dev
+    path: /?ed=2560
+- name: 美国 050
+  type: vmess
+  network: ws
+  server: 104.18.28.214
+  port: 80
+  uuid: 0ba4a240-1586-4a54-929c-26389c8a4111
+  skip-cert-verify: true
+  tls: false
+  udp: true
+  tfo: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: sg01s.57de-78fc4c715615.cfd
+    path: /
+- name: 美国 052
+  type: trojan
+  network: ws
+  server: 104.21.112.1
+  port: 8443
+  password: s42%26umY%28K5n*csP4
+  skip-cert-verify: true
+  udp: true
+  tfo: false
+  sni: JOInMAHDiseRVer-EEu.pAGEs.dEv
+  ws-opts:
+    headers:
+      Host: JOInMAHDiseRVer-EEu.pAGEs.dEv
+    path: /trOagy9SuM2cDpqUqO?ed=2560
+- name: 美国 053
+  type: vmess
+  network: ws
+  server: 151.101.192.155
+  port: 80
+  uuid: 6e3ac406-a15b-461d-8b05-ca01b284d9a0
+  skip-cert-verify: true
+  tls: false
+  udp: true
+  tfo: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: telegram-isvvpn.dev
+    path: /racevpn
+- name: 希腊 001
+  type: vless
+  network: ws
+  server: 31.22.116.38
+  port: 443
+  uuid: 7671069f-ce73-4977-be03-414e79f1d7cd
+  servername: graph.facebook.com
+  tls: true
+  udp: true
+  delay: 2146
+  ws-opts:
+    headers:
+      Host: usd.kobtty.me
+    path: /bing
+- name: 荷兰 012
+  type: vmess
+  network: ws
+  server: 188.164.248.120
+  port: 8443
+  uuid: e88b85c6-93b4-47f6-b3fb-2c55dcb1289f
+  skip-cert-verify: true
+  tls: true
+  udp: true
+  tfo: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: lax2.ibgfw.top
+    path: /dyajvws
+- name: 美国 054
+  type: vmess
+  network: ws
+  server: 198.41.209.70
+  port: 2082
+  uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d
+  skip-cert-verify: true
+  tls: false
+  udp: true
+  tfo: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: 100-38-62-25.s5.db-link02.top
+    path: /dabai.in104.18.42.172
+- name: 日本 001
+  type: vless
+  network: ws
+  server: 13.230.34.30
+  port: 443
+  uuid: 4b2e1ee8-a987-496b-8ca9-62317b566197
+  servername: graph.facebook.com
+  skip-cert-verify: true
+  tls: true
+  udp: true
+  ws-opts:
+    headers:
+      Host: agedi.ambercc.filegear-sg.me
+    path: /?ed=2560
+- name: 美国 055
+  type: vless
+  network: ws
+  server: 3.113.64.82
+  port: 443
+  uuid: 4b2e1ee8-a987-496b-8ca9-62317b566197
+  servername: graph.facebook.com
+  skip-cert-verify: true
+  tls: true
+  udp: true
+  ws-opts:
+    headers:
+      Host: agedi.ambercc.filegear-sg.me
+    path: /?ed=2560
+- name: 美国 073
+  type: vless
+  network: ws
+  server: 104.24.147.64
+  port: 80
+  uuid: 03e4d6fe-f461-499f-b9c6-35c60f192e1a
+  servername: graph.facebook.com
+  tls: false
+  ws-opts:
+    headers:
+      Host: ppal03-ppal03.letiwe3303.workers.dev
+    path: /?ed=2560
+- name: 澳大利亚 002
+  type: vless
+  network: ws
+  server: 43.155.71.120
+  port: 448
+  uuid: 4b2e1ee8-a987-496b-8ca9-62317b566197
+  servername: graph.facebook.com
+  skip-cert-verify: true
+  tls: true
+  udp: true
+  ws-opts:
+    headers:
+      Host: agedi.ambercc.filegear-sg.me
+    path: /?ed=2560
+- name: 日本 002
+  type: vless
+  network: ws
+  server: 18.183.158.211
+  port: 443
+  uuid: 4b2e1ee8-a987-496b-8ca9-62317b566197
+  servername: graph.facebook.com
+  skip-cert-verify: true
+  tls: true
+  udp: true
+  ws-opts:
+    headers:
+      Host: agedi.ambercc.filegear-sg.me
+    path: /?ed=2560
+- name: 新加坡 001
+  type: vless
+  network: ws
+  server: 13.250.14.76
+  port: 443
+  uuid: 4b2e1ee8-a987-496b-8ca9-62317b566197
+  servername: graph.facebook.com
+  skip-cert-verify: true
+  tls: true
+  udp: true
+  ws-opts:
+    headers:
+      Host: agedi.ambercc.filegear-sg.me
+    path: /?ed=2560
+- name: 新加坡 002
+  type: vless
+  network: ws
+  server: 54.254.52.56
+  port: 443
+  uuid: 4b2e1ee8-a987-496b-8ca9-62317b566197
+  servername: graph.facebook.com
+  skip-cert-verify: true
+  tls: true
+  udp: true
+  ws-opts:
+    headers:
+      Host: agedi.ambercc.filegear-sg.me
+    path: /?ed=2560
+- name: 加拿大 002
+  type: vmess
+  network: ws
+  server: s2.cn-db.top
+  port: 2052
+  uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d
+  skip-cert-verify: false
+  tls: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: 100-252-79-9.s2.cn-db.top
+    path: /
+- name: 加拿大 003
+  type: vmess
+  network: ws
+  server: s1.cn-db.top
+  port: 2052
+  uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d
+  skip-cert-verify: false
+  tls: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: 100-70-193-42.s1.cn-db.top
+    path: /
+- name: 美国 057
+  type: vmess
+  network: ws
+  server: 162.159.252.210
+  port: 80
+  uuid: 0ba4a240-1586-4a54-929c-26389c8a4111
+  skip-cert-verify: false
+  tls: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: sg01s.57de-78fc4c715615.cfd
+    path: /
+- name: 美国 058
+  type: vmess
+  network: ws
+  server: faedff.57de-78fc4c715615.cfd
+  port: 80
+  uuid: 0ba4a240-1586-4a54-929c-26389c8a4111
+  skip-cert-verify: false
+  tls: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: sg01s.57de-78fc4c715615.cfd
+    path: /
+- name: 美国 074
+  type: vless
+  network: ws
+  server: 104.24.248.204
+  port: 80
+  uuid: 2370f4d8-6694-4e51-8c72-b2782ae96a59
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: withered-wave-ee0b-ppal03.faxip46069.workers.dev
+    path: /?ed=2560
+- name: 斯洛文尼亚 001
+  type: vmess
+  network: ws
+  server: 92.53.191.56
+  port: 8443
+  uuid: e88b85c6-93b4-47f6-b3fb-2c55dcb1289f
+  skip-cert-verify: false
+  tls: true
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: lax2.ibgfw.top
+    path: /
+- name: 美国 059
+  type: vmess
+  network: ws
+  server: 104.17.213.241
+  port: 2082
+  uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d
+  skip-cert-verify: false
+  tls: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: 100-219-162-241.s5.cn-db.top
+    path: /
+- name: 美国 060
+  type: vmess
+  network: ws
+  server: tls.18.node-for-bigairport.win
+  port: 22443
+  uuid: 3519dfc0-fa27-41cc-8c19-981818f9f6d5
+  skip-cert-verify: true
+  tls: true
+  udp: true
+  tfo: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: tls.18.node-for-bigairport.win
+    path: /
+- name: 加拿大 004
+  type: vmess
+  network: ws
+  server: s4.db-link02.top
+  port: 2086
+  uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d
+  skip-cert-verify: true
+  tls: false
+  udp: true
+  tfo: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: 100-215-157-195.s4.db-link02.top
+    path: /dabai.in104.17.119.148
+- name: 美国 061
+  type: vless
+  network: ws
+  server: 47.76.76.61
+  port: 587
+  uuid: 4b2e1ee8-a987-496b-8ca9-62317b566197
+  servername: graph.facebook.com
+  skip-cert-verify: true
+  tls: true
+  udp: true
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: agedi.ambercc.filegear-sg.me
+    path: /?ed=2560
+- name: 美国 062
+  type: vless
+  network: ws
+  server: 47.76.218.163
+  port: 443
+  uuid: 4b2e1ee8-a987-496b-8ca9-62317b566197
+  servername: graph.facebook.com
+  skip-cert-verify: true
+  tls: true
+  udp: true
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: agedi.ambercc.filegear-sg.me
+    path: /?ed=2560
+- name: 韩国 001
+  type: vless
+  network: ws
+  server: 220.90.247.28
+  port: 50000
+  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
+  servername: graph.facebook.com
+  skip-cert-verify: true
+  tls: true
+  udp: true
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: s5.ylkszy.eu.org
+    path: /?ed=2560
+- name: 英国 002
+  type: vless
+  network: ws
+  server: 138.3.215.231
+  port: 44784
+  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
+  servername: graph.facebook.com
+  skip-cert-verify: true
+  tls: true
+  udp: true
+  ws-opts:
+    headers:
+      Host: s5.ylkszy.eu.org
+    path: /?ed=2560
+- name: 美国 075
+  type: vless
+  network: ws
+  server: 104.16.178.238
+  port: 80
+  uuid: d4eddaf9-a660-4905-b835-cad98677b380
+  servername: graph.facebook.com
+  tls: false
+  ws-opts:
+    headers:
+      Host: little-bird-a235-ppal03.fosawaw121.workers.dev
+    path: /?ed=2560
+- name: 美国 063
+  type: vless
+  network: ws
+  server: 104.16.134.27
+  port: 2083
+  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
+  servername: graph.facebook.com
+  skip-cert-verify: true
+  tls: true
+  udp: true
+  ws-opts:
+    headers:
+      Host: s5.ylkszy.eu.org
+    path: /?ed=2560
+- name: 荷兰 014
+  type: vless
+  network: ws
+  server: 185.133.35.103
+  port: 443
+  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
+  servername: graph.facebook.com
+  skip-cert-verify: true
+  tls: true
+  udp: true
+  ws-opts:
+    headers:
+      Host: s5.ylkszy.eu.org
+    path: /?ed=2560
+- name: 奥地利 001
+  type: vless
+  network: ws
+  server: 212.183.88.200
+  port: 443
+  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
+  servername: graph.facebook.com
+  skip-cert-verify: true
+  tls: true
+  udp: true
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: s5.ylkszy.eu.org
+    path: /?ed=2560
+- name: 美国 065
+  type: vless
+  network: ws
+  server: 104.17.68.85
+  port: 443
+  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
+  servername: graph.facebook.com
+  skip-cert-verify: true
+  tls: true
+  udp: true
+  ws-opts:
+    headers:
+      Host: s5.ylkszy.eu.org
+    path: /?ed=2560
+- name: 美国 066
+  type: vless
+  network: ws
+  server: 130.250.137.94
+  port: 443
+  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
+  servername: graph.facebook.com
+  skip-cert-verify: true
+  tls: true
+  udp: true
+  ws-opts:
+    headers:
+      Host: s5.ylkszy.eu.org
+    path: /?ed=2560
+- name: 美国 070
+  type: vless
+  network: ws
+  server: 63.141.128.102
+  port: 443
+  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
+  servername: graph.facebook.com
+  skip-cert-verify: true
+  tls: true
+  udp: true
+  ws-opts:
+    headers:
+      Host: s5.ylkszy.eu.org
+    path: /?ed=2560
+- name: 美国 071
+  type: vless
+  network: ws
+  server: 3.77.28.67
+  port: 22222
+  uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e
+  servername: graph.facebook.com
+  skip-cert-verify: false
+  tls: true
+  ws-opts:
+    headers:
+      Host: telegram-channel-vlessconfig.sohala.uk
+    path: /telegram-channel-vlessconfig-ws
+- name: 美国 072
+  type: vless
+  network: ws
+  server: 63.177.213.192
+  port: 22222
+  uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e
+  servername: graph.facebook.com
+  skip-cert-verify: false
+  tls: true
+  ws-opts:
+    headers:
+      Host: telegram-channel-vlessconfig.sohala.uk
+    path: /telegram-channel-vlessconfig-ws
+- name: 美国 078
+  type: vless
+  network: ws
+  server: 104.24.186.156
+  port: 80
+  uuid: 6ff4726f-3650-4803-95eb-50b240f6ac75
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: red-math-7092-ppal03.mewoco2522.workers.dev
+    path: /?ed=2560
+- name: 美国 076
+  type: vmess
+  network: ws
+  server: 172.67.42.232
+  port: 80
+  uuid: 4bf074f4-7e9c-4e4b-a10d-156e26199729
+  skip-cert-verify: false
+  tls: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: us03s.5d8ecf82.cfd
+    path: /
+- name: 🇺🇸US-38.54.94.122-6019 | 2.757MB
+  server: 38.54.94.122
+  port: 2053
+  type: vmess
+  uuid: 2ca8b9c3-a2c7-4f3e-b3f4-acd85525ace1
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+- name: 荷兰 008
+  type: vless
+  network: ws
+  server: 45.131.210.157
+  port: 80
+  uuid: daf24a6d-2f78-4cab-867a-4da0f4c91cff
+  servername: graph.facebook.com
+  tls: false
+  ws-opts:
+    headers:
+      Host: 1224.j9q1xuv8.workers.dev
+    path: /Telegram
+- name: RELAY-104.17.221.248-0820 | 2.51MB
+  server: s1.db-link01.top
+  port: 2082
+  type: vmess
+  uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 100-32-21-187.s1.db-link01.top
+- name: RELAY-104.17.221.248-0812 | 2.502MB
+  server: s1.db-link01.top
+  port: 8880
+  type: vmess
+  uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 100-250-32-53.s1.db-link01.top
+- name: RELAY-172.67.172.168-0697 | 1.95MB
+  server: 172.67.172.168
+  port: 80
+  type: vmess
+  uuid: 4bf074f4-7e9c-4e4b-a10d-156e26199729
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: us03s.5d8ecf82.cfd
+- name: RELAY-172.67.153.119-0696 | 1.692MB
+  server: 172.67.153.119
+  port: 80
+  type: vmess
+  uuid: 4bf074f4-7e9c-4e4b-a10d-156e26199729
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: us03s.5d8ecf82.cfd
+- name: RELAY-198.41.209.70-0814 | 1.643MB
+  server: s1.db-link02.top
+  port: 8880
+  type: vmess
+  uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 100-103-58-39.s1.db-link02.top
+- name: 荷兰 009
+  type: vless
+  network: ws
+  server: 45.131.5.121
+  port: 80
+  uuid: daf24a6d-2f78-4cab-867a-4da0f4c91cff
+  servername: graph.facebook.com
+  tls: false
+  ws-opts:
+    headers:
+      Host: 1224.j9q1xuv8.workers.dev
+    path: /Telegram
+- name: RELAY-172.67.42.232-0314 | 1.564MB
+  server: 172.67.42.232
+  port: 80
+  type: vmess
+  uuid: 4bf074f4-7e9c-4e4b-a10d-156e26199729
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: us03s.5d8ecf82.cfd
+- name: RELAY-198.41.209.70-0705 | 1.512MB
+  server: 198.41.209.70
+  port: 2082
+  type: vmess
+  uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 100-38-62-25.s5.db-link02.top
+- name: RELAY-104.17.213.241-0816 | 1.418MB
+  server: s1.db-link02.top
+  port: 80
+  type: vmess
+  uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 100-49-141-209.s1.db-link02.top
+- name: 🇫🇷FR-5.196.29.123-0400 | 1.277MB
+  server: 5.196.29.123
+  port: 2082
+  type: vmess
+  uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+- name: 美国 085
+  type: vless
+  network: ws
+  server: 172.67.168.93
+  port: 2095
+  uuid: 8169cd18-e824-47a4-a4d4-96433b1a519d
+  servername: graph.facebook.com
+  tls: false
+  ws-opts:
+    headers:
+      Host: testdvpnhub69.95f425b718.workers.dev
+    path: /ProxyIP=ProxyIP.US.fxxk.dedyn.io
+- alterId: 0
+  cipher: auto
+  name: 🏁RELAY-172.67.116.48-206_1@205
+  network: ws
+  port: 80
+  server: 172.67.116.48
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 22a13aa2-4854-44cb-e090-ec71ab84b1ff
+  ws-headers:
+    Host: wap.hostmjj.com
+  ws-path: /
+- alterId: 0
+  cipher: auto
+  name: 🏁RELAY-104.21.82.39-217_1@216
+  network: ws
+  port: 2052
+  server: 104.21.82.39
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 7a737f41-b792-4260-94ff-3d864da67b80
+  ws-headers:
+    Host: mahilu.site
+  ws-path: /
+- name: 荷兰 010
+  type: vless
+  network: ws
+  server: 45.131.208.223
+  port: 80
+  uuid: daf24a6d-2f78-4cab-867a-4da0f4c91cff
+  servername: graph.facebook.com
+  tls: false
+  ws-opts:
+    headers:
+      Host: 1224.j9q1xuv8.workers.dev
+    path: /Telegram
+- alterId: 0
+  cipher: auto
+  name: 🏁RELAY-172.67.132.44-222_1@221
+  network: ws
+  port: 443
+  server: nicola.pics
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  ws-headers:
+    Host: nicola.pics
+  ws-path: /linkvws
+- alterId: 0
+  cipher: auto
+  name: 🏁RELAY-10.10.34.36-223_1@222
+  network: ws
+  port: 2086
+  server: admin.arzonhost.ir
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 7d93e992-48cf-42d4-84f8-75768e815a4c
+  ws-headers:
+    Host: admin.arzonhost.ir
+  ws-path: /
+- alterId: 0
+  cipher: auto
+  name: 🏁RELAY-162.159.137.249-224_1@223
+  network: ws
+  port: 8080
+  server: 162.159.137.249
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 028c8131-9e3e-4836-94ac-ea7f24d4d05a
+  ws-headers:
+    Host: nest-emily-healing-h.trycloudflare.com
+  ws-path: 028c8131-9e3e-4836-94ac-ea7f24d4d05a-vm
+- alterId: 0
+  cipher: auto
+  name: 🇸🇬SG-146.190.87.238-227_1@226
+  network: ws
+  port: 19193
+  server: 146.190.87.238
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 0f94fdae-5653-4314-9c92-e57e5ec55513
+  ws-headers:
+    Host: 146.190.87.238
+  ws-path: /ow
+- alterId: 0
+  cipher: auto
+  name: 🇧🇬BG-5.101.219.5-228_1@227
+  network: ws
+  port: 80
+  server: 5.101.219.5
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: a9c33d66-e66f-4a53-9ef0-3f6c52c8d091
+  ws-headers:
+    Host: tasnim.servecounterstrike.com
+  ws-path: /@forwardv2ray
+- alterId: 0
+  cipher: auto
+  name: 🏁RELAY-104.21.20.16-230_1@229
+  network: ws
+  port: 80
+  server: 104.21.20.16
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: c9e99213-170b-458a-b45b-79454ac7cf4b
+  ws-headers:
+    Host: fi2-vmess.sshmax.xyz
+  ws-path: /
+- name: 巴西 004
+  type: vless
+  network: ws
+  server: 188.114.97.171
+  port: 80
+  uuid: 35323594-9ee2-4f06-ae14-3148b6950621
+  servername: graph.facebook.com
+  tls: false
+  ws-opts:
+    headers:
+      Host: ooao14004.74gwenneth.workers.dev
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 美国 001_2@1
+  network: ws
+  port: 80
+  server: 1.namesilo123.top
+  skip-cert-verify: true
+  type: vmess
+  uuid: 4d68da82-e8d0-4eaa-aec9-0df4a23e1a04
+  ws-opts:
+    headers:
+      Host: de.sanfen002.top
+    path: /?ed=2048
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 加拿大 001_2@2
+  network: ws
+  port: 2082
+  server: s1c.v2.v001sss.xyz
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a
+  ws-opts:
+    headers:
+      Host: s1c.v2.v001sss.xyz
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 美国 003_2@4
+  network: ws
+  port: 8080
+  server: yh1.dtku41.xyz
+  tls: false
+  type: vmess
+  uuid: 34c0bb5e-c120-432d-9c58-bd7d82c7397b
+  ws-opts:
+    headers:
+      Host: uh-lawyers-instruments-kernel.trycloudflare.com
+    path: 34c0bb5e-c120-432d-9c58-bd7d82c7397b-vm
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 加拿大 003_2@6
+  network: ws
+  port: 2086
+  server: 104.21.4.14
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 7d93e992-48cf-42d4-84f8-75768e815a4c
+  ws-opts:
+    headers:
+      Host: admin.arzonhost.ir
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 005_2@9
+  network: ws
+  port: 2052
+  server: 104.19.201.135
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: d4a530d5-9755-4ff9-a9ed-5a058cf0038b
+  ws-opts:
+    headers:
+      Host: tw1bQiWSE4x.fzbqfrse.xyz
+    path: /video/GQ2qE5Us9g
+- alterId: 0
+  cipher: auto
+  name: 加拿大 006_2@10
+  network: ws
+  port: 2082
+  server: 104.19.201.135
+  servername: graph.facebook.com
+  tls: false
+  type: vmess
+  uuid: d4a530d5-9755-4ff9-a9ed-5a058cf0038b
+  ws-opts:
+    headers:
+      Host: us4Bb5oSgJA.fzbqfrse.xyz
+    path: /video/CuTy87zAzV/
+- name: 美国 010
+  type: vless
+  network: ws
+  server: 104.17.148.22
+  port: 80
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  servername: graph.facebook.com
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: redw.pooriam.ir
+    path: /LwW5jwrnymnOdqki?ed=2560
+- alterId: 0
+  cipher: auto
+  country: US
+  h2-opts: {}
+  http-opts: {}
+  name: 美国 005_2@12
+  network: ws
+  port: 2053
+  server: 155.46.213.135
+  servername: graph.facebook.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 5a5aadc2-8834-4e7b-895b-74ad155fbf24
+  ws-opts:
+    headers:
+      HOST: v2ray.ibgfw.top
+    path: /vVNUJOgb/
+- alterId: 0
+  cipher: auto
+  name: 美国 006_2@14
+  network: ws
+  port: 2082
+  server: 172.64.107.100
+  servername: graph.facebook.com
+  tls: false
+  type: vmess
+  uuid: d4a530d5-9755-4ff9-a9ed-5a058cf0038b
+  ws-opts:
+    headers:
+      Host: us4Bb5oSgJA.fzbqfrse.xyz
+    path: /video/CuTy87zAzV/
+- alterId: 0
+  cipher: auto
+  name: 美国 007_2@15
+  network: ws
+  port: 2083
+  server: 104.19.187.160
+  servername: graph.facebook.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 4f574408-dfef-338a-a7d9-f7d1e70ff8d9
+  ws-opts:
+    headers:
+      Host: data-hk-2.cn-db.top
+    path: /db00
+- alterId: 0
+  cipher: auto
+  name: 美国 008_2@16
+  network: ws
+  port: 2083
+  server: 104.19.209.38
+  servername: graph.facebook.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 4f574408-dfef-338a-a7d9-f7d1e70ff8d9
+  ws-opts:
+    headers:
+      Host: cache-hk-2.cn-db.top
+    path: /db00
+- alterId: 0
+  cipher: auto
+  name: 美国 009_2@17
+  network: ws
+  port: 2053
+  server: 104.17.110.127
+  servername: graph.facebook.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 4f574408-dfef-338a-a7d9-f7d1e70ff8d9
+  ws-opts:
+    headers:
+      Host: cache-hk-1.cn-db.top
+    path: /db00
+- alterId: 0
+  cipher: auto
+  name: 美国 010_2@18
+  network: ws
+  port: 2083
+  server: 104.17.254.54
+  servername: graph.facebook.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 4f574408-dfef-338a-a7d9-f7d1e70ff8d9
+  ws-opts:
+    headers:
+      Host: data-hk-3.cn-db.top
+    path: /db00
+- alterId: 0
+  cipher: auto
+  name: 美国 011_2@19
+  network: ws
+  port: 443
+  server: 104.18.92.5
+  servername: graph.facebook.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 4f574408-dfef-338a-a7d9-f7d1e70ff8d9
+  ws-opts:
+    headers:
+      Host: cache-hk-2.cn-db.top
+    path: /db00
+- alterId: 0
+  cipher: auto
+  name: 美国 012_2@20
+  network: ws
+  port: 2053
+  server: 104.19.231.208
+  servername: graph.facebook.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 4f574408-dfef-338a-a7d9-f7d1e70ff8d9
+  ws-opts:
+    headers:
+      Host: cache-hk-1.cn-db.top
+    path: /db00
+- alterId: 0
+  cipher: auto
+  name: 美国 013_2@21
+  network: ws
+  port: 2053
+  server: 104.17.194.227
+  servername: graph.facebook.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 4f574408-dfef-338a-a7d9-f7d1e70ff8d9
+  ws-opts:
+    headers:
+      Host: data-hk-1.cn-db.top
+    path: /db00
+- name: 美国 011
+  type: vless
+  network: ws
+  server: 104.16.1.47
+  port: 80
+  uuid: b550a101-63fe-4862-bfd3-8b87bb4168dd
+  servername: graph.facebook.com
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: flat-bread-ddb6-ppal03.joriy39169.workers.dev
+    path: /?ed=2560
+- alterId: 0
+  cipher: auto
+  name: 美国 015_2@24
+  network: ws
+  port: 80
+  server: 129.153.126.128
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 5f3d1958-40e7-4c3b-888c-790205b49d9d
+  ws-opts:
+    headers:
+      host: 129.153.126.128
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 美国 016_2@25
+  network: ws
+  port: 443
+  server: 104.21.21.21
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 73dfe5b1-9ced-4be7-949b-e731d54ba801
+  ws-opts:
+    headers:
+      host: laxfree.starsea.vip
+    path: /?ed=2048
+- alterId: 0
+  cipher: auto
+  name: 加拿大 008_2@29
+  network: ws
+  port: 443
+  server: 104.21.44.106
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 93ea486a-bada-42a4-ac38-d088b320fa1e
+  ws-opts:
+    headers:
+      Host: xmivideo.cfd
+    path: /linkws
+- alterId: 0
+  cipher: auto
+  name: 加拿大 009_2@30
+  network: ws
+  port: 2095
+  server: 172.67.214.33
+  skip-cert-verify: true
+  type: vmess
+  uuid: 7a737f41-b792-4260-94ff-3d864da67b80
+  ws-opts:
+    headers:
+      Host: onea.flha.ru
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 伯利兹 001_2@31
+  network: ws
+  port: 443
+  server: 203.30.191.20
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 5f64fa65-7b14-49c5-954d-aa15c6bfcacd
+  ws-opts:
+    headers:
+      Host: clash6.ssr-free.xyz
+    path: /dongtaiwang.com
+- alterId: 0
+  cipher: auto
+  name: 美国 019_2@32
+  network: ws
+  port: 443
+  server: 141.101.115.30
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 40d496a6-ceeb-4096-baeb-4cc52b205621
+  ws-opts:
+    headers:
+      Host: lg1.trump2023.us
+    path: /ECTCJ0DF
+- alterId: 0
+  cipher: auto
+  name: 伯利兹 002_2@33
+  network: ws
+  port: 443
+  server: 203.30.191.6
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  ws-opts:
+    headers:
+      Host: oplg1.cfcdn2.xyz
+    path: /AUIKN8AU
+- name: 美国 017
+  type: vless
+  network: ws
+  server: 104.21.69.44
+  port: 80
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: a.xn--i-sx6a60i.us.kg.
+    path: /tmevpnAndroid2/?ed=2560
+- alterId: 0
+  cipher: auto
+  name: 伯利兹 003_2@34
+  network: ws
+  port: 443
+  server: 203.30.191.4
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  ws-opts:
+    headers:
+      Host: oplg1.cfcdn2.xyz
+    path: /AUIKN8AU
+- alterId: 0
+  cipher: auto
+  name: 伯利兹 004_2@35
+  network: ws
+  port: 443
+  server: 203.30.191.191
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  ws-opts:
+    headers:
+      Host: oplg1.cfcdn2.xyz
+    path: /AUIKN8AU
+- alterId: 0
+  cipher: auto
+  name: 伯利兹 005_2@36
+  network: ws
+  port: 443
+  server: 203.30.191.3
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  ws-opts:
+    headers:
+      Host: oplg1.cfcdn2.xyz
+    path: /AUIKN8AU
+- alterId: 0
+  cipher: auto
+  name: 哥斯达黎加 001_2@37
+  network: ws
+  port: 443
+  server: 190.93.246.3
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958
+  ws-opts:
+    headers:
+      Host: oplg1.zhujicn2.com
+    path: /5QNROSRV
+- alterId: 0
+  cipher: auto
+  name: 伯利兹 006_2@38
+  network: ws
+  port: 443
+  server: 203.30.191.10
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  ws-opts:
+    headers:
+      Host: oplg1.cfcdn2.xyz
+    path: /AUIKN8AU
+- alterId: 0
+  cipher: auto
+  name: 伯利兹 007_2@39
+  network: ws
+  port: 443
+  server: 203.30.189.189
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 40d496a6-ceeb-4096-baeb-4cc52b205621
+  ws-opts:
+    headers:
+      Host: lg1.trump2023.us
+    path: /ECTCJ0DF
+- alterId: 0
+  cipher: auto
+  name: 英国 001_2@40
+  network: ws
+  port: 443
+  server: 185.162.228.230
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 17b2a313-37a0-4945-a8e4-e63375506b4a
+  ws-opts:
+    headers:
+      Host: lg10.cfcdn1.xyz
+    path: /A2DJOPFT
+- alterId: 0
+  cipher: auto
+  name: 伯利兹 008_2@41
+  network: ws
+  port: 443
+  server: 203.30.188.190
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 17b2a313-37a0-4945-a8e4-e63375506b4a
+  ws-opts:
+    headers:
+      Host: lg10.cfcdn1.xyz
+    path: /A2DJOPFT
+- alterId: 0
+  cipher: auto
+  name: 伯利兹 009_2@42
+  network: ws
+  port: 443
+  server: 203.30.191.7
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  ws-opts:
+    headers:
+      Host: oplg1.cfcdn2.xyz
+    path: /AUIKN8AU
+- alterId: 0
+  cipher: auto
+  name: 美国 020_2@43
+  network: ws
+  port: 443
+  server: 23.227.38.21
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  ws-opts:
+    headers:
+      Host: oplg1.cfcdn2.xyz
+    path: /AUIKN8AU
+- name: 美国 019
+  type: vless
+  network: ws
+  server: 172.67.204.84
+  port: 80
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: a.xn--i-sx6a60i.us.kg.
+    path: /t.mevpnAndroid2/?ed=2560
+- alterId: 0
+  cipher: auto
+  name: 美国 021_2@44
+  network: ws
+  port: 443
+  server: 198.41.212.12
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  ws-opts:
+    headers:
+      Host: oplg1.cfcdn2.xyz
+    path: /AUIKN8AU
+- alterId: 0
+  cipher: auto
+  name: 美国 022_2@45
+  network: ws
+  port: 443
+  server: 23.227.38.25
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  ws-opts:
+    headers:
+      Host: oplg1.cfcdn2.xyz
+    path: /AUIKN8AU
+- alterId: 0
+  cipher: auto
+  name: 加拿大 010_2@46
+  network: ws
+  port: 443
+  server: 172.67.145.166
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  ws-opts:
+    headers:
+      Host: oplg1.cfcdn2.xyz
+    path: /AUIKN8AU
+- alterId: 0
+  cipher: auto
+  name: 美国 023_2@47
+  network: ws
+  port: 443
+  server: 23.227.38.24
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  ws-opts:
+    headers:
+      Host: oplg1.cfcdn2.xyz
+    path: /AUIKN8AU
+- alterId: 0
+  cipher: auto
+  name: 伯利兹 010_2@48
+  network: ws
+  port: 443
+  server: 203.30.190.192
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 17b2a313-37a0-4945-a8e4-e63375506b4a
+  ws-opts:
+    headers:
+      Host: lg10.cfcdn1.xyz
+    path: /A2DJOPFT
+- alterId: 0
+  cipher: auto
+  name: 美国 024_2@49
+  network: ws
+  port: 443
+  server: 23.227.38.27
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  ws-opts:
+    headers:
+      Host: oplg1.cfcdn2.xyz
+    path: /AUIKN8AU
+- alterId: 0
+  cipher: auto
+  name: 加拿大 011_2@50
+  network: ws
+  port: 443
+  server: 172.67.135.55
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  ws-opts:
+    headers:
+      Host: oplg1.cfcdn2.xyz
+    path: /AUIKN8AU
+- alterId: 0
+  cipher: auto
+  name: 伯利兹 011_2@51
+  network: ws
+  port: 443
+  server: 203.30.191.5
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  ws-opts:
+    headers:
+      Host: oplg1.cfcdn2.xyz
+    path: /AUIKN8AU
+- alterId: 0
+  cipher: auto
+  name: 伯利兹 012_2@52
+  network: ws
+  port: 443
+  server: 203.30.191.192
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958
+  ws-opts:
+    headers:
+      Host: oplg1.zhujicn2.com
+    path: /5QNROSRV
+- alterId: 0
+  cipher: auto
+  name: 加拿大 012_2@53
+  network: ws
+  port: 443
+  server: 162.159.135.42
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 4612618c-24cd-4379-9924-cfdf3d61fa5a
+  ws-opts:
+    headers:
+      Host: opfr1.v2rayfree1.xyz
+    path: /IYKLD53M
+- name: 荷兰 003
+  type: vless
+  network: ws
+  server: 45.149.12.232
+  port: 80
+  uuid: e497da22-d020-40fb-a1fa-bc294066a2d2
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: pormang.webhost99.workers.dev
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 013_2@54
+  network: ws
+  port: 2053
+  server: 104.19.163.54
+  servername: graph.facebook.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 4f574408-dfef-338a-a7d9-f7d1e70ff8d9
+  ws-opts:
+    headers:
+      Host: data-hk-3.cn-db.top
+    path: /db00
+- alterId: 0
+  cipher: auto
+  name: 加拿大 014_2@55
+  network: ws
+  port: 2083
+  server: 104.18.121.75
+  servername: graph.facebook.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 4f574408-dfef-338a-a7d9-f7d1e70ff8d9
+  ws-opts:
+    headers:
+      Host: cache-hk-2.cn-db.top
+    path: /db00
+- alterId: 0
+  cipher: auto
+  name: 加拿大 015_2@56
+  network: ws
+  port: 2083
+  server: 104.19.58.127
+  servername: graph.facebook.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 4f574408-dfef-338a-a7d9-f7d1e70ff8d9
+  ws-opts:
+    headers:
+      Host: cache-hk-1.cn-db.top
+    path: /db00
+- alterId: 0
+  cipher: auto
+  name: 加拿大 016_2@57
+  network: ws
+  port: 2053
+  server: 104.19.169.7
+  servername: graph.facebook.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 4f574408-dfef-338a-a7d9-f7d1e70ff8d9
+  ws-opts:
+    headers:
+      Host: data-hk-1.cn-db.top
+    path: /db00
+- alterId: 0
+  cipher: auto
+  name: 加拿大 018_2@60
+  network: ws
+  port: 8880
+  server: go.snangua.com
+  skip-cert-verify: true
+  type: vmess
+  uuid: 4c7f5fba-acbf-409f-81ce-cfc3b11388d8
+  ws-opts:
+    headers:
+      Host: us-01.snangua.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 019_2@61
+  network: ws
+  port: 8880
+  server: us-01.snangua.com
+  skip-cert-verify: true
+  type: vmess
+  uuid: 4c7f5fba-acbf-409f-81ce-cfc3b11388d8
+  ws-opts:
+    headers:
+      Host: us-01.snangua.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 020_2@62
+  network: ws
+  port: 8880
+  server: jp-01.snangua.com
+  skip-cert-verify: true
+  type: vmess
+  uuid: 4c7f5fba-acbf-409f-81ce-cfc3b11388d8
+  ws-opts:
+    headers:
+      Host: jp-01.snangua.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 021_2@63
+  network: ws
+  port: 8880
+  server: au-01.snangua.com
+  skip-cert-verify: true
+  type: vmess
+  uuid: 4c7f5fba-acbf-409f-81ce-cfc3b11388d8
+  ws-opts:
+    headers:
+      Host: au-01.snangua.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 022_2@64
+  network: ws
+  port: 8880
+  server: fr-01.snangua.com
+  skip-cert-verify: true
+  type: vmess
+  uuid: 4c7f5fba-acbf-409f-81ce-cfc3b11388d8
+  ws-opts:
+    headers:
+      Host: fr-01.snangua.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 新加坡 001_2@65
+  network: ws
+  port: 80
+  server: sg1.pkyun.website
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: f01b1bc9-48d2-47cb-987f-b1e814df1448
+  ws-opts:
+    headers:
+      Host: sg1.pkyun.website
+    path: /sg1
+- name: 美国 025
+  type: vless
+  network: ws
+  server: 66.235.200.149
+  port: 80
+  uuid: e497da22-d020-40fb-a1fa-bc294066a2d2
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: pormang.webhost99.workers.dev
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 023_2@66
+  network: ws
+  port: 443
+  server: 104.19.225.226
+  servername: graph.facebook.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 4f574408-dfef-338a-a7d9-f7d1e70ff8d9
+  ws-opts:
+    headers:
+      Host: data-hk-3.cn-db.top
+    path: /db00
+- alterId: 0
+  cipher: auto
+  name: 加拿大 024_2@67
+  network: ws
+  port: 2053
+  server: 104.17.164.97
+  servername: graph.facebook.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 4f574408-dfef-338a-a7d9-f7d1e70ff8d9
+  ws-opts:
+    headers:
+      Host: cache-hk-2.cn-db.top
+    path: /db00
+- alterId: 0
+  cipher: auto
+  name: 加拿大 025_2@68
+  network: ws
+  port: 2083
+  server: 104.19.13.82
+  servername: graph.facebook.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 4f574408-dfef-338a-a7d9-f7d1e70ff8d9
+  ws-opts:
+    headers:
+      Host: cache-hk-1.cn-db.top
+    path: /db00
+- alterId: 0
+  cipher: auto
+  name: 加拿大 026_2@69
+  network: ws
+  port: 2083
+  server: 104.19.133.38
+  servername: graph.facebook.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 4f574408-dfef-338a-a7d9-f7d1e70ff8d9
+  ws-opts:
+    headers:
+      Host: data-hk-1.cn-db.top
+    path: /db00
+- alterId: 0
+  cipher: auto
+  name: 加拿大 027_2@70
+  network: ws
+  port: 80
+  server: 16.namesilo123.top
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 6f7b474f-5d88-49f2-82a1-fb5abf3ec621
+  ws-opts:
+    headers:
+      host: 10gus.sanfen002.top
+    path: /?ed
+- alterId: 0
+  cipher: auto
+  name: 美国 025_2@71
+  network: ws
+  port: 443
+  server: support.zoom.us
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 5840ab2d-ab59-4eb0-9dea-122d0fbbd2d9
+  ws-opts:
+    headers:
+      Host: support.zoom.us.vmess.totonegoro.my.id
+    path: /cfhk.393930.xyz:4431/
+- alterId: 0
+  cipher: auto
+  name: 加拿大 028_2@72
+  network: ws
+  port: 2082
+  server: 104.19.244.227
+  skip-cert-verify: true
+  type: vmess
+  uuid: d4a530d5-9755-4ff9-a9ed-5a058cf0038b
+  ws-opts:
+    headers:
+      Host: us4Bb5oSgJA.fzbqfrse.xyz
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸_US_美国->🇬🇧_GB_英国_1_5@5
+  network: ws
+  port: 8880
+  server: cdn.vds-server.ir
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 0d1bf26a-ce97-4707-a270-7f4d2ae37334
+  ws-opts:
+    headers:
+      host: cdn.vds-server.ir
+    path: /
+- name: 美国 029
+  type: vless
+  network: ws
+  server: 66.235.200.30
+  port: 80
+  uuid: e497da22-d020-40fb-a1fa-bc294066a2d2
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: pormang.webhost99.workers.dev
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 🇦🇪_AE_阿联酋->🇬🇧_GB_英国_5@6
+  network: ws
+  port: 8880
+  server: 94.140.0.110
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 0d1bf26a-ce97-4707-a270-7f4d2ae37334
+  ws-opts:
+    headers:
+      host: food.zhaal.ir
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 🇨🇦_CA_加拿大->🇺🇸_US_美国_2_5@10
+  network: ws
+  port: 8080
+  server: 23.227.38.23
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 34c0bb5e-c120-432d-9c58-bd7d82c7397b
+  ws-opts:
+    headers:
+      host: uh-lawyers-instruments-kernel.trycloudflare.com
+    path: 34c0bb5e-c120-432d-9c58-bd7d82c7397b-vm
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸_US_美国->🇭🇰_HK_香港_1_5@15
+  network: ws
+  port: 2052
+  server: 172.67.152.170
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 7a737f41-b792-4260-94ff-3d864da67b80
+  ws-opts:
+    headers:
+      host: mahilu.site
+    path: /
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.26.8.202
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸_US_美国_9_5@19
+  network: ws
+  port: 8080
+  server: russia.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: bd8c41a8-7598-4c28-9965-522545e14892
+  ws-opts:
+    headers:
+      host: ssrsub.v03.ssrsub.com
+    path: /api/v3/download.getFile
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸_US_美国_10_5@21
+  network: ws
+  port: 8880
+  server: 104.21.1.28
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 4b5e4565-322f-4223-a891-78a84f189726
+  ws-opts:
+    headers:
+      host: us-ccs.yuji2022.eu.org
+    path: /XSjeg73o6ZdsheahCb5JG
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸_US_美国->🇭🇰_HK_香港_3_5@22
+  network: ws
+  port: 2095
+  server: onea.flha.ru
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 7a737f41-b792-4260-94ff-3d864da67b80
+  ws-opts:
+    headers:
+      host: onea.flha.ru
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 🇨🇳_CN_中国->🇩🇪_DE_德国_5@23
+  network: ws
+  port: 46038
+  server: mf838f.micloud.buzz
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 4a7929d8-f59e-4f37-9708-22027f210a07
+  ws-opts:
+    headers:
+      host: mf838f.micloud.buzz
+    path: /zh-cn
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸_US_美国_12_5@25
+  network: ws
+  port: 8080
+  server: yh3.freeh1.xyz
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 82cb93a3-65a9-4dac-a2a7-d997b6c26d6a
+  ws-opts:
+    headers:
+      host: larger-marketing-amounts-skin.trycloudflare.com
+    path: 82cb93a3-65a9-4dac-a2a7-d997b6c26d6a-vm
+- name: 美国 064
+  type: vmess
+  network: ws
+  server: 104.21.69.44
+  port: 80
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  skip-cert-verify: true
+  tls: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: a.prapt4.ir
+    path: /?ed=2048
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸_US_美国->🇬🇧_GB_英国_2_5@26
+  network: ws
+  port: 2086
+  server: mizban.arzonhost.ir
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: e690ff9e-1676-4be3-d136-dcae586cb1e7
+  ws-opts:
+    headers:
+      host: mizban.arzonhost.ir
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 🇳🇱_NL_荷兰_5@27
+  network: ws
+  port: 45015
+  server: 0:0:0:0:0:ffff:b2d0:5790
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 21f54c15-c624-460a-d6f3-95bb2041ea4a
+  ws-opts:
+    path: /
+- name: 荷兰 013
+  type: vless
+  network: ws
+  server: 45.149.12.206
+  port: 80
+  uuid: e497da22-d020-40fb-a1fa-bc294066a2d2
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: pormang.webhost99.workers.dev
+    path: /
+- name: 美国 077
+  type: vless
+  network: ws
+  server: 104.26.12.31
+  port: 80
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: redw.pooriam.ir
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 🇯🇵 节点日期：04-02_8@0
+  network: ws
+  port: 2052
+  server: cfcdn1.sanfencdn9.com
+  tls: false
+  type: vmess
+  uuid: d4a530d5-9755-4ff9-a9ed-5a058cf0038b
+  ws-opts:
+    headers:
+      Host: tw1bQiWSE4x.fzbqfrse.xyz
+    path: /video/GQ2qE5Us9g
+- alterId: 0
+  cipher: auto
+  name: 🇺🇲 美国【付费推荐：https://jdyvip.link/】48_8@1
+  network: ws
+  port: 8080
+  server: yh1.freeh1.xyz
+  tls: false
+  type: vmess
+  uuid: ef8c954e-014f-4b36-8273-9b5086afab34
+  ws-opts:
+    headers:
+      Host: bibliographic-sword-sequence-advertisers.trycloudflare.com
+    path: ef8c954e-014f-4b36-8273-9b5086afab34-vm
+- alterId: 0
+  cipher: auto
+  name: 🇳🇱 荷兰【付费推荐：https://jdyvip.link/】14_8@4
+  network: ws
+  port: 443
+  server: 188.114.99.150
+  tls: true
+  type: vmess
+  uuid: e4c7e0ce-ed93-40d9-8f38-90497cb83864
+  ws-opts:
+    headers:
+      Host: fi1.xv2ray.net
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 🇺🇲 美国【付费推荐：https://jdyvip.link/】49_8@5
+  network: ws
+  port: 8080
+  server: 172.67.170.25
+  tls: false
+  type: vmess
+  uuid: aa1dbb68-bfb5-4484-f7e7-7335eac3988c
+  ws-opts:
+    headers:
+      Host: eu2.openxai.link
+    path: /?ed=2048
+- alterId: 0
+  cipher: auto
+  name: 🇺🇲 美国【付费推荐：https://jdyvip.link/】15_8@7
+  network: ws
+  port: 443
+  server: hms04.xmivideo.cfd
+  tls: true
+  type: vmess
+  uuid: 93ea486a-bada-42a4-ac38-d088b320fa1e
+  ws-opts:
+    headers:
+      Host: xmivideo.cfd
+    path: /linkws
+- alterId: 0
+  cipher: auto
+  name: 🇺🇲 美国【付费推荐：https://jdyvip.link/】23_8@8
+  network: ws
+  port: 2082
+  server: 104.21.8.157
+  tls: false
+  type: vmess
+  uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a
+  ws-opts:
+    headers:
+      Host: s1c.v2.v001sss.xyz
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 🇺🇲 美国【付费推荐：https://jdyvip.link/】38_8@10
+  network: ws
+  port: 8080
+  server: 162.159.7.226
+  tls: false
+  type: vmess
+  uuid: 9b196b50-37f2-4f4b-b175-06273adc6207
+  ws-opts:
+    headers:
+      Host: technological-mel-fill-decide.trycloudflare.com
+    path: 9b196b50-37f2-4f4b-b175-06273adc6207-vm
+- name: 美国 083
+  type: vless
+  network: ws
+  server: 104.27.88.150
+  port: 80
+  uuid: e497da22-d020-40fb-a1fa-bc294066a2d2
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: pormang.webhost99.workers.dev
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 🇻🇳 越南【付费推荐：https://jdyvip.link/】9_8@11
+  network: ws
+  port: 80
+  server: max26.flash5g.com
+  tls: false
+  type: vmess
+  uuid: 4e25f91f-603c-4e83-b002-c26030757816
+  ws-opts:
+    headers:
+      Host: max26.flash5g.com
+    path: /AnhBin
+- alterId: 0
+  cipher: auto
+  name: 🇺🇲 美国【付费推荐：https://jdyvip.link/】46_8@12
+  network: ws
+  port: 8080
+  server: 172.67.66.46
+  tls: false
+  type: vmess
+  uuid: aa1dbb68-bfb5-4484-f7e7-7335eac3988c
+  ws-opts:
+    headers:
+      Host: eu2.openxai.link
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 🇺🇲 美国【付费推荐：https://jdyvip.link/】4_8@17
+  network: ws
+  port: 80
+  server: russia.com
+  tls: false
+  type: vmess
+  uuid: bd8c41a8-7598-4c28-9965-522545e14892
+  ws-opts:
+    headers:
+      Host: ssrsub.v03.ssrsub.com
+    path: /api/v3/download.getFile
+- alterId: 0
+  cipher: auto
+  name: 🇺🇲 美国【付费推荐：https://jdyvip.link/】35_8@19
+  network: ws
+  port: 2095
+  server: jpc.flha.ru
+  tls: false
+  type: vmess
+  uuid: 7a737f41-b792-4260-94ff-3d864da67b80
+  ws-opts:
+    headers:
+      Host: jpc.flha.ru
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 🇺🇲 美国【付费推荐：https://jdyvip.link/】17_8@21
+  network: ws
+  port: 2052
+  server: mahilu.site
+  tls: false
+  type: vmess
+  uuid: 7a737f41-b792-4260-94ff-3d864da67b80
+  ws-opts:
+    headers:
+      Host: mahilu.site
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 🇺🇲 美国【付费推荐：https://jdyvip.link/】42_8@22
+  network: ws
+  port: 8080
+  server: 162.159.5.6
+  tls: false
+  type: vmess
+  uuid: d9c5ec6a-a8d8-4732-8447-56fbd2f93e96
+  ws-opts:
+    headers:
+      Host: pcs-referenced-camera-concerns.trycloudflare.com
+    path: d9c5ec6a-a8d8-4732-8447-56fbd2f93e96-vm
+- alterId: 0
+  cipher: auto
+  name: 🇺🇲 美国【付费推荐：https://jdyvip.link/】47_8@34
+  network: ws
+  port: 8080
+  server: 162.159.1.33
+  tls: false
+  type: vmess
+  uuid: d9c5ec6a-a8d8-4732-8447-56fbd2f93e96
+  ws-opts:
+    headers:
+      Host: pcs-referenced-camera-concerns.trycloudflare.com
+    path: d9c5ec6a-a8d8-4732-8447-56fbd2f93e96-vm
+- name: 美国 084
+  type: vless
+  network: ws
+  server: 104.26.13.31
+  port: 80
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: redw.pooriam.ir
+    path: /
+- name: 美国 087
+  type: vless
+  network: ws
+  server: 172.67.75.172
+  port: 80
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: redw.pooriam.ir
+    path: /
+- name: 美国 093
+  type: vless
+  network: ws
+  server: 104.16.171.121
+  port: 80
+  uuid: a3875c94-e968-404c-b62d-5a292d20e6d8
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: polished-limit-deb9-ppal03.latopi8673.workers.dev
+    path: /?ed=2560
+- name: 美国 112
+  type: vless
+  network: ws
+  server: 66.235.200.5
+  port: 80
+  uuid: e497da22-d020-40fb-a1fa-bc294066a2d2
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: pormang.webhost99.workers.dev
+    path: /
+- name: 美国 113
+  type: vless
+  network: ws
+  server: 104.16.38.178
+  port: 80
+  uuid: e497da22-d020-40fb-a1fa-bc294066a2d2
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: pormang.webhost99.workers.dev
+    path: /
+- name: 美国 122
+  type: vless
+  network: ws
+  server: 104.20.43.197
+  port: 80
+  uuid: e497da22-d020-40fb-a1fa-bc294066a2d2
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: pormang.webhost99.workers.dev
+    path: /
+- name: 美国 006
+  type: vless
+  network: ws
+  server: 104.16.76.55
+  port: 80
+  uuid: 5d8bc42a-d345-4bd3-a844-4b90afc44670
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: patient-shadow-baf1-ppal03.hohel98085.workers.dev
+    path: /?ed=2560
+- name: 荷兰 001
+  type: vless
+  network: ws
+  server: 45.131.5.111
+  port: 80
+  uuid: d6ff33a6-03bf-4338-8a63-62ab284a9466
+  servername: graph.facebook.com
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: feng4.l1ut8bi9.workers.dev
+    path: /Telegram
+- name: 巴西 001
+  type: vless
+  network: ws
+  server: 188.114.96.3
+  port: 80
+  uuid: 260c4900-69a9-465c-8c3a-272eb1b4ec00
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: sHAhRamConfIGWorKERCJsa9898.coNFiGSHahrAMCOnFiG.wOrkErS.DeV
+    path: /pgLUAo7mya6xC60a?ed=2560
+- name: 美国 008
+  type: vless
+  network: ws
+  server: 104.24.9.204
+  port: 80
+  uuid: ca68a029-971c-4ea4-8c1d-411cb7adc474
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: patient-sunset-f000-ppal03.cijej53213.workers.dev
+    path: /?ed=2560
+- name: 美国 009
+  type: vless
+  network: ws
+  server: 104.21.42.56
+  port: 80
+  uuid: baadfec3-75bd-4df0-ad6b-2ecdfdfe9d52
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: worker-super-shape-975b.1011da65bb0ac5.workers.Dev
+    path: /Telegram+channel+:+
+- name: 美国 012
+  type: vless
+  network: ws
+  server: 104.16.188.41
+  port: 80
+  uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: proud-queen-55500071.cexonoc962.workers.dev
+    path: /?ed=2560
+- name: 美国 021
+  type: vless
+  network: ws
+  server: 104.21.30.29
+  port: 80
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: a.mifeng.us.kg
+    path: /telegram-_-_-_-_-__-free_shekan-_-_-_-/?ed=2048
+- name: 美国 022
+  type: vless
+  network: ws
+  server: 104.24.207.192
+  port: 80
+  uuid: 5b75d93d-1e40-43a4-af3d-d6cb11fbafe8
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: gozargah2.validbv7996.ir
+    path: /3Bc2FravWgXBrnlN?ed=2560
+- name: 美国 044
+  type: vless
+  network: ws
+  server: 104.21.56.44
+  port: 80
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  servername: graph.facebook.com
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: redw.pooriam.ir
+    path: /
+- name: 美国 067
+  type: vless
+  network: ws
+  server: 172.67.168.60
+  port: 80
+  uuid: 5335d16e-7e42-4c9b-93a3-9e83bfd3073d
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: workerr.johnstoner.workers.dev
+    path: /?ed=2048
+- name: 美国 068
+  type: vless
+  network: ws
+  server: 104.26.14.185
+  port: 8080
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: a.xn--i-sx6a60i.us.kg.
+    path: /
+- name: 荷兰 006
+  type: vless
+  network: ws
+  server: 45.131.5.58
+  port: 2086
+  uuid: f366e744-abcd-4b5b-bd5e-2bd97b6443bf
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: fva64rbmjfkfznnptk6imz6sihrno35m4csom83admge5tfxniwduyuyt954fdh.ks3om.workers.Dev
+    path: /
+- name: 美国 102
+  type: vless
+  network: ws
+  server: 172.67.207.181
+  port: 80
+  uuid: 5a4e040a-8de6-4222-bd6f-9f535b8772fd
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: calm-violet-0e47.pomofoc222.workers.dev
+    path: /lrJO6NEVRGHecfbo?ed=2560
+- name: 美国 105
+  type: vless
+  network: ws
+  server: 172.64.157.124
+  port: 80
+  uuid: 1ae17c7d-6074-41e2-894b-478c9fcf5715
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: rough-hill-2959-ppal03.fawik58803.workers.dev
+    path: /V2ray_Alpha/?ed=2560
+- name: 美国 106
+  type: vless
+  network: ws
+  server: 104.18.15.19
+  port: 2052
+  uuid: 13ed4a8b-6049-4f26-8cb3-9870df4fda4c
+  servername: graph.facebook.com
+  tls: false
+  ws-opts:
+    headers:
+      Host: 0107.cxypogon.workers.dev
+    path: /?ed=2560
+- name: 德国 004
+  type: vless
+  network: ws
+  server: 185.135.9.138
+  port: 2086
+  uuid: 31348b17-4ab2-40c0-b79e-c81032331d30
+  servername: graph.facebook.com
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: b4f0b859-super-smoke-7916.bouncy-vulture1054.workers.dev
+    path: /
+- name: 美国 108
+  type: vless
+  network: ws
+  server: 104.21.7.193
+  port: 8880
+  uuid: f3562b04-2f2b-433a-80b4-45f60d659004
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: 925tg.3gnc3sjz.workers.dev
+    path: /?ed=2560
+- name: 美国 109
+  type: vless
+  network: ws
+  server: 66.235.200.94
+  port: 8880
+  uuid: 5faa94c6-ea27-4ea0-9e39-2de3d6ea9be1
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: channel-falcunargo.efa180b5d7.workers.Dev
+    path: /✦❰+𝗝𝗼𝗶𝗻+➪+
+- name: 荷兰 011
+  type: vless
+  network: ws
+  server: 45.131.5.244
+  port: 2086
+  uuid: f366e744-abcd-4b5b-bd5e-2bd97b6443bf
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: fva64rbmjfkfznnptk6imz6sihrno35m4csom83admge5tfxniwduyuyt954fdh.ks3om.workers.Dev
+    path: /
+- name: 美国 111
+  type: vless
+  network: ws
+  server: 104.24.247.189
+  port: 80
+  uuid: a1311ab3-0498-4cfd-b2c9-b5a4ba7d2999
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: rapid-mountain-e6a9-ppal03.rahog30057.workers.dev
+    path: /?ed=2560
+- name: 美国 115
+  type: vless
+  network: ws
+  server: 104.21.24.112
+  port: 80
+  uuid: 65b3cbba-e6ac-485a-9481-976a0415eab9
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: bLue-sNoW-a243.GeleNE5962.wOrKeRS.dEV
+    path: /Fvy0Y7NJ7uucUDha?ed=2560
+- name: 美国 124
+  type: vless
+  network: ws
+  server: 172.67.189.174
+  port: 80
+  uuid: 19b3cbba-e6ac-485a-9481-926a0415eab2
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: sHrill-tErm-639b.TageLIT414.workeRs.dEv
+    path: /
+- name: 美国 126
+  type: vless
+  network: ws
+  server: 104.18.32.69
+  port: 2052
+  uuid: 33039dbe-8889-42f1-9aeb-ecfbfa2a1640
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: 21tg.459tj345.workers.dev
+    path: /?ed=2560
+- name: 美国 127
+  type: vless
+  network: ws
+  server: 104.18.32.69
+  port: 2095
+  uuid: 33039dbe-8889-42f1-9aeb-ecfbfa2a1640
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: 21tg.459tj345.workers.dev
+    path: /?ed=2560
+- name: 美国 138
+  type: vless
+  network: ws
+  server: join.e-l-i-v-2-r-a-y.fastly80-3.hosting-ip.com
+  port: 80
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  servername: graph.facebook.com
+  skip-cert-verify: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: Join--E-L-i-V-2-R-A-Y.net
+    path: /channel,ELiV2RAY-channel,ELiV2RAY-channel,ELiV2RAY?ed
+- name: 美国 140
+  type: vless
+  network: ws
+  server: 104.18.56.155
+  port: 8080
+  uuid: 9f0eae34-97c1-4c07-8a55-438379981334
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: snowy-bush-4df8-ppal03.toxebex651.workers.dev
+    path: /
+- name: 美国 141
+  type: vless
+  network: ws
+  server: 104.18.20.94
+  port: 2095
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: xijinpingnmsl.s4ar.workers.dev
+    path: /?ed=2560
+- name: 美国 145
+  type: vless
+  network: ws
+  server: 172.64.78.198
+  port: 80
+  uuid: 2370f4d8-6694-4e51-8c72-b2782ae96a59
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: withered-wave-ee0b-ppal03.faxip46069.workers.dev
+    path: /?ed=2560
+- name: 美国 147
+  type: vless
+  network: ws
+  server: 104.21.58.212
+  port: 80
+  uuid: 5a4e040a-8de6-4222-bd6f-9f535b8772fd
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: calm-violet-0e47.pomofoc222.workers.dev
+    path: /lrJO6NEVRGHecfbo?ed=2560
+- name: 美国 149
+  type: vless
+  network: ws
+  server: join.E-L-i-V-2-R-A-Y.fastly80-3.hosting-ip.com
+  port: 80
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  servername: graph.facebook.com
+  skip-cert-verify: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: Join--E-L-i-V-2-R-A-Y.net
+    path: /channel,ELiV2RAY-channel,ELiV2RAY-channel,ELiV2RAY?ed
+- name: 美国 150
+  type: vless
+  network: ws
+  server: 104.16.182.65
+  port: 80
+  uuid: f86586c2-3a4c-49c9-83ec-5ae43786d4f7
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: dark-bonus-0f2f-ppal03.yapeyef825.workers.dev
+    path: /Telegram
+- name: 美国 151
+  type: vless
+  network: ws
+  server: 104.24.167.96
+  port: 80
+  uuid: ec1bb388-649c-4deb-9eb1-a096b784e0d3
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: round-truth-4e97-ppal03.vegasow726.workers.dev
+    path: /telegram
+- name: 美国 152
+  type: vless
+  network: ws
+  server: 154.83.2.230
+  port: 8880
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: redw.pooriam.ir
+    path: /
+- name: 美国 158
+  type: vless
+  network: ws
+  server: 104.16.86.2
+  port: 80
+  uuid: 9f0eae34-97c1-4c07-8a55-438379981334
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: snowy-bush-4df8-ppal03.toxebex651.workers.dev
+    path: /?ed=2560
+- name: 美国 159
+  type: vless
+  network: ws
+  server: 154.83.2.228
+  port: 8880
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: redw.pooriam.ir
+    path: /
+- name: 美国 161
+  type: vless
+  network: ws
+  server: 104.16.28.34
+  port: 8880
+  uuid: 075a365b-b0c7-4ba3-b5a6-597850c223f9
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: sinaazizpor.wapgiz.workers.dev
+    path: /?ed=2048
+- name: 美国 166
+  type: vless
+  network: ws
+  server: 154.83.2.156
+  port: 8880
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: redw.pooriam.ir
+    path: /
+- name: 美国 167
+  type: vless
+  network: ws
+  server: 104.16.183.83
+  port: 80
+  uuid: d4e672e0-bc04-45c1-b710-df097fa41d23
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: jolly-fog-9e08-ppal03.revog68198.workers.dev
+    path: /?ed=2560
+- name: 日本 004
+  type: vless
+  network: ws
+  server: 47.74.33.96
+  port: 443
+  uuid: 29fffc40-85fa-46fc-ac13-4d846fd9f696
+  servername: graph.facebook.com
+  skip-cert-verify: false
+  tls: true
+  udp: true
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: jpc.kddhs.asia
+    path: /bing
+- name: 美国 169
+  type: vless
+  network: ws
+  server: 66.235.200.222
+  port: 80
+  uuid: e497da22-d020-40fb-a1fa-bc294066a2d2
+  servername: graph.facebook.com
+  skip-cert-verify: false
+  ws-opts:
+    headers:
+      Host: pormang.webhost99.workers.dev
+    path: /
+- name: 荷兰 016
+  type: vless
+  network: ws
+  server: 45.149.12.183
+  port: 2052
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: redw.pooriam.ir
+    path: /TABRIZ.NET
+- name: 日本 006
+  type: vless
+  network: ws
+  server: 156.238.18.163
+  port: 2095
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: redw.pooriam.ir
+    path: /TM-AZARBAYJAB1TM-AZARBAYJAB1TM-AZARBAYJAB1
+- name: 日本 007
+  type: vless
+  network: ws
+  server: 156.238.18.165
+  port: 2052
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: redw.pooriam.ir
+    path: /TM-AZARBAYJAB1TM-AZARBAYJAB1TM-AZARBAYJAB1
+- name: 美国 179
+  type: vless
+  network: ws
+  server: 190.93.244.226
+  port: 80
+  uuid: 42f36835-730c-4ecc-9daf-20121ae7ba47
+  servername: graph.facebook.com
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: gozargah.validbv7996.ir
+    path: /---
+- name: 荷兰 017
+  type: vless
+  network: ws
+  server: 194.152.44.156
+  port: 8080
+  uuid: e497da22-d020-40fb-a1fa-bc294066a2d2
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: pormang.webhost99.workers.dev
+    path: /gh+repo+clone+2dust+
+- name: 美国 182
+  type: vless
+  network: ws
+  server: 45.62.114.221
+  port: 443
+  uuid: dd0d29f2-c6fd-4518-bed6-618ef8b12e86
+  servername: graph.facebook.com
+  tls: true
+  udp: true
+  delay: 1273
+  ws-opts:
+    headers:
+      Host: usb.sevco.me
+    path: /bing
+- name: 美国 183
+  type: vless
+  network: ws
+  server: www.speedtest.net
+  port: 2052
+  uuid: dfc1a9ab-6241-4b73-92f7-b299fc6b7751
+  servername: graph.facebook.com
+  tls: false
+  udp: true
+  delay: 1276
+  ws-opts:
+    headers:
+      Host: Yak-Khanda-kUn-eY-gUL.biNG.com.xn--cR8HaaaAaAAAaAaaAaAaAAaAAaaaAAAAAaAaaAaaaAaaaaAAaaAAAaaaaAa.xN--Cr8hAaAaaAaaAAAAAAaaaAAAaAAaaAaAaAAAAAA.TREPAspeEdTEsT.NEtrag.cOm.PX.Com.sh017.IR.XN--Cr8hAaaAaaAaaAaaaAAAaaaAaaAaaaAaAAAaaaA.yek.dDnS-ip.nEt
+    path: /?ed=1080
+- name: 美国 003
+  type: vmess
+  network: ws
+  server: AC.fastly80-2.hosting-ip.com
+  port: 80
+  uuid: 6e3ac406-a15b-461d-8b05-ca01b284d9a0
+  skip-cert-verify: true
+  tls: false
+  udp: true
+  tfo: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: telegram-isvvpn.dev
+    path: /racevpn
+- name: 美国 005
+  type: vless
+  network: ws
+  server: 190.93.244.226
+  port: 2052
+  uuid: 42f36835-730c-4ecc-9daf-20121ae7ba47
+  servername: graph.facebook.com
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: gozargah.validbv7996.ir
+    path: /---
+- name: 印度 001
+  type: vless
+  network: ws
+  server: 14.102.229.149
+  port: 2052
+  uuid: 0c319c06-c493-5cef-9fa1-765ddcc37e8c
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: sPeedtest2.sbs.us2.v2vless.sitespeedtest.net
+    path: /vless#
+- name: 英国 001
+  type: vless
+  network: ws
+  server: 144.24.243.207
+  port: 443
+  uuid: b529971c-f46a-4eb9-a02d-e39cc3e83cf5
+  servername: graph.facebook.com
+  tls: true
+  udp: true
+  delay: 1757
+  ws-opts:
+    headers:
+      Host: dd8.transitkala.com
+    path: /
+- name: 美国 030
+  type: vmess
+  network: ws
+  server: 104.18.149.76
+  port: 443
+  uuid: de94cc0a-0592-4969-b1fc-97ea8f0ea0b3
+  servername: graph.facebook.com
+  skip-cert-verify: true
+  tls: true
+  alterId: 0
+  cipher: auto
+  delay: 2889
+  ws-opts:
+    headers:
+      Host: us.kkp.me.eu.org
+    path: /aa
+- name: 美国 001
+  type: vless
+  network: ws
+  server: 69.84.182.88
+  port: 443
+  uuid: d17ca95a-8eaf-492f-93fa-538c88956bb3
+  servername: graph.facebook.com
+  skip-cert-verify: true
+  tls: true
+  tfo: false
+  ws-opts:
+    headers:
+      Host: publicvless.pages.dev
+    path: /?proxyip=proxyip.us.fxxk.dedyn.io
+- name: 美国 002
+  type: vless
+  network: ws
+  server: 152.70.83.37
+  port: 443
+  uuid: d17ca95a-8eaf-492f-93fa-538c88956bb3
+  servername: graph.facebook.com
+  skip-cert-verify: true
+  tls: true
+  tfo: false
+  ws-opts:
+    headers:
+      Host: publicvless.pages.dev
+    path: /?proxyip=proxyip.jp.fxxk.dedyn.io
+- name: 美国 004
+  type: vless
+  network: ws
+  server: 198.62.62.203
+  port: 443
+  uuid: d17ca95a-8eaf-492f-93fa-538c88956bb3
+  servername: graph.facebook.com
+  skip-cert-verify: true
+  tls: true
+  tfo: false
+  ws-opts:
+    headers:
+      Host: publicvless.pages.dev
+    path: /?proxyip=proxyip.us.fxxk.dedyn.io
+- name: 美国 007
+  type: vless
+  network: ws
+  server: 104.18.41.190
+  port: 2095
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: fuckingcloudflare.20241225.workers.dev
+    path: /?ed=2560
