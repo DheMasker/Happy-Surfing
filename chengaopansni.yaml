@@ -1,0 +1,1035 @@
+proxies:
+- uuid: fe383dfe-3c91-4524-93f7-101517bb8a2f
+  cipher: auto
+  alterId: 0
+  server: esna.farsonline24.ir
+  name: 73b8c674a1a0415cb88f32fe214db6fc_@_🅼🅴🅷🅳🅸
+  type: vmess
+  port: 8443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: esna.farsonline24.ir
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: esna.farsonline24.ir
+    path: /I4hsGQVV
+- uuid: 8a871057-0b69-4cdb-a282-0ef5ef66c8b8
+  cipher: auto
+  alterId: 0
+  server: esna.farsonline24.ir
+  name: ee07b39cb9e64c8fb13f1b5cc2341547_@_🅼🅴🅷🅳🅸
+  type: vmess
+  port: 8443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: esna.farsonline24.ir
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: esna.farsonline24.ir
+    path: /I4hsGQVV
+- uuid: 57eb37b3-b36a-467c-9f84-83c27e5b9f4f
+  cipher: auto
+  alterId: 0
+  server: esna.farsonline24.ir
+  name: 74fac31b911b48cda1768e03a76f5f33_@_🅼🅴🅷🅳🅸
+  type: vmess
+  port: 8443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: esna.farsonline24.ir
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: esna.farsonline24.ir
+    path: /I4hsGQVV
+- uuid: 9ef287ea-5a76-41ad-874c-48d0c1d0933b
+  cipher: auto
+  alterId: 0
+  server: esna.itn24.ir
+  name: 3ec53008e5c24b4f9ea8cd2007157c12_@_🅼🅴🅷🅳🅸
+  type: vmess
+  port: 8443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: esna.itn24.ir
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: esna.itn24.ir
+    path: /ceBkHBK4
+- uuid: 9e331246-8a8b-4790-b4ad-448089923a8b
+  cipher: auto
+  alterId: 0
+  server: live.onetwothree123.ir
+  name: 7aada9293cfb445f8700413816829c01_@_🅼🅴🅷🅳🅸
+  type: vmess
+  port: 2053
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /dJcxUoyK
+- uuid: 9e331246-8a8b-4790-b4ad-448089923a8b
+  cipher: auto
+  alterId: 0
+  server: esna.itn24.ir
+  name: ec50edfc5d16488abcbaa56fbc32c53a_@_🅼🅴🅷🅳🅸
+  type: vmess
+  port: 8443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: esna.itn24.ir
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: esna.itn24.ir
+    path: /ceBkHBK4
+- uuid: 24911dca-850c-4dae-bb8e-b034ad16f4fc
+  cipher: auto
+  alterId: 0
+  server: esna.itn24.ir
+  name: 2a2482cc72584cdc9c1f9a0e1b4c9b1c_@_🅼🅴🅷🅳🅸
+  type: vmess
+  port: 8443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: esna.itn24.ir
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: esna.itn24.ir
+    path: /ceBkHBK4
+- uuid: fb51369a-3550-49f0-85ac-52609d853f66
+  cipher: auto
+  alterId: 0
+  server: esna.itn24.ir
+  name: fe8e24ed0a5d4909a0e5fb48b010cf61_@_🅼🅴🅷🅳🅸
+  type: vmess
+  port: 8443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: esna.itn24.ir
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: esna.itn24.ir
+    path: /ceBkHBK4
+- uuid: 2c6db545-016b-403f-b9f8-165c68511ff4
+  cipher: auto
+  alterId: 0
+  server: esna.farsonline24.ir
+  name: 8ee9d0f5bf8d47e5b052f2157d17273e_@_🅼🅴🅷🅳🅸
+  type: vmess
+  port: 8443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: esna.farsonline24.ir
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: esna.farsonline24.ir
+    path: /I4hsGQVV
+- uuid: ab7b776c-e671-461f-9591-27cb677b11a6
+  cipher: auto
+  alterId: 0
+  server: esna.farsonline24.ir
+  name: 8ddc4d6f8ed145658dd3f52a4e8f8c93_@_🅼🅴🅷🅳🅸
+  type: vmess
+  port: 8443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: esna.farsonline24.ir
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: esna.farsonline24.ir
+    path: /I4hsGQVV
+- uuid: fb51369a-3550-49f0-85ac-52609d853f66
+  cipher: auto
+  alterId: 0
+  server: esna.farsonline24.ir
+  name: c737478cd3764fdd92d9526a1469e16e_@_🅼🅴🅷🅳🅸
+  type: vmess
+  port: 8443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: esna.farsonline24.ir
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: esna.farsonline24.ir
+    path: /I4hsGQVV
+- uuid: a41f4152-eb42-4b56-a1a8-6bf0dba11ee8
+  cipher: auto
+  alterId: 0
+  server: esna.itn24.ir
+  name: 3f446fed5e794841ad0ccfacadd6730a_@_🅼🅴🅷🅳🅸
+  type: vmess
+  port: 8443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: esna.itn24.ir
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: esna.itn24.ir
+    path: /ceBkHBK4
+- uuid: ab7b776c-e671-461f-9591-27cb677b11a6
+  cipher: auto
+  alterId: 0
+  server: live.onetwothree123.ir
+  name: 1d91cf57f85144e4830eb57c81162173_@_🅼🅴🅷🅳🅸
+  type: vmess
+  port: 2053
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /dJcxUoyK
+- uuid: 24565a61-f6e3-4f9c-9ffd-4307e141ee60
+  cipher: auto
+  alterId: 0
+  server: esna.twn24.ir
+  name: 3e888da429964a9bbc8910adb4e925f1_@_🅼🅴🅷🅳🅸
+  type: vmess
+  port: 8443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: esna.twn24.ir
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: esna.twn24.ir
+    path: /4sMTyjcd
+- uuid: 9e331246-8a8b-4790-b4ad-448089923a8b
+  cipher: auto
+  alterId: 0
+  server: esna.twn24.ir
+  name: f71696c330664aed9d3bea614125cc67_@_🅼🅴🅷🅳🅸
+  type: vmess
+  port: 8443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: esna.twn24.ir
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: esna.twn24.ir
+    path: /4sMTyjcd
+- uuid: 9ef287ea-5a76-41ad-874c-48d0c1d0933b
+  cipher: auto
+  alterId: 0
+  server: esna.farsonline24.ir
+  name: 54bca62db28e4b03ac1c177b42552172_@_🅼🅴🅷🅳🅸
+  type: vmess
+  port: 8443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: esna.farsonline24.ir
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: esna.farsonline24.ir
+    path: /I4hsGQVV
+- uuid: ff757360-4f2d-40dc-913d-a1e4f63a0b8f
+  cipher: auto
+  alterId: 0
+  server: esna.farsonline24.ir
+  name: b070af8ac77d462394678cf0468d9950_@_🅼🅴🅷🅳🅸
+  type: vmess
+  port: 8443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: esna.farsonline24.ir
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: esna.farsonline24.ir
+    path: /I4hsGQVV
+- uuid: 575d2e5e-e7a4-48b8-a55e-aa38e16a3106
+  server: 104.16.59.70
+  name: 1ce63265a1fd410d97d8ee8da6e2d427_@_[🇨🇦]t.me/ConfigsHub`
+  type: vless
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /?ed=2560
+- uuid: fe069d77-882c-4175-b48e-c79e3fe65a81
+  server: nextgenerationaiplatform.ir
+  name: 0635ff6525444623af53664fa189662a_@_[🇫🇮]t.me/ConfigsHub`
+  type: vless
+  port: 443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: nextgenerationaiplatform.ir
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: nextgenerationaiplatform.ir
+    path: /fsafasfsafA
+- uuid: 5e1306ff-3ffa-4166-89ab-1a06ff42eca6
+  server: www.speedtest.net
+  name: 
+    8ff5c42f36374775b73a63fb8c453323_@_%40MehradLearn%20%7C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1`
+  type: vless
+  port: 443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: www.speedtest.net.www.google.com.bing.com.visa.com.tls.htr.ddns-ip.net
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: www.speedtest.net.www.google.com.bing.com.visa.com.tls.htr.ddns-ip.net
+    path: /Telegram-XV2ry2?ed=512
+- uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e
+  server: 13.50.206.251
+  name: 296dac2917dd4e7dbf6c0ccbd94b8f8b_@_🇸🇪[openproxylist.com] vless-SE```
+  type: vless
+  port: 22222
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: telegram-channel-vlessconfig.sohala.uk
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: telegram-channel-vlessconfig.sohala.uk
+    path: /telegram-channel-vlessconfig-ws
+- uuid: 838f5273-5d2d-4630-a0f5-9cc8e4aef4d6
+  server: www.speedtest.net
+  name: 
+    1907b397bd514097a8dc90503a79cc09_@_[🇨🇦]t.me/ConfigsHub`vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.17.148.22:2096?path=%2F&security=tls&encryption=none&host=WvVkTwZz2.RoCkStOnEy.iNfO&type=ws&sni=WvVkTwZz2.RoCkStOnEy.iNfO#[🇨🇦]t.me/ConfigsHub`
+  type: vless
+  port: 8443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: WgRyZmDb0.RiCkTmOuSe.iNfO
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: WgRyZmDb0.RiCkTmOuSe.iNfO
+    path: /
+- uuid: 24a4aa9b-b341-4717-9d4a-00d74c2b84e0
+  server: www.speedtest.net
+  name: 2b4b6b0c534a4dea904088c8c9c5ef5d_@_telegram 🚀 DailyV2ry
+  type: vless
+  port: 2096
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: O519fXf9Pu.MySpDmMeTi.CoM
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: O519fXf9Pu.MySpDmMeTi.CoM
+    path: /
+- uuid: 4ee5e660-17c3-4bd9-a314-8a9efe7d3250
+  server: tgju.org
+  name: e4c9fdb441d341b18e339f02764dd5da_@_telegram ⚡️ DailyV2ry
+  type: vless
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /?ed=2048
+- uuid: c5293efa-28f8-4a0f-8f34-541078970cee
+  server: 45.131.4.128
+  name: 661eef6b7cf541be84d24cf03003cc80_@_%F0%9F%AB%905%40oneclickvpnkeys
+  type: vless
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: Telegram@WangCai2/?ed
+- uuid: edbb1059-1633-4271-b66e-ed4fba47a1bf
+  cipher: auto
+  alterId: 0
+  server: 104.21.15.36
+  name: 932c6f45229b494a94efc2879284c678_@_[🇨🇦]t.me/ConfigsHub
+  type: vmess
+  port: 443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: linde06.indiavideo.sbs
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: linde06.indiavideo.sbs
+    path: /linkws
+- uuid: c5293efa-28f8-4a0f-8f34-541078970cee
+  server: 188.114.96.3
+  name: 5b505543db2b44c4a3927d7434aa2389_@_[🇨🇦]t.me/ConfigsHub`
+  type: vless
+  port: 443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: randomized
+  servername: GOZArgAH.vaLIDbV7996.IR
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: GOZArgAH.vaLIDbV7996.IR
+    path: /oiBBYyE4WkprI2wD?ed=2560
+- uuid: 7c81d0a8-8e23-44d4-94b5-56d33b7af07d
+  cipher: auto
+  alterId: 0
+  server: 31.25.237.9
+  name: 53380edbfdea4d039485d78d44c64773_@_🇬🇧[openproxylist.com] vmess-GB
+  type: vmess
+  port: 2086
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: 7c81d0a8-8e23-44d4-94b5-56d33b7af07d-vm
+- uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e
+  server: 13.37.126.24
+  name: a6c78462bd9040b2ae3466d093dec1d8_@_Telegram @VlessConfig 🇫🇷`
+  type: vless
+  port: 22222
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: telegram-channel-vlessconfig.sohala.uk
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: telegram-channel-vlessconfig.sohala.uk
+    path: /telegram-channel-vlessconfig-ws
+- uuid: 59860b15-b2d9-47f9-9b92-81bd1639fcc5
+  server: 162.159.153.2
+  name: 
+    a8c69bc1cd7d4c55ae2163af869c6cd4_@_[🇨🇦]t.me/ConfigsHub`vless://fd7dfc40-0702-486e-b546-b01cba3563bf@34.200.250.40:443?mode=auto&path=%2Fclient&security=reality&encryption=none&pbk=R0OcdqUt3HNQhekl_X41VX8iOmrpxDoyk-1xdXQaN08&host=api.cloudflare.com&fp=chrome&type=xhttp&sni=api.cloudflare.com&sid=ac2f76d05c#[🇺🇸]t.me/ConfigsHub`
+  type: vless
+  port: 443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: random
+  servername: 5-55sfjslf.ifenxiang.cfd
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: 5-55sfjslf.ifenxiang.cfd
+    path: /Telegram@proxy_mtm/?ed=2560
+- uuid: 4a6bec57-eef0-4e78-baae-d0d1fc6207ce
+  server: hajlab.ucdavis.edu
+  name: 6fd86dccf80845189537254cee58c8df_@_[🇺🇸]t.me/ConfigsHub`
+  type: vless
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: 
+      /@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048
+- uuid: f4f22421-23e9-4532-b3c0-0005b44e606d
+  server: 104.26.15.85
+  name: 7ada8282ed83445385db768aea43acda_@_[🇨🇦]t.me/ConfigsHub`
+  type: vless
+  port: 8080
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /?ed=2048
+- uuid: fa1f45ec-25eb-4fbd-af1d-917d5037bbb6
+  server: 104.19.54.50
+  name: 9788a424b91e43c8bdf919f95e71ea71_@_[🇨🇦]t.me/ConfigsHub`
+  type: vless
+  port: 8080
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: randomized
+  fingerprint: ''
+  ws-opts:
+    path: 
+      /Channel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE?ed=2048
+- uuid: 5f2aea8a-d8f1-4a30-963a-88f9b759d2b3
+  server: www.speedtest.net
+  name: 
+    6e0be68fdb9f4777aa8886549ff80d81_@_43%F0%9F%95%8A%EF%B8%8F%40oneclickvpnkeysvless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.104:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub`
+  type: vless
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: 
+      /-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048
+- uuid: 59860b15-b2d9-47f9-9b92-81bd1639fcc5
+  server: 104.18.27.94
+  name: 2310198fe3ca4536a475197c0c73030d_@_[🇨🇦]t.me/ConfigsHub`
+  type: vless
+  port: 443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: random
+  servername: 5-55sfjslf.ifenxiang.cfd
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: 5-55sfjslf.ifenxiang.cfd
+    path: /?ed=2560
+- uuid: 45ce6f5fd81c414286cad87e5ba1f61a
+  server: 104.22.28.114
+  name: eb20c49a98e9475b8929c229f45601e1_@_[🇨🇦]t.me/ConfigsHub`
+  type: vless
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /t.me/Inconigto_Mode/35.219.50.99/443
+- uuid: 838f5273-5d2d-4630-a0f5-9cc8e4aef4d6
+  server: www.speedtest.net
+  name: 7f771807adaa43e18456690224c28f92_@_[🇨🇦]t.me/ConfigsHub`
+  type: vless
+  port: 443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: UoCmUcLi11.rIpLeToOrY.InFo
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: UoCmUcLi11.rIpLeToOrY.InFo
+    path: /
+- uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e
+  server: 54.228.206.8
+  name: dc44deac5a534973919fc9c1abbf7ac7_@_Telegram @VlessConfig 🇨🇮`
+  type: vless
+  port: 22222
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: telegram-channel-vlessconfig.sohala.uk
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: telegram-channel-vlessconfig.sohala.uk
+    path: /telegram-channel-vlessconfig-ws
+- uuid: f6bd2c47-99da-4bca-bf70-7186aa9e7e06
+  server: www.speedtest.ir
+  name: 8031814ed541484584da37315e3f3d13_@_[🇨🇦]t.me/ConfigsHub`
+  type: vless
+  port: 443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: randomized
+  servername: karshenashamrah.ir
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: karshenashamrah.ir
+    path: /3um9NK8jwisKz35E?ed=
+- uuid: fb064675-f2f1-4d41-bcca-213ebd7d2b76
+  server: 151.101.64.155
+  name: 8bed478002b54a85ae9a23af4887053c_@_[🇨🇦]t.me/ConfigsHub`
+  type: vless
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: 
+      /telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048
+- uuid: 753fa8e8-a3e8-442e-abf7-875ed776eacb
+  server: 104.17.213.241
+  name: c5284e73255942898dcd0fccf7ff75c4_@_[🇨🇦]t.me/ConfigsHub`
+  type: vless
+  port: 443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: is.oldcloud.online
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: is.oldcloud.online
+    path: /
+- uuid: 7c9e3c1d-a360-4429-9189-e45a98de7fde
+  server: 188.114.97.155
+  name: 6c4c9b917e494829adf434a705a760a3_@_[🇨🇦]t.me/ConfigsHub`
+  type: vless
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /Telegram-@V2ray_Alpha/?ed=2560
+- uuid: c7d543af-1023-4b96-a698-187c190d3f4c
+  server: 104.22.56.77
+  name: f7317e920d8a4f8a970bc4689d0d1399_@_[🇨🇦]t.me/ConfigsHub`
+  type: vless
+  port: 443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: nautica.foolvpn.me
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: nautica.foolvpn.me
+    path: /47.89.39.186-39251
+- uuid: f6bd2c47-99da-4bca-bf70-7186aa9e7e06
+  server: 45.149.12.201
+  name: d234f0f919c34dca8a6599916094881b_@_[🇳🇱]t.me/ConfigsHub`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: f6bd2c47-99da-4bca-bf70-7186aa9e7e06
+  server: www.speedtest.ir
+  name: 9990e6c6bcf44282b35213386bcc9b51_@_[🇨🇦]t.me/ConfigsHub`
+  type: vless
+  port: 443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: randomized
+  servername: karshenashamrah.ir
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: karshenashamrah.ir
+    path: /3um9NK8jwisKz35E?ed=
+- uuid: f6bd2c47-99da-4bca-bf70-7186aa9e7e06
+  server: www.speedtest.ir
+  name: f289e19f681b447492b15c7f4c43e559_@_[🇨🇦]t.me/ConfigsHub`
+  type: vless
+  port: 443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: randomized
+  servername: karshenashamrah.ir
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: karshenashamrah.ir
+    path: /3um9NK8jwisKz35E?ed=
+- uuid: f6bd2c47-99da-4bca-bf70-7186aa9e7e06
+  server: www.speedtest.ir
+  name: a14e84ca3b3d4ac1a2c308db6ce46fe0_@_%40IRAN_V2RAY1
+  type: vless
+  port: 443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: randomized
+  servername: karshenashamrah.ir
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: karshenashamrah.ir
+    path: /3um9NK8jwisKz35E?ed=
+- uuid: 7c9e3c1d-a360-4429-9189-e45a98de7fde
+  server: 188.114.97.155
+  name: 2a2076cfa30e45efa26b81fa9d0c8d42_@_%40IRAN_V2RAY1
+  type: vless
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /Telegram-@V2ray_Alpha/?ed=2560
+- uuid: 59860b15-b2d9-47f9-9b92-81bd1639fcc5
+  server: 162.159.153.2
+  name: 77074a234de146c998aa7d890965cac8_@_%40IRAN_V2RAY1
+  type: vless
+  port: 443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: random
+  servername: 5-55sfjslf.ifenxiang.cfd
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: 5-55sfjslf.ifenxiang.cfd
+    path: /Telegram@proxy_mtm/?ed=2560
+- uuid: 7c9e3c1d-a360-4429-9189-e45a98de7fde
+  server: 188.114.97.155
+  name: 6474c32c5eda41aabd6d73c9c18086f9_@_%40IRAN_V2RAY1```
+  type: vless
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /?ed=MARAMBASHI_MARAMBASHI/?ed=2560
+- uuid: f6bd2c47-99da-4bca-bf70-7186aa9e7e06
+  server: www.speedtest.ir
+  name: a157d2eb5c4a48b9b2c7fcd332fee202_@_[🇨🇦]t.me/ConfigsHub`
+  type: vless
+  port: 443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: randomized
+  servername: karshenashamrah.ir
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: karshenashamrah.ir
+    path: /3um9NK8jwisKz35E?ed=
+- uuid: 7c9e3c1d-a360-4429-9189-e45a98de7fde
+  server: 188.114.97.155
+  name: a8df5ade4fcc4312af4331fac398e7a0_@_[🇨🇦]t.me/ConfigsHub`
+  type: vless
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /Telegram-@V2ray_Alpha/?ed=2560
+- uuid: f6bd2c47-99da-4bca-bf70-7186aa9e7e06
+  server: www.speedtest.ir
+  name: cc5b6058047e4b9cb3dd03d2cbf4394f_@_[🇨🇦]t.me/ConfigsHub`
+  type: vless
+  port: 443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: randomized
+  servername: karshenashamrah.ir
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: karshenashamrah.ir
+    path: /3um9NK8jwisKz35E?ed=
+- uuid: 7c9e3c1d-a360-4429-9189-e45a98de7fde
+  server: 188.114.97.155
+  name: 569ad3b4c01d4722956ab70fd4442a29_@_[🇨🇦]t.me/ConfigsHub`
+  type: vless
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /Telegram-@V2ray_Alpha/?ed=2560
+- uuid: 59860b15-b2d9-47f9-9b92-81bd1639fcc5
+  server: 162.159.153.2
+  name: 3550db7f86f44c048abfd5011effe7e0_@_[🇨🇦]t.me/ConfigsHub`
+  type: vless
+  port: 443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: random
+  servername: 5-55sfjslf.ifenxiang.cfd
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: 5-55sfjslf.ifenxiang.cfd
+    path: /Telegram@proxy_mtm/?ed=2560
+- uuid: 7c9e3c1d-a360-4429-9189-e45a98de7fde
+  server: 188.114.97.155
+  name: 89919cf115e647e8bbfc2c0db4a83af2_@_[🇨🇦]t.me/ConfigsHub`
+  type: vless
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /?ed=MARAMBASHI_MARAMBASHI/?ed=2560
+- uuid: 59860b15-b2d9-47f9-9b92-81bd1639fcc5
+  server: 162.159.153.2
+  name: e766b9fb7fed47f6b22c6e13331e1505_@_[🇨🇦]t.me/ConfigsHub`
+  type: vless
+  port: 443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: random
+  servername: 5-55sfjslf.ifenxiang.cfd
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: 5-55sfjslf.ifenxiang.cfd
+    path: /Telegram@proxy_mtm/?ed=2560
+- uuid: 59860b15-b2d9-47f9-9b92-81bd1639fcc5
+  server: 104.26.13.140
+  name: e881e572327b4d74bc92ae09c2c074da_@_[🇨🇦]t.me/ConfigsHub`
+  type: vless
+  port: 8443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: random
+  servername: 5-55sfjslf.ifenxiang.cfd
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: 5-55sfjslf.ifenxiang.cfd
+    path: /?ed=MARAMBASHI_MARAMBASHI/?ed=2560
+- uuid: fe069d77-882c-4175-b48e-c79e3fe65a81
+  server: nextgenerationaiplatform.ir
+  name: 52d62cab061642a2aaefd2dd8b9cdee4_@_[🇫🇮]t.me/ConfigsHub`
+  type: vless
+  port: 443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: nextgenerationaiplatform.ir
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: nextgenerationaiplatform.ir
+    path: /fsafasfsafA#/?ed=MARAMBASHI_MARAMBASHI/?ed=2048
+- uuid: 7c9e3c1d-a360-4429-9189-e45a98de7fde
+  server: 188.114.97.155
+  name: 35e66fc861d34c1594bb2c4485bcf31b_@_[🇨🇦]t.me/ConfigsHub`
+  type: vless
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /?ed=MARAMBASHI_MARAMBASHI/?ed=2560
+- uuid: 5e1306ff-3ffa-4166-89ab-1a06ff42eca6
+  server: www.speedtest.net
+  name: 5c6e512e885c4d7699b3ba2c202cc993_@_[🇨🇦]t.me/ConfigsHub`
+  type: vless
+  port: 443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: www.speedtest.net.www.google.com.bing.com.visa.com.tls.htr.ddns-ip.net
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: www.speedtest.net.www.google.com.bing.com.visa.com.tls.htr.ddns-ip.net
+    path: /Telegram-MARAMBASHI_MARAMBASHI?ed=512
+- uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e
+  server: 3.71.240.177
+  name: 83b60c69b44540f593169fea7b5d6c41_@_Telegram @VlessConfig 🇩🇪`
+  type: vless
+  port: 22222
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: telegram-channel-vlessconfig.sohala.uk
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: telegram-channel-vlessconfig.sohala.uk
+    path: /telegram-channel-vlessconfig-ws
+- uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e
+  server: 3.71.240.177
+  name: 24035ac9db4f420599e611c99f1be24b_@_[🇩🇪]t.me/ConfigsHub`
+  type: vless
+  port: 22222
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: telegram-channel-vlessconfig.sohala.uk
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: telegram-channel-vlessconfig.sohala.uk
+    path: /telegram-channel-vlessconfig-ws
+- uuid: 575d2e5e-e7a4-48b8-a55e-aa38e16a3106
+  server: 104.16.59.70
+  name: 359e078f83f241c0aef8c90f84010876_@_[🇨🇦]t.me/ConfigsHub`
+  type: vless
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /?ed=2560
+- alterId: 2
+  cipher: auto
+  name: 12,13|美国3|@ripaojiedian
+  network: ws
+  port: '420'
+  server: 0e1f11d2-stw740-sy3miy-3kis.fmt2-us.sghuawei.com
+  servername: ''
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: 117fc3d8-fd04-11ed-b345-f23c93136cb3
+  ws-opts:
+    headers:
+      Host: 0e1f11d2-stw740-sy3miy-3kis.fmt2-us.sghuawei.com
+    path: /
+- alterId: 2
+  cipher: auto
+  name: 12,13|美国5|@ripaojiedian
+  network: ws
+  port: '420'
+  server: 494a196c-stucg0-t16qfc-3ge3.fmt2-us.sghuawei.com
+  servername: ''
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: 6e28d086-f1bd-11ed-9ebc-f23c93665044
+  ws-opts:
+    headers:
+      Host: 494a196c-stucg0-t16qfc-3ge3.fmt2-us.sghuawei.com
+    path: /
+- uuid: 528e7795-2f5a-4849-9349-acbfc9c681eb
+  cipher: auto
+  alterId: 0
+  server: live.onetwothree123.ir
+  name: 56328d6d22d5495397232677e21ec24b_@_🅼🅴🅷🅳🅸
+  type: vmess
+  port: 2053
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /dJcxUoyK
+- uuid: a1ec9a86-d6e0-4366-933f-ec4c78d330b3
+  cipher: auto
+  alterId: 0
+  server: live.onetwothree123.ir
+  name: 9fa87b42eaf345c59e96072b070685da_@_🅼🅴🅷🅳🅸
+  type: vmess
+  port: 2053
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /dJcxUoyK
+- uuid: 57eb37b3-b36a-467c-9f84-83c27e5b9f4f
+  cipher: auto
+  alterId: 0
+  server: live.onetwothree123.ir
+  name: cd86c5ca36c44bd68aeff71fd6c4ba2d_@_🅼🅴🅷🅳🅸
+  type: vmess
+  port: 2053
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /dJcxUoyK
+- uuid: 57eb37b3-b36a-467c-9f84-83c27e5b9f4f
+  cipher: auto
+  alterId: 0
+  server: esna.twn24.ir
+  name: dcd83efcf15641b0bc3446d00ff604c7_@_🅼🅴🅷🅳🅸
+  type: vmess
+  port: 8443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: esna.twn24.ir
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: esna.twn24.ir
+    path: /4sMTyjcd
