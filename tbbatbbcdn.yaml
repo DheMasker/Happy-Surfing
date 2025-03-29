@@ -395,6 +395,23 @@ proxies:
     headers:
       Host: tls.05.node-for-bigairport.win
     path: /
+- name: 巴西 001
+  type: vmess
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  uuid: edbb1059-1633-4271-b66e-ed4fba47a1bf
+  servername: linde06.indiavideo.sbs
+  skip-cert-verify: true
+  tls: true
+  udp: true
+  tfo: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: linde06.indiavideo.sbs
+    path: /linkws
 - name: RELAY-172.67.159.56-5987 | 1.13MB
   server: 104.22.5.240
   port: 2087
