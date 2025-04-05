@@ -1,0 +1,202 @@
+###
+
+
+
+log-level: silent
+unified-delay: true
+dns:
+  enable: true
+  nameserver:
+  - 8.8.8.8
+  - 8.8.4.4
+  default-nameserver:
+  - 8.8.8.8
+  - 8.8.4.4
+  proxy-server-nameserver:
+  - 108.138.141.88
+  - 172.67.5.14
+  - 112.215.198.254
+  - 112.215.198.248
+  - 112.215.203.248
+  - 202.152.254.245
+  - 202.152.254.246
+  - 202.152.254.10
+  - 202.152.254.11
+  - 202.152.254.12
+  - 202.152.254.13
+  - 104.18.213.235
+  - 104.18.214.235
+  - 112.215.198.254
+  - 112.215.198.248
+  - 112.215.203.246
+  - 112.215.203.247
+  - 112.215.203.254
+  - 172.67.5.14
+  - 104.22.5.240
+  - 13.225.4.107
+  - 104.22.4.240  
+
+
+
+proxy-providers:
+##########################################
+  Airuopcdn:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/Airuopcdn.yaml"
+    interval: 28800
+    path: ./proxy_provider/Airuopcdn.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+  WilliamStar007cdn:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/WilliamStar007cdn.yaml"
+    interval: 28800
+    path: ./proxy_provider/WilliamStar007cdn.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+  anaercdn:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/anaercdn.yaml"
+    interval: 28800
+    path: ./proxy_provider/anaercdn.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+  mahdiblandcdn:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/mahdiblandcdn.yaml"
+    interval: 28800
+    path: ./proxy_provider/mahdiblandcdn.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+  peasoftcdn:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/peasoftcdn.yaml"
+    interval: 28800
+    path: ./proxy_provider/peasoftcdn.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+  tbbatbbcdn:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/tbbatbbcdn.yaml"
+    interval: 28800
+    path: ./proxy_provider/tbbatbbcdn.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+  MrMohebicdn:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/MrMohebicdn.yaml"
+    interval: 28800
+    path: ./proxy_provider/MrMohebicdn.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+  chengaopancdn:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/chengaopancdn.yaml"
+    interval: 28800
+    path: ./proxy_provider/chengaopancdn.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+
+
+
+proxy-groups:
+- name: CONTROL
+  type: select
+  proxies:
+  - URLTEST
+  - SELECT
+  url: http://www.gstatic.com/generate_204
+
+- name: SELECT
+  type: select
+  use:
+  - Airuopcdn
+  - WilliamStar007cdn
+  - anaercdn
+  - mahdiblandcdn
+  - peasoftcdn
+  - tbbatbbcdn
+  - MrMohebicdn
+  - chengaopancdn  
+  url: http://www.gstatic.com/generate_204
+
+- name: URLTEST
+  type: url-test
+  use:
+  - Airuopcdn
+  - WilliamStar007cdn
+  - anaercdn
+  - mahdiblandcdn
+  - peasoftcdn
+  - tbbatbbcdn
+  - MrMohebicdn
+  - chengaopancdn
+  url: http://www.gstatic.com/generate_204
+  interval: 120
+
+
+
+rule-providers:
+  rule_nsfwp:
+    type: http
+    behavior: domain
+    url: https://dl.dropboxusercontent.com/s/t426sctp3f7s5jq5jxooq/rule_nsfwp.yaml?rlkey=g3ntld4akarr0yl4k0fjpf07v
+    path: "./rule_provider/rule_nsfwp.yaml"
+    interval: 86400
+  rule_nsfwn:
+    type: http
+    behavior: domain
+    url: https://dl.dropboxusercontent.com/s/uyjyar9dzpcbc4tnqemz6/rule_nsfwn.yaml?rlkey=igvrnp0edaj5g3385cv119xpi
+    path: "./rule_provider/rule_nsfwn.yaml"
+    interval: 43200
+
+
+
+rules:
+- RULE-SET,rule_nsfwn,REJECT
+- RULE-SET,rule_nsfwp,REJECT
+- MATCH,CONTROL
+
+
+
+###
