@@ -12,9 +12,203 @@ proxies:
     headers:
       Host: c2.validbv3528.eu.org
     path: /?ed=2560
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: 198.202.211.29
+  name: 4fc1bb67b1a748fa865e296a8df9758b_@_[🇺🇸]t.me/ConfigsHub`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /Telegram🇨🇳 @MxlShare @WangCai2 /?ed=2560
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: 89.116.161.29
+  name: 51f3827a94304af58ae35a8b30599326_@_[🇺🇸]t.me/ConfigsHub`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560
+- uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  server: 45.80.111.20
+  name: 2a9623d18f75442b8623b993b3b0d6f5_@_[🇩🇪]t.me/ConfigsHub`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /?ed=2560
+- uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  server: 45.131.5.20
+  name: 47b8332996a04e62b675ec18f562ae00_@_[🏁]t.me/ConfigsHub`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /?ed=2560
+- uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  server: 176.124.223.20
+  name: 0ee6a6d0043340f18cb8ddc8930146ab_@_[🏁]t.me/ConfigsHub`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /?ed=2560
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: 80.93.202.29
+  name: 8e0d1a7bd61d49209d5f54e9cd1a7958_@_[🇺🇸]t.me/ConfigsHub`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: 45.159.218.29
+  name: 7c8dd518b4654d6984a2fb6f6bbb0f08_@_[🇩🇪]t.me/ConfigsHub`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /Telegram🇨🇳 @MxlShare @WangCai2 /?ed=2560
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: 66.45.118.29
+  name: f9852656ab3e4173a3a63082c2bdfd35_@_[🇺🇸]t.me/ConfigsHub`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560
+- uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  server: 156.238.18.118
+  name: 5edeb4ea6b4248728eeb85eb8a707606_@_[🏁]t.me/ConfigsHub`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /Telegram🇨🇳 @pgkj666 /?ed=2560
+- uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  server: 195.85.59.20
+  name: d63e142e1e16426bb9ef753d24053244_@_[🏁]t.me/ConfigsHub`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /?ed=2560
+- uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  server: 45.159.216.20
+  name: 37b3c0aaeaed4c349702c796abe36e12_@_[🇩🇪]t.me/ConfigsHub`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /?ed=2560
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: 185.221.160.29
+  name: af367814500d4e098d599b4c6866109e_@_[🇷🇺]t.me/ConfigsHub`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /Telegram🇨🇳 @MxlShare @WangCai2 /?ed=2560
+- uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  server: 45.131.209.20
+  name: e67e65e3088a4ef59ac2f43a1bb74917_@_[🏁]t.me/ConfigsHub`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /?ed=2560
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: 141.11.203.29
+  name: 40051b3bab734235a20c6078b3fb8de4_@_[🏁]t.me/ConfigsHub`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /Telegram🇨🇳 @MxlShare @WangCai2 /?ed=2560
+- uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  server: 45.131.209.20
+  name: 31c073c0619f431ebae069cecceee5ad_@_👉🆔@v2ray_configs_pool📡🇧🇿®️Belize©️Belize
+    City🅿️ping:8.51ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /?ed=2560
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: 141.11.203.29
+  name: a530fc227b544cf785c781ff993c8f7b_@_👉🆔@v2ray_configs_pool📡🇭🇺®️Hungary©️Budapest
+    (XIX. kerület)🅿️ping:8.12ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /Telegram🇨🇳 @MxlShare @WangCai2 /?ed=2560
 - alterId: 64
   cipher: auto
-  name: 2|🇯🇵1 |  1.8MB/s|54%|Youtube|Ope...
+  name: 1|🇯🇵1 |  1.8MB/s|54%|Youtube|Ope...
   network: ws
   port: 1443
   server: sslvpn.51job.com
@@ -30,7 +224,7 @@ proxies:
     path: /634c5c4f9782
 - alterId: 0
   cipher: auto
-  name: 2|🌀4-TH |  2.6MB/s|55%|Netflix|O...
+  name: 1|🌀4-TH |  2.6MB/s|55%|Netflix|O...
   network: ws
   port: 443
   server: 38.47.96.30
@@ -45,7 +239,7 @@ proxies:
     path: /lzjjj
 - alterId: 2
   cipher: auto
-  name: 2|🇺🇸62 |  3.3MB/s|Openai|Gemini
+  name: 1|🇺🇸62 |  3.3MB/s|Openai|Gemini
   network: ws
   port: 30829
   server: v29.heduian.link
@@ -59,7 +253,7 @@ proxies:
     path: /oooo
 - alterId: 0
   cipher: auto
-  name: 2|🇭🇰1 |  1.8MB/s|15%|Disney|Yout...
+  name: 1|🇭🇰1 |  1.8MB/s|15%|Disney|Yout...
   network: ws
   port: 8080
   server: bc842b49-swexs0-t1rt5e-1s09x.hgc1.tcpbbr.net
