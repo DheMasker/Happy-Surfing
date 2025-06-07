@@ -1,0 +1,291 @@
+proxies:
+- name: 14|US_speednode_0097
+  network: ws
+  password: Ng35283528
+  port: 443
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  sni: c2.validbv3528.eu.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: c2.validbv3528.eu.org
+    path: /?ed=2560
+- uuid: 12b6fb4e-91a5-4b9c-b23f-aaf7917488fd
+  server: ava.game.naver.com
+  name: 6926a7cfbd9d4094b59b2a8853d22db1_@_[🇨🇦]t.me/ConfigsHub`
+  type: vless
+  port: 2082
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /?ed=2560
+- uuid: 7835e3ae-dc32-4a96-b748-00b04655745a
+  server: ava.game.naver.com
+  name: 240d5eb79e93468aa53ee60d37123411_@_[🇨🇦]t.me/ConfigsHub`
+  type: vless
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: 
+      /@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048
+- uuid: 9683c66b-ff03-4f1b-8c0a-08bb5087084c
+  server: ava.game.naver.com
+  name: 3f85b06be655491d946882d063e652fb_@_[🇨🇦]t.me/ConfigsHub`
+  type: vless
+  port: 8080
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: 
+      /@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20?ed=2048
+- uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  cipher: auto
+  alterId: 0
+  server: ava.game.naver.com
+  name: e3ba3c5bdbc4411ebb7a9bb0da25b9fa_@_[🇩🇪]t.me/ConfigsHub
+  type: vmess
+  port: 443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: kapelleng.com
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: kapelleng.com
+    path: /linkvws
+- uuid: 7fed5bf9-a1de-41a0-ab89-694265c4895f
+  server: ava.game.naver.com
+  name: 
+    c320dec1b4e646ef8f6e3095c6fe8c65_@_%F0%9F%87%A7%F0%9F%87%ADtelegram%20%E2%9E%A0%20%40v2rayNG_Matsuri`
+  type: vless
+  port: 2095
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /901qf5SHefST0QYH?ed=2560
+- uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e
+  server: ava.game.naver.com
+  name: e7001fb20ae94ff18db7cedca881512b_@_@VlessConfig 🇩🇪
+  type: vless
+  port: 22224
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: trojan.burgerip.co.uk
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: trojan.burgerip.co.uk
+    path: /telegram-channel-vlessconfig
+- uuid: 8c9a892c-e9d5-4fff-bfdb-8ef9c50272b1
+  server: ava.game.naver.com
+  name: d3c8fa94e3a2427a97ccbdc78c330ccf_@_[🇺🇸]t.me/ConfigsHub`
+  type: vless
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: 58834/mail-template
+- uuid: c619ac75-78e1-43a3-bd8a-0b93c31f4bb5
+  server: ava.game.naver.com
+  name: 57a4f63f55f14a8ab9d253a72ade87ef_@_[🇨🇦]t.me/ConfigsHub`
+  type: vless
+  port: 443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: digibook.digibook.fun
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: digibook.digibook.fun
+    path: /V2rayi5
+- uuid: 15face3d-979a-40e5-fcbe-62b82a46aed4
+  server: ava.game.naver.com
+  name: 00ae3b00e906476382dc7649c75b76bd_@_[🇺🇸]t.me/ConfigsHub`
+  type: vless
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: 
+      /tel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel?ed=2048
+- uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e
+  server: ava.game.naver.com
+  name: 59a6f12fccb4475f95b39d369314a88a_@_@VlessConfig 🇩🇪
+  type: vless
+  port: 22224
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: trojan.burgerip.co.uk
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: trojan.burgerip.co.uk
+    path: /telegram-channel-vlessconfig
+- alterId: 64
+  cipher: auto
+  name: 2|🇯🇵1 |  1.8MB/s|54%|Youtube|Ope...
+  network: ws
+  port: 1443
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tfo: false
+  tls: true
+  type: vmess
+  udp: true
+  uuid: a6a0d901-67e9-460a-90b5-634c5c4f9782
+  ws-opts:
+    headers:
+      Host: centos7
+    path: /634c5c4f9782
+- alterId: 0
+  cipher: auto
+  name: 2|🌀4-TH |  2.6MB/s|55%|Netflix|O...
+  network: ws
+  port: 443
+  server: ava.game.naver.com
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 164a6ad0-476a-4bae-b78f-a3d37cf0f414
+  ws-opts:
+    headers:
+      Host: th.lzj520hxw.dpdns.org
+    path: /lzjjj
+- alterId: 2
+  cipher: auto
+  name: 2|🇺🇸62 |  3.3MB/s|Openai|Gemini
+  network: ws
+  port: 30829
+  server: ava.game.naver.com
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  ws-opts:
+    headers:
+      Host: ocbc.com
+    path: /oooo
+- alterId: 0
+  cipher: auto
+  name: 2|🇭🇰1 |  1.8MB/s|15%|Disney|Yout...
+  network: ws
+  port: 8080
+  server: ava.game.naver.com
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 62b7824e-47dc-11ef-9f2d-f23c9164ca5d
+  ws-opts:
+    headers:
+      Host: broadcastlv.chat.bilibili.com
+    path: /
+- alterId: 2
+  cipher: auto
+  name: 12,13|香港6|@ripaojiedian
+  network: ws
+  port: '30809'
+  server: ava.game.naver.com
+  servername: ''
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  ws-opts:
+    headers:
+      Host: baidu.com
+    path: /oooo
+- alterId: 2
+  cipher: auto
+  name: 12,13|新加坡|@ripaojiedian
+  network: ws
+  port: '30812'
+  server: ava.game.naver.com
+  servername: ''
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  ws-opts:
+    headers:
+      Host: ocbc.com
+    path: /oooo
+- alterId: 2
+  cipher: auto
+  name: 12,13|美国|@ripaojiedian
+  network: ws
+  port: '30832'
+  server: ava.game.naver.com
+  servername: ''
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  ws-opts:
+    headers:
+      Host: baidu.com
+    path: /oooo
+- alterId: 2
+  cipher: auto
+  name: 12,13|美国3|@ripaojiedian
+  network: ws
+  port: '30824'
+  server: ava.game.naver.com
+  servername: ''
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  ws-opts:
+    headers:
+      Host: v24.heduian.link
+    path: /oooo
+- alterId: 2
+  cipher: auto
+  name: 12,13|美国4|@ripaojiedian
+  network: ws
+  port: '22643'
+  server: ava.game.naver.com
+  servername: zxjp-c.tkong.cc
+  skip-cert-verify: false
+  tfo: false
+  tls: true
+  type: vmess
+  uuid: 98e96c9f-4bb3-39d4-9a2c-fac04257f7c7
+  ws-opts:
+    headers:
+      Host: zxjp-c.tkong.cc
+    path: /
