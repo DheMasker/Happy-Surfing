@@ -1,0 +1,1617 @@
+proxies:
+- uuid: b405d145-9270-4c04-ae7a-4eecde0fe328
+  server: ava.game.naver.com
+  name: 
+    cf3aa52619be48b38b5fe90870ee54a5_@_👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:7.28ms`
+  type: vless
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: 
+      /@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=1024
+- uuid: b405d145-9270-4c04-ae7a-4eecde0fe328
+  server: ava.game.naver.com
+  name: c729a64410ea4f4092a1214f09bcc2c1_@_👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️San
+    Francisco🅿️ping:7.53ms`
+  type: vless
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: 
+      /@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=1024
+- uuid: 2806aefe-d935-4722-b677-fb6434f62c8d
+  server: ava.game.naver.com
+  name: 
+    3323aa7f1ee54e92b041ee1ce5603d65_@_👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:7.28ms`
+  type: vless
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: 
+      /-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048
+- uuid: 39a91eaf-a379-4fff-a9c8-1cb01442b76f
+  server: ava.game.naver.com
+  name: 
+    ec47f3e77e7e4ed79b3a886642e7f507_@_👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.78ms`
+  type: vless
+  port: 2053
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: ir.akcovufun.ir
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: ir.akcovufun.ir
+    path: /
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 4bfd94b8480043fa933821b1e969a9d2_@_👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Stamford
+    (South End)🅿️ping:8.63ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 66bf07567cfc4734bcd11d0647de4f56_@_👉🆔@v2ray_configs_pool📡🇰🇭®️Cambodia©️Phnom
+    Penh🅿️ping:9.29ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 
+    31aaef76661348e983fd9b2632f6858a_@_👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:17.66ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: ca3851923f894bbe90c417a3c2630111_@_👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Redwood
+    City🅿️ping:8.33ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: ae91950f6906439b9e691493ddaa7150_@_👉🆔@v2ray_configs_pool📡🇿🇦®️South Africa©️Johannesburg🅿️ping:8.39ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: f15c161df91743bc9885a2cdaf2df74a_@_👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Zelenograd
+    (Zelenogradskiy administrativnyy okrug)🅿️ping:8.57ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 1cb9806364d04dae862d6852ba8a0245_@_👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️London
+    (North Acton)🅿️ping:8.14ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: f184c89c-80a4-4a3a-bc67-97db43266c11
+  server: ava.game.naver.com
+  name: 
+    521652adfd354b9b9f54ee824177a111_@_👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Zeppelinheim🅿️ping:30.6ms`
+  type: vless
+  port: 443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: random
+  servername: vdd.wxgqlfx.cn
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: vdd.wxgqlfx.cn
+    path: /TG@wxgqlfx?ed=2560
+- uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9
+  server: ava.game.naver.com
+  name: 7d48c896927f4172a7cb555514ff517f_@_👉🆔@v2ray_configs_pool📡🇧🇿®️Belize©️Belize
+    City🅿️ping:8.33ms`
+  type: vless
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 
+    4470c5729c3c4cf096b0b589cd17efea_@_👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:8.2ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: b55ec078-3b17-4ed1-a697-71f464cdcaaa
+  server: ava.game.naver.com
+  name: 
+    4e91648882df41919100f1341b8588e6_@_👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:26.49ms`
+  type: vless
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /?ed=2560
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: eb4ea017c9c34a81a98d0877ede8e471_@_👉🆔@v2ray_configs_pool📡🇰🇭®️Cambodia©️Phnom
+    Penh🅿️ping:8.74ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 
+    9917cd6571364074a4751e3a2228eefa_@_👉🆔@v2ray_configs_pool📡🇨🇾®️Cyprus©️Limassol🅿️ping:8.56ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 
+    62c0e85f055647bba07b49c97c9536fb_@_👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Chiyoda🅿️ping:8.06ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: Telegram@WangCai2/?ed=2048
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 
+    f2e54c743cb74107895128f378e4ece8_@_👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Chiyoda🅿️ping:8.42ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: Telegram@WangCai2/?ed=2048
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 
+    83241c35ba5c4d2fac5f9083e2caa072_@_👉🆔@v2ray_configs_pool📡🇨🇾®️Cyprus©️Nicosia🅿️ping:8.48ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: ffe0a8b1b829496887388d1973decae3_@_👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt
+    am Main🅿️ping:8.58ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 822f95d6882148eab597b53f86e29e95_@_👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Washington
+    D.C.🅿️ping:8.52ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 99c8e067bb304ae9aff7938b64ae823d_@_👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Washington
+    D.C.🅿️ping:8.11ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 
+    cc1600204e19454c8a94762207202454_@_👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Chiyoda🅿️ping:8.23ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: Telegram@WangCai2/?ed=2560
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 
+    4ae2ca2f550b485a93a5fe169d062288_@_👉🆔@v2ray_configs_pool📡🇧🇬®️Bulgaria©️Sandanski🅿️ping:8.4ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 
+    ef3cab59ec924fe19dc6ec8133ddf751_@_👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:8.82ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: 32071258-f841-42bc-90c2-a54d816d6a5b
+  server: ava.game.naver.com
+  name: 
+    ce4d6f9236b64e71bde1bff796b98225_@_👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:9.47ms`
+  type: vless
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: 
+      /-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 23cbb8f00b2d44d0ad5279df45d5571d_@_👉🆔@v2ray_configs_pool📡🇨🇼®️Curacao©️Willemstad
+    (Pietermaai)🅿️ping:8.82ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 
+    dcd67a82ef65446b8b59f5a59ecc1b66_@_👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:8.47ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 6e7947a1a0674a70856b5f82870d4872_@_👉🆔@v2ray_configs_pool📡🇧🇿®️Belize©️Belize
+    City🅿️ping:8.3ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 
+    567a1ebe81874ac6b166d70dd596fe53_@_👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Agüimes🅿️ping:9.77ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: 9e1ddc04-073b-11ed-bd7c-f23c913c8d2b
+  cipher: auto
+  alterId: 2
+  server: ava.game.naver.com
+  name: 2643142bc6374a97bd815049fe786d27_@_@Hope_Net-join-us-on-Telegram
+  type: vmess
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: b72009aa-ed88-11ed-92a4-f23c91cfbbc9
+  cipher: auto
+  alterId: 2
+  server: ava.game.naver.com
+  name: e8d35527ed814fb5a4f42e7c27c49b8f_@_@Hope_Net-join-us-on-Telegram
+  type: vmess
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: 88711fa6-2958-11ef-abff-f23c913c8d2b
+  cipher: auto
+  alterId: 2
+  server: ava.game.naver.com
+  name: fc3fc53a372548a9aef4d7344d3c5b54_@_@Hope_Net-join-us-on-Telegram
+  type: vmess
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: e3004917-ad9d-b8a2-a2ee-65a54830e020
+  cipher: auto
+  alterId: 2
+  server: ava.game.naver.com
+  name: 8240716d7f5c4d95828ec4a09cbb98d7_@_@Hope_Net-join-us-on-Telegram
+  type: vmess
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: 7930c633-8aa1-4d6e-80a0-14f59b27c5c5
+  server: ava.game.naver.com
+  name: f63479ce59de465cb662da0aaac6e0ca_@_@Hope_Net-join-us-on-Telegram
+  type: vless
+  port: 443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev
+    path: /?ed=2048
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 
+    572d1131d4ce460aad5912d647ba37c4_@_👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Valencia🅿️ping:32.88ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
+  server: ava.game.naver.com
+  name: a6d50b5d961547829c08ba7b17b13848_@_@Hope_Net-join-us-on-Telegram`
+  type: vless
+  port: 443
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  servername: hj.ylka.dpdns.org
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: hj.ylka.dpdns.org
+    path: /
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 
+    8f50fa533db3446b97478e9902c0983e_@_👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Chiyoda🅿️ping:10.42ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: Telegram@WangCai2/?ed=2048
+- uuid: 92ebd59b-c9d0-4fb6-adf9-f18e53e39681
+  server: ava.game.naver.com
+  name: 
+    8a086d6852894b6b9b44baeda4ba85ba_@_👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.36ms`
+  type: vless
+  port: 443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: qifei.wyself.fun
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: qifei.wyself.fun
+    path: /
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 53923d69744141509cb4ee753bdc4c64_@_👉🆔@v2ray_configs_pool📡🇰🇿®️Kazakhstan©️Almaty
+    (Medeū)🅿️ping:8.12ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: 1cb81f3e-c5fb-4119-8a1e-89b810ba29a9
+  server: ava.game.naver.com
+  name: fa838b936e0c4160ab977a6eda73d44b_@_👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️San
+    Francisco🅿️ping:7.15ms`
+  type: vless
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: 
+      /@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: e3878bed18d7408b924379eaf904efd2_@_👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️London🅿️ping:8.21ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 052ec8c9232d4e28a77958a3611f4e8a_@_👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️San
+    Jose (Downtown San Jose)🅿️ping:8.33ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 
+    72c885edb41f442e9a2fc22d603f9696_@_👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Chiyoda🅿️ping:8.15ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: Telegram@WangCai2/?ed=2560
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 3a241045564944eeb85c91a53124378d_@_👉🆔@v2ray_configs_pool📡🇨🇼®️Curacao©️Willemstad
+    (Pietermaai)🅿️ping:8.14ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: f184c89c-80a4-4a3a-bc67-97db43266c11
+  server: ava.game.naver.com
+  name: 
+    53b09aa063ab4a2a8398698708578897_@_👉🆔@v2ray_configs_pool📡🇸🇪®️Sweden©️Stockholm🅿️ping:13.98ms`
+  type: vless
+  port: 443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: random
+  servername: vdd.wxgqlfx.cn
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: vdd.wxgqlfx.cn
+    path: /TG@wxgqlfx?ed=2560
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 
+    aba0eab2c4b64aa980d7e32f7dfee674_@_👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Chiyoda🅿️ping:8.27ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: Telegram@WangCai2/?ed=2048
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 
+    8e673113f98842ea81962da899fb7d58_@_👉🆔@v2ray_configs_pool📡🇨🇿®️Czechia©️Prague🅿️ping:8.24ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 7668f73a280f4da393bc0222dfa35b59_@_👉🆔@v2ray_configs_pool📡🇸🇦®️Saudi Arabia©️Riyadh🅿️ping:11.54ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: 95441bbd-4c49-4cfe-ba50-16a81dfffc37
+  server: ava.game.naver.com
+  name: 
+    d9d5679a2d2942f49f6e76efaa9dd281_@_👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.92ms`
+  type: vless
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: 
+      /@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: cb7fce8ccecc4d569f3a6f4b4c03cb26_@_👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️London🅿️ping:8.39ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: 24a4aa9b-b341-4717-9d4a-00d74c2b84e0
+  server: ava.game.naver.com
+  name: c3de85892e084e66935afe4a2cd5b359_@_👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Oakland
+    (Downtown Oakland)🅿️ping:8.47ms`
+  type: vless
+  port: 2096
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: D6rVkPfEgS.aAaZzZaAa-8129.CoM
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: D6rVkPfEgS.aAaZzZaAa-8129.CoM
+    path: /
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 0e21d4a0fc194246993a93c2578914a1_@_👉🆔@v2ray_configs_pool📡🇧🇬®️Bulgaria©️Sofia
+    (Sofia Center)🅿️ping:8.27ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: 1dbe95b0-a4c2-4c80-9e86-dfcf8e00128f
+  server: ava.game.naver.com
+  name: 
+    bff889f79c544632861d67afb769e65f_@_👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:9.47ms`
+  type: vless
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: 
+      /-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: d992454288bb46ffab0afc43ad5f0b8d_@_👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Zelenograd
+    (Zelenogradskiy administrativnyy okrug)🅿️ping:36.03ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: c779fb3166174a84be482b797b833fd1_@_👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Redwood
+    City🅿️ping:9.95ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 
+    6b809d8ed88144fbbf6a60878785e28f_@_👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Chiyoda🅿️ping:8.07ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: Telegram@WangCai2/?ed=2560
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: ad1f76d174d84f4e8976bf9616665558_@_👉🆔@v2ray_configs_pool📡🇸🇦®️Saudi Arabia©️Riyadh🅿️ping:8.11ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: c638e9d294f04b13bc4764f04e2e2667_@_👉🆔@v2ray_configs_pool📡🇰🇿®️Kazakhstan©️Almaty
+    (Medeū)🅿️ping:8.3ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: f184c89c-80a4-4a3a-bc67-97db43266c11
+  server: ava.game.naver.com
+  name: c4d179fb07cd4524ae01da005b7fa62d_@_👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Bad
+    Soden am Taunus (Neuenhain)🅿️ping:28.32ms`
+  type: vless
+  port: 443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: random
+  servername: vdd.wxgqlfx.cn
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: vdd.wxgqlfx.cn
+    path: /TG@wxgqlfx?ed=2560
+- uuid: f184c89c-80a4-4a3a-bc67-97db43266c11
+  server: ava.game.naver.com
+  name: 
+    4f65771f6c454b609f9fa12a6d2378c2_@_👉🆔@v2ray_configs_pool📡🇨🇭®️Switzerland©️Zurich🅿️ping:36.06ms`
+  type: vless
+  port: 2053
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: random
+  servername: vdd.wxgqlfx.cn
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: vdd.wxgqlfx.cn
+    path: /TG@wxgqlfx?ed=2560
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 
+    313c1fe93b6846eeb6e3faef041d3907_@_👉🆔@v2ray_configs_pool📡🇮🇩®️Indonesia©️Medan🅿️ping:8.44ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 
+    35277fbe401641c690edb292754dd098_@_👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:8.62ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 641e7b71691f49db8cfacad13f4ff74b_@_👉🆔@v2ray_configs_pool📡🇧🇷®️Brazil©️Casa
+    Verde🅿️ping:8.87ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: 9e769ce1-34be-4e3f-b0a6-823f30eb8f69
+  server: ava.game.naver.com
+  name: dbaf78511edb4b8ba9f07454dd28139f_@_@Hope_Net-join-us-on-Telegram
+  type: vless
+  port: 2096
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: DrOt0Ai1Oq.DeRaKhT.iNfO
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: DrOt0Ai1Oq.DeRaKhT.iNfO
+    path: /
+- uuid: 7699767c-44ae-11ef-80c7-f23c91cfbbc9
+  cipher: auto
+  alterId: 2
+  server: ava.game.naver.com
+  name: b33dca4e5421438587f232da2c60faf3_@_@Hope_Net-join-us-on-Telegram
+  type: vmess
+  port: 8102
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: 9e769ce1-34be-4e3f-b0a6-823f30eb8f69
+  server: ava.game.naver.com
+  name: 5399ed9c5fc94a53ad7f8815f50d123b_@_@Hope_Net-join-us-on-Telegram`
+  type: vless
+  port: 8443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: CiR346yL3b.DeRaKhT.iNfO
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: CiR346yL3b.DeRaKhT.iNfO
+    path: /
+- uuid: 9e769ce1-34be-4e3f-b0a6-823f30eb8f69
+  server: ava.game.naver.com
+  name: f062f4297a7c44ee8a0ed26b0a001500_@_@Hope_Net-join-us-on-Telegram
+  type: vless
+  port: 2096
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: Jx19SzLyFv.SaKhRe.InFo
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: Jx19SzLyFv.SaKhRe.InFo
+    path: /
+- uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  server: ava.game.naver.com
+  name: be94aed30290497ea976263641bf9d2b_@_@Hope_Net-join-us-on-Telegram
+  type: vless
+  port: 2052
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  servername: huajuan.yzcjd.workers.dev
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: huajuan.yzcjd.workers.dev
+    path: /
+- uuid: bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0
+  server: ava.game.naver.com
+  name: 
+    cb4f7b356f5043ebbb68d69623de2e3c_@_%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
+  type: vless
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /?ed=2560/?JOKERRVPN
+- uuid: cd2e9541-3fce-4d95-9bec-919d884f911e
+  server: ava.game.naver.com
+  name: b5f3848f0d604cd483350cd6dcc583af_@_🇺🇸[openproxylist.com] vless-US```
+  type: vless
+  port: 443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: piqie.justin-lifeistooshort.info
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: piqie.justin-lifeistooshort.info
+    path: /tiger
+- uuid: cd2e9541-3fce-4d95-9bec-919d884f911e
+  server: ava.game.naver.com
+  name: 2f234cd5f1484e269c6c13e4be53020c_@_👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Phoenix🅿️ping:149.13ms`
+  type: vless
+  port: 443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: piqie.justin-lifeistooshort.info
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: piqie.justin-lifeistooshort.info
+    path: /tiger
+- uuid: 1dbe95b0-a4c2-4c80-9e86-dfcf8e00128f
+  server: ava.game.naver.com
+  name: 
+    29642243e2f54129983fe3b1979e4d74_@_👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:7.57ms`
+  type: vless
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: 
+      /-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048
+- uuid: e6236ebc-7334-4bed-977f-0c20bcdfcc00
+  server: ava.game.naver.com
+  name: 
+    1fd615d5139243ce8888f639d26348fb_@_👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:11.41ms`
+  type: vless
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /?ed=2560
+- uuid: 3a9b0631-07be-4d49-8acc-f1ff84a70c05
+  server: ava.game.naver.com
+  name: e6f81e27157749e0a70bacec190ba696_@_@Hope_Net-join-us-on-Telegram`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: randomized
+  fingerprint: ''
+  ws-opts:
+    path: 
+      /Channel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE?ed=2048
+- uuid: 7930c633-8aa1-4d6e-80a0-14f59b27c5c5
+  server: ava.game.naver.com
+  name: a98e228e99184f5c887d57aac5af5d21_@_@Hope_Net-join-us-on-Telegram`
+  type: vless
+  port: 443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev
+    path: /
+- uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
+  server: ava.game.naver.com
+  name: ef459c22289f443192df15122fd1b16b_@_👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Los
+    Angeles🅿️ping:31.84ms`
+  type: vless
+  port: 443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: yz.ylka.dpdns.org
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: yz.ylka.dpdns.org
+    path: /?ed=2560
+- uuid: 1dbe95b0-a4c2-4c80-9e86-dfcf8e00128f
+  server: ava.game.naver.com
+  name: 
+    f9d1f1d04f834b49b2870558c91bd5ff_@_👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:7.57ms`
+  type: vless
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: 
+      /-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048
+- uuid: 24a4aa9b-b341-4717-9d4a-00d74c2b84e0
+  server: ava.game.naver.com
+  name: 7cc224d2fd4b40949b9a394a632f6fc2_@_👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Oakland
+    (Downtown Oakland)🅿️ping:11.21ms`
+  type: vless
+  port: 2096
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: D6rVkPfEgS.aAaZzZaAa-8129.CoM
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: D6rVkPfEgS.aAaZzZaAa-8129.CoM
+    path: /
+- uuid: b55ec078-3b17-4ed1-a697-71f464cdcaaa
+  server: ava.game.naver.com
+  name: 
+    4977dcd554584b72a0e0fb056ce9a638_@_👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.57ms`
+  type: vless
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /?ed=2560
+- uuid: 24a4aa9b-b341-4717-9d4a-00d74c2b84e0
+  server: ava.game.naver.com
+  name: 84f44e8c97e94728a1954b21fda042a7_@_@Hope_Net-join-us-on-Telegram
+  type: vless
+  port: 2096
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: D6rVkPfEgS.aAaZzZaAa-8129.CoM
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: D6rVkPfEgS.aAaZzZaAa-8129.CoM
+    path: /
+- uuid: 15b24b56-d667-4fa8-b548-f3dc942fb461
+  server: ava.game.naver.com
+  name: 2f3fdb593c2e420e820a0fc4bfd27022_@_@Hope_Net-join-us-on-Telegram
+  type: vless
+  port: 443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: d3332856-cd74.2032.pp.ua
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: d3332856-cd74.2032.pp.ua
+    path: /
+- uuid: 1cb81f3e-c5fb-4119-8a1e-89b810ba29a9
+  server: ava.game.naver.com
+  name: b7f1a0f3a0e4419cbbc37575074c460c_@_@Hope_Net-join-us-on-Telegram
+  type: vless
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: 
+      /@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048
+- uuid: 50e2cab1-c919-434d-a7d4-78dcd42fe963
+  server: ava.game.naver.com
+  name: 6628e3413ebf49d880dbe38b92a1d0d8_@_@Hope_Net-join-us-on-Telegram
+  type: vless
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE?ed=2560
+- uuid: 4685521b-ee0b-4976-9323-42352daba9e0
+  server: ava.game.naver.com
+  name: f24f612692d8436ba50f00db8b3a8d12_@_@Hope_Net-join-us-on-Telegram
+  type: vless
+  port: 2053
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: 
+      /telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560
+- uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e
+  server: ava.game.naver.com
+  name: 41562efd267a41ddbaf4ac5cc8c512c1_@_@VlessConfig 🇨🇵
+  type: vless
+  port: 22224
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: trojan.burgerip.co.uk
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: trojan.burgerip.co.uk
+    path: /telegram-channel-vlessconfig
+- uuid: 1dbe95b0-a4c2-4c80-9e86-dfcf8e00128f
+  server: ava.game.naver.com
+  name: e62359068c59470480a84aee3568c5f9_@_%40flyv2ray`
+  type: vless
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: 
+      /-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048
+- uuid: 1cb81f3e-c5fb-4119-8a1e-89b810ba29a9
+  server: ava.game.naver.com
+  name: abec35b8180c480d821ca95048eca5bd_@_👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️San
+    Francisco🅿️ping:7.09ms`
+  type: vless
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: 
+      /@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048
+- uuid: 169221de-6408-4143-9e66-6f77de385e94
+  server: ava.game.naver.com
+  name: 
+    8a4b721d4b2f47629602579ee697573c_@_👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:9.15ms`
+  type: vless
+  port: 443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: cassiusvpn-cassiusvpn-000.stat-4.workers.dev
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: cassiusvpn-cassiusvpn-000.stat-4.workers.dev
+    path: /@Cassiusvpn-@Cassiusvpn-@Cassiusvpn-@Cassiusvpn-@Cassiusvpn-?ed=2048
+- uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e
+  server: ava.game.naver.com
+  name: 
+    58a1aad2b4454e24a8d36f3a6bf89a8d_@_👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:34.4ms`
+  type: vless
+  port: 22224
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: trojan.burgerip.co.uk
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: trojan.burgerip.co.uk
+    path: /telegram-channel-vlessconfig
+- uuid: bb09bef7-99ba-41e1-9073-4222d0d93211
+  server: ava.game.naver.com
+  name: 7254091cbd7f41cf8175e8f23aeb79d8_@_@Hope_Net-join-us-on-Telegram
+  type: vless
+  port: 8443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: be1.vlessvh.site
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: be1.vlessvh.site
+    path: /vless
+- uuid: 7930c633-8aa1-4d6e-80a0-14f59b27c5c5
+  server: ava.game.naver.com
+  name: f9bfe240248148c59faebda96738d31b_@_@Hope_Net-join-us-on-Telegram
+  type: vless
+  port: 443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev
+    path: /?ed=2048
+- uuid: a2313fba-74a6-11ed-a8bf-f23c91cfbbc9
+  cipher: auto
+  alterId: 2
+  server: ava.game.naver.com
+  name: 0baad4c3ac1647ab8b15974ab5528f20_@_@Hope_Net-join-us-on-Telegram
+  type: vmess
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: 56652249-2e67-4429-b86c-3df8b838ad85
+  server: ava.game.naver.com
+  name: 
+    7003bc3ce1234022be3bbfe27b60c5fd_@_👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.12ms`
+  type: vless
+  port: 8080
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 
+    514ea4e2b79a487c80b96b4c9825f712_@_👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Chiyoda🅿️ping:8.33ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: Telegram@WangCai2/?ed=2560
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 
+    6f8dbf5781674d43b59741e6157dd4c5_@_👉🆔@v2ray_configs_pool📡🇨🇿®️Czechia©️Prague🅿️ping:8.62ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 
+    df57e47ee96847f8a6ee0b2741ad1b12_@_👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Valencia🅿️ping:8.86ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 830cc529c07b4803a2347f4eeaef0734_@_👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Zelenograd
+    (Zelenogradskiy administrativnyy okrug)🅿️ping:8.79ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 
+    37266d9699fd4c1dbe29b09fb9eb6bd4_@_👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Chiyoda🅿️ping:8.1ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: Telegram@WangCai2/?ed=2048
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: bcf424f8aefb484aa271cb08e46a51f7_@_👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Belmont🅿️ping:8.26ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: f184c89c-80a4-4a3a-bc67-97db43266c11
+  server: ava.game.naver.com
+  name: 
+    25634288debf463ebbc9d360f532968c_@_👉🆔@v2ray_configs_pool📡🇸🇪®️Sweden©️Stockholm🅿️ping:13.93ms`
+  type: vless
+  port: 443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: random
+  servername: vdd.wxgqlfx.cn
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: vdd.wxgqlfx.cn
+    path: /TG@wxgqlfx?ed=2560
+- uuid: bb09bef7-99ba-41e1-9073-4222d0d93211
+  server: ava.game.naver.com
+  name: 
+    d4cfad6de32a44a299591d532ca8a2d3_@_👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.41ms`
+  type: vless
+  port: 8443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: be1.vlessvh.site
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: be1.vlessvh.site
+    path: /vless
+- uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9
+  server: ava.game.naver.com
+  name: 
+    c4f6855ae96f4747b516018cadd51ded_@_👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Kaliningrad🅿️ping:8.22ms`
+  type: vless
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: Telegram:@V2ray_Alpha/?ed=2560
+- uuid: b55ec078-3b17-4ed1-a697-71f464cdcaaa
+  server: ava.game.naver.com
+  name: 
+    e2c8ec15326e4797891aa55f01fe12e3_@_👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:26.49ms`
+  type: vless
+  port: 80
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /Telegram@V2ray_Alpha/?ed=2560
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 
+    08eaaf6d47b946d895fc81f1ce896d55_@_👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore
+    (Geylang)🅿️ping:14.55ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 
+    91005e89e3934beb95a069b90d0447dc_@_👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Valencia🅿️ping:8.45ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: f184c89c-80a4-4a3a-bc67-97db43266c11
+  server: ava.game.naver.com
+  name: 
+    9dae8b205cc040ffa72aeec36df34a0a_@_👉🆔@v2ray_configs_pool📡🇨🇭®️Switzerland©️Zurich🅿️ping:36.78ms`
+  type: vless
+  port: 2053
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: random
+  servername: vdd.wxgqlfx.cn
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: vdd.wxgqlfx.cn
+    path: /TG@wxgqlfx?ed=2560
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 55131428b0b8487f9b5b5a869166f0a8_@_👉🆔@v2ray_configs_pool📡🇧🇷®️Brazil©️Casa
+    Verde🅿️ping:17.74ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
+  server: ava.game.naver.com
+  name: 
+    7639567aecfe4a69a6abbd99798d82ff_@_👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.6ms`
+  type: vless
+  port: 443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: yz.ylka.dpdns.org
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: yz.ylka.dpdns.org
+    path: /?ed=2560
+- uuid: 63601f9f-7c67-4952-919a-1ef802b5a7ec
+  server: ava.game.naver.com
+  name: 783a2c5e2c9942d98a1cfe3bad1e556b_@_👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Stretford🅿️ping:8.47ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: 169221de-6408-4143-9e66-6f77de385e94
+  server: ava.game.naver.com
+  name: 
+    5368d31fb87e4cf79a69d9907b8ea0a3_@_👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:9.5ms`
+  type: vless
+  port: 443
+  network: ws
+  tls: true
+  udp: false
+  client-fingerprint: chrome
+  servername: cassiusvpn-cassiusvpn-000.stat-4.workers.dev
+  fingerprint: ''
+  ws-opts:
+    headers:
+      host: cassiusvpn-cassiusvpn-000.stat-4.workers.dev
+    path: /@Cassiusvpn-@Cassiusvpn-@Cassiusvpn-@Cassiusvpn-@Cassiusvpn-?ed=2048
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 1d6a19ae0620479b949c3a10e5fd3d00_@_👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Stamford
+    (South End)🅿️ping:25.17ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: ff6fcac4a4cc4483ad97539137acfd1f_@_👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️London🅿️ping:10.75ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 4c4c54a58cc544949d9bb8f7d34ca345_@_👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt
+    am Main🅿️ping:8.25ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 7ea9030718a44e20a2cf325a96a59d87_@_👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Belmont🅿️ping:8.63ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: 
+    4f5c1dbc408c48909672da96ded77ae5_@_👉🆔@v2ray_configs_pool📡🇮🇩®️Indonesia©️Medan🅿️ping:8.35ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
+- uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
+  server: ava.game.naver.com
+  name: d9cde4e8cf2b45589eb6aafda79e2d5d_@_👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Wilmington🅿️ping:11.83ms`
+  type: vless
+  port: 8880
+  network: ws
+  tls: false
+  udp: false
+  client-fingerprint: chrome
+  fingerprint: ''
+  ws-opts:
+    path: /
