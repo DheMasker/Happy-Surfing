@@ -675,18 +675,6 @@ proxies:
     headers:
       host: de1.trojanvpn.dE
     path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
-- delay: 2418
-  name: 荷兰 - 阿姆斯特丹 - Cloudflare, Inc. - 10
-  network: ws
-  password: f282b878-8711-45a1-8c69-5564172123c1
-  port: 443
-  server: 104.22.5.240
-  sni: vpn.stupidworld.web.id
-  type: trojan
-  ws-opts:
-    headers:
-      Host: vpn.stupidworld.web.id
-    path: '%25252F%252540Hddify---%252540Hddify---%252540Hddify---%252540Hddify---%252540Hddify---%252540Hddify'
 - name: '🇺🇸 美国 544 #2'
   network: ws
   password: slch2024
@@ -753,18 +741,6 @@ proxies:
     headers:
       host: de1.trojanvpn.dE
     path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
-- delay: 2418
-  name: 荷兰 - 阿姆斯特丹 - Cloudflare, Inc. - 10
-  network: ws
-  password: f282b878-8711-45a1-8c69-5564172123c1
-  port: 443
-  server: 104.22.5.240
-  sni: vpn.stupidworld.web.id
-  type: trojan
-  ws-opts:
-    headers:
-      Host: vpn.stupidworld.web.id
-    path: '%25252F%252540Hddify---%252540Hddify---%252540Hddify---%252540Hddify---%252540Hddify---%252540Hddify'
 - name: '🇺🇸 美国 544 #2'
   network: ws
   password: slch2024
@@ -831,18 +807,6 @@ proxies:
     headers:
       host: de1.trojanvpn.dE
     path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
-- delay: 2418
-  name: 荷兰 - 阿姆斯特丹 - Cloudflare, Inc. - 10
-  network: ws
-  password: f282b878-8711-45a1-8c69-5564172123c1
-  port: 443
-  server: 104.22.5.240
-  sni: vpn.stupidworld.web.id
-  type: trojan
-  ws-opts:
-    headers:
-      Host: vpn.stupidworld.web.id
-    path: '%25252F%252540Hddify---%252540Hddify---%252540Hddify---%252540Hddify---%252540Hddify---%252540Hddify'
 - name: '🇺🇸 美国 544 #2'
   network: ws
   password: slch2024
@@ -909,18 +873,6 @@ proxies:
     headers:
       host: de1.trojanvpn.dE
     path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
-- delay: 2418
-  name: 荷兰 - 阿姆斯特丹 - Cloudflare, Inc. - 10
-  network: ws
-  password: f282b878-8711-45a1-8c69-5564172123c1
-  port: 443
-  server: 104.22.5.240
-  sni: vpn.stupidworld.web.id
-  type: trojan
-  ws-opts:
-    headers:
-      Host: vpn.stupidworld.web.id
-    path: '%25252F%252540Hddify---%252540Hddify---%252540Hddify---%252540Hddify---%252540Hddify---%252540Hddify'
 - name: '🇺🇸 美国 544 #2'
   network: ws
   password: slch2024
@@ -987,18 +939,6 @@ proxies:
     headers:
       host: de1.trojanvpn.dE
     path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
-- delay: 2418
-  name: 荷兰 - 阿姆斯特丹 - Cloudflare, Inc. - 10
-  network: ws
-  password: f282b878-8711-45a1-8c69-5564172123c1
-  port: 443
-  server: 104.22.5.240
-  sni: vpn.stupidworld.web.id
-  type: trojan
-  ws-opts:
-    headers:
-      Host: vpn.stupidworld.web.id
-    path: '%25252F%252540Hddify---%252540Hddify---%252540Hddify---%252540Hddify---%252540Hddify---%252540Hddify'
 - name: '🇺🇸 美国 544 #2'
   network: ws
   password: slch2024
@@ -1065,18 +1005,6 @@ proxies:
     headers:
       host: de1.trojanvpn.dE
     path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
-- delay: 2418
-  name: 荷兰 - 阿姆斯特丹 - Cloudflare, Inc. - 10
-  network: ws
-  password: f282b878-8711-45a1-8c69-5564172123c1
-  port: 443
-  server: 104.22.5.240
-  sni: vpn.stupidworld.web.id
-  type: trojan
-  ws-opts:
-    headers:
-      Host: vpn.stupidworld.web.id
-    path: '%25252F%252540Hddify---%252540Hddify---%252540Hddify---%252540Hddify---%252540Hddify---%252540Hddify'
 - name: '🇺🇸 美国 544 #2'
   network: ws
   password: slch2024
@@ -1143,18 +1071,6 @@ proxies:
     headers:
       host: de1.trojanvpn.dE
     path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
-- delay: 2418
-  name: 荷兰 - 阿姆斯特丹 - Cloudflare, Inc. - 10
-  network: ws
-  password: f282b878-8711-45a1-8c69-5564172123c1
-  port: 443
-  server: 104.22.5.240
-  sni: vpn.stupidworld.web.id
-  type: trojan
-  ws-opts:
-    headers:
-      Host: vpn.stupidworld.web.id
-    path: '%25252F%252540Hddify---%252540Hddify---%252540Hddify---%252540Hddify---%252540Hddify---%252540Hddify'
 - name: '🇺🇸 美国 544 #2'
   network: ws
   password: slch2024
@@ -1221,31 +1137,6 @@ proxies:
     headers:
       host: de1.trojanvpn.dE
     path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
-- delay: 2418
-  name: 荷兰 - 阿姆斯特丹 - Cloudflare, Inc. - 10
-  network: ws
-  password: f282b878-8711-45a1-8c69-5564172123c1
-  port: 443
-  server: 104.22.5.240
-  sni: vpn.stupidworld.web.id
-  type: trojan
-  ws-opts:
-    headers:
-      Host: vpn.stupidworld.web.id
-    path: '%25252F%252540Hddify---%252540Hddify---%252540Hddify---%252540Hddify---%252540Hddify---%252540Hddify'
-- name: '🇺🇸 美国 544 #2'
-  network: ws
-  password: slch2024
-  port: 443
-  server: 104.22.5.240
-  skip-cert-verify: true
-  sni: ocost-dy.wmlefl.cc
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: ocost-dy.wmlefl.cc
-    path: /
 - name: '🇺🇸 美国 812 #2'
   network: ws
   password: slch2024
@@ -1312,31 +1203,6 @@ proxies:
     headers:
       host: de1.trojanvpn.dE
     path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
-- delay: 2418
-  name: 荷兰 - 阿姆斯特丹 - Cloudflare, Inc. - 10
-  network: ws
-  password: f282b878-8711-45a1-8c69-5564172123c1
-  port: 443
-  server: 104.22.5.240
-  sni: vpn.stupidworld.web.id
-  type: trojan
-  ws-opts:
-    headers:
-      Host: vpn.stupidworld.web.id
-    path: '%25252F%252540Hddify---%252540Hddify---%252540Hddify---%252540Hddify---%252540Hddify---%252540Hddify'
-- name: '🇺🇸 美国 544 #2'
-  network: ws
-  password: slch2024
-  port: 443
-  server: 104.22.5.240
-  skip-cert-verify: true
-  sni: ocost-dy.wmlefl.cc
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: ocost-dy.wmlefl.cc
-    path: /
 - name: '🇺🇸 美国 812 #2'
   network: ws
   password: slch2024
@@ -1403,31 +1269,6 @@ proxies:
     headers:
       host: de1.trojanvpn.dE
     path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
-- delay: 2418
-  name: 荷兰 - 阿姆斯特丹 - Cloudflare, Inc. - 10
-  network: ws
-  password: f282b878-8711-45a1-8c69-5564172123c1
-  port: 443
-  server: 104.22.5.240
-  sni: vpn.stupidworld.web.id
-  type: trojan
-  ws-opts:
-    headers:
-      Host: vpn.stupidworld.web.id
-    path: '%25252F%252540Hddify---%252540Hddify---%252540Hddify---%252540Hddify---%252540Hddify---%252540Hddify'
-- name: '🇺🇸 美国 544 #2'
-  network: ws
-  password: slch2024
-  port: 443
-  server: 104.22.5.240
-  skip-cert-verify: true
-  sni: ocost-dy.wmlefl.cc
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: ocost-dy.wmlefl.cc
-    path: /
 - name: '🇺🇸 美国 812 #2'
   network: ws
   password: slch2024
