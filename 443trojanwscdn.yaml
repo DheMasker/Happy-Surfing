@@ -1,0 +1,4803 @@
+proxies:
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: Aimer
+  sni: epme.ambercc.filegear-sg.me
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: cCtv4.459.pp.uA
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: DDd.890604.FIlEGear-sG.Me
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: ddcDe.890603.XYz
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: ttfang
+  sni: ttfang.fange.me
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: Aimer
+  sni: epme.ambercc.filegear-sg.me
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: cCtv4.459.pp.uA
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: DDd.890604.FIlEGear-sG.Me
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: ddcDe.890603.XYz
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: ttfang
+  sni: ttfang.fange.me
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: Aimer
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: ttfang
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇨🇦_CA_加拿大->🇺🇸_US_美国_0@38
+  network: ws
+  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: syndication-statutes-wanted-logo.trycloudflare.com
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /argox-tr
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇨🇦_CA_加拿大->🇺🇸_US_美国_0@38
+  network: ws
+  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: syndication-statutes-wanted-logo.trycloudflare.com
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /argox-tr
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇨🇦_CA_加拿大->🇺🇸_US_美国_0@38
+  network: ws
+  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /argox-tr
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇨🇦_CA_加拿大->🇺🇸_US_美国_0@38
+  network: ws
+  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: syndication-statutes-wanted-logo.trycloudflare.com
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /argox-tr
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: Aimer
+  sni: epme.ambercc.filegear-sg.me
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: cCtv4.459.pp.uA
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: DDd.890604.FIlEGear-sG.Me
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: ddcDe.890603.XYz
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: ttfang
+  sni: ttfang.fange.me
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: Aimer
+  sni: epme.ambercc.filegear-sg.me
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: cCtv4.459.pp.uA
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: DDd.890604.FIlEGear-sG.Me
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: ddcDe.890603.XYz
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: ttfang
+  sni: ttfang.fange.me
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: Aimer
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: ttfang
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- name: 美国 001
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: juzi
+  skip-cert-verify: true
+  udp: true
+  sni: juzi8186-sr1.pages.dev
+  ws-opts:
+    headers:
+      Host: juzi8186-sr1.pages.dev
+    path: /?ed=2560
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 美国 013
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 014
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 016
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 017
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 019
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 020
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: auto
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: dcf741e8.epeius-2gy.pages.dev
+  ws-opts:
+    headers:
+      Host: dcf741e8.epeius-2gy.pages.dev
+    path: /?ed=2560
+- name: 美国 022
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 023
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 024
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 025
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 026
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 丹麦 001
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 028
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 032
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: auto
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: dcf741e8.epeius-2gy.pages.dev
+  ws-opts:
+    headers:
+      Host: dcf741e8.epeius-2gy.pages.dev
+    path: /?ed=2560
+- name: 美国 034
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 035
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 036
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: redfree8
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: redfree8-p1.pooriashop.ir
+  ws-opts:
+    headers:
+      Host: redfree8-p1.pooriashop.ir
+    path: /trTelegram
+- name: 美国 037
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 038
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: f8b7cd5e-60c4-4e95-9b7b-d561ef4eed8c
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: yellow-cloud-d53f.vavovi6084.workers.dev
+  ws-opts:
+    headers:
+      Host: yellow-cloud-d53f.vavovi6084.workers.dev
+    path: /?ed=2560
+- name: 美国 039
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 040
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 041
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 042
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 044
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 048
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: rXzh%3B%3FnW1GGKB(K8
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: sAiKOXpUbGm.ZhkinGkuRD13.WorkErs.dEV
+  ws-opts:
+    headers:
+      Host: sAiKOXpUbGm.ZhkinGkuRD13.WorkErs.dEV
+    path: /tr4BCdusB84159lWnu
+- name: 美国 049
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 日本 001
+  network: ws
+  password: Aimer
+  port: 443
+  server: 104.22.5.240
+  sni: epme.ambercc.filegear-sg.me
+  type: trojan
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  network: ws
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  port: 443
+  server: 104.22.5.240
+  sni: cCtv4.459.pp.uA
+  type: trojan
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  network: ws
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  port: 443
+  server: 104.22.5.240
+  sni: DDd.890604.FIlEGear-sG.Me
+  type: trojan
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  network: ws
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  port: 443
+  server: 104.22.5.240
+  sni: ddcDe.890603.XYz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 美国 062
+  network: ws
+  password: ttfang
+  port: 443
+  server: 104.22.5.240
+  sni: ttfang.fange.me
+  type: trojan
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- name: 美国 001
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: juzi
+  skip-cert-verify: true
+  udp: true
+  sni: juzi8186-sr1.pages.dev
+  ws-opts:
+    headers:
+      Host: juzi8186-sr1.pages.dev
+    path: /?ed=2560
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 美国 013
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 014
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 016
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 017
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 019
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 020
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: auto
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: dcf741e8.epeius-2gy.pages.dev
+  ws-opts:
+    headers:
+      Host: dcf741e8.epeius-2gy.pages.dev
+    path: /?ed=2560
+- name: 美国 022
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 023
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 024
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 025
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 026
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 丹麦 001
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 028
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 032
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: auto
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: dcf741e8.epeius-2gy.pages.dev
+  ws-opts:
+    headers:
+      Host: dcf741e8.epeius-2gy.pages.dev
+    path: /?ed=2560
+- name: 美国 034
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 035
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 036
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: redfree8
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: redfree8-p1.pooriashop.ir
+  ws-opts:
+    headers:
+      Host: redfree8-p1.pooriashop.ir
+    path: /trTelegram
+- name: 美国 037
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 038
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: f8b7cd5e-60c4-4e95-9b7b-d561ef4eed8c
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: yellow-cloud-d53f.vavovi6084.workers.dev
+  ws-opts:
+    headers:
+      Host: yellow-cloud-d53f.vavovi6084.workers.dev
+    path: /?ed=2560
+- name: 美国 039
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 040
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 041
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 042
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 044
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 048
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: rXzh%3B%3FnW1GGKB(K8
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: sAiKOXpUbGm.ZhkinGkuRD13.WorkErs.dEV
+  ws-opts:
+    headers:
+      Host: sAiKOXpUbGm.ZhkinGkuRD13.WorkErs.dEV
+    path: /tr4BCdusB84159lWnu
+- name: 美国 049
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 日本 001
+  network: ws
+  password: Aimer
+  port: 443
+  server: 104.22.5.240
+  sni: epme.ambercc.filegear-sg.me
+  type: trojan
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  network: ws
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  port: 443
+  server: 104.22.5.240
+  sni: cCtv4.459.pp.uA
+  type: trojan
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  network: ws
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  port: 443
+  server: 104.22.5.240
+  sni: DDd.890604.FIlEGear-sG.Me
+  type: trojan
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  network: ws
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  port: 443
+  server: 104.22.5.240
+  sni: ddcDe.890603.XYz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 美国 062
+  network: ws
+  password: ttfang
+  port: 443
+  server: 104.22.5.240
+  sni: ttfang.fange.me
+  type: trojan
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- name: 美国 001
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: juzi
+  skip-cert-verify: true
+  udp: true
+  sni: juzi8186-sr1.pages.dev
+  ws-opts:
+    headers:
+      Host: juzi8186-sr1.pages.dev
+    path: /?ed=2560
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 美国 013
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 014
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 016
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 017
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 019
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 020
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: auto
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: dcf741e8.epeius-2gy.pages.dev
+  ws-opts:
+    headers:
+      Host: dcf741e8.epeius-2gy.pages.dev
+    path: /?ed=2560
+- name: 美国 022
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 023
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 024
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 025
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 026
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 丹麦 001
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 028
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 032
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: auto
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: dcf741e8.epeius-2gy.pages.dev
+  ws-opts:
+    headers:
+      Host: dcf741e8.epeius-2gy.pages.dev
+    path: /?ed=2560
+- name: 美国 034
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 035
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 036
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: redfree8
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: redfree8-p1.pooriashop.ir
+  ws-opts:
+    headers:
+      Host: redfree8-p1.pooriashop.ir
+    path: /trTelegram
+- name: 美国 037
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 038
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: f8b7cd5e-60c4-4e95-9b7b-d561ef4eed8c
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: yellow-cloud-d53f.vavovi6084.workers.dev
+  ws-opts:
+    headers:
+      Host: yellow-cloud-d53f.vavovi6084.workers.dev
+    path: /?ed=2560
+- name: 美国 039
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 040
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 041
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 042
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 044
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 048
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: rXzh%3B%3FnW1GGKB(K8
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: sAiKOXpUbGm.ZhkinGkuRD13.WorkErs.dEV
+  ws-opts:
+    headers:
+      Host: sAiKOXpUbGm.ZhkinGkuRD13.WorkErs.dEV
+    path: /tr4BCdusB84159lWnu
+- name: 美国 049
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 美国 013
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 014
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 016
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 017
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 019
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 020
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: auto
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: dcf741e8.epeius-2gy.pages.dev
+  ws-opts:
+    headers:
+      Host: dcf741e8.epeius-2gy.pages.dev
+    path: /?ed=2560
+- name: 美国 022
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 023
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 024
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 025
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 026
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 丹麦 001
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 028
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 032
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: auto
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: dcf741e8.epeius-2gy.pages.dev
+  ws-opts:
+    headers:
+      Host: dcf741e8.epeius-2gy.pages.dev
+    path: /?ed=2560
+- name: 美国 034
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 035
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 036
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: redfree8
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: redfree8-p1.pooriashop.ir
+  ws-opts:
+    headers:
+      Host: redfree8-p1.pooriashop.ir
+    path: /trTelegram
+- name: 美国 037
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 038
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: f8b7cd5e-60c4-4e95-9b7b-d561ef4eed8c
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: yellow-cloud-d53f.vavovi6084.workers.dev
+  ws-opts:
+    headers:
+      Host: yellow-cloud-d53f.vavovi6084.workers.dev
+    path: /?ed=2560
+- name: 美国 039
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 040
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 041
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 042
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 044
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 048
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: rXzh%3B%3FnW1GGKB(K8
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: sAiKOXpUbGm.ZhkinGkuRD13.WorkErs.dEV
+  ws-opts:
+    headers:
+      Host: sAiKOXpUbGm.ZhkinGkuRD13.WorkErs.dEV
+    path: /tr4BCdusB84159lWnu
+- name: 美国 049
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 美国 013
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 014
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 016
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 017
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 019
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 020
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: auto
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: dcf741e8.epeius-2gy.pages.dev
+  ws-opts:
+    headers:
+      Host: dcf741e8.epeius-2gy.pages.dev
+    path: /?ed=2560
+- name: 美国 022
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 023
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 024
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 025
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 026
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 丹麦 001
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 028
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 032
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: auto
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: dcf741e8.epeius-2gy.pages.dev
+  ws-opts:
+    headers:
+      Host: dcf741e8.epeius-2gy.pages.dev
+    path: /?ed=2560
+- name: 美国 034
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 035
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 036
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: redfree8
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: redfree8-p1.pooriashop.ir
+  ws-opts:
+    headers:
+      Host: redfree8-p1.pooriashop.ir
+    path: /trTelegram
+- name: 美国 037
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 038
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: f8b7cd5e-60c4-4e95-9b7b-d561ef4eed8c
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: yellow-cloud-d53f.vavovi6084.workers.dev
+  ws-opts:
+    headers:
+      Host: yellow-cloud-d53f.vavovi6084.workers.dev
+    path: /?ed=2560
+- name: 美国 039
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 040
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 041
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 042
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 044
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 048
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: rXzh%3B%3FnW1GGKB(K8
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: sAiKOXpUbGm.ZhkinGkuRD13.WorkErs.dEV
+  ws-opts:
+    headers:
+      Host: sAiKOXpUbGm.ZhkinGkuRD13.WorkErs.dEV
+    path: /tr4BCdusB84159lWnu
+- name: 美国 049
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 美国 013
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 014
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 016
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 017
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 019
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 020
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: auto
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: dcf741e8.epeius-2gy.pages.dev
+  ws-opts:
+    headers:
+      Host: dcf741e8.epeius-2gy.pages.dev
+    path: /?ed=2560
+- name: 美国 022
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 023
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 024
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 025
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 026
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 丹麦 001
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 028
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 032
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: auto
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: dcf741e8.epeius-2gy.pages.dev
+  ws-opts:
+    headers:
+      Host: dcf741e8.epeius-2gy.pages.dev
+    path: /?ed=2560
+- name: 美国 034
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 035
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 036
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: redfree8
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: redfree8-p1.pooriashop.ir
+  ws-opts:
+    headers:
+      Host: redfree8-p1.pooriashop.ir
+    path: /trTelegram
+- name: 美国 037
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 038
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: f8b7cd5e-60c4-4e95-9b7b-d561ef4eed8c
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: yellow-cloud-d53f.vavovi6084.workers.dev
+  ws-opts:
+    headers:
+      Host: yellow-cloud-d53f.vavovi6084.workers.dev
+    path: /?ed=2560
+- name: 美国 039
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 040
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 041
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 042
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 044
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 048
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: rXzh%3B%3FnW1GGKB(K8
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: sAiKOXpUbGm.ZhkinGkuRD13.WorkErs.dEV
+  ws-opts:
+    headers:
+      Host: sAiKOXpUbGm.ZhkinGkuRD13.WorkErs.dEV
+    path: /tr4BCdusB84159lWnu
+- name: 美国 049
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 美国 016
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 017
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 019
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 020
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: auto
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: dcf741e8.epeius-2gy.pages.dev
+  ws-opts:
+    headers:
+      Host: dcf741e8.epeius-2gy.pages.dev
+    path: /?ed=2560
+- name: 美国 022
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 023
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 024
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 025
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 026
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 丹麦 001
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 028
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 032
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: auto
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: dcf741e8.epeius-2gy.pages.dev
+  ws-opts:
+    headers:
+      Host: dcf741e8.epeius-2gy.pages.dev
+    path: /?ed=2560
+- name: 美国 034
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 035
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 036
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: redfree8
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: redfree8-p1.pooriashop.ir
+  ws-opts:
+    headers:
+      Host: redfree8-p1.pooriashop.ir
+    path: /trTelegram
+- name: 美国 037
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 038
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: f8b7cd5e-60c4-4e95-9b7b-d561ef4eed8c
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: yellow-cloud-d53f.vavovi6084.workers.dev
+  ws-opts:
+    headers:
+      Host: yellow-cloud-d53f.vavovi6084.workers.dev
+    path: /?ed=2560
+- name: 美国 039
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 040
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 041
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 042
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 044
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 048
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: rXzh%3B%3FnW1GGKB(K8
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: sAiKOXpUbGm.ZhkinGkuRD13.WorkErs.dEV
+  ws-opts:
+    headers:
+      Host: sAiKOXpUbGm.ZhkinGkuRD13.WorkErs.dEV
+    path: /tr4BCdusB84159lWnu
+- name: 美国 049
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 美国 016
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 017
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 019
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 020
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: auto
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: dcf741e8.epeius-2gy.pages.dev
+  ws-opts:
+    headers:
+      Host: dcf741e8.epeius-2gy.pages.dev
+    path: /?ed=2560
+- name: 美国 022
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 023
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 024
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 025
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 026
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 丹麦 001
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 028
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 032
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: auto
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: dcf741e8.epeius-2gy.pages.dev
+  ws-opts:
+    headers:
+      Host: dcf741e8.epeius-2gy.pages.dev
+    path: /?ed=2560
+- name: 美国 034
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 035
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 036
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: redfree8
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: redfree8-p1.pooriashop.ir
+  ws-opts:
+    headers:
+      Host: redfree8-p1.pooriashop.ir
+    path: /trTelegram
+- name: 美国 037
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 038
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: f8b7cd5e-60c4-4e95-9b7b-d561ef4eed8c
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: yellow-cloud-d53f.vavovi6084.workers.dev
+  ws-opts:
+    headers:
+      Host: yellow-cloud-d53f.vavovi6084.workers.dev
+    path: /?ed=2560
+- name: 美国 039
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 040
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 041
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 042
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 044
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 048
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: rXzh%3B%3FnW1GGKB(K8
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: sAiKOXpUbGm.ZhkinGkuRD13.WorkErs.dEV
+  ws-opts:
+    headers:
+      Host: sAiKOXpUbGm.ZhkinGkuRD13.WorkErs.dEV
+    path: /tr4BCdusB84159lWnu
+- name: 美国 049
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 美国 016
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 017
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 019
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 020
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: auto
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: dcf741e8.epeius-2gy.pages.dev
+  ws-opts:
+    headers:
+      Host: dcf741e8.epeius-2gy.pages.dev
+    path: /?ed=2560
+- name: 美国 022
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 023
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 024
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 025
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 026
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 丹麦 001
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 028
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 032
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: auto
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: dcf741e8.epeius-2gy.pages.dev
+  ws-opts:
+    headers:
+      Host: dcf741e8.epeius-2gy.pages.dev
+    path: /?ed=2560
+- name: 美国 034
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 035
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 036
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: redfree8
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: redfree8-p1.pooriashop.ir
+  ws-opts:
+    headers:
+      Host: redfree8-p1.pooriashop.ir
+    path: /trTelegram
+- name: 美国 037
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 038
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: f8b7cd5e-60c4-4e95-9b7b-d561ef4eed8c
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: yellow-cloud-d53f.vavovi6084.workers.dev
+  ws-opts:
+    headers:
+      Host: yellow-cloud-d53f.vavovi6084.workers.dev
+    path: /?ed=2560
+- name: 美国 039
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 040
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 041
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 042
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 044
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 美国 048
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: rXzh%3B%3FnW1GGKB(K8
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: sAiKOXpUbGm.ZhkinGkuRD13.WorkErs.dEV
+  ws-opts:
+    headers:
+      Host: sAiKOXpUbGm.ZhkinGkuRD13.WorkErs.dEV
+    path: /tr4BCdusB84159lWnu
+- name: 美国 049
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: vip
+  skip-cert-verify: true
+  udp: true
+  tfo: true
+  sni: heihu880.pages.dev
+  ws-opts:
+    headers:
+      Host: heihu880.pages.dev
+    path: /?ed=2560
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: Aimer
+  sni: epme.ambercc.filegear-sg.me
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: cCtv4.459.pp.uA
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: DDd.890604.FIlEGear-sG.Me
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: ddcDe.890603.XYz
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: ttfang
+  sni: ttfang.fange.me
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: Aimer
+  sni: epme.ambercc.filegear-sg.me
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: cCtv4.459.pp.uA
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: DDd.890604.FIlEGear-sG.Me
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: ddcDe.890603.XYz
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: ttfang
+  sni: ttfang.fange.me
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: Aimer
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: ttfang
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: Aimer
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: 104.22.5.240
+  port: 443
+  password: ttfang
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.22.5.240
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
