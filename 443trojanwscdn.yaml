@@ -203,7 +203,17 @@ proxies:
     headers:
       host: de1.trojanvpn.dE
     path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
-- name: us|315c|puddincat07@Telegram
+- name: cf|02f9|puddincat07@Telegram
+  network: ws
+  password: aff9928f-7ba3-45fb-b56d-4dec45653ca9
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: z9mifq7ujufk56im.jptimecsgo.xyz
+  type: trojan
+  ws-opts:
+    path: '%2Fimages'
+- name: us|d7b7|puddincat07@Telegram
   network: ws
   password: 5a2c16f9
   port: 443
@@ -215,7 +225,7 @@ proxies:
     headers:
       Host: snippets.kkii.eu.org
     path: '%2F'
-- name: xx|2e4e|puddincat07@Telegram
+- name: xx|4e59|puddincat07@Telegram
   network: ws
   password: 5a2c16f9
   port: 443
@@ -229,7 +239,7 @@ proxies:
       Host: snippets.kkii.eu.org
     path: /
 - alterId: 0
-  name: xx|f8e9|puddincat07@Telegram
+  name: us|682e|puddincat07@Telegram
   network: ws
   password: 5a2c16f9
   port: 443
@@ -239,7 +249,7 @@ proxies:
   tls: true
   type: trojan
   udp: true
-- name: gb|dcce|puddincat07@Telegram
+- name: gb|96c2|puddincat07@Telegram
   network: ws
   password: 5a2c16f9
   port: 443
@@ -251,17 +261,6 @@ proxies:
     headers:
       Host: snippets.kkii.eu.org
     path: '%2F'
-- alterId: 0
-  name: us|aa17|puddincat07@Telegram
-  network: ws
-  password: 5a2c16f9
-  port: 443
-  server: 104.18.1.196
-  skip-cert-verify: true
-  sni: snippets.kkii.eu.org
-  tls: true
-  type: trojan
-  udp: true
 - name: 🇺🇸_US_美国_8_5@18
   network: ws
   password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
