@@ -1,0 +1,2065 @@
+proxies:
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: Aimer
+  sni: epme.ambercc.filegear-sg.me
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: cCtv4.459.pp.uA
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: DDd.890604.FIlEGear-sG.Me
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: ddcDe.890603.XYz
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: ttfang
+  sni: ttfang.fange.me
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: Aimer
+  sni: epme.ambercc.filegear-sg.me
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: cCtv4.459.pp.uA
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: DDd.890604.FIlEGear-sG.Me
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: ddcDe.890603.XYz
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: ttfang
+  sni: ttfang.fange.me
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: Aimer
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: ttfang
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇨🇦_CA_加拿大->🇺🇸_US_美国_0@38
+  network: ws
+  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: syndication-statutes-wanted-logo.trycloudflare.com
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /argox-tr
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇨🇦_CA_加拿大->🇺🇸_US_美国_0@38
+  network: ws
+  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: syndication-statutes-wanted-logo.trycloudflare.com
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /argox-tr
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇨🇦_CA_加拿大->🇺🇸_US_美国_0@38
+  network: ws
+  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /argox-tr
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇨🇦_CA_加拿大->🇺🇸_US_美国_0@38
+  network: ws
+  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: syndication-statutes-wanted-logo.trycloudflare.com
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /argox-tr
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: Aimer
+  sni: epme.ambercc.filegear-sg.me
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: cCtv4.459.pp.uA
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: DDd.890604.FIlEGear-sG.Me
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: ddcDe.890603.XYz
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: ttfang
+  sni: ttfang.fange.me
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: Aimer
+  sni: epme.ambercc.filegear-sg.me
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: cCtv4.459.pp.uA
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: DDd.890604.FIlEGear-sG.Me
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: ddcDe.890603.XYz
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: ttfang
+  sni: ttfang.fange.me
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: Aimer
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: ttfang
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- name: 法国 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MITIVPN
+  skip-cert-verify: false
+  udp: true
+  sni: 95r.ir
+  ws-opts:
+    headers:
+      Host: 95r.ir
+    path: /MiTiVPN=Usa
+- name: 英国 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MITIVPN
+  skip-cert-verify: false
+  udp: true
+  sni: 95r.ir
+  ws-opts:
+    headers:
+      Host: 95r.ir
+    path: /MiTiVPN=De
+- name: 荷兰 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MiTiVPN
+  skip-cert-verify: false
+  udp: true
+  sni: 95r.ir
+  ws-opts:
+    headers:
+      Host: 95r.ir
+    path: /MiTiVPN=Se
+- name: 美国 010
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: Mitivpn
+  skip-cert-verify: false
+  udp: true
+  sni: www.gamingdll.ir
+  ws-opts:
+    headers:
+      Host: www.gamingdll.ir
+    path: /usa=mitivpn
+- name: 美国 099
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: true
+  tls: true
+  sni: www.calmloud.com
+  allowInsecure: '1'
+  ws-opts:
+    headers:
+      Host: www.calmloud.com
+    path: /assignment
+- name: 美国 101
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MITIVPN
+  tls: true
+  udp: true
+  sni: win-mitivpn-----mitivpn.app-Cloud.ir
+  source_repo: 0xRadikal/Free-v2ray-Configs
+  source_url: https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/all/clash.yaml
+  ws-opts:
+    headers:
+      Host: winusa-mitivpn-----mitivpn.app-Cloud.ir
+    path: /---
+- name: 巴西 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MiTiVPN
+  skip-cert-verify: true
+  tls: true
+  udp: true
+  sni: p---MiTiVPN---MiTiVPNj.MAQROR.ir
+  ws-opts:
+    headers:
+      Host: l---MiTiVPN---MiTiVPN-o.MAQROR.ir
+    path: /---
+- name: 日本 001
+  network: ws
+  password: Aimer
+  port: 443
+  server: 104.18.1.196
+  sni: epme.ambercc.filegear-sg.me
+  type: trojan
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  network: ws
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  port: 443
+  server: 104.18.1.196
+  sni: cCtv4.459.pp.uA
+  type: trojan
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  network: ws
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  port: 443
+  server: 104.18.1.196
+  sni: DDd.890604.FIlEGear-sG.Me
+  type: trojan
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  network: ws
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  port: 443
+  server: 104.18.1.196
+  sni: ddcDe.890603.XYz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 美国 062
+  network: ws
+  password: ttfang
+  port: 443
+  server: 104.18.1.196
+  sni: ttfang.fange.me
+  type: trojan
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- name: 法国 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MITIVPN
+  skip-cert-verify: false
+  udp: true
+  sni: 95r.ir
+  ws-opts:
+    headers:
+      Host: 95r.ir
+    path: /MiTiVPN=Usa
+- name: 英国 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MITIVPN
+  skip-cert-verify: false
+  udp: true
+  sni: 95r.ir
+  ws-opts:
+    headers:
+      Host: 95r.ir
+    path: /MiTiVPN=De
+- name: 荷兰 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MiTiVPN
+  skip-cert-verify: false
+  udp: true
+  sni: 95r.ir
+  ws-opts:
+    headers:
+      Host: 95r.ir
+    path: /MiTiVPN=Se
+- name: 美国 010
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: Mitivpn
+  skip-cert-verify: false
+  udp: true
+  sni: www.gamingdll.ir
+  ws-opts:
+    headers:
+      Host: www.gamingdll.ir
+    path: /usa=mitivpn
+- name: 美国 099
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: true
+  tls: true
+  sni: www.calmloud.com
+  allowInsecure: '1'
+  ws-opts:
+    headers:
+      Host: www.calmloud.com
+    path: /assignment
+- name: 美国 101
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MITIVPN
+  tls: true
+  udp: true
+  sni: win-mitivpn-----mitivpn.app-Cloud.ir
+  source_repo: 0xRadikal/Free-v2ray-Configs
+  source_url: https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/all/clash.yaml
+  ws-opts:
+    headers:
+      Host: winusa-mitivpn-----mitivpn.app-Cloud.ir
+    path: /---
+- name: 巴西 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MiTiVPN
+  skip-cert-verify: true
+  tls: true
+  udp: true
+  sni: p---MiTiVPN---MiTiVPNj.MAQROR.ir
+  ws-opts:
+    headers:
+      Host: l---MiTiVPN---MiTiVPN-o.MAQROR.ir
+    path: /---
+- name: 日本 001
+  network: ws
+  password: Aimer
+  port: 443
+  server: 104.18.1.196
+  sni: epme.ambercc.filegear-sg.me
+  type: trojan
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  network: ws
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  port: 443
+  server: 104.18.1.196
+  sni: cCtv4.459.pp.uA
+  type: trojan
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  network: ws
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  port: 443
+  server: 104.18.1.196
+  sni: DDd.890604.FIlEGear-sG.Me
+  type: trojan
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  network: ws
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  port: 443
+  server: 104.18.1.196
+  sni: ddcDe.890603.XYz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 美国 062
+  network: ws
+  password: ttfang
+  port: 443
+  server: 104.18.1.196
+  sni: ttfang.fange.me
+  type: trojan
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- name: 法国 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MITIVPN
+  skip-cert-verify: false
+  udp: true
+  sni: 95r.ir
+  ws-opts:
+    headers:
+      Host: 95r.ir
+    path: /MiTiVPN=Usa
+- name: 英国 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MITIVPN
+  skip-cert-verify: false
+  udp: true
+  sni: 95r.ir
+  ws-opts:
+    headers:
+      Host: 95r.ir
+    path: /MiTiVPN=De
+- name: 荷兰 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MiTiVPN
+  skip-cert-verify: false
+  udp: true
+  sni: 95r.ir
+  ws-opts:
+    headers:
+      Host: 95r.ir
+    path: /MiTiVPN=Se
+- name: 美国 010
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: Mitivpn
+  skip-cert-verify: false
+  udp: true
+  sni: www.gamingdll.ir
+  ws-opts:
+    headers:
+      Host: www.gamingdll.ir
+    path: /usa=mitivpn
+- name: 美国 099
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: true
+  tls: true
+  sni: www.calmloud.com
+  allowInsecure: '1'
+  ws-opts:
+    headers:
+      Host: www.calmloud.com
+    path: /assignment
+- name: 美国 101
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MITIVPN
+  tls: true
+  udp: true
+  sni: win-mitivpn-----mitivpn.app-Cloud.ir
+  source_repo: 0xRadikal/Free-v2ray-Configs
+  source_url: https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/all/clash.yaml
+  ws-opts:
+    headers:
+      Host: winusa-mitivpn-----mitivpn.app-Cloud.ir
+    path: /---
+- name: 巴西 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MiTiVPN
+  skip-cert-verify: true
+  tls: true
+  udp: true
+  sni: p---MiTiVPN---MiTiVPNj.MAQROR.ir
+  ws-opts:
+    headers:
+      Host: l---MiTiVPN---MiTiVPN-o.MAQROR.ir
+    path: /---
+- name: 法国 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MITIVPN
+  skip-cert-verify: false
+  udp: true
+  sni: 95r.ir
+  ws-opts:
+    headers:
+      Host: 95r.ir
+    path: /MiTiVPN=Usa
+- name: 英国 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MITIVPN
+  skip-cert-verify: false
+  udp: true
+  sni: 95r.ir
+  ws-opts:
+    headers:
+      Host: 95r.ir
+    path: /MiTiVPN=De
+- name: 荷兰 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MiTiVPN
+  skip-cert-verify: false
+  udp: true
+  sni: 95r.ir
+  ws-opts:
+    headers:
+      Host: 95r.ir
+    path: /MiTiVPN=Se
+- name: 美国 010
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: Mitivpn
+  skip-cert-verify: false
+  udp: true
+  sni: www.gamingdll.ir
+  ws-opts:
+    headers:
+      Host: www.gamingdll.ir
+    path: /usa=mitivpn
+- name: 美国 099
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: true
+  tls: true
+  sni: www.calmloud.com
+  allowInsecure: '1'
+  ws-opts:
+    headers:
+      Host: www.calmloud.com
+    path: /assignment
+- name: 美国 101
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MITIVPN
+  tls: true
+  udp: true
+  sni: win-mitivpn-----mitivpn.app-Cloud.ir
+  source_repo: 0xRadikal/Free-v2ray-Configs
+  source_url: https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/all/clash.yaml
+  ws-opts:
+    headers:
+      Host: winusa-mitivpn-----mitivpn.app-Cloud.ir
+    path: /---
+- name: 巴西 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MiTiVPN
+  skip-cert-verify: true
+  tls: true
+  udp: true
+  sni: p---MiTiVPN---MiTiVPNj.MAQROR.ir
+  ws-opts:
+    headers:
+      Host: l---MiTiVPN---MiTiVPN-o.MAQROR.ir
+    path: /---
+- name: 法国 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MITIVPN
+  skip-cert-verify: false
+  udp: true
+  sni: 95r.ir
+  ws-opts:
+    headers:
+      Host: 95r.ir
+    path: /MiTiVPN=Usa
+- name: 英国 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MITIVPN
+  skip-cert-verify: false
+  udp: true
+  sni: 95r.ir
+  ws-opts:
+    headers:
+      Host: 95r.ir
+    path: /MiTiVPN=De
+- name: 荷兰 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MiTiVPN
+  skip-cert-verify: false
+  udp: true
+  sni: 95r.ir
+  ws-opts:
+    headers:
+      Host: 95r.ir
+    path: /MiTiVPN=Se
+- name: 美国 010
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: Mitivpn
+  skip-cert-verify: false
+  udp: true
+  sni: www.gamingdll.ir
+  ws-opts:
+    headers:
+      Host: www.gamingdll.ir
+    path: /usa=mitivpn
+- name: 美国 099
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: true
+  tls: true
+  sni: www.calmloud.com
+  allowInsecure: '1'
+  ws-opts:
+    headers:
+      Host: www.calmloud.com
+    path: /assignment
+- name: 美国 101
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MITIVPN
+  tls: true
+  udp: true
+  sni: win-mitivpn-----mitivpn.app-Cloud.ir
+  source_repo: 0xRadikal/Free-v2ray-Configs
+  source_url: https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/all/clash.yaml
+  ws-opts:
+    headers:
+      Host: winusa-mitivpn-----mitivpn.app-Cloud.ir
+    path: /---
+- name: 巴西 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MiTiVPN
+  skip-cert-verify: true
+  tls: true
+  udp: true
+  sni: p---MiTiVPN---MiTiVPNj.MAQROR.ir
+  ws-opts:
+    headers:
+      Host: l---MiTiVPN---MiTiVPN-o.MAQROR.ir
+    path: /---
+- name: 法国 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MITIVPN
+  skip-cert-verify: false
+  udp: true
+  sni: 95r.ir
+  ws-opts:
+    headers:
+      Host: 95r.ir
+    path: /MiTiVPN=Usa
+- name: 英国 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MITIVPN
+  skip-cert-verify: false
+  udp: true
+  sni: 95r.ir
+  ws-opts:
+    headers:
+      Host: 95r.ir
+    path: /MiTiVPN=De
+- name: 荷兰 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MiTiVPN
+  skip-cert-verify: false
+  udp: true
+  sni: 95r.ir
+  ws-opts:
+    headers:
+      Host: 95r.ir
+    path: /MiTiVPN=Se
+- name: 美国 010
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: Mitivpn
+  skip-cert-verify: false
+  udp: true
+  sni: www.gamingdll.ir
+  ws-opts:
+    headers:
+      Host: www.gamingdll.ir
+    path: /usa=mitivpn
+- name: 美国 099
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: true
+  tls: true
+  sni: www.calmloud.com
+  allowInsecure: '1'
+  ws-opts:
+    headers:
+      Host: www.calmloud.com
+    path: /assignment
+- name: 美国 101
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MITIVPN
+  tls: true
+  udp: true
+  sni: win-mitivpn-----mitivpn.app-Cloud.ir
+  source_repo: 0xRadikal/Free-v2ray-Configs
+  source_url: https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/all/clash.yaml
+  ws-opts:
+    headers:
+      Host: winusa-mitivpn-----mitivpn.app-Cloud.ir
+    path: /---
+- name: 巴西 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MiTiVPN
+  skip-cert-verify: true
+  tls: true
+  udp: true
+  sni: p---MiTiVPN---MiTiVPNj.MAQROR.ir
+  ws-opts:
+    headers:
+      Host: l---MiTiVPN---MiTiVPN-o.MAQROR.ir
+    path: /---
+- name: 12|AE_speednode_0001
+  network: ws
+  password: MITIVPN
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: 95r.ir
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: 95r.ir
+    path: /MiTiVPN=Usa
+- name: 12|GB_speednode_0005
+  network: ws
+  password: MITIVPN
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: 95r.ir
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: 95r.ir
+    path: /MiTiVPN=De
+- name: 美国 099
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: true
+  tls: true
+  sni: www.calmloud.com
+  allowInsecure: '1'
+  ws-opts:
+    headers:
+      Host: www.calmloud.com
+    path: /assignment
+- name: 12|NL_speednode_0016
+  network: ws
+  password: MiTiVPN
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: 95r.ir
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: 95r.ir
+    path: /MiTiVPN=Se
+- name: 美国 101
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MITIVPN
+  tls: true
+  udp: true
+  sni: win-mitivpn-----mitivpn.app-Cloud.ir
+  source_repo: 0xRadikal/Free-v2ray-Configs
+  source_url: https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/all/clash.yaml
+  ws-opts:
+    headers:
+      Host: winusa-mitivpn-----mitivpn.app-Cloud.ir
+    path: /---
+- name: 巴西 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MiTiVPN
+  skip-cert-verify: true
+  tls: true
+  udp: true
+  sni: p---MiTiVPN---MiTiVPNj.MAQROR.ir
+  ws-opts:
+    headers:
+      Host: l---MiTiVPN---MiTiVPN-o.MAQROR.ir
+    path: /---
+- name: 12|US_speednode_0063
+  network: ws
+  password: Mitivpn
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.gamingdll.ir
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: www.gamingdll.ir
+    path: /usa=mitivpn
+- name: 12|AE_speednode_0001
+  network: ws
+  password: MITIVPN
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: 95r.ir
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: 95r.ir
+    path: /MiTiVPN=Usa
+- name: 12|GB_speednode_0005
+  network: ws
+  password: MITIVPN
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: 95r.ir
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: 95r.ir
+    path: /MiTiVPN=De
+- name: 美国 099
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: true
+  tls: true
+  sni: www.calmloud.com
+  allowInsecure: '1'
+  ws-opts:
+    headers:
+      Host: www.calmloud.com
+    path: /assignment
+- name: 12|NL_speednode_0016
+  network: ws
+  password: MiTiVPN
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: 95r.ir
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: 95r.ir
+    path: /MiTiVPN=Se
+- name: 美国 101
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MITIVPN
+  tls: true
+  udp: true
+  sni: win-mitivpn-----mitivpn.app-Cloud.ir
+  source_repo: 0xRadikal/Free-v2ray-Configs
+  source_url: https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/all/clash.yaml
+  ws-opts:
+    headers:
+      Host: winusa-mitivpn-----mitivpn.app-Cloud.ir
+    path: /---
+- name: 巴西 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MiTiVPN
+  skip-cert-verify: true
+  tls: true
+  udp: true
+  sni: p---MiTiVPN---MiTiVPNj.MAQROR.ir
+  ws-opts:
+    headers:
+      Host: l---MiTiVPN---MiTiVPN-o.MAQROR.ir
+    path: /---
+- name: 12|US_speednode_0063
+  network: ws
+  password: Mitivpn
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.gamingdll.ir
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: www.gamingdll.ir
+    path: /usa=mitivpn
+- name: 12|AE_speednode_0001
+  network: ws
+  password: MITIVPN
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: 95r.ir
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: 95r.ir
+    path: /MiTiVPN=Usa
+- name: 12|GB_speednode_0005
+  network: ws
+  password: MITIVPN
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: 95r.ir
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: 95r.ir
+    path: /MiTiVPN=De
+- name: 美国 099
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: true
+  tls: true
+  sni: www.calmloud.com
+  allowInsecure: '1'
+  ws-opts:
+    headers:
+      Host: www.calmloud.com
+    path: /assignment
+- name: 12|NL_speednode_0016
+  network: ws
+  password: MiTiVPN
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: 95r.ir
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: 95r.ir
+    path: /MiTiVPN=Se
+- name: 美国 101
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MITIVPN
+  tls: true
+  udp: true
+  sni: win-mitivpn-----mitivpn.app-Cloud.ir
+  source_repo: 0xRadikal/Free-v2ray-Configs
+  source_url: https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/all/clash.yaml
+  ws-opts:
+    headers:
+      Host: winusa-mitivpn-----mitivpn.app-Cloud.ir
+    path: /---
+- name: 巴西 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MiTiVPN
+  skip-cert-verify: true
+  tls: true
+  udp: true
+  sni: p---MiTiVPN---MiTiVPNj.MAQROR.ir
+  ws-opts:
+    headers:
+      Host: l---MiTiVPN---MiTiVPN-o.MAQROR.ir
+    path: /---
+- name: 12|US_speednode_0063
+  network: ws
+  password: Mitivpn
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.gamingdll.ir
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: www.gamingdll.ir
+    path: /usa=mitivpn
+- name: 美国 099
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: true
+  tls: true
+  sni: www.calmloud.com
+  allowInsecure: '1'
+  ws-opts:
+    headers:
+      Host: www.calmloud.com
+    path: /assignment
+- name: 美国 101
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MITIVPN
+  tls: true
+  udp: true
+  sni: win-mitivpn-----mitivpn.app-Cloud.ir
+  source_repo: 0xRadikal/Free-v2ray-Configs
+  source_url: https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/all/clash.yaml
+  ws-opts:
+    headers:
+      Host: winusa-mitivpn-----mitivpn.app-Cloud.ir
+    path: /---
+- name: 巴西 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MiTiVPN
+  skip-cert-verify: true
+  tls: true
+  udp: true
+  sni: p---MiTiVPN---MiTiVPNj.MAQROR.ir
+  ws-opts:
+    headers:
+      Host: l---MiTiVPN---MiTiVPN-o.MAQROR.ir
+    path: /---
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 美国 099
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: true
+  tls: true
+  sni: www.calmloud.com
+  allowInsecure: '1'
+  ws-opts:
+    headers:
+      Host: www.calmloud.com
+    path: /assignment
+- name: 美国 101
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MITIVPN
+  tls: true
+  udp: true
+  sni: win-mitivpn-----mitivpn.app-Cloud.ir
+  source_repo: 0xRadikal/Free-v2ray-Configs
+  source_url: https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/all/clash.yaml
+  ws-opts:
+    headers:
+      Host: winusa-mitivpn-----mitivpn.app-Cloud.ir
+    path: /---
+- name: 巴西 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MiTiVPN
+  skip-cert-verify: true
+  tls: true
+  udp: true
+  sni: p---MiTiVPN---MiTiVPNj.MAQROR.ir
+  ws-opts:
+    headers:
+      Host: l---MiTiVPN---MiTiVPN-o.MAQROR.ir
+    path: /---
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 美国 099
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: true
+  tls: true
+  sni: www.calmloud.com
+  allowInsecure: '1'
+  ws-opts:
+    headers:
+      Host: www.calmloud.com
+    path: /assignment
+- name: 美国 101
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MITIVPN
+  tls: true
+  udp: true
+  sni: win-mitivpn-----mitivpn.app-Cloud.ir
+  source_repo: 0xRadikal/Free-v2ray-Configs
+  source_url: https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/all/clash.yaml
+  ws-opts:
+    headers:
+      Host: winusa-mitivpn-----mitivpn.app-Cloud.ir
+    path: /---
+- name: 巴西 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: MiTiVPN
+  skip-cert-verify: true
+  tls: true
+  udp: true
+  sni: p---MiTiVPN---MiTiVPNj.MAQROR.ir
+  ws-opts:
+    headers:
+      Host: l---MiTiVPN---MiTiVPN-o.MAQROR.ir
+    path: /---
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇸🇬SG_1|3.9MB/s
+  network: ws
+  password: c206d543-023d-46cc-9d5a-1f0f2fc16323
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: space.byu.id.yxls.eu.cc
+  type: trojan
+  ws-opts:
+    headers:
+      Host: space.byu.id.yxls.eu.cc
+    path: /in-pdr
+- name: AE_speednode_0001
+  network: ws
+  password: MITIVPN
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: 95r.ir
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: 95r.ir
+    path: /MiTiVPN=Usa
+- name: GB_speednode_0005
+  network: ws
+  password: MITIVPN
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: 95r.ir
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: 95r.ir
+    path: /MiTiVPN=De
+- name: NL_speednode_0016
+  network: ws
+  password: MiTiVPN
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: 95r.ir
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: 95r.ir
+    path: /MiTiVPN=Se
+- name: US_speednode_0063
+  network: ws
+  password: Mitivpn
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.gamingdll.ir
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: www.gamingdll.ir
+    path: /usa=mitivpn
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: Aimer
+  sni: epme.ambercc.filegear-sg.me
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: cCtv4.459.pp.uA
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: DDd.890604.FIlEGear-sG.Me
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: ddcDe.890603.XYz
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: ttfang
+  sni: ttfang.fange.me
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: Aimer
+  sni: epme.ambercc.filegear-sg.me
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: cCtv4.459.pp.uA
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: DDd.890604.FIlEGear-sG.Me
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: ddcDe.890603.XYz
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: ttfang
+  sni: ttfang.fange.me
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: Aimer
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: ttfang
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: Aimer
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: ttfang
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config

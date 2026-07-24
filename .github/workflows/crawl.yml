@@ -1,0 +1,29 @@
+name: Update Proxies
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */4 * * *'
+
+jobs:
+  Update:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v2
+    - name: Setup Timezone
+      run: sudo timedatectl set-timezone 'Asia/Jakarta'
+    - name: Update Proxies
+      run: |
+          bash zzz000trojanvmesswscdn.sh
+    - name: Make Some Difference
+      run: |
+        echo "$(date '+%Y-%m-%d %H:%M:%S')" > .timestamp
+    - name: Commit Changes
+      run: |
+        git config core.ignorecase false
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add .
+        git commit -m "Updated at $(date '+%Y-%m-%d %H:%M:%S')"
+        git push
