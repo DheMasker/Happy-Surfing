@@ -946,6 +946,19 @@ proxies:
     headers:
       host: de1.trojanvpn.dE
     path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- client-fingerprint: chrome
+  name: 'B - 🇺🇸 US 24 TG: @nodpai'
+  network: ws
+  password: 2bcfbfba-b446-4ad5-93ad-72af9e008f61
+  port: 443
+  server: 104.18.1.196
+  sni: support.zoom.us.blackshadow.dpdns.org
+  tls: true
+  type: trojan
+  ws-opts:
+    headers:
+      Host: support.zoom.us.blackshadow.dpdns.org
+    path: /195.123.218.174-443
 - name: 🇺🇸_US_美国_8_5@18
   network: ws
   password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
