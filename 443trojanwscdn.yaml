@@ -1,0 +1,2498 @@
+proxies:
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: Aimer
+  sni: epme.ambercc.filegear-sg.me
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: cCtv4.459.pp.uA
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: DDd.890604.FIlEGear-sG.Me
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: ddcDe.890603.XYz
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: ttfang
+  sni: ttfang.fange.me
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: Aimer
+  sni: epme.ambercc.filegear-sg.me
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: cCtv4.459.pp.uA
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: DDd.890604.FIlEGear-sG.Me
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: ddcDe.890603.XYz
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: ttfang
+  sni: ttfang.fange.me
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: Aimer
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: ttfang
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇨🇦_CA_加拿大->🇺🇸_US_美国_0@38
+  network: ws
+  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: syndication-statutes-wanted-logo.trycloudflare.com
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /argox-tr
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇨🇦_CA_加拿大->🇺🇸_US_美国_0@38
+  network: ws
+  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: syndication-statutes-wanted-logo.trycloudflare.com
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /argox-tr
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇨🇦_CA_加拿大->🇺🇸_US_美国_0@38
+  network: ws
+  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /argox-tr
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇨🇦_CA_加拿大->🇺🇸_US_美国_0@38
+  network: ws
+  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: syndication-statutes-wanted-logo.trycloudflare.com
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /argox-tr
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: Aimer
+  sni: epme.ambercc.filegear-sg.me
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: cCtv4.459.pp.uA
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: DDd.890604.FIlEGear-sG.Me
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: ddcDe.890603.XYz
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: ttfang
+  sni: ttfang.fange.me
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: Aimer
+  sni: epme.ambercc.filegear-sg.me
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: cCtv4.459.pp.uA
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: DDd.890604.FIlEGear-sG.Me
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: ddcDe.890603.XYz
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: ttfang
+  sni: ttfang.fange.me
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: Aimer
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: ttfang
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- name: 美国 037
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 018b8e7b-7813-4dcb-84a5-3c98f1521e00
+  sni: id1.nathaya.web.id
+  ws-opts:
+    headers:
+      Host: id1.nathaya.web.id
+    path: /trojan
+- name: 中国 002
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 9efd3f19-c7cb-4fa9-8d66-0598043597dc
+  skip-cert-verify: true
+  sni: ttww11.bpca2026.top
+  ws-opts:
+    headers:
+      Host: ttww11.bpca2026.top
+    path: /images
+- name: 美国 088
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
+  skip-cert-verify: true
+  sni: syndication-statutes-wanted-logo.trycloudflare.com
+  ws-opts:
+    headers:
+      Host: syndication-statutes-wanted-logo.trycloudflare.com
+    path: /argox-tr
+- name: 乌克兰 003
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 0b1371aa-649d-41dc-9126-338c87936500
+  skip-cert-verify: true
+  sni: sourceforge.net
+  ws-opts:
+    headers:
+      Host: sourceforge.net
+    path: /websocket
+- name: 波兰 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 德国 004
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 荷兰 004
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 美国 035
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 荷兰 005
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 美国 036
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 奥地利 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 日本 001
+  network: ws
+  password: Aimer
+  port: 443
+  server: 104.18.1.196
+  sni: epme.ambercc.filegear-sg.me
+  type: trojan
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  network: ws
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  port: 443
+  server: 104.18.1.196
+  sni: cCtv4.459.pp.uA
+  type: trojan
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  network: ws
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  port: 443
+  server: 104.18.1.196
+  sni: DDd.890604.FIlEGear-sG.Me
+  type: trojan
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  network: ws
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  port: 443
+  server: 104.18.1.196
+  sni: ddcDe.890603.XYz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 美国 062
+  network: ws
+  password: ttfang
+  port: 443
+  server: 104.18.1.196
+  sni: ttfang.fange.me
+  type: trojan
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- name: 美国 037
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 018b8e7b-7813-4dcb-84a5-3c98f1521e00
+  sni: id1.nathaya.web.id
+  ws-opts:
+    headers:
+      Host: id1.nathaya.web.id
+    path: /trojan
+- name: 中国 002
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 9efd3f19-c7cb-4fa9-8d66-0598043597dc
+  skip-cert-verify: true
+  sni: ttww11.bpca2026.top
+  ws-opts:
+    headers:
+      Host: ttww11.bpca2026.top
+    path: /images
+- name: 美国 088
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
+  skip-cert-verify: true
+  sni: syndication-statutes-wanted-logo.trycloudflare.com
+  ws-opts:
+    headers:
+      Host: syndication-statutes-wanted-logo.trycloudflare.com
+    path: /argox-tr
+- name: 乌克兰 003
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 0b1371aa-649d-41dc-9126-338c87936500
+  skip-cert-verify: true
+  sni: sourceforge.net
+  ws-opts:
+    headers:
+      Host: sourceforge.net
+    path: /websocket
+- name: 波兰 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 德国 004
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 荷兰 004
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 美国 035
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 荷兰 005
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 美国 036
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 奥地利 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 日本 001
+  network: ws
+  password: Aimer
+  port: 443
+  server: 104.18.1.196
+  sni: epme.ambercc.filegear-sg.me
+  type: trojan
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  network: ws
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  port: 443
+  server: 104.18.1.196
+  sni: cCtv4.459.pp.uA
+  type: trojan
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  network: ws
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  port: 443
+  server: 104.18.1.196
+  sni: DDd.890604.FIlEGear-sG.Me
+  type: trojan
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  network: ws
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  port: 443
+  server: 104.18.1.196
+  sni: ddcDe.890603.XYz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 美国 062
+  network: ws
+  password: ttfang
+  port: 443
+  server: 104.18.1.196
+  sni: ttfang.fange.me
+  type: trojan
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- name: 美国 037
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 018b8e7b-7813-4dcb-84a5-3c98f1521e00
+  sni: id1.nathaya.web.id
+  ws-opts:
+    headers:
+      Host: id1.nathaya.web.id
+    path: /trojan
+- name: 中国 002
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 9efd3f19-c7cb-4fa9-8d66-0598043597dc
+  skip-cert-verify: true
+  sni: ttww11.bpca2026.top
+  ws-opts:
+    headers:
+      Host: ttww11.bpca2026.top
+    path: /images
+- name: 美国 088
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
+  skip-cert-verify: true
+  sni: syndication-statutes-wanted-logo.trycloudflare.com
+  ws-opts:
+    headers:
+      Host: syndication-statutes-wanted-logo.trycloudflare.com
+    path: /argox-tr
+- name: 乌克兰 003
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 0b1371aa-649d-41dc-9126-338c87936500
+  skip-cert-verify: true
+  sni: sourceforge.net
+  ws-opts:
+    headers:
+      Host: sourceforge.net
+    path: /websocket
+- name: 波兰 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 德国 004
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 荷兰 004
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 美国 035
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 荷兰 005
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 美国 036
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 奥地利 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 美国 037
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 018b8e7b-7813-4dcb-84a5-3c98f1521e00
+  sni: id1.nathaya.web.id
+  ws-opts:
+    headers:
+      Host: id1.nathaya.web.id
+    path: /trojan
+- name: 中国 002
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 9efd3f19-c7cb-4fa9-8d66-0598043597dc
+  skip-cert-verify: true
+  sni: ttww11.bpca2026.top
+  ws-opts:
+    headers:
+      Host: ttww11.bpca2026.top
+    path: /images
+- name: 美国 088
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
+  skip-cert-verify: true
+  sni: syndication-statutes-wanted-logo.trycloudflare.com
+  ws-opts:
+    headers:
+      Host: syndication-statutes-wanted-logo.trycloudflare.com
+    path: /argox-tr
+- name: 乌克兰 003
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 0b1371aa-649d-41dc-9126-338c87936500
+  skip-cert-verify: true
+  sni: sourceforge.net
+  ws-opts:
+    headers:
+      Host: sourceforge.net
+    path: /websocket
+- name: 波兰 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 德国 004
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 荷兰 004
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 美国 035
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 荷兰 005
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 美国 036
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 奥地利 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 美国 037
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 018b8e7b-7813-4dcb-84a5-3c98f1521e00
+  sni: id1.nathaya.web.id
+  ws-opts:
+    headers:
+      Host: id1.nathaya.web.id
+    path: /trojan
+- name: 中国 002
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 9efd3f19-c7cb-4fa9-8d66-0598043597dc
+  skip-cert-verify: true
+  sni: ttww11.bpca2026.top
+  ws-opts:
+    headers:
+      Host: ttww11.bpca2026.top
+    path: /images
+- name: 美国 088
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
+  skip-cert-verify: true
+  sni: syndication-statutes-wanted-logo.trycloudflare.com
+  ws-opts:
+    headers:
+      Host: syndication-statutes-wanted-logo.trycloudflare.com
+    path: /argox-tr
+- name: 乌克兰 003
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 0b1371aa-649d-41dc-9126-338c87936500
+  skip-cert-verify: true
+  sni: sourceforge.net
+  ws-opts:
+    headers:
+      Host: sourceforge.net
+    path: /websocket
+- name: 波兰 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 德国 004
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 荷兰 004
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 美国 035
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 荷兰 005
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 美国 036
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 奥地利 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 美国 037
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 018b8e7b-7813-4dcb-84a5-3c98f1521e00
+  sni: id1.nathaya.web.id
+  ws-opts:
+    headers:
+      Host: id1.nathaya.web.id
+    path: /trojan
+- name: 中国 002
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 9efd3f19-c7cb-4fa9-8d66-0598043597dc
+  skip-cert-verify: true
+  sni: ttww11.bpca2026.top
+  ws-opts:
+    headers:
+      Host: ttww11.bpca2026.top
+    path: /images
+- name: 美国 088
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
+  skip-cert-verify: true
+  sni: syndication-statutes-wanted-logo.trycloudflare.com
+  ws-opts:
+    headers:
+      Host: syndication-statutes-wanted-logo.trycloudflare.com
+    path: /argox-tr
+- name: 乌克兰 003
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 0b1371aa-649d-41dc-9126-338c87936500
+  skip-cert-verify: true
+  sni: sourceforge.net
+  ws-opts:
+    headers:
+      Host: sourceforge.net
+    path: /websocket
+- name: 波兰 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 德国 004
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 荷兰 004
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 美国 035
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 荷兰 005
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 美国 036
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 奥地利 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: humanity
+  sni: www.calmlunch.com
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: 美国 088
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
+  skip-cert-verify: true
+  sni: syndication-statutes-wanted-logo.trycloudflare.com
+  ws-opts:
+    headers:
+      Host: syndication-statutes-wanted-logo.trycloudflare.com
+    path: /argox-tr
+- name: 乌克兰 003
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 0b1371aa-649d-41dc-9126-338c87936500
+  skip-cert-verify: true
+  sni: sourceforge.net
+  ws-opts:
+    headers:
+      Host: sourceforge.net
+    path: /websocket
+- name: 🇫🇷[www.v2nodes.com] trojan-FR-...
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #7'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #3'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #4'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #6'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #9'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #10'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #11'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+- alpn:
+  - http/1.1
+  name: 🇭🇰[www.v2nodes.com] trojan-HK-...
+  network: ws
+  password: Telegram_healer_config
+  port: 443
+  server: 104.18.1.196
+  sni: bjsa2ygfitzjtho8ucze29xf2m2q9c.g3fiajpf0erm9k3x6ww-yegzl2.workers.dev
+  type: trojan
+  ws-opts:
+    headers:
+      Host: bjsa2ygfitzjtho8ucze29xf2m2q9c.g3fiajpf0erm9k3x6ww-yegzl2.workers.dev
+    path: /tr/J6IJuAAWkqyiEt8UkeRnVdLlkLIGukLr%3Fed%3D2560
+- name: 🇮🇩[www.v2nodes.com] trojan-ID-...
+  network: ws
+  password: 018b8e7b-7813-4dcb-84a5-3c98f1521e00
+  port: 443
+  server: 104.18.1.196
+  sni: id1.nathaya.web.id
+  type: trojan
+  ws-opts:
+    headers:
+      Host: id1.nathaya.web.id
+    path: /trojan
+- alpn:
+  - http/1.1
+  name: 🇳🇱[www.v2nodes.com] trojan-NL-...
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+- name: 🇹🇼[www.v2nodes.com] trojan-TW-...
+  network: ws
+  password: 9efd3f19-c7cb-4fa9-8d66-0598043597dc
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: ttww11.bpca2026.top
+  type: trojan
+  ws-opts:
+    headers:
+      Host: ttww11.bpca2026.top
+    path: /images
+- name: 美国 088
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
+  skip-cert-verify: true
+  sni: syndication-statutes-wanted-logo.trycloudflare.com
+  ws-opts:
+    headers:
+      Host: syndication-statutes-wanted-logo.trycloudflare.com
+    path: /argox-tr
+- name: 乌克兰 003
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 0b1371aa-649d-41dc-9126-338c87936500
+  skip-cert-verify: true
+  sni: sourceforge.net
+  ws-opts:
+    headers:
+      Host: sourceforge.net
+    path: /websocket
+- name: 🇫🇷[www.v2nodes.com] trojan-FR-...
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #7'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #3'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #4'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #6'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #9'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #10'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #11'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+- alpn:
+  - http/1.1
+  name: 🇭🇰[www.v2nodes.com] trojan-HK-...
+  network: ws
+  password: Telegram_healer_config
+  port: 443
+  server: 104.18.1.196
+  sni: bjsa2ygfitzjtho8ucze29xf2m2q9c.g3fiajpf0erm9k3x6ww-yegzl2.workers.dev
+  type: trojan
+  ws-opts:
+    headers:
+      Host: bjsa2ygfitzjtho8ucze29xf2m2q9c.g3fiajpf0erm9k3x6ww-yegzl2.workers.dev
+    path: /tr/J6IJuAAWkqyiEt8UkeRnVdLlkLIGukLr%3Fed%3D2560
+- name: 🇮🇩[www.v2nodes.com] trojan-ID-...
+  network: ws
+  password: 018b8e7b-7813-4dcb-84a5-3c98f1521e00
+  port: 443
+  server: 104.18.1.196
+  sni: id1.nathaya.web.id
+  type: trojan
+  ws-opts:
+    headers:
+      Host: id1.nathaya.web.id
+    path: /trojan
+- alpn:
+  - http/1.1
+  name: 🇳🇱[www.v2nodes.com] trojan-NL-...
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+- name: 🇹🇼[www.v2nodes.com] trojan-TW-...
+  network: ws
+  password: 9efd3f19-c7cb-4fa9-8d66-0598043597dc
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: ttww11.bpca2026.top
+  type: trojan
+  ws-opts:
+    headers:
+      Host: ttww11.bpca2026.top
+    path: /images
+- name: 美国 088
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
+  skip-cert-verify: true
+  sni: syndication-statutes-wanted-logo.trycloudflare.com
+  ws-opts:
+    headers:
+      Host: syndication-statutes-wanted-logo.trycloudflare.com
+    path: /argox-tr
+- name: 乌克兰 003
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 0b1371aa-649d-41dc-9126-338c87936500
+  skip-cert-verify: true
+  sni: sourceforge.net
+  ws-opts:
+    headers:
+      Host: sourceforge.net
+    path: /websocket
+- name: 🇫🇷[www.v2nodes.com] trojan-FR-...
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #7'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #3'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #4'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #6'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #9'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #10'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #11'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+- alpn:
+  - http/1.1
+  name: 🇭🇰[www.v2nodes.com] trojan-HK-...
+  network: ws
+  password: Telegram_healer_config
+  port: 443
+  server: 104.18.1.196
+  sni: bjsa2ygfitzjtho8ucze29xf2m2q9c.g3fiajpf0erm9k3x6ww-yegzl2.workers.dev
+  type: trojan
+  ws-opts:
+    headers:
+      Host: bjsa2ygfitzjtho8ucze29xf2m2q9c.g3fiajpf0erm9k3x6ww-yegzl2.workers.dev
+    path: /tr/J6IJuAAWkqyiEt8UkeRnVdLlkLIGukLr%3Fed%3D2560
+- name: 🇮🇩[www.v2nodes.com] trojan-ID-...
+  network: ws
+  password: 018b8e7b-7813-4dcb-84a5-3c98f1521e00
+  port: 443
+  server: 104.18.1.196
+  sni: id1.nathaya.web.id
+  type: trojan
+  ws-opts:
+    headers:
+      Host: id1.nathaya.web.id
+    path: /trojan
+- alpn:
+  - http/1.1
+  name: 🇳🇱[www.v2nodes.com] trojan-NL-...
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+- name: 🇹🇼[www.v2nodes.com] trojan-TW-...
+  network: ws
+  password: 9efd3f19-c7cb-4fa9-8d66-0598043597dc
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: ttww11.bpca2026.top
+  type: trojan
+  ws-opts:
+    headers:
+      Host: ttww11.bpca2026.top
+    path: /images
+- name: 美国 088
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
+  skip-cert-verify: true
+  sni: syndication-statutes-wanted-logo.trycloudflare.com
+  ws-opts:
+    headers:
+      Host: syndication-statutes-wanted-logo.trycloudflare.com
+    path: /argox-tr
+- name: 乌克兰 003
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 0b1371aa-649d-41dc-9126-338c87936500
+  skip-cert-verify: true
+  sni: sourceforge.net
+  ws-opts:
+    headers:
+      Host: sourceforge.net
+    path: /websocket
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 美国 088
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
+  skip-cert-verify: true
+  sni: syndication-statutes-wanted-logo.trycloudflare.com
+  ws-opts:
+    headers:
+      Host: syndication-statutes-wanted-logo.trycloudflare.com
+    path: /argox-tr
+- name: 乌克兰 003
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 0b1371aa-649d-41dc-9126-338c87936500
+  skip-cert-verify: true
+  sni: sourceforge.net
+  ws-opts:
+    headers:
+      Host: sourceforge.net
+    path: /websocket
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 美国 088
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
+  skip-cert-verify: true
+  sni: syndication-statutes-wanted-logo.trycloudflare.com
+  ws-opts:
+    headers:
+      Host: syndication-statutes-wanted-logo.trycloudflare.com
+    path: /argox-tr
+- name: 乌克兰 003
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 0b1371aa-649d-41dc-9126-338c87936500
+  skip-cert-verify: true
+  sni: sourceforge.net
+  ws-opts:
+    headers:
+      Host: sourceforge.net
+    path: /websocket
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇫🇷[www.v2nodes.com] trojan-FR-...
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #7'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #3'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #4'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #6'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #9'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #10'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #11'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+- alpn:
+  - http/1.1
+  name: 🇭🇰[www.v2nodes.com] trojan-HK-...
+  network: ws
+  password: Telegram_healer_config
+  port: 443
+  server: 104.18.1.196
+  sni: bjsa2ygfitzjtho8ucze29xf2m2q9c.g3fiajpf0erm9k3x6ww-yegzl2.workers.dev
+  type: trojan
+  ws-opts:
+    headers:
+      Host: bjsa2ygfitzjtho8ucze29xf2m2q9c.g3fiajpf0erm9k3x6ww-yegzl2.workers.dev
+    path: /tr/J6IJuAAWkqyiEt8UkeRnVdLlkLIGukLr%3Fed%3D2560
+- name: 🇮🇩[www.v2nodes.com] trojan-ID-...
+  network: ws
+  password: 018b8e7b-7813-4dcb-84a5-3c98f1521e00
+  port: 443
+  server: 104.18.1.196
+  sni: id1.nathaya.web.id
+  type: trojan
+  ws-opts:
+    headers:
+      Host: id1.nathaya.web.id
+    path: /trojan
+- alpn:
+  - http/1.1
+  name: 🇳🇱[www.v2nodes.com] trojan-NL-...
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+- name: 🇹🇼[www.v2nodes.com] trojan-TW-...
+  network: ws
+  password: 9efd3f19-c7cb-4fa9-8d66-0598043597dc
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: ttww11.bpca2026.top
+  type: trojan
+  ws-opts:
+    headers:
+      Host: ttww11.bpca2026.top
+    path: /images
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: Aimer
+  sni: epme.ambercc.filegear-sg.me
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: cCtv4.459.pp.uA
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: DDd.890604.FIlEGear-sG.Me
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: ddcDe.890603.XYz
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: ttfang
+  sni: ttfang.fange.me
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: Aimer
+  sni: epme.ambercc.filegear-sg.me
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: cCtv4.459.pp.uA
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: DDd.890604.FIlEGear-sG.Me
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: ddcDe.890603.XYz
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: ttfang
+  sni: ttfang.fange.me
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: Aimer
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: ttfang
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: Aimer
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: ttfang
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
