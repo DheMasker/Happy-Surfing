@@ -4724,6 +4724,20 @@ proxies:
       Host: www.calmlunch.com
     path: /assignment
   name: 🇫🇷[www.v2nodes.com] trojan-FR-... [89b59fa813770e2c]
+- alpn:
+  - http/1.1
+  name: 🇳🇱[www.v2nodes.com] trojan-NL-...
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.trusteeforward.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.trusteeforward.com
+    path: /assignment
 - network: ws
   password: 018b8e7b-7813-4dcb-84a5-3c98f1521e00
   port: 443
@@ -4736,21 +4750,6 @@ proxies:
       Host: id1.nathaya.web.id
     path: /trojan
   name: 🇮🇩[www.v2nodes.com] trojan-ID-... [3bdfad431ba9f105]
-- alpn:
-  - http/1.1
-  name: 🇳🇱 荷兰 | NLD 8
-  network: ws
-  password: humanity
-  port: 443
-  server: 104.18.1.196
-  skip-cert-verify: true
-  sni: www.trusteeforward.com
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: www.trusteeforward.com
-    path: /assignment
 - alpn:
   - http/1.1
   name: '🇳🇱[www.v2nodes.com] trojan-NL-... #1'
@@ -4821,7 +4820,27 @@ proxies:
       Host: www.calmlunch.com
     path: /assignment
   name: 🇺🇸 美国 | USA 2 [af4be7e12e0fc18a]
-- name: 🇩🇪 德国 | DEU 8
+- alpn:
+  - h3
+  client-fingerprint: chrome
+  name: 🇩🇪DE_5|1.3MB/s
+  network: ws
+  password: '123456'
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: now-pages-sub-em4.pages.dev
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      User-Agent: Mozilla/5.0 (Linux; Android 6.0; CAM-L03 Build/HUAWEICAM-L03) AppleWebKit/537.36
+        (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36
+    path: /?ed=2560
+- alpn:
+  - h2
+  - http/1.1
+  name: 🇺🇸 美国 | USA 8
   network: ws
   password: humanity
   port: 443
@@ -5146,7 +5165,27 @@ proxies:
       Host: www.calmlunch.com
     path: /assignment
   name: 🇺🇸 美国 | USA 2 [af4be7e12e0fc18a]
-- name: 🇩🇪 德国 | DEU 8
+- alpn:
+  - h3
+  client-fingerprint: chrome
+  name: 🇩🇪DE_5|1.3MB/s
+  network: ws
+  password: '123456'
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: now-pages-sub-em4.pages.dev
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      User-Agent: Mozilla/5.0 (Linux; Android 6.0; CAM-L03 Build/HUAWEICAM-L03) AppleWebKit/537.36
+        (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36
+    path: /?ed=2560
+- alpn:
+  - h2
+  - http/1.1
+  name: 🇺🇸 美国 | USA 8
   network: ws
   password: humanity
   port: 443
@@ -5389,7 +5428,27 @@ proxies:
       Host: www.calmlunch.com
     path: /assignment
   name: 🇺🇸 美国 | USA 2 [af4be7e12e0fc18a]
-- name: 🇩🇪 德国 | DEU 8
+- alpn:
+  - h3
+  client-fingerprint: chrome
+  name: 🇩🇪DE_5|1.3MB/s
+  network: ws
+  password: '123456'
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: now-pages-sub-em4.pages.dev
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      User-Agent: Mozilla/5.0 (Linux; Android 6.0; CAM-L03 Build/HUAWEICAM-L03) AppleWebKit/537.36
+        (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36
+    path: /?ed=2560
+- alpn:
+  - h2
+  - http/1.1
+  name: 🇺🇸 美国 | USA 8
   network: ws
   password: humanity
   port: 443
@@ -5632,7 +5691,27 @@ proxies:
       Host: www.calmlunch.com
     path: /assignment
   name: 🇺🇸 美国 | USA 2 [af4be7e12e0fc18a]
-- name: 🇩🇪 德国 | DEU 8
+- alpn:
+  - h3
+  client-fingerprint: chrome
+  name: 🇩🇪DE_5|1.3MB/s
+  network: ws
+  password: '123456'
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: now-pages-sub-em4.pages.dev
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      User-Agent: Mozilla/5.0 (Linux; Android 6.0; CAM-L03 Build/HUAWEICAM-L03) AppleWebKit/537.36
+        (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36
+    path: /?ed=2560
+- alpn:
+  - h2
+  - http/1.1
+  name: 🇺🇸 美国 | USA 8
   network: ws
   password: humanity
   port: 443
@@ -5875,7 +5954,27 @@ proxies:
       Host: www.calmlunch.com
     path: /assignment
   name: 🇺🇸 美国 | USA 2 [af4be7e12e0fc18a]
-- name: 🇩🇪 德国 | DEU 8
+- alpn:
+  - h3
+  client-fingerprint: chrome
+  name: 🇩🇪DE_5|1.3MB/s
+  network: ws
+  password: '123456'
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: now-pages-sub-em4.pages.dev
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      User-Agent: Mozilla/5.0 (Linux; Android 6.0; CAM-L03 Build/HUAWEICAM-L03) AppleWebKit/537.36
+        (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36
+    path: /?ed=2560
+- alpn:
+  - h2
+  - http/1.1
+  name: 🇺🇸 美国 | USA 8
   network: ws
   password: humanity
   port: 443
