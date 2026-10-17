@@ -1,0 +1,7612 @@
+proxies:
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: Aimer
+  sni: epme.ambercc.filegear-sg.me
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: cCtv4.459.pp.uA
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: DDd.890604.FIlEGear-sG.Me
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: ddcDe.890603.XYz
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: ttfang
+  sni: ttfang.fange.me
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: Aimer
+  sni: epme.ambercc.filegear-sg.me
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: cCtv4.459.pp.uA
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: DDd.890604.FIlEGear-sG.Me
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: ddcDe.890603.XYz
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: ttfang
+  sni: ttfang.fange.me
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: Aimer
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: ttfang
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇨🇦_CA_加拿大->🇺🇸_US_美国_0@38
+  network: ws
+  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: syndication-statutes-wanted-logo.trycloudflare.com
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /argox-tr
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇨🇦_CA_加拿大->🇺🇸_US_美国_0@38
+  network: ws
+  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: syndication-statutes-wanted-logo.trycloudflare.com
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /argox-tr
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 🇨🇦_CA_加拿大->🇺🇸_US_美国_0@38
+  network: ws
+  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /argox-tr
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.volumerOot.coM.
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: 🇳🇱 荷兰 | NLD 2 [35cec04c7d3f1acf]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #1 [bdd103efbf9befe1]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #11 [e84d1a281fe0f724]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #12 [6de2ae359842b370]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #2 [99ee87cd37c9b48c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #3 [69d5d3fe0013063c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #4 [5a6fd99a424cbf64]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #7 [f20eef12b1f855ce]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: 🇳🇱[www.v2nodes.com] trojan-NL-... [7b38bf9ee7ea8ddb]
+- network: ws
+  password: 0b1371aa-649d-41dc-9126-338c87936500
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: sourceforge.net
+  type: trojan
+  ws-opts:
+    headers:
+      Host: sourceforge.net
+    path: /websocket
+  name: 乌克兰 001 [f40963c8e6b7999f]
+- network: ws
+  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: syndication-statutes-wanted-logo.trycloudflare.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: syndication-statutes-wanted-logo.trycloudflare.com
+    path: /argox-tr
+  name: 美国 009 [502e9131d0b68306]
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #10 [8099c30090acd991]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #11 [e2f94885bc4aedb3]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #3 [8f52bc375fdd0677]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #4 [ad52e2c129945674]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #6 [4d8b61c02e52c8b5]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #7 [72c499cb16966379]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #9 [b13fc83d5bccfe52]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: 🇫🇷[www.v2nodes.com] trojan-FR-... [89b59fa813770e2c]
+- network: ws
+  password: 018b8e7b-7813-4dcb-84a5-3c98f1521e00
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: id1.nathaya.web.id
+  type: trojan
+  ws-opts:
+    headers:
+      Host: id1.nathaya.web.id
+    path: /trojan
+  name: 🇮🇩[www.v2nodes.com] trojan-ID-... [b85f7d94c64161f8]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.volumerOot.coM.
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: 🇳🇱 荷兰 | NLD 2 [35cec04c7d3f1acf]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #1 [bdd103efbf9befe1]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #11 [e84d1a281fe0f724]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #12 [6de2ae359842b370]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #2 [99ee87cd37c9b48c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #3 [69d5d3fe0013063c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #4 [5a6fd99a424cbf64]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #7 [f20eef12b1f855ce]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: 🇳🇱[www.v2nodes.com] trojan-NL-... [7b38bf9ee7ea8ddb]
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: Aimer
+  sni: epme.ambercc.filegear-sg.me
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: cCtv4.459.pp.uA
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: DDd.890604.FIlEGear-sG.Me
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: ddcDe.890603.XYz
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- network: ws
+  password: 0b1371aa-649d-41dc-9126-338c87936500
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: sourceforge.net
+  type: trojan
+  ws-opts:
+    headers:
+      Host: sourceforge.net
+    path: /websocket
+  name: 乌克兰 001 [f40963c8e6b7999f]
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: ttfang
+  sni: ttfang.fange.me
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- network: ws
+  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: syndication-statutes-wanted-logo.trycloudflare.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: syndication-statutes-wanted-logo.trycloudflare.com
+    path: /argox-tr
+  name: 美国 009 [502e9131d0b68306]
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #10 [8099c30090acd991]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #11 [e2f94885bc4aedb3]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #3 [8f52bc375fdd0677]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #4 [ad52e2c129945674]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #6 [4d8b61c02e52c8b5]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #7 [72c499cb16966379]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #9 [b13fc83d5bccfe52]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: 🇫🇷[www.v2nodes.com] trojan-FR-... [89b59fa813770e2c]
+- network: ws
+  password: 018b8e7b-7813-4dcb-84a5-3c98f1521e00
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: id1.nathaya.web.id
+  type: trojan
+  ws-opts:
+    headers:
+      Host: id1.nathaya.web.id
+    path: /trojan
+  name: 🇮🇩[www.v2nodes.com] trojan-ID-... [b85f7d94c64161f8]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.volumerOot.coM.
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: 🇳🇱 荷兰 | NLD 2 [35cec04c7d3f1acf]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #1 [bdd103efbf9befe1]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #11 [e84d1a281fe0f724]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #12 [6de2ae359842b370]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #2 [99ee87cd37c9b48c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #3 [69d5d3fe0013063c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #4 [5a6fd99a424cbf64]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #7 [f20eef12b1f855ce]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: 🇳🇱[www.v2nodes.com] trojan-NL-... [7b38bf9ee7ea8ddb]
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: Aimer
+  sni: epme.ambercc.filegear-sg.me
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: cCtv4.459.pp.uA
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: DDd.890604.FIlEGear-sG.Me
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: ddcDe.890603.XYz
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- network: ws
+  password: 0b1371aa-649d-41dc-9126-338c87936500
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: sourceforge.net
+  type: trojan
+  ws-opts:
+    headers:
+      Host: sourceforge.net
+    path: /websocket
+  name: 乌克兰 001 [f40963c8e6b7999f]
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: ttfang
+  sni: ttfang.fange.me
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- network: ws
+  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: syndication-statutes-wanted-logo.trycloudflare.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: syndication-statutes-wanted-logo.trycloudflare.com
+    path: /argox-tr
+  name: 美国 009 [502e9131d0b68306]
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #10 [8099c30090acd991]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #11 [e2f94885bc4aedb3]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #3 [8f52bc375fdd0677]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #4 [ad52e2c129945674]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #6 [4d8b61c02e52c8b5]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #7 [72c499cb16966379]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #9 [b13fc83d5bccfe52]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: 🇫🇷[www.v2nodes.com] trojan-FR-... [89b59fa813770e2c]
+- network: ws
+  password: 018b8e7b-7813-4dcb-84a5-3c98f1521e00
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: id1.nathaya.web.id
+  type: trojan
+  ws-opts:
+    headers:
+      Host: id1.nathaya.web.id
+    path: /trojan
+  name: 🇮🇩[www.v2nodes.com] trojan-ID-... [b85f7d94c64161f8]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.volumerOot.coM.
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: 🇳🇱 荷兰 | NLD 2 [35cec04c7d3f1acf]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #1 [bdd103efbf9befe1]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #11 [e84d1a281fe0f724]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #12 [6de2ae359842b370]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #2 [99ee87cd37c9b48c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #3 [69d5d3fe0013063c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #4 [5a6fd99a424cbf64]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #7 [f20eef12b1f855ce]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: 🇳🇱[www.v2nodes.com] trojan-NL-... [7b38bf9ee7ea8ddb]
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: Aimer
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- network: ws
+  password: 0b1371aa-649d-41dc-9126-338c87936500
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: sourceforge.net
+  type: trojan
+  ws-opts:
+    headers:
+      Host: sourceforge.net
+    path: /websocket
+  name: 乌克兰 001 [f40963c8e6b7999f]
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: ttfang
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- network: ws
+  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: syndication-statutes-wanted-logo.trycloudflare.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: syndication-statutes-wanted-logo.trycloudflare.com
+    path: /argox-tr
+  name: 美国 009 [502e9131d0b68306]
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #10 [8099c30090acd991]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #11 [e2f94885bc4aedb3]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #3 [8f52bc375fdd0677]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #4 [ad52e2c129945674]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #6 [4d8b61c02e52c8b5]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #7 [72c499cb16966379]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #9 [b13fc83d5bccfe52]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: 🇫🇷[www.v2nodes.com] trojan-FR-... [89b59fa813770e2c]
+- network: ws
+  password: 018b8e7b-7813-4dcb-84a5-3c98f1521e00
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: id1.nathaya.web.id
+  type: trojan
+  ws-opts:
+    headers:
+      Host: id1.nathaya.web.id
+    path: /trojan
+  name: 🇮🇩[www.v2nodes.com] trojan-ID-... [b85f7d94c64161f8]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.volumerOot.coM.
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: 🇳🇱 荷兰 | NLD 2 [35cec04c7d3f1acf]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #1 [bdd103efbf9befe1]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #11 [e84d1a281fe0f724]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #12 [6de2ae359842b370]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #2 [99ee87cd37c9b48c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #3 [69d5d3fe0013063c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #4 [5a6fd99a424cbf64]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #7 [f20eef12b1f855ce]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: 🇳🇱[www.v2nodes.com] trojan-NL-... [7b38bf9ee7ea8ddb]
+- name: 美国 009
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
+  skip-cert-verify: true
+  sni: syndication-statutes-wanted-logo.trycloudflare.com
+  ws-opts:
+    headers:
+      Host: syndication-statutes-wanted-logo.trycloudflare.com
+    path: /argox-tr
+- name: 乌克兰 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 0b1371aa-649d-41dc-9126-338c87936500
+  skip-cert-verify: true
+  sni: sourceforge.net
+  ws-opts:
+    headers:
+      Host: sourceforge.net
+    path: /websocket
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #10 [8099c30090acd991]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #11 [e2f94885bc4aedb3]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #3 [8f52bc375fdd0677]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #4 [ad52e2c129945674]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #6 [4d8b61c02e52c8b5]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #7 [72c499cb16966379]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #9 [b13fc83d5bccfe52]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: 🇫🇷[www.v2nodes.com] trojan-FR-... [89b59fa813770e2c]
+- network: ws
+  password: 018b8e7b-7813-4dcb-84a5-3c98f1521e00
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: id1.nathaya.web.id
+  type: trojan
+  ws-opts:
+    headers:
+      Host: id1.nathaya.web.id
+    path: /trojan
+  name: 🇮🇩[www.v2nodes.com] trojan-ID-... [b85f7d94c64161f8]
+- name: 日本 001
+  network: ws
+  password: Aimer
+  port: 443
+  server: 104.18.1.196
+  sni: epme.ambercc.filegear-sg.me
+  type: trojan
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  network: ws
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  port: 443
+  server: 104.18.1.196
+  sni: cCtv4.459.pp.uA
+  type: trojan
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  network: ws
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  port: 443
+  server: 104.18.1.196
+  sni: DDd.890604.FIlEGear-sG.Me
+  type: trojan
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  network: ws
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  port: 443
+  server: 104.18.1.196
+  sni: ddcDe.890603.XYz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 美国 062
+  network: ws
+  password: ttfang
+  port: 443
+  server: 104.18.1.196
+  sni: ttfang.fange.me
+  type: trojan
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.volumerOot.coM.
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: 🇳🇱 荷兰 | NLD 2 [35cec04c7d3f1acf]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #1 [bdd103efbf9befe1]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #11 [e84d1a281fe0f724]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #12 [6de2ae359842b370]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #2 [99ee87cd37c9b48c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #3 [69d5d3fe0013063c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #4 [5a6fd99a424cbf64]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #7 [f20eef12b1f855ce]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: 🇳🇱[www.v2nodes.com] trojan-NL-... [7b38bf9ee7ea8ddb]
+- name: 美国 009
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
+  skip-cert-verify: true
+  sni: syndication-statutes-wanted-logo.trycloudflare.com
+  ws-opts:
+    headers:
+      Host: syndication-statutes-wanted-logo.trycloudflare.com
+    path: /argox-tr
+- name: 乌克兰 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 0b1371aa-649d-41dc-9126-338c87936500
+  skip-cert-verify: true
+  sni: sourceforge.net
+  ws-opts:
+    headers:
+      Host: sourceforge.net
+    path: /websocket
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #10 [8099c30090acd991]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #11 [e2f94885bc4aedb3]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #3 [8f52bc375fdd0677]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #4 [ad52e2c129945674]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #6 [4d8b61c02e52c8b5]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #7 [72c499cb16966379]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #9 [b13fc83d5bccfe52]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: 🇫🇷[www.v2nodes.com] trojan-FR-... [89b59fa813770e2c]
+- network: ws
+  password: 018b8e7b-7813-4dcb-84a5-3c98f1521e00
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: id1.nathaya.web.id
+  type: trojan
+  ws-opts:
+    headers:
+      Host: id1.nathaya.web.id
+    path: /trojan
+  name: 🇮🇩[www.v2nodes.com] trojan-ID-... [b85f7d94c64161f8]
+- name: 日本 001
+  network: ws
+  password: Aimer
+  port: 443
+  server: 104.18.1.196
+  sni: epme.ambercc.filegear-sg.me
+  type: trojan
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  network: ws
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  port: 443
+  server: 104.18.1.196
+  sni: cCtv4.459.pp.uA
+  type: trojan
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  network: ws
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  port: 443
+  server: 104.18.1.196
+  sni: DDd.890604.FIlEGear-sG.Me
+  type: trojan
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  network: ws
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  port: 443
+  server: 104.18.1.196
+  sni: ddcDe.890603.XYz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 美国 062
+  network: ws
+  password: ttfang
+  port: 443
+  server: 104.18.1.196
+  sni: ttfang.fange.me
+  type: trojan
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.volumerOot.coM.
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: 🇳🇱 荷兰 | NLD 2 [35cec04c7d3f1acf]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #1 [bdd103efbf9befe1]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #11 [e84d1a281fe0f724]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #12 [6de2ae359842b370]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #2 [99ee87cd37c9b48c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #3 [69d5d3fe0013063c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #4 [5a6fd99a424cbf64]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #7 [f20eef12b1f855ce]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: 🇳🇱[www.v2nodes.com] trojan-NL-... [7b38bf9ee7ea8ddb]
+- name: 美国 009
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
+  skip-cert-verify: true
+  sni: syndication-statutes-wanted-logo.trycloudflare.com
+  ws-opts:
+    headers:
+      Host: syndication-statutes-wanted-logo.trycloudflare.com
+    path: /argox-tr
+- name: 乌克兰 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 0b1371aa-649d-41dc-9126-338c87936500
+  skip-cert-verify: true
+  sni: sourceforge.net
+  ws-opts:
+    headers:
+      Host: sourceforge.net
+    path: /websocket
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #10 [8099c30090acd991]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #11 [e2f94885bc4aedb3]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #3 [8f52bc375fdd0677]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #4 [ad52e2c129945674]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #6 [4d8b61c02e52c8b5]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #7 [72c499cb16966379]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #9 [b13fc83d5bccfe52]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: 🇫🇷[www.v2nodes.com] trojan-FR-... [89b59fa813770e2c]
+- network: ws
+  password: 018b8e7b-7813-4dcb-84a5-3c98f1521e00
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: id1.nathaya.web.id
+  type: trojan
+  ws-opts:
+    headers:
+      Host: id1.nathaya.web.id
+    path: /trojan
+  name: 🇮🇩[www.v2nodes.com] trojan-ID-... [b85f7d94c64161f8]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.volumerOot.coM.
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: 🇳🇱 荷兰 | NLD 2 [35cec04c7d3f1acf]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #1 [bdd103efbf9befe1]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #11 [e84d1a281fe0f724]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #12 [6de2ae359842b370]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #2 [99ee87cd37c9b48c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #3 [69d5d3fe0013063c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #4 [5a6fd99a424cbf64]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #7 [f20eef12b1f855ce]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: 🇳🇱[www.v2nodes.com] trojan-NL-... [7b38bf9ee7ea8ddb]
+- name: 美国 009
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
+  skip-cert-verify: true
+  sni: syndication-statutes-wanted-logo.trycloudflare.com
+  ws-opts:
+    headers:
+      Host: syndication-statutes-wanted-logo.trycloudflare.com
+    path: /argox-tr
+- name: 乌克兰 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 0b1371aa-649d-41dc-9126-338c87936500
+  skip-cert-verify: true
+  sni: sourceforge.net
+  ws-opts:
+    headers:
+      Host: sourceforge.net
+    path: /websocket
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #10 [8099c30090acd991]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #11 [e2f94885bc4aedb3]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #3 [8f52bc375fdd0677]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #4 [ad52e2c129945674]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #6 [4d8b61c02e52c8b5]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #7 [72c499cb16966379]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #9 [b13fc83d5bccfe52]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: 🇫🇷[www.v2nodes.com] trojan-FR-... [89b59fa813770e2c]
+- network: ws
+  password: 018b8e7b-7813-4dcb-84a5-3c98f1521e00
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: id1.nathaya.web.id
+  type: trojan
+  ws-opts:
+    headers:
+      Host: id1.nathaya.web.id
+    path: /trojan
+  name: 🇮🇩[www.v2nodes.com] trojan-ID-... [b85f7d94c64161f8]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.volumerOot.coM.
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: 🇳🇱 荷兰 | NLD 2 [35cec04c7d3f1acf]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #1 [bdd103efbf9befe1]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #11 [e84d1a281fe0f724]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #12 [6de2ae359842b370]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #2 [99ee87cd37c9b48c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #3 [69d5d3fe0013063c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #4 [5a6fd99a424cbf64]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #7 [f20eef12b1f855ce]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: 🇳🇱[www.v2nodes.com] trojan-NL-... [7b38bf9ee7ea8ddb]
+- name: 美国 009
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
+  skip-cert-verify: true
+  sni: syndication-statutes-wanted-logo.trycloudflare.com
+  ws-opts:
+    headers:
+      Host: syndication-statutes-wanted-logo.trycloudflare.com
+    path: /argox-tr
+- name: 乌克兰 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 0b1371aa-649d-41dc-9126-338c87936500
+  skip-cert-verify: true
+  sni: sourceforge.net
+  ws-opts:
+    headers:
+      Host: sourceforge.net
+    path: /websocket
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #10 [8099c30090acd991]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #11 [e2f94885bc4aedb3]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #3 [8f52bc375fdd0677]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #4 [ad52e2c129945674]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #6 [4d8b61c02e52c8b5]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #7 [72c499cb16966379]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #9 [b13fc83d5bccfe52]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: 🇫🇷[www.v2nodes.com] trojan-FR-... [89b59fa813770e2c]
+- network: ws
+  password: 018b8e7b-7813-4dcb-84a5-3c98f1521e00
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: id1.nathaya.web.id
+  type: trojan
+  ws-opts:
+    headers:
+      Host: id1.nathaya.web.id
+    path: /trojan
+  name: 🇮🇩[www.v2nodes.com] trojan-ID-... [b85f7d94c64161f8]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.volumerOot.coM.
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: 🇳🇱 荷兰 | NLD 2 [35cec04c7d3f1acf]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #1 [bdd103efbf9befe1]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #11 [e84d1a281fe0f724]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #12 [6de2ae359842b370]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #2 [99ee87cd37c9b48c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #3 [69d5d3fe0013063c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #4 [5a6fd99a424cbf64]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #7 [f20eef12b1f855ce]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: 🇳🇱[www.v2nodes.com] trojan-NL-... [7b38bf9ee7ea8ddb]
+- name: 美国 009
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
+  skip-cert-verify: true
+  sni: syndication-statutes-wanted-logo.trycloudflare.com
+  ws-opts:
+    headers:
+      Host: syndication-statutes-wanted-logo.trycloudflare.com
+    path: /argox-tr
+- name: 乌克兰 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 0b1371aa-649d-41dc-9126-338c87936500
+  skip-cert-verify: true
+  sni: sourceforge.net
+  ws-opts:
+    headers:
+      Host: sourceforge.net
+    path: /websocket
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #10 [8099c30090acd991]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #11 [e2f94885bc4aedb3]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #3 [8f52bc375fdd0677]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #4 [ad52e2c129945674]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #6 [4d8b61c02e52c8b5]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #7 [72c499cb16966379]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #9 [b13fc83d5bccfe52]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: 🇫🇷[www.v2nodes.com] trojan-FR-... [89b59fa813770e2c]
+- network: ws
+  password: 018b8e7b-7813-4dcb-84a5-3c98f1521e00
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: id1.nathaya.web.id
+  type: trojan
+  ws-opts:
+    headers:
+      Host: id1.nathaya.web.id
+    path: /trojan
+  name: 🇮🇩[www.v2nodes.com] trojan-ID-... [b85f7d94c64161f8]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.volumerOot.coM.
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: 🇳🇱 荷兰 | NLD 2 [35cec04c7d3f1acf]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #1 [bdd103efbf9befe1]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #11 [e84d1a281fe0f724]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #12 [6de2ae359842b370]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #2 [99ee87cd37c9b48c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #3 [69d5d3fe0013063c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #4 [5a6fd99a424cbf64]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #7 [f20eef12b1f855ce]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: 🇳🇱[www.v2nodes.com] trojan-NL-... [7b38bf9ee7ea8ddb]
+- name: '🏳[www.v2nodes.com] trojan- #1'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #5'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #1'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #2'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #4'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #7'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #8'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #10'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+- alpn:
+  - http/1.1
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #1'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+- alpn:
+  - http/1.1
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #2'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+- alpn:
+  - http/1.1
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #5'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+- alpn:
+  - http/1.1
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #11'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+- alpn:
+  - http/1.1
+  name: '🏳[www.v2nodes.com] trojan- #4'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #10 [8099c30090acd991]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #11 [e2f94885bc4aedb3]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #3 [8f52bc375fdd0677]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #4 [ad52e2c129945674]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #6 [4d8b61c02e52c8b5]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #7 [72c499cb16966379]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #9 [b13fc83d5bccfe52]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: 🇫🇷[www.v2nodes.com] trojan-FR-... [89b59fa813770e2c]
+- network: ws
+  password: 018b8e7b-7813-4dcb-84a5-3c98f1521e00
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: id1.nathaya.web.id
+  type: trojan
+  ws-opts:
+    headers:
+      Host: id1.nathaya.web.id
+    path: /trojan
+  name: 🇮🇩[www.v2nodes.com] trojan-ID-... [b85f7d94c64161f8]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.volumerOot.coM.
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: 🇳🇱 荷兰 | NLD 2 [35cec04c7d3f1acf]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #1 [bdd103efbf9befe1]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #11 [e84d1a281fe0f724]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #12 [6de2ae359842b370]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #2 [99ee87cd37c9b48c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #3 [69d5d3fe0013063c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #4 [5a6fd99a424cbf64]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #7 [f20eef12b1f855ce]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: 🇳🇱[www.v2nodes.com] trojan-NL-... [7b38bf9ee7ea8ddb]
+- name: '🏳[www.v2nodes.com] trojan- #1'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #5'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #1'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #2'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #4'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #7'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #8'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #10'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+- alpn:
+  - http/1.1
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #1'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+- alpn:
+  - http/1.1
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #2'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+- alpn:
+  - http/1.1
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #5'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+- alpn:
+  - http/1.1
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #11'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+- alpn:
+  - http/1.1
+  name: '🏳[www.v2nodes.com] trojan- #4'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #10 [8099c30090acd991]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #11 [e2f94885bc4aedb3]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #3 [8f52bc375fdd0677]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #4 [ad52e2c129945674]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #6 [4d8b61c02e52c8b5]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #7 [72c499cb16966379]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #9 [b13fc83d5bccfe52]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: 🇫🇷[www.v2nodes.com] trojan-FR-... [89b59fa813770e2c]
+- network: ws
+  password: 018b8e7b-7813-4dcb-84a5-3c98f1521e00
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: id1.nathaya.web.id
+  type: trojan
+  ws-opts:
+    headers:
+      Host: id1.nathaya.web.id
+    path: /trojan
+  name: 🇮🇩[www.v2nodes.com] trojan-ID-... [b85f7d94c64161f8]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.volumerOot.coM.
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: 🇳🇱 荷兰 | NLD 2 [35cec04c7d3f1acf]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #1 [bdd103efbf9befe1]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #11 [e84d1a281fe0f724]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #12 [6de2ae359842b370]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #2 [99ee87cd37c9b48c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #3 [69d5d3fe0013063c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #4 [5a6fd99a424cbf64]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #7 [f20eef12b1f855ce]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: 🇳🇱[www.v2nodes.com] trojan-NL-... [7b38bf9ee7ea8ddb]
+- name: '🏳[www.v2nodes.com] trojan- #1'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #5'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #1'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #2'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #4'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #7'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #8'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #10'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+- alpn:
+  - http/1.1
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #1'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+- alpn:
+  - http/1.1
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #2'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+- alpn:
+  - http/1.1
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #5'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+- alpn:
+  - http/1.1
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #11'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+- alpn:
+  - http/1.1
+  name: '🏳[www.v2nodes.com] trojan- #4'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #10 [8099c30090acd991]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #11 [e2f94885bc4aedb3]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #3 [8f52bc375fdd0677]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #4 [ad52e2c129945674]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #6 [4d8b61c02e52c8b5]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #7 [72c499cb16966379]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #9 [b13fc83d5bccfe52]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: 🇫🇷[www.v2nodes.com] trojan-FR-... [89b59fa813770e2c]
+- network: ws
+  password: 018b8e7b-7813-4dcb-84a5-3c98f1521e00
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: id1.nathaya.web.id
+  type: trojan
+  ws-opts:
+    headers:
+      Host: id1.nathaya.web.id
+    path: /trojan
+  name: 🇮🇩[www.v2nodes.com] trojan-ID-... [b85f7d94c64161f8]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.volumerOot.coM.
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: 🇳🇱 荷兰 | NLD 2 [35cec04c7d3f1acf]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #1 [bdd103efbf9befe1]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #11 [e84d1a281fe0f724]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #12 [6de2ae359842b370]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #2 [99ee87cd37c9b48c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #3 [69d5d3fe0013063c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #4 [5a6fd99a424cbf64]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #7 [f20eef12b1f855ce]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: 🇳🇱[www.v2nodes.com] trojan-NL-... [7b38bf9ee7ea8ddb]
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #10 [8099c30090acd991]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #11 [e2f94885bc4aedb3]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #3 [8f52bc375fdd0677]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #4 [ad52e2c129945674]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #6 [4d8b61c02e52c8b5]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #7 [72c499cb16966379]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #9 [b13fc83d5bccfe52]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: 🇫🇷[www.v2nodes.com] trojan-FR-... [89b59fa813770e2c]
+- network: ws
+  password: 018b8e7b-7813-4dcb-84a5-3c98f1521e00
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: id1.nathaya.web.id
+  type: trojan
+  ws-opts:
+    headers:
+      Host: id1.nathaya.web.id
+    path: /trojan
+  name: 🇮🇩[www.v2nodes.com] trojan-ID-... [b85f7d94c64161f8]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.volumerOot.coM.
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: 🇳🇱 荷兰 | NLD 2 [35cec04c7d3f1acf]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #1 [bdd103efbf9befe1]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #11 [e84d1a281fe0f724]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #12 [6de2ae359842b370]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #2 [99ee87cd37c9b48c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #3 [69d5d3fe0013063c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #4 [5a6fd99a424cbf64]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #7 [f20eef12b1f855ce]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: 🇳🇱[www.v2nodes.com] trojan-NL-... [7b38bf9ee7ea8ddb]
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #10 [8099c30090acd991]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #11 [e2f94885bc4aedb3]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #3 [8f52bc375fdd0677]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #4 [ad52e2c129945674]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #6 [4d8b61c02e52c8b5]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #7 [72c499cb16966379]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #9 [b13fc83d5bccfe52]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: 🇫🇷[www.v2nodes.com] trojan-FR-... [89b59fa813770e2c]
+- network: ws
+  password: 018b8e7b-7813-4dcb-84a5-3c98f1521e00
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: id1.nathaya.web.id
+  type: trojan
+  ws-opts:
+    headers:
+      Host: id1.nathaya.web.id
+    path: /trojan
+  name: 🇮🇩[www.v2nodes.com] trojan-ID-... [b85f7d94c64161f8]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.volumerOot.coM.
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: 🇳🇱 荷兰 | NLD 2 [35cec04c7d3f1acf]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #1 [bdd103efbf9befe1]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #11 [e84d1a281fe0f724]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #12 [6de2ae359842b370]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #2 [99ee87cd37c9b48c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #3 [69d5d3fe0013063c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #4 [5a6fd99a424cbf64]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #7 [f20eef12b1f855ce]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: 🇳🇱[www.v2nodes.com] trojan-NL-... [7b38bf9ee7ea8ddb]
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #10 [8099c30090acd991]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #11 [e2f94885bc4aedb3]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #3 [8f52bc375fdd0677]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #4 [ad52e2c129945674]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #6 [4d8b61c02e52c8b5]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #7 [72c499cb16966379]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #9 [b13fc83d5bccfe52]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: 🇫🇷[www.v2nodes.com] trojan-FR-... [89b59fa813770e2c]
+- network: ws
+  password: 018b8e7b-7813-4dcb-84a5-3c98f1521e00
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: id1.nathaya.web.id
+  type: trojan
+  ws-opts:
+    headers:
+      Host: id1.nathaya.web.id
+    path: /trojan
+  name: 🇮🇩[www.v2nodes.com] trojan-ID-... [b85f7d94c64161f8]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.volumerOot.coM.
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: 🇳🇱 荷兰 | NLD 2 [35cec04c7d3f1acf]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #1 [bdd103efbf9befe1]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #11 [e84d1a281fe0f724]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #12 [6de2ae359842b370]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #2 [99ee87cd37c9b48c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #3 [69d5d3fe0013063c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #4 [5a6fd99a424cbf64]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #7 [f20eef12b1f855ce]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: 🇳🇱[www.v2nodes.com] trojan-NL-... [7b38bf9ee7ea8ddb]
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #10 [8099c30090acd991]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #11 [e2f94885bc4aedb3]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #3 [8f52bc375fdd0677]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #4 [ad52e2c129945674]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #6 [4d8b61c02e52c8b5]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #7 [72c499cb16966379]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #9 [b13fc83d5bccfe52]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: 🇫🇷[www.v2nodes.com] trojan-FR-... [89b59fa813770e2c]
+- network: ws
+  password: 018b8e7b-7813-4dcb-84a5-3c98f1521e00
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: id1.nathaya.web.id
+  type: trojan
+  ws-opts:
+    headers:
+      Host: id1.nathaya.web.id
+    path: /trojan
+  name: 🇮🇩[www.v2nodes.com] trojan-ID-... [b85f7d94c64161f8]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.volumerOot.coM.
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: 🇳🇱 荷兰 | NLD 2 [35cec04c7d3f1acf]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #1 [bdd103efbf9befe1]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #11 [e84d1a281fe0f724]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #12 [6de2ae359842b370]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #2 [99ee87cd37c9b48c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #3 [69d5d3fe0013063c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #4 [5a6fd99a424cbf64]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #7 [f20eef12b1f855ce]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: 🇳🇱[www.v2nodes.com] trojan-NL-... [7b38bf9ee7ea8ddb]
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #10 [8099c30090acd991]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #11 [e2f94885bc4aedb3]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #3 [8f52bc375fdd0677]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #4 [ad52e2c129945674]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #6 [4d8b61c02e52c8b5]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #7 [72c499cb16966379]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #9 [b13fc83d5bccfe52]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: 🇫🇷[www.v2nodes.com] trojan-FR-... [89b59fa813770e2c]
+- network: ws
+  password: 018b8e7b-7813-4dcb-84a5-3c98f1521e00
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: id1.nathaya.web.id
+  type: trojan
+  ws-opts:
+    headers:
+      Host: id1.nathaya.web.id
+    path: /trojan
+  name: 🇮🇩[www.v2nodes.com] trojan-ID-... [b85f7d94c64161f8]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.volumerOot.coM.
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: 🇳🇱 荷兰 | NLD 2 [35cec04c7d3f1acf]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #1 [bdd103efbf9befe1]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #11 [e84d1a281fe0f724]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #12 [6de2ae359842b370]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #2 [99ee87cd37c9b48c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #3 [69d5d3fe0013063c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #4 [5a6fd99a424cbf64]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #7 [f20eef12b1f855ce]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: 🇳🇱[www.v2nodes.com] trojan-NL-... [7b38bf9ee7ea8ddb]
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #10 [8099c30090acd991]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #11 [e2f94885bc4aedb3]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #3 [8f52bc375fdd0677]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #4 [ad52e2c129945674]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #6 [4d8b61c02e52c8b5]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #7 [72c499cb16966379]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #9 [b13fc83d5bccfe52]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: 🇫🇷[www.v2nodes.com] trojan-FR-... [89b59fa813770e2c]
+- network: ws
+  password: 018b8e7b-7813-4dcb-84a5-3c98f1521e00
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: id1.nathaya.web.id
+  type: trojan
+  ws-opts:
+    headers:
+      Host: id1.nathaya.web.id
+    path: /trojan
+  name: 🇮🇩[www.v2nodes.com] trojan-ID-... [b85f7d94c64161f8]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.volumerOot.coM.
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: 🇳🇱 荷兰 | NLD 2 [35cec04c7d3f1acf]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #1 [bdd103efbf9befe1]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #11 [e84d1a281fe0f724]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #12 [6de2ae359842b370]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #2 [99ee87cd37c9b48c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #3 [69d5d3fe0013063c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #4 [5a6fd99a424cbf64]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #7 [f20eef12b1f855ce]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: 🇳🇱[www.v2nodes.com] trojan-NL-... [7b38bf9ee7ea8ddb]
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #10 [8099c30090acd991]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #11 [e2f94885bc4aedb3]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #3 [8f52bc375fdd0677]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #4 [ad52e2c129945674]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #6 [4d8b61c02e52c8b5]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #7 [72c499cb16966379]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #9 [b13fc83d5bccfe52]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: 🇫🇷[www.v2nodes.com] trojan-FR-... [89b59fa813770e2c]
+- network: ws
+  password: 018b8e7b-7813-4dcb-84a5-3c98f1521e00
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: id1.nathaya.web.id
+  type: trojan
+  ws-opts:
+    headers:
+      Host: id1.nathaya.web.id
+    path: /trojan
+  name: 🇮🇩[www.v2nodes.com] trojan-ID-... [b85f7d94c64161f8]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.volumerOot.coM.
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: 🇳🇱 荷兰 | NLD 2 [35cec04c7d3f1acf]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #1 [bdd103efbf9befe1]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #11 [e84d1a281fe0f724]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #12 [6de2ae359842b370]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #2 [99ee87cd37c9b48c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #3 [69d5d3fe0013063c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #4 [5a6fd99a424cbf64]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #7 [f20eef12b1f855ce]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: 🇳🇱[www.v2nodes.com] trojan-NL-... [7b38bf9ee7ea8ddb]
+- name: '🏳[www.v2nodes.com] trojan- #1'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #5'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #1'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #2'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #4'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #7'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #8'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+- name: '🇫🇷[www.v2nodes.com] trojan-FR-... #10'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+- alpn:
+  - http/1.1
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #1'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+- alpn:
+  - http/1.1
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #2'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+- alpn:
+  - http/1.1
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #5'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+- alpn:
+  - http/1.1
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #11'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+- alpn:
+  - http/1.1
+  name: '🏳[www.v2nodes.com] trojan- #4'
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #10 [8099c30090acd991]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #11 [e2f94885bc4aedb3]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #3 [8f52bc375fdd0677]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #4 [ad52e2c129945674]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #6 [4d8b61c02e52c8b5]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #7 [72c499cb16966379]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #9 [b13fc83d5bccfe52]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: 🇫🇷[www.v2nodes.com] trojan-FR-... [89b59fa813770e2c]
+- network: ws
+  password: 018b8e7b-7813-4dcb-84a5-3c98f1521e00
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: id1.nathaya.web.id
+  type: trojan
+  ws-opts:
+    headers:
+      Host: id1.nathaya.web.id
+    path: /trojan
+  name: 🇮🇩[www.v2nodes.com] trojan-ID-... [b85f7d94c64161f8]
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: Aimer
+  sni: epme.ambercc.filegear-sg.me
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: cCtv4.459.pp.uA
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: DDd.890604.FIlEGear-sG.Me
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: ddcDe.890603.XYz
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.volumerOot.coM.
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: 🇳🇱 荷兰 | NLD 2 [35cec04c7d3f1acf]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #1 [bdd103efbf9befe1]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #11 [e84d1a281fe0f724]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #12 [6de2ae359842b370]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #2 [99ee87cd37c9b48c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #3 [69d5d3fe0013063c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #4 [5a6fd99a424cbf64]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #7 [f20eef12b1f855ce]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: 🇳🇱[www.v2nodes.com] trojan-NL-... [7b38bf9ee7ea8ddb]
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: ttfang
+  sni: ttfang.fange.me
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #10 [8099c30090acd991]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #11 [e2f94885bc4aedb3]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #3 [8f52bc375fdd0677]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #4 [ad52e2c129945674]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #6 [4d8b61c02e52c8b5]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #7 [72c499cb16966379]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #9 [b13fc83d5bccfe52]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: 🇫🇷[www.v2nodes.com] trojan-FR-... [89b59fa813770e2c]
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- network: ws
+  password: 018b8e7b-7813-4dcb-84a5-3c98f1521e00
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: id1.nathaya.web.id
+  type: trojan
+  ws-opts:
+    headers:
+      Host: id1.nathaya.web.id
+    path: /trojan
+  name: 🇮🇩[www.v2nodes.com] trojan-ID-... [b85f7d94c64161f8]
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: Aimer
+  sni: epme.ambercc.filegear-sg.me
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: cCtv4.459.pp.uA
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: DDd.890604.FIlEGear-sG.Me
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: ddcDe.890603.XYz
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.volumerOot.coM.
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: 🇳🇱 荷兰 | NLD 2 [35cec04c7d3f1acf]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #1 [bdd103efbf9befe1]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #11 [e84d1a281fe0f724]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #12 [6de2ae359842b370]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #2 [99ee87cd37c9b48c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #3 [69d5d3fe0013063c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #4 [5a6fd99a424cbf64]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #7 [f20eef12b1f855ce]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: 🇳🇱[www.v2nodes.com] trojan-NL-... [7b38bf9ee7ea8ddb]
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: ttfang
+  sni: ttfang.fange.me
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #10 [8099c30090acd991]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #11 [e2f94885bc4aedb3]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #3 [8f52bc375fdd0677]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #4 [ad52e2c129945674]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #6 [4d8b61c02e52c8b5]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #7 [72c499cb16966379]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #9 [b13fc83d5bccfe52]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: 🇫🇷[www.v2nodes.com] trojan-FR-... [89b59fa813770e2c]
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- network: ws
+  password: 018b8e7b-7813-4dcb-84a5-3c98f1521e00
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: id1.nathaya.web.id
+  type: trojan
+  ws-opts:
+    headers:
+      Host: id1.nathaya.web.id
+    path: /trojan
+  name: 🇮🇩[www.v2nodes.com] trojan-ID-... [b85f7d94c64161f8]
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: Aimer
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.volumerOot.coM.
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: 🇳🇱 荷兰 | NLD 2 [35cec04c7d3f1acf]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #1 [bdd103efbf9befe1]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #11 [e84d1a281fe0f724]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #12 [6de2ae359842b370]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #2 [99ee87cd37c9b48c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #3 [69d5d3fe0013063c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #4 [5a6fd99a424cbf64]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #7 [f20eef12b1f855ce]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: 🇳🇱[www.v2nodes.com] trojan-NL-... [7b38bf9ee7ea8ddb]
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: ttfang
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #10 [8099c30090acd991]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #11 [e2f94885bc4aedb3]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #3 [8f52bc375fdd0677]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #4 [ad52e2c129945674]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #6 [4d8b61c02e52c8b5]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #7 [72c499cb16966379]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #9 [b13fc83d5bccfe52]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: 🇫🇷[www.v2nodes.com] trojan-FR-... [89b59fa813770e2c]
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- network: ws
+  password: 018b8e7b-7813-4dcb-84a5-3c98f1521e00
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: id1.nathaya.web.id
+  type: trojan
+  ws-opts:
+    headers:
+      Host: id1.nathaya.web.id
+    path: /trojan
+  name: 🇮🇩[www.v2nodes.com] trojan-ID-... [b85f7d94c64161f8]
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: Aimer
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.volumerOot.coM.
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: 🇳🇱 荷兰 | NLD 2 [35cec04c7d3f1acf]
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #1 [bdd103efbf9befe1]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #11 [e84d1a281fe0f724]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #12 [6de2ae359842b370]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: wWw.Volumeroot.cOm.
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumerOot.coM.
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #2 [99ee87cd37c9b48c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #3 [69d5d3fe0013063c]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #4 [5a6fd99a424cbf64]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.volumeroot.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.volumeroot.com
+    path: /assignment
+  name: '🇳🇱[www.v2nodes.com] trojan-NL-... #7 [f20eef12b1f855ce]'
+- alpn:
+  - http/1.1
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.pleadcourt.org
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.pleadcourt.org
+    path: /assignment
+  name: 🇳🇱[www.v2nodes.com] trojan-NL-... [7b38bf9ee7ea8ddb]
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: 104.18.1.196
+  port: 443
+  password: ttfang
+  sni: graph.facebook.com
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #10 [8099c30090acd991]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #11 [e2f94885bc4aedb3]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #3 [8f52bc375fdd0677]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #4 [ad52e2c129945674]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #6 [4d8b61c02e52c8b5]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #7 [72c499cb16966379]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: '%2Fassignment'
+  name: '🇫🇷[www.v2nodes.com] trojan-FR-... #9 [b13fc83d5bccfe52]'
+- network: ws
+  password: humanity
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  type: trojan
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+  name: 🇫🇷[www.v2nodes.com] trojan-FR-... [89b59fa813770e2c]
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: graph.facebook.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- network: ws
+  password: 018b8e7b-7813-4dcb-84a5-3c98f1521e00
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: false
+  sni: id1.nathaya.web.id
+  type: trojan
+  ws-opts:
+    headers:
+      Host: id1.nathaya.web.id
+    path: /trojan
+  name: 🇮🇩[www.v2nodes.com] trojan-ID-... [b85f7d94c64161f8]
