@@ -1,0 +1,2946 @@
+proxies:
+- name: 美国 001
+  type: vmess
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: 2f38f848-a899-4c87-9807-207a41615e3c
+  skip-cert-verify: true
+  tls: false
+  udp: true
+  tfo: true
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: fr.freeyyds.dpdns.org
+    path: /rongseven?ed=2048
+- name: 美国 002
+  type: vmess
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: 2f38f848-a899-4c87-9807-207a41615e3c
+  skip-cert-verify: true
+  tls: false
+  udp: true
+  tfo: true
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: hk.freeyyds.dpdns.org
+    path: /rongseven?ed=2048
+- name: 美国 003
+  type: vmess
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: 2f38f848-a899-4c87-9807-207a41615e3c
+  skip-cert-verify: true
+  tls: false
+  udp: true
+  tfo: true
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: us.freeyyds.dpdns.org
+    path: /rongseven?ed=2048
+- name: 美国 004
+  type: vmess
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: 2f38f848-a899-4c87-9807-207a41615e3c
+  skip-cert-verify: true
+  tls: false
+  udp: true
+  tfo: true
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: us.freeyyds.dpdns.org
+    path: /rongseven?ed=2048
+- name: 美国 005
+  type: vmess
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: 2f38f848-a899-4c87-9807-207a41615e3c
+  skip-cert-verify: true
+  tls: false
+  udp: true
+  tfo: true
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: us.freeyyds.dpdns.org
+    path: /rongseven?ed=2048
+- name: 美国 006
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: 5aebf7d1-fb08-4200-9ab3-9ae3c01ab356
+  udp: true
+  smux:
+    enabled: false
+    max_streams: 8
+    protocol: h2mux
+  ws-opts:
+    early-data-header-name: Sec-WebSocket-Protocol
+    headers:
+      Host: dbe661d5a761ff6c.s-5HU09JDF-97SHS.WWWrubika.irto.xn--ls8haaaaaaaaaaaaaaaaaa.la.which.xn--ls8haaaaaaaaaaaaaaaaaa.xn-ls8faaaaaaaaaa.speedtest.net.google.com.eu.ir.nl.aparat.com.komak.IR.Hj-De.85858569.xYz.
+      User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like
+        Gecko) Chrome/124.0.0.0 Safari/537.36
+    ip-version: dual
+    max-early-data: 2050
+    path: /hajmi
+- name: 荷兰 001
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: 5aebf7d1-fb08-4200-9ab3-9ae3c01ab356
+  udp: true
+  smux:
+    enabled: false
+    max_streams: 8
+    protocol: h2mux
+  ws-opts:
+    early-data-header-name: Sec-WebSocket-Protocol
+    headers:
+      Host: dbe661d5a761ff6c.s-5HU09JDF-97SHS.WWWrubika.irto.xn--ls8haaaaaaaaaaaaaaaaaa.la.which.xn--ls8haaaaaaaaaaaaaaaaaa.xn-ls8faaaaaaaaaa.speedtest.net.google.com.eu.ir.nl.aparat.com.komak.IR.Hj-En.85858569.xYz.
+      User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like
+        Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    ip-version: dual
+    max-early-data: 2050
+    path: /hajmi
+- name: 美国 007
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: 5aebf7d1-fb08-4200-9ab3-9ae3c01ab356
+  udp: true
+  smux:
+    enabled: false
+    max_streams: 8
+    protocol: h2mux
+  ws-opts:
+    early-data-header-name: Sec-WebSocket-Protocol
+    headers:
+      Host: dbe661d5a761ff6c.s-5HU09JDF-97SHS.WWWrubika.irto.xn--ls8haaaaaaaaaaaaaaaaaa.la.which.xn--ls8haaaaaaaaaaaaaaaaaa.xn-ls8faaaaaaaaaa.speedtest.net.google.com.eu.ir.nl.aparat.com.komak.IR.Hj-Us.85858569.xYz.
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/125.0.0.0 Safari/537.36
+    ip-version: dual
+    max-early-data: 2050
+    path: /hajmi
+- name: 美国 049
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: 9a2680ff-c5d5-410a-9108-8d6b10e4ea1e
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: ppal03.dolobe7975.workers.dev
+    path: /?ed=2560
+- name: 美国 069
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 2052
+  uuid: 0d710c53-876d-401f-97f0-6bd1a8db941a
+  skip-cert-verify: true
+  udp: true
+  xudp: true
+  ws-opts:
+    headers:
+      Host: sWEeT-DIsK-b69d.TUdTudtrUHtRU.wOrkERS.dev
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+        Gecko) Chrome/51.0.2704.63 Safari/537.36
+    path: /J61hhknxUXEwJZLq/MTU5LjY5LjE1My4xMTQ=?ed=2560
+- name: 美国 041
+  type: vmess
+  network: ws
+  server: ava.game.naver.com
+  port: 443
+  uuid: a9326a5a-b890-46e3-bd3d-a4f9d5082323
+  tls: true
+  udp: true
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: us148.vp1000.net
+    path: /cp100vp800kkkdsnx
+- name: 美国 040
+  type: vmess
+  network: ws
+  server: ava.game.naver.com
+  port: 8443
+  uuid: 2bd0c9d7-f239-437e-a1e1-6cf830af2a1a
+  servername: us01.sh-cloudflare.sbs
+  tls: true
+  udp: true
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: us01.sh-cloudflare.sbs
+    path: /
+- name: 美国 042
+  type: vmess
+  network: ws
+  server: ava.game.naver.com
+  port: 2082
+  uuid: 2f821152-c3e9-4074-9185-2790e7425f42
+  tls: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: cs.flha.ru
+    path: /
+- name: 斯洛文尼亚 001
+  type: trojan
+  network: ws
+  server: ava.game.naver.com
+  port: 2087
+  password: Aimer
+  sni: epme.ambercc.filegear-sg.me
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 日本 001
+  type: trojan
+  network: ws
+  server: ava.game.naver.com
+  port: 443
+  password: Aimer
+  sni: epme.ambercc.filegear-sg.me
+  ws-opts:
+    headers:
+      Host: epme.ambercc.filegear-sg.me
+    path: /
+- name: 美国 043
+  type: trojan
+  network: ws
+  server: ava.game.naver.com
+  port: 443
+  password: 44ed7a37-af89-4cd1-8680-83a7207810d9
+  sni: cCtv4.459.pp.uA
+  ws-opts:
+    headers:
+      Host: cCtv4.459.pp.uA
+    path: /HpYP4foAlpTKtfYnjLYhU30U
+- name: 美国 045
+  type: trojan
+  network: ws
+  server: ava.game.naver.com
+  port: 443
+  password: f0f6e76e-e5fe-4e2c-9faf-34832e021eae
+  sni: DDd.890604.FIlEGear-sG.Me
+  ws-opts:
+    headers:
+      Host: DDd.890604.FIlEGear-sG.Me
+    path: /mZr1mA5hub7QHHkQBzYO
+- name: 瑞典 001
+  type: vmess
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: 46181c32-8c82-413a-b836-8375e5e513eb
+  tls: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: google.whatsapp.snapp.torob.basalam.sarzamiiinahang.ir.
+    path: /d3d3LmlyYW5ob3N0LmNvbQ==?ed=2560
+- name: 美国 047
+  type: vmess
+  network: ws
+  server: ava.game.naver.com
+  port: 2096
+  uuid: b3928f8d-ea81-4d75-bcec-4016a072adff
+  tls: true
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: de01.sh-cloudflare.sbs
+    path: /
+- name: 美国 050
+  type: trojan
+  network: ws
+  server: ava.game.naver.com
+  port: 443
+  password: 4a3ee276-f50f-46f6-ba4d-13571732ab70
+  sni: ddcDe.890603.XYz
+  ws-opts:
+    headers:
+      Host: ddcDe.890603.XYz
+    path: /COp52Dbu3dvwvDWUxOqxq
+- name: 美国 034
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: a.xn--i-sx6a60i.us.kg.
+    path: /?ed=2560
+- name: 美国 052
+  type: vmess
+  network: ws
+  server: ava.game.naver.com
+  port: 443
+  uuid: bf67437e-6c90-45ca-abc2-c7240a5ce2aa
+  tls: true
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: foxlux.fovi.tk
+    path: /eisasqa
+- name: 美国 053
+  type: vmess
+  network: ws
+  server: ava.game.naver.com
+  port: 2086
+  uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917
+  servername: m116.164748.xyz
+  tls: false
+  udp: true
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: m116.164748.xyz
+    path: github.com/Alvin9999
+- name: 美国 054
+  type: vmess
+  network: ws
+  server: ava.game.naver.com
+  port: 2086
+  uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917
+  servername: m116.164748.xyz
+  tls: false
+  udp: true
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: m116.164748.xyz
+    path: github.com/Alvin9999
+- name: 美国 055
+  type: trojan
+  network: ws
+  server: ava.game.naver.com
+  port: 2096
+  password: d6b8011a-c725-435a-9fec-bf6d3530392c
+  sni: vle.amclubsvip.dpdns.org
+  ws-opts:
+    headers:
+      Host: vle.amclubsvip.dpdns.org
+    path: /
+- name: 美国 057
+  type: vmess
+  network: ws
+  server: ava.game.naver.com
+  port: 2086
+  uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917
+  servername: m116.164748.xyz
+  tls: false
+  udp: true
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: m116.164748.xyz
+    path: github.com/Alvin9999
+- name: 美国 058
+  type: vmess
+  network: ws
+  server: ava.game.naver.com
+  port: 2086
+  uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917
+  servername: m116.164748.xyz
+  tls: false
+  udp: true
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: m116.164748.xyz
+    path: github.com/Alvin9999
+- name: 美国 059
+  type: vmess
+  network: ws
+  server: ava.game.naver.com
+  port: 2086
+  uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917
+  servername: m116.164748.xyz
+  tls: false
+  udp: true
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: m116.164748.xyz
+    path: github.com/Alvin9999
+- name: 美国 060
+  type: vmess
+  network: ws
+  server: ava.game.naver.com
+  port: 2086
+  uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917
+  servername: m7610.164748.xyz
+  tls: false
+  udp: true
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: m7610.164748.xyz
+    path: github.com/Alvin9999
+- name: 美国 061
+  type: vmess
+  network: ws
+  server: ava.game.naver.com
+  port: 2086
+  uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917
+  servername: m7647.164748.xyz
+  tls: false
+  udp: true
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: m7647.164748.xyz
+    path: github.com/Alvin9999
+- name: 美国 062
+  type: trojan
+  network: ws
+  server: ava.game.naver.com
+  port: 443
+  password: ttfang
+  sni: ttfang.fange.me
+  ws-opts:
+    headers:
+      Host: ttfang.fange.me
+    path: /
+- name: 美国 036
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  skip-cert-verify: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: a.xn--i-sx6a60i.us.kg.
+    path: /?ed=2560
+- name: RELAY-104.21.112.1-0357 | 8.914MB
+  server: ava.game.naver.com
+  port: 2096
+  type: vmess
+  uuid: b3928f8d-ea81-4d75-bcec-4016a072adff
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: de01.sh-cloudflare.sbs
+- name: RELAY-172.64.146.66-0656 | 8.001MB
+  server: ava.game.naver.com
+  port: 80
+  type: vmess
+  uuid: 2f38f848-a899-4c87-9807-207a41615e3c
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: fr.freeyyds.dpdns.org
+- name: 🇨🇦CA-51.79.102.253-0992 | 7.992MB
+  server: ava.game.naver.com
+  port: 80
+  type: vmess
+  uuid: 58fe1542-5290-40ad-815a-77707a81afe5
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: 51.79.102.253
+- name: RELAY-104.21.16.1-0362 | 6.875MB
+  server: ava.game.naver.com
+  port: 2096
+  type: vmess
+  uuid: b3928f8d-ea81-4d75-bcec-4016a072adff
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: RELAY-104.21.16.1-0362 | 6.875MB
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: de01.sh-cloudflare.sbs
+- name: 美国 056
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 2052
+  uuid: dfc1a9ab-6241-4b73-92f7-b299fc6b7751
+  servername: Yak-Khanda-kUn-eY-gUL.biNG.com.xn--cR8HaaaAaAAAaAaaAaAaAAaAAaaaAAAAAaAaaAaaaAaaaaAAaaAAAaaaaAa.xN--Cr8hAaAaaAaaAAAAAAaaaAAAaAAaaAaAaAAAAAA.TREPAspeEdTEsT.NEtrag.cOm.PX.Com.sh017.IR.XN--Cr8hAaaAaaAaaAaaaAAAaaaAaaAaaaAaAAAaaaA.yek.dDnS-ip.nEt
+  skip-cert-verify: true
+  udp: true
+  client-fingerprint: chrome
+  delay: 2905
+  ws-opts:
+    headers:
+      Host: Yak-Khanda-kUn-eY-gUL.biNG.com.xn--cR8HaaaAaAAAaAaaAaAaAAaAAaaaAAAAAaAaaAaaaAaaaaAAaaAAAaaaaAa.xN--Cr8hAaAaaAaaAAAAAAaaaAAAaAAaaAaAaAAAAAA.TREPAspeEdTEsT.NEtrag.cOm.PX.Com.sh017.IR.XN--Cr8hAaaAaaAaaAaaaAAAaaaAaaAaaaAaAAAaaaA.yek.dDnS-ip.nEt
+    path: /?ed=1080/telegram
+- name: 美国 046
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: e497da22-d020-40fb-a1fa-bc294066a2d2
+  servername: pormang.webhost99.workers.dev
+  skip-cert-verify: false
+  tls: false
+  udp: true
+  ws-opts:
+    headers:
+      Host: pormang.webhost99.workers.dev
+    path: /
+- name: 俄罗斯 004
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: e497da22-d020-40fb-a1fa-bc294066a2d2
+  servername: pormang.webhost99.workers.dev
+  skip-cert-verify: false
+  tls: false
+  udp: true
+  ws-opts:
+    headers:
+      Host: pormang.webhost99.workers.dev
+    path: /
+- name: 美国 051
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: e497da22-d020-40fb-a1fa-bc294066a2d2
+  servername: pormang.webhost99.workers.dev
+  skip-cert-verify: false
+  tls: false
+  udp: true
+  ws-opts:
+    headers:
+      Host: pormang.webhost99.workers.dev
+    path: /
+- name: 荷兰 004
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: e497da22-d020-40fb-a1fa-bc294066a2d2
+  servername: pormang.webhost99.workers.dev
+  skip-cert-verify: false
+  tls: false
+  udp: true
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: pormang.webhost99.workers.dev
+    path: /
+- name: 巴西 002
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 8880
+  uuid: 91d9b8d8-2aab-4e1a-9573-0d59e9cd7f8e
+  servername: falcunargo-channel.be3374a836.workers.Dev
+  tls: false
+  ws-opts:
+    headers:
+      Host: falcunargo-channel.be3374a836.workers.Dev
+    path: /?ed=2048
+- name: 巴西 003
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: eb201923-0e39-4425-bd0f-6244cd24ef2a
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: zaq11000d.b835a8094d.workers.dev
+    path: /?ed=2560
+- name: 美国 073
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: 03e4d6fe-f461-499f-b9c6-35c60f192e1a
+  servername: ppal03-ppal03.letiwe3303.workers.dev
+  tls: false
+  ws-opts:
+    headers:
+      Host: ppal03-ppal03.letiwe3303.workers.dev
+    path: /?ed=2560
+- alterId: 0
+  cipher: auto
+  name: 🏁RELAY-172.67.116.48-206_1@205
+  network: ws
+  port: 80
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 22a13aa2-4854-44cb-e090-ec71ab84b1ff
+  ws-headers:
+    Host: wap.hostmjj.com
+  ws-path: /
+- alterId: 0
+  cipher: auto
+  name: 🏁RELAY-104.21.82.39-217_1@216
+  network: ws
+  port: 2052
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 7a737f41-b792-4260-94ff-3d864da67b80
+  ws-headers:
+    Host: mahilu.site
+  ws-path: /
+- name: 美国 074
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: 2370f4d8-6694-4e51-8c72-b2782ae96a59
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: withered-wave-ee0b-ppal03.faxip46069.workers.dev
+    path: /?ed=2560
+- alterId: 0
+  cipher: auto
+  name: 🏁RELAY-172.67.132.44-222_1@221
+  network: ws
+  port: 443
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  ws-headers:
+    Host: nicola.pics
+  ws-path: /linkvws
+- alterId: 0
+  cipher: auto
+  name: 🏁RELAY-10.10.34.36-223_1@222
+  network: ws
+  port: 2086
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 7d93e992-48cf-42d4-84f8-75768e815a4c
+  ws-headers:
+    Host: admin.arzonhost.ir
+  ws-path: /
+- alterId: 0
+  cipher: auto
+  name: 🏁RELAY-162.159.137.249-224_1@223
+  network: ws
+  port: 8080
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 028c8131-9e3e-4836-94ac-ea7f24d4d05a
+  ws-headers:
+    Host: nest-emily-healing-h.trycloudflare.com
+  ws-path: 028c8131-9e3e-4836-94ac-ea7f24d4d05a-vm
+- alterId: 0
+  cipher: auto
+  name: 🇸🇬SG-146.190.87.238-227_1@226
+  network: ws
+  port: 19193
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 0f94fdae-5653-4314-9c92-e57e5ec55513
+  ws-headers:
+    Host: 146.190.87.238
+  ws-path: /ow
+- alterId: 0
+  cipher: auto
+  name: 🇧🇬BG-5.101.219.5-228_1@227
+  network: ws
+  port: 80
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: a9c33d66-e66f-4a53-9ef0-3f6c52c8d091
+  ws-headers:
+    Host: tasnim.servecounterstrike.com
+  ws-path: /@forwardv2ray
+- alterId: 0
+  cipher: auto
+  name: 🏁RELAY-104.21.20.16-230_1@229
+  network: ws
+  port: 80
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: c9e99213-170b-458a-b45b-79454ac7cf4b
+  ws-headers:
+    Host: fi2-vmess.sshmax.xyz
+  ws-path: /
+- name: 美国 075
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: d4eddaf9-a660-4905-b835-cad98677b380
+  servername: little-bird-a235-ppal03.fosawaw121.workers.dev
+  tls: false
+  ws-opts:
+    headers:
+      Host: little-bird-a235-ppal03.fosawaw121.workers.dev
+    path: /?ed=2560
+- alterId: 0
+  cipher: auto
+  name: 美国 001_2@1
+  network: ws
+  port: 80
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  type: vmess
+  uuid: 4d68da82-e8d0-4eaa-aec9-0df4a23e1a04
+  ws-opts:
+    headers:
+      Host: de.sanfen002.top
+    path: /?ed=2048
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 加拿大 001_2@2
+  network: ws
+  port: 2082
+  server: ava.game.naver.com
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a
+  ws-opts:
+    headers:
+      Host: s1c.v2.v001sss.xyz
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 美国 003_2@4
+  network: ws
+  port: 8080
+  server: ava.game.naver.com
+  tls: false
+  type: vmess
+  uuid: 34c0bb5e-c120-432d-9c58-bd7d82c7397b
+  ws-opts:
+    headers:
+      Host: uh-lawyers-instruments-kernel.trycloudflare.com
+    path: 34c0bb5e-c120-432d-9c58-bd7d82c7397b-vm
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 加拿大 003_2@6
+  network: ws
+  port: 2086
+  server: ava.game.naver.com
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 7d93e992-48cf-42d4-84f8-75768e815a4c
+  ws-opts:
+    headers:
+      Host: admin.arzonhost.ir
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 005_2@9
+  network: ws
+  port: 2052
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: d4a530d5-9755-4ff9-a9ed-5a058cf0038b
+  ws-opts:
+    headers:
+      Host: tw1bQiWSE4x.fzbqfrse.xyz
+    path: /video/GQ2qE5Us9g
+- alterId: 0
+  cipher: auto
+  name: 加拿大 006_2@10
+  network: ws
+  port: 2082
+  server: ava.game.naver.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: d4a530d5-9755-4ff9-a9ed-5a058cf0038b
+  ws-opts:
+    headers:
+      Host: us4Bb5oSgJA.fzbqfrse.xyz
+    path: /video/CuTy87zAzV/
+- name: 美国 078
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: 6ff4726f-3650-4803-95eb-50b240f6ac75
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: red-math-7092-ppal03.mewoco2522.workers.dev
+    path: /?ed=2560
+- alterId: 0
+  cipher: auto
+  country: US
+  h2-opts: {}
+  http-opts: {}
+  name: 美国 005_2@12
+  network: ws
+  port: 2053
+  server: ava.game.naver.com
+  servername: v2ray.ibgfw.top
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 5a5aadc2-8834-4e7b-895b-74ad155fbf24
+  ws-opts:
+    headers:
+      HOST: v2ray.ibgfw.top
+    path: /vVNUJOgb/
+- alterId: 0
+  cipher: auto
+  name: 美国 006_2@14
+  network: ws
+  port: 2082
+  server: ava.game.naver.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: d4a530d5-9755-4ff9-a9ed-5a058cf0038b
+  ws-opts:
+    headers:
+      Host: us4Bb5oSgJA.fzbqfrse.xyz
+    path: /video/CuTy87zAzV/
+- alterId: 0
+  cipher: auto
+  name: 美国 007_2@15
+  network: ws
+  port: 2083
+  server: ava.game.naver.com
+  servername: data-hk-2.cn-db.top
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 4f574408-dfef-338a-a7d9-f7d1e70ff8d9
+  ws-opts:
+    headers:
+      Host: data-hk-2.cn-db.top
+    path: /db00
+- alterId: 0
+  cipher: auto
+  name: 美国 008_2@16
+  network: ws
+  port: 2083
+  server: ava.game.naver.com
+  servername: cache-hk-2.cn-db.top
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 4f574408-dfef-338a-a7d9-f7d1e70ff8d9
+  ws-opts:
+    headers:
+      Host: cache-hk-2.cn-db.top
+    path: /db00
+- alterId: 0
+  cipher: auto
+  name: 美国 009_2@17
+  network: ws
+  port: 2053
+  server: ava.game.naver.com
+  servername: cache-hk-1.cn-db.top
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 4f574408-dfef-338a-a7d9-f7d1e70ff8d9
+  ws-opts:
+    headers:
+      Host: cache-hk-1.cn-db.top
+    path: /db00
+- alterId: 0
+  cipher: auto
+  name: 美国 010_2@18
+  network: ws
+  port: 2083
+  server: ava.game.naver.com
+  servername: data-hk-3.cn-db.top
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 4f574408-dfef-338a-a7d9-f7d1e70ff8d9
+  ws-opts:
+    headers:
+      Host: data-hk-3.cn-db.top
+    path: /db00
+- alterId: 0
+  cipher: auto
+  name: 美国 011_2@19
+  network: ws
+  port: 443
+  server: ava.game.naver.com
+  servername: cache-hk-2.cn-db.top
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 4f574408-dfef-338a-a7d9-f7d1e70ff8d9
+  ws-opts:
+    headers:
+      Host: cache-hk-2.cn-db.top
+    path: /db00
+- alterId: 0
+  cipher: auto
+  name: 美国 012_2@20
+  network: ws
+  port: 2053
+  server: ava.game.naver.com
+  servername: cache-hk-1.cn-db.top
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 4f574408-dfef-338a-a7d9-f7d1e70ff8d9
+  ws-opts:
+    headers:
+      Host: cache-hk-1.cn-db.top
+    path: /db00
+- alterId: 0
+  cipher: auto
+  name: 美国 013_2@21
+  network: ws
+  port: 2053
+  server: ava.game.naver.com
+  servername: data-hk-1.cn-db.top
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 4f574408-dfef-338a-a7d9-f7d1e70ff8d9
+  ws-opts:
+    headers:
+      Host: data-hk-1.cn-db.top
+    path: /db00
+- name: 美国 010
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  servername: redw.pooriam.ir
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: redw.pooriam.ir
+    path: /LwW5jwrnymnOdqki?ed=2560
+- alterId: 0
+  cipher: auto
+  name: 美国 015_2@24
+  network: ws
+  port: 80
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 5f3d1958-40e7-4c3b-888c-790205b49d9d
+  ws-opts:
+    headers:
+      host: 129.153.126.128
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 美国 016_2@25
+  network: ws
+  port: 443
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 73dfe5b1-9ced-4be7-949b-e731d54ba801
+  ws-opts:
+    headers:
+      host: laxfree.starsea.vip
+    path: /?ed=2048
+- alterId: 0
+  cipher: auto
+  name: 加拿大 008_2@29
+  network: ws
+  port: 443
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 93ea486a-bada-42a4-ac38-d088b320fa1e
+  ws-opts:
+    headers:
+      Host: xmivideo.cfd
+    path: /linkws
+- alterId: 0
+  cipher: auto
+  name: 加拿大 009_2@30
+  network: ws
+  port: 2095
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  type: vmess
+  uuid: 7a737f41-b792-4260-94ff-3d864da67b80
+  ws-opts:
+    headers:
+      Host: onea.flha.ru
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 伯利兹 001_2@31
+  network: ws
+  port: 443
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 5f64fa65-7b14-49c5-954d-aa15c6bfcacd
+  ws-opts:
+    headers:
+      Host: clash6.ssr-free.xyz
+    path: /dongtaiwang.com
+- alterId: 0
+  cipher: auto
+  name: 美国 019_2@32
+  network: ws
+  port: 443
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 40d496a6-ceeb-4096-baeb-4cc52b205621
+  ws-opts:
+    headers:
+      Host: lg1.trump2023.us
+    path: /ECTCJ0DF
+- alterId: 0
+  cipher: auto
+  name: 伯利兹 002_2@33
+  network: ws
+  port: 443
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  ws-opts:
+    headers:
+      Host: oplg1.cfcdn2.xyz
+    path: /AUIKN8AU
+- name: 美国 011
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: b550a101-63fe-4862-bfd3-8b87bb4168dd
+  servername: flat-bread-ddb6-ppal03.joriy39169.workers.dev
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: flat-bread-ddb6-ppal03.joriy39169.workers.dev
+    path: /?ed=2560
+- alterId: 0
+  cipher: auto
+  name: 伯利兹 003_2@34
+  network: ws
+  port: 443
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  ws-opts:
+    headers:
+      Host: oplg1.cfcdn2.xyz
+    path: /AUIKN8AU
+- alterId: 0
+  cipher: auto
+  name: 伯利兹 004_2@35
+  network: ws
+  port: 443
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  ws-opts:
+    headers:
+      Host: oplg1.cfcdn2.xyz
+    path: /AUIKN8AU
+- alterId: 0
+  cipher: auto
+  name: 伯利兹 005_2@36
+  network: ws
+  port: 443
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  ws-opts:
+    headers:
+      Host: oplg1.cfcdn2.xyz
+    path: /AUIKN8AU
+- alterId: 0
+  cipher: auto
+  name: 哥斯达黎加 001_2@37
+  network: ws
+  port: 443
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958
+  ws-opts:
+    headers:
+      Host: oplg1.zhujicn2.com
+    path: /5QNROSRV
+- alterId: 0
+  cipher: auto
+  name: 伯利兹 006_2@38
+  network: ws
+  port: 443
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  ws-opts:
+    headers:
+      Host: oplg1.cfcdn2.xyz
+    path: /AUIKN8AU
+- alterId: 0
+  cipher: auto
+  name: 伯利兹 007_2@39
+  network: ws
+  port: 443
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 40d496a6-ceeb-4096-baeb-4cc52b205621
+  ws-opts:
+    headers:
+      Host: lg1.trump2023.us
+    path: /ECTCJ0DF
+- alterId: 0
+  cipher: auto
+  name: 英国 001_2@40
+  network: ws
+  port: 443
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 17b2a313-37a0-4945-a8e4-e63375506b4a
+  ws-opts:
+    headers:
+      Host: lg10.cfcdn1.xyz
+    path: /A2DJOPFT
+- alterId: 0
+  cipher: auto
+  name: 伯利兹 008_2@41
+  network: ws
+  port: 443
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 17b2a313-37a0-4945-a8e4-e63375506b4a
+  ws-opts:
+    headers:
+      Host: lg10.cfcdn1.xyz
+    path: /A2DJOPFT
+- alterId: 0
+  cipher: auto
+  name: 伯利兹 009_2@42
+  network: ws
+  port: 443
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  ws-opts:
+    headers:
+      Host: oplg1.cfcdn2.xyz
+    path: /AUIKN8AU
+- alterId: 0
+  cipher: auto
+  name: 美国 020_2@43
+  network: ws
+  port: 443
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  ws-opts:
+    headers:
+      Host: oplg1.cfcdn2.xyz
+    path: /AUIKN8AU
+- name: 美国 019
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: a.xn--i-sx6a60i.us.kg.
+    path: /t.mevpnAndroid2/?ed=2560
+- alterId: 0
+  cipher: auto
+  name: 美国 021_2@44
+  network: ws
+  port: 443
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  ws-opts:
+    headers:
+      Host: oplg1.cfcdn2.xyz
+    path: /AUIKN8AU
+- alterId: 0
+  cipher: auto
+  name: 美国 022_2@45
+  network: ws
+  port: 443
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  ws-opts:
+    headers:
+      Host: oplg1.cfcdn2.xyz
+    path: /AUIKN8AU
+- alterId: 0
+  cipher: auto
+  name: 加拿大 010_2@46
+  network: ws
+  port: 443
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  ws-opts:
+    headers:
+      Host: oplg1.cfcdn2.xyz
+    path: /AUIKN8AU
+- alterId: 0
+  cipher: auto
+  name: 美国 023_2@47
+  network: ws
+  port: 443
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  ws-opts:
+    headers:
+      Host: oplg1.cfcdn2.xyz
+    path: /AUIKN8AU
+- alterId: 0
+  cipher: auto
+  name: 伯利兹 010_2@48
+  network: ws
+  port: 443
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 17b2a313-37a0-4945-a8e4-e63375506b4a
+  ws-opts:
+    headers:
+      Host: lg10.cfcdn1.xyz
+    path: /A2DJOPFT
+- alterId: 0
+  cipher: auto
+  name: 美国 024_2@49
+  network: ws
+  port: 443
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  ws-opts:
+    headers:
+      Host: oplg1.cfcdn2.xyz
+    path: /AUIKN8AU
+- alterId: 0
+  cipher: auto
+  name: 加拿大 011_2@50
+  network: ws
+  port: 443
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  ws-opts:
+    headers:
+      Host: oplg1.cfcdn2.xyz
+    path: /AUIKN8AU
+- alterId: 0
+  cipher: auto
+  name: 伯利兹 011_2@51
+  network: ws
+  port: 443
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7
+  ws-opts:
+    headers:
+      Host: oplg1.cfcdn2.xyz
+    path: /AUIKN8AU
+- alterId: 0
+  cipher: auto
+  name: 伯利兹 012_2@52
+  network: ws
+  port: 443
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958
+  ws-opts:
+    headers:
+      Host: oplg1.zhujicn2.com
+    path: /5QNROSRV
+- alterId: 0
+  cipher: auto
+  name: 加拿大 012_2@53
+  network: ws
+  port: 443
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 4612618c-24cd-4379-9924-cfdf3d61fa5a
+  ws-opts:
+    headers:
+      Host: opfr1.v2rayfree1.xyz
+    path: /IYKLD53M
+- name: 荷兰 003
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: e497da22-d020-40fb-a1fa-bc294066a2d2
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: pormang.webhost99.workers.dev
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 013_2@54
+  network: ws
+  port: 2053
+  server: ava.game.naver.com
+  servername: data-hk-3.cn-db.top
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 4f574408-dfef-338a-a7d9-f7d1e70ff8d9
+  ws-opts:
+    headers:
+      Host: data-hk-3.cn-db.top
+    path: /db00
+- alterId: 0
+  cipher: auto
+  name: 加拿大 014_2@55
+  network: ws
+  port: 2083
+  server: ava.game.naver.com
+  servername: cache-hk-2.cn-db.top
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 4f574408-dfef-338a-a7d9-f7d1e70ff8d9
+  ws-opts:
+    headers:
+      Host: cache-hk-2.cn-db.top
+    path: /db00
+- alterId: 0
+  cipher: auto
+  name: 加拿大 015_2@56
+  network: ws
+  port: 2083
+  server: ava.game.naver.com
+  servername: cache-hk-1.cn-db.top
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 4f574408-dfef-338a-a7d9-f7d1e70ff8d9
+  ws-opts:
+    headers:
+      Host: cache-hk-1.cn-db.top
+    path: /db00
+- alterId: 0
+  cipher: auto
+  name: 加拿大 016_2@57
+  network: ws
+  port: 2053
+  server: ava.game.naver.com
+  servername: data-hk-1.cn-db.top
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 4f574408-dfef-338a-a7d9-f7d1e70ff8d9
+  ws-opts:
+    headers:
+      Host: data-hk-1.cn-db.top
+    path: /db00
+- alterId: 0
+  cipher: auto
+  name: 加拿大 018_2@60
+  network: ws
+  port: 8880
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  type: vmess
+  uuid: 4c7f5fba-acbf-409f-81ce-cfc3b11388d8
+  ws-opts:
+    headers:
+      Host: us-01.snangua.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 019_2@61
+  network: ws
+  port: 8880
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  type: vmess
+  uuid: 4c7f5fba-acbf-409f-81ce-cfc3b11388d8
+  ws-opts:
+    headers:
+      Host: us-01.snangua.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 020_2@62
+  network: ws
+  port: 8880
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  type: vmess
+  uuid: 4c7f5fba-acbf-409f-81ce-cfc3b11388d8
+  ws-opts:
+    headers:
+      Host: jp-01.snangua.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 021_2@63
+  network: ws
+  port: 8880
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  type: vmess
+  uuid: 4c7f5fba-acbf-409f-81ce-cfc3b11388d8
+  ws-opts:
+    headers:
+      Host: au-01.snangua.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 022_2@64
+  network: ws
+  port: 8880
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  type: vmess
+  uuid: 4c7f5fba-acbf-409f-81ce-cfc3b11388d8
+  ws-opts:
+    headers:
+      Host: fr-01.snangua.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 新加坡 001_2@65
+  network: ws
+  port: 80
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: f01b1bc9-48d2-47cb-987f-b1e814df1448
+  ws-opts:
+    headers:
+      Host: sg1.pkyun.website
+    path: /sg1
+- name: 美国 025
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: e497da22-d020-40fb-a1fa-bc294066a2d2
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: pormang.webhost99.workers.dev
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 加拿大 023_2@66
+  network: ws
+  port: 443
+  server: ava.game.naver.com
+  servername: data-hk-3.cn-db.top
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 4f574408-dfef-338a-a7d9-f7d1e70ff8d9
+  ws-opts:
+    headers:
+      Host: data-hk-3.cn-db.top
+    path: /db00
+- alterId: 0
+  cipher: auto
+  name: 加拿大 024_2@67
+  network: ws
+  port: 2053
+  server: ava.game.naver.com
+  servername: cache-hk-2.cn-db.top
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 4f574408-dfef-338a-a7d9-f7d1e70ff8d9
+  ws-opts:
+    headers:
+      Host: cache-hk-2.cn-db.top
+    path: /db00
+- alterId: 0
+  cipher: auto
+  name: 加拿大 025_2@68
+  network: ws
+  port: 2083
+  server: ava.game.naver.com
+  servername: cache-hk-1.cn-db.top
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 4f574408-dfef-338a-a7d9-f7d1e70ff8d9
+  ws-opts:
+    headers:
+      Host: cache-hk-1.cn-db.top
+    path: /db00
+- alterId: 0
+  cipher: auto
+  name: 加拿大 026_2@69
+  network: ws
+  port: 2083
+  server: ava.game.naver.com
+  servername: data-hk-1.cn-db.top
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 4f574408-dfef-338a-a7d9-f7d1e70ff8d9
+  ws-opts:
+    headers:
+      Host: data-hk-1.cn-db.top
+    path: /db00
+- alterId: 0
+  cipher: auto
+  name: 加拿大 027_2@70
+  network: ws
+  port: 80
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 6f7b474f-5d88-49f2-82a1-fb5abf3ec621
+  ws-opts:
+    headers:
+      host: 10gus.sanfen002.top
+    path: /?ed
+- alterId: 0
+  cipher: auto
+  name: 美国 025_2@71
+  network: ws
+  port: 443
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 5840ab2d-ab59-4eb0-9dea-122d0fbbd2d9
+  ws-opts:
+    headers:
+      Host: support.zoom.us.vmess.totonegoro.my.id
+    path: /cfhk.393930.xyz:4431/
+- alterId: 0
+  cipher: auto
+  name: 加拿大 028_2@72
+  network: ws
+  port: 2082
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  type: vmess
+  uuid: d4a530d5-9755-4ff9-a9ed-5a058cf0038b
+  ws-opts:
+    headers:
+      Host: us4Bb5oSgJA.fzbqfrse.xyz
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸_US_美国->🇬🇧_GB_英国_1_5@5
+  network: ws
+  port: 8880
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 0d1bf26a-ce97-4707-a270-7f4d2ae37334
+  ws-opts:
+    headers:
+      host: cdn.vds-server.ir
+    path: /
+- name: 美国 029
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: e497da22-d020-40fb-a1fa-bc294066a2d2
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: pormang.webhost99.workers.dev
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 🇦🇪_AE_阿联酋->🇬🇧_GB_英国_5@6
+  network: ws
+  port: 8880
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 0d1bf26a-ce97-4707-a270-7f4d2ae37334
+  ws-opts:
+    headers:
+      host: food.zhaal.ir
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 🇨🇦_CA_加拿大->🇺🇸_US_美国_2_5@10
+  network: ws
+  port: 8080
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 34c0bb5e-c120-432d-9c58-bd7d82c7397b
+  ws-opts:
+    headers:
+      host: uh-lawyers-instruments-kernel.trycloudflare.com
+    path: 34c0bb5e-c120-432d-9c58-bd7d82c7397b-vm
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸_US_美国->🇭🇰_HK_香港_1_5@15
+  network: ws
+  port: 2052
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 7a737f41-b792-4260-94ff-3d864da67b80
+  ws-opts:
+    headers:
+      host: mahilu.site
+    path: /
+- name: 🇺🇸_US_美国_8_5@18
+  network: ws
+  password: 559c3b5f-3dd1-47e4-94ad-017cb392a7ba
+  port: 443
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  sni: de1.trojanvpn.de
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      host: de1.trojanvpn.dE
+    path: /path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸_US_美国_9_5@19
+  network: ws
+  port: 8080
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: bd8c41a8-7598-4c28-9965-522545e14892
+  ws-opts:
+    headers:
+      host: ssrsub.v03.ssrsub.com
+    path: /api/v3/download.getFile
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸_US_美国_10_5@21
+  network: ws
+  port: 8880
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 4b5e4565-322f-4223-a891-78a84f189726
+  ws-opts:
+    headers:
+      host: us-ccs.yuji2022.eu.org
+    path: /XSjeg73o6ZdsheahCb5JG
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸_US_美国->🇭🇰_HK_香港_3_5@22
+  network: ws
+  port: 2095
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 7a737f41-b792-4260-94ff-3d864da67b80
+  ws-opts:
+    headers:
+      host: onea.flha.ru
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 🇨🇳_CN_中国->🇩🇪_DE_德国_5@23
+  network: ws
+  port: 46038
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 4a7929d8-f59e-4f37-9708-22027f210a07
+  ws-opts:
+    headers:
+      host: mf838f.micloud.buzz
+    path: /zh-cn
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸_US_美国_12_5@25
+  network: ws
+  port: 8080
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 82cb93a3-65a9-4dac-a2a7-d997b6c26d6a
+  ws-opts:
+    headers:
+      host: larger-marketing-amounts-skin.trycloudflare.com
+    path: 82cb93a3-65a9-4dac-a2a7-d997b6c26d6a-vm
+- name: 荷兰 013
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: e497da22-d020-40fb-a1fa-bc294066a2d2
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: pormang.webhost99.workers.dev
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸_US_美国->🇬🇧_GB_英国_2_5@26
+  network: ws
+  port: 2086
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: e690ff9e-1676-4be3-d136-dcae586cb1e7
+  ws-opts:
+    headers:
+      host: mizban.arzonhost.ir
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 🇳🇱_NL_荷兰_5@27
+  network: ws
+  port: 45015
+  server: ava.game.naver.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 21f54c15-c624-460a-d6f3-95bb2041ea4a
+  ws-opts:
+    path: /
+- name: 美国 077
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: redw.pooriam.ir
+    path: /
+- name: 美国 083
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: e497da22-d020-40fb-a1fa-bc294066a2d2
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: pormang.webhost99.workers.dev
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 🇯🇵 节点日期：04-02_8@0
+  network: ws
+  port: 2052
+  server: ava.game.naver.com
+  tls: false
+  type: vmess
+  uuid: d4a530d5-9755-4ff9-a9ed-5a058cf0038b
+  ws-opts:
+    headers:
+      Host: tw1bQiWSE4x.fzbqfrse.xyz
+    path: /video/GQ2qE5Us9g
+- alterId: 0
+  cipher: auto
+  name: 🇺🇲 美国【付费推荐：https://jdyvip.link/】48_8@1
+  network: ws
+  port: 8080
+  server: ava.game.naver.com
+  tls: false
+  type: vmess
+  uuid: ef8c954e-014f-4b36-8273-9b5086afab34
+  ws-opts:
+    headers:
+      Host: bibliographic-sword-sequence-advertisers.trycloudflare.com
+    path: ef8c954e-014f-4b36-8273-9b5086afab34-vm
+- alterId: 0
+  cipher: auto
+  name: 🇳🇱 荷兰【付费推荐：https://jdyvip.link/】14_8@4
+  network: ws
+  port: 443
+  server: ava.game.naver.com
+  tls: true
+  type: vmess
+  uuid: e4c7e0ce-ed93-40d9-8f38-90497cb83864
+  ws-opts:
+    headers:
+      Host: fi1.xv2ray.net
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 🇺🇲 美国【付费推荐：https://jdyvip.link/】49_8@5
+  network: ws
+  port: 8080
+  server: ava.game.naver.com
+  tls: false
+  type: vmess
+  uuid: aa1dbb68-bfb5-4484-f7e7-7335eac3988c
+  ws-opts:
+    headers:
+      Host: eu2.openxai.link
+    path: /?ed=2048
+- alterId: 0
+  cipher: auto
+  name: 🇺🇲 美国【付费推荐：https://jdyvip.link/】15_8@7
+  network: ws
+  port: 443
+  server: ava.game.naver.com
+  tls: true
+  type: vmess
+  uuid: 93ea486a-bada-42a4-ac38-d088b320fa1e
+  ws-opts:
+    headers:
+      Host: xmivideo.cfd
+    path: /linkws
+- alterId: 0
+  cipher: auto
+  name: 🇺🇲 美国【付费推荐：https://jdyvip.link/】23_8@8
+  network: ws
+  port: 2082
+  server: ava.game.naver.com
+  tls: false
+  type: vmess
+  uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a
+  ws-opts:
+    headers:
+      Host: s1c.v2.v001sss.xyz
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 🇺🇲 美国【付费推荐：https://jdyvip.link/】38_8@10
+  network: ws
+  port: 8080
+  server: ava.game.naver.com
+  tls: false
+  type: vmess
+  uuid: 9b196b50-37f2-4f4b-b175-06273adc6207
+  ws-opts:
+    headers:
+      Host: technological-mel-fill-decide.trycloudflare.com
+    path: 9b196b50-37f2-4f4b-b175-06273adc6207-vm
+- name: 美国 087
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: redw.pooriam.ir
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 🇻🇳 越南【付费推荐：https://jdyvip.link/】9_8@11
+  network: ws
+  port: 80
+  server: ava.game.naver.com
+  tls: false
+  type: vmess
+  uuid: 4e25f91f-603c-4e83-b002-c26030757816
+  ws-opts:
+    headers:
+      Host: max26.flash5g.com
+    path: /AnhBin
+- alterId: 0
+  cipher: auto
+  name: 🇺🇲 美国【付费推荐：https://jdyvip.link/】46_8@12
+  network: ws
+  port: 8080
+  server: ava.game.naver.com
+  tls: false
+  type: vmess
+  uuid: aa1dbb68-bfb5-4484-f7e7-7335eac3988c
+  ws-opts:
+    headers:
+      Host: eu2.openxai.link
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 🇺🇲 美国【付费推荐：https://jdyvip.link/】4_8@17
+  network: ws
+  port: 80
+  server: ava.game.naver.com
+  tls: false
+  type: vmess
+  uuid: bd8c41a8-7598-4c28-9965-522545e14892
+  ws-opts:
+    headers:
+      Host: ssrsub.v03.ssrsub.com
+    path: /api/v3/download.getFile
+- alterId: 0
+  cipher: auto
+  name: 🇺🇲 美国【付费推荐：https://jdyvip.link/】35_8@19
+  network: ws
+  port: 2095
+  server: ava.game.naver.com
+  tls: false
+  type: vmess
+  uuid: 7a737f41-b792-4260-94ff-3d864da67b80
+  ws-opts:
+    headers:
+      Host: jpc.flha.ru
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 🇺🇲 美国【付费推荐：https://jdyvip.link/】17_8@21
+  network: ws
+  port: 2052
+  server: ava.game.naver.com
+  tls: false
+  type: vmess
+  uuid: 7a737f41-b792-4260-94ff-3d864da67b80
+  ws-opts:
+    headers:
+      Host: mahilu.site
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 🇺🇲 美国【付费推荐：https://jdyvip.link/】42_8@22
+  network: ws
+  port: 8080
+  server: ava.game.naver.com
+  tls: false
+  type: vmess
+  uuid: d9c5ec6a-a8d8-4732-8447-56fbd2f93e96
+  ws-opts:
+    headers:
+      Host: pcs-referenced-camera-concerns.trycloudflare.com
+    path: d9c5ec6a-a8d8-4732-8447-56fbd2f93e96-vm
+- alterId: 0
+  cipher: auto
+  name: 🇺🇲 美国【付费推荐：https://jdyvip.link/】47_8@34
+  network: ws
+  port: 8080
+  server: ava.game.naver.com
+  tls: false
+  type: vmess
+  uuid: d9c5ec6a-a8d8-4732-8447-56fbd2f93e96
+  ws-opts:
+    headers:
+      Host: pcs-referenced-camera-concerns.trycloudflare.com
+    path: d9c5ec6a-a8d8-4732-8447-56fbd2f93e96-vm
+- name: 美国 093
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: a3875c94-e968-404c-b62d-5a292d20e6d8
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: polished-limit-deb9-ppal03.latopi8673.workers.dev
+    path: /?ed=2560
+- name: 美国 112
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: e497da22-d020-40fb-a1fa-bc294066a2d2
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: pormang.webhost99.workers.dev
+    path: /
+- name: 美国 122
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: e497da22-d020-40fb-a1fa-bc294066a2d2
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: pormang.webhost99.workers.dev
+    path: /
+- name: 美国 008
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: 5d8bc42a-d345-4bd3-a844-4b90afc44670
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: patient-shadow-baf1-ppal03.hohel98085.workers.dev
+    path: /?ed=2560
+- name: 荷兰 002
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: d6ff33a6-03bf-4338-8a63-62ab284a9466
+  servername: feng4.l1ut8bi9.workers.dev
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: feng4.l1ut8bi9.workers.dev
+    path: /Telegram
+- name: 美国 009
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: ca68a029-971c-4ea4-8c1d-411cb7adc474
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: patient-sunset-f000-ppal03.cijej53213.workers.dev
+    path: /?ed=2560
+- name: 美国 012
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: proud-queen-55500071.cexonoc962.workers.dev
+    path: /?ed=2560
+- name: 美国 021
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: a.mifeng.us.kg
+    path: /telegram-_-_-_-_-__-free_shekan-_-_-_-/?ed=2048
+- name: 美国 044
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  servername: '@V2ray_6_@V2ray_6_@40V2ray_6@V2ray_6_@V2ray_6_@40V2ray_6@40V2ray_6_@40V2ray_6_@40V2ray_6'
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: redw.pooriam.ir
+    path: /
+- name: 美国 067
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: 5335d16e-7e42-4c9b-93a3-9e83bfd3073d
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: workerr.johnstoner.workers.dev
+    path: /?ed=2048
+- name: 美国 068
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 8080
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: a.xn--i-sx6a60i.us.kg.
+    path: /
+- name: 美国 109
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 8880
+  uuid: 5faa94c6-ea27-4ea0-9e39-2de3d6ea9be1
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: channel-falcunargo.efa180b5d7.workers.Dev
+    path: /✦❰+𝗝𝗼𝗶𝗻+➪+
+- name: 美国 115
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: 65b3cbba-e6ac-485a-9481-976a0415eab9
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: bLue-sNoW-a243.GeleNE5962.wOrKeRS.dEV
+    path: /Fvy0Y7NJ7uucUDha?ed=2560
+- name: 美国 124
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: 19b3cbba-e6ac-485a-9481-926a0415eab2
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: sHrill-tErm-639b.TageLIT414.workeRs.dEv
+    path: /
+- name: 美国 138
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  servername: Join--E-L-i-V-2-R-A-Y.net
+  skip-cert-verify: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: Join--E-L-i-V-2-R-A-Y.net
+    path: /channel,ELiV2RAY-channel,ELiV2RAY-channel,ELiV2RAY?ed
+- name: 美国 140
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 8080
+  uuid: 9f0eae34-97c1-4c07-8a55-438379981334
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: snowy-bush-4df8-ppal03.toxebex651.workers.dev
+    path: /
+- name: 美国 145
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: 2370f4d8-6694-4e51-8c72-b2782ae96a59
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: withered-wave-ee0b-ppal03.faxip46069.workers.dev
+    path: /?ed=2560
+- name: 美国 149
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  servername: Join--E-L-i-V-2-R-A-Y.net
+  skip-cert-verify: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: Join--E-L-i-V-2-R-A-Y.net
+    path: /channel,ELiV2RAY-channel,ELiV2RAY-channel,ELiV2RAY?ed
+- name: 美国 150
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: f86586c2-3a4c-49c9-83ec-5ae43786d4f7
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: dark-bonus-0f2f-ppal03.yapeyef825.workers.dev
+    path: /Telegram
+- name: 美国 151
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: ec1bb388-649c-4deb-9eb1-a096b784e0d3
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: round-truth-4e97-ppal03.vegasow726.workers.dev
+    path: /telegram
+- name: 美国 152
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 8880
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: redw.pooriam.ir
+    path: /
+- name: 美国 158
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: 9f0eae34-97c1-4c07-8a55-438379981334
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: snowy-bush-4df8-ppal03.toxebex651.workers.dev
+    path: /?ed=2560
+- name: 美国 159
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 8880
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: redw.pooriam.ir
+    path: /
+- name: 美国 166
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 8880
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: redw.pooriam.ir
+    path: /
+- name: 美国 169
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: e497da22-d020-40fb-a1fa-bc294066a2d2
+  servername: pormang.webhost99.workers.dev
+  skip-cert-verify: false
+  ws-opts:
+    headers:
+      Host: pormang.webhost99.workers.dev
+    path: /
+- name: 荷兰 016
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 2052
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: redw.pooriam.ir
+    path: /TABRIZ.NET
+- name: 日本 006
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 2095
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: redw.pooriam.ir
+    path: /TM-AZARBAYJAB1TM-AZARBAYJAB1TM-AZARBAYJAB1
+- name: 日本 007
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 2052
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: redw.pooriam.ir
+    path: /TM-AZARBAYJAB1TM-AZARBAYJAB1TM-AZARBAYJAB1
+- name: 美国 179
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: 42f36835-730c-4ecc-9daf-20121ae7ba47
+  servername: gozargah.validbv7996.ir
+  skip-cert-verify: false
+  tls: false
+  client-fingerprint: chrome
+  ws-opts:
+    headers:
+      Host: gozargah.validbv7996.ir
+    path: /---
+- name: 荷兰 017
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 8080
+  uuid: e497da22-d020-40fb-a1fa-bc294066a2d2
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: pormang.webhost99.workers.dev
+    path: /gh+repo+clone+2dust+
+- name: 美国 182
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 443
+  uuid: dd0d29f2-c6fd-4518-bed6-618ef8b12e86
+  servername: usb.sevco.me
+  tls: true
+  udp: true
+  delay: 1273
+  ws-opts:
+    headers:
+      Host: usb.sevco.me
+    path: /bing
+- name: 美国 183
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 2052
+  uuid: dfc1a9ab-6241-4b73-92f7-b299fc6b7751
+  servername: Yak-Khanda-kUn-eY-gUL.biNG.com.xn--cR8HaaaAaAAAaAaaAaAaAAaAAaaaAAAAAaAaaAaaaAaaaaAAaaAAAaaaaAa.xN--Cr8hAaAaaAaaAAAAAAaaaAAAaAAaaAaAaAAAAAA.TREPAspeEdTEsT.NEtrag.cOm.PX.Com.sh017.IR.XN--Cr8hAaaAaaAaaAaaaAAAaaaAaaAaaaAaAAAaaaA.yek.dDnS-ip.nEt
+  tls: false
+  udp: true
+  delay: 1276
+  ws-opts:
+    headers:
+      Host: Yak-Khanda-kUn-eY-gUL.biNG.com.xn--cR8HaaaAaAAAaAaaAaAaAAaAAaaaAAAAAaAaaAaaaAaaaaAAaaAAAaaaaAa.xN--Cr8hAaAaaAaaAAAAAAaaaAAAaAAaaAaAaAAAAAA.TREPAspeEdTEsT.NEtrag.cOm.PX.Com.sh017.IR.XN--Cr8hAaaAaaAaaAaaaAAAaaaAaaAaaaAaAAAaaaA.yek.dDnS-ip.nEt
+    path: /?ed=1080
+- name: 美国 013
+  type: vmess
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: 6e3ac406-a15b-461d-8b05-ca01b284d9a0
+  skip-cert-verify: true
+  tls: false
+  udp: true
+  tfo: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: telegram-isvvpn.dev
+    path: /racevpn
+- name: 美国 014
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 2052
+  uuid: 42f36835-730c-4ecc-9daf-20121ae7ba47
+  servername: gozargah.validbv7996.ir
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: gozargah.validbv7996.ir
+    path: /---
+- name: 印度 001
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 2052
+  uuid: 0c319c06-c493-5cef-9fa1-765ddcc37e8c
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: sPeedtest2.sbs.us2.v2vless.sitespeedtest.net
+    path: /vless#
+- name: 美国 030
+  type: vmess
+  network: ws
+  server: ava.game.naver.com
+  port: 443
+  uuid: de94cc0a-0592-4969-b1fc-97ea8f0ea0b3
+  servername: us.kkp.me.eu.org
+  skip-cert-verify: true
+  tls: true
+  alterId: 0
+  cipher: auto
+  delay: 2889
+  ws-opts:
+    headers:
+      Host: us.kkp.me.eu.org
+    path: /aa
+- name: 美国 016
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 2095
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: fuckingxijinping.xijinpingbigsb.workers.dev
+    path: /?ed=2560
+- name: 美国 031
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: 7fea28c6-f9b0-45ce-b7c2-ed3a3991d1e8
+  skip-cert-verify: false
+  tls: false
+  ws-opts:
+    headers:
+      Host: curly-waterfall-509e-ppal03.wimiba9167.workers.dev
+    path: /?ed=2560
+- name: 美国 048
+  type: vmess
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: 4bf074f4-7e9c-4e4b-a10d-156e26199729
+  skip-cert-verify: false
+  tls: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: us03s.5d8ecf82.cfd
+    path: /
+- name: 美国 076
+  type: vmess
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: 4bf074f4-7e9c-4e4b-a10d-156e26199729
+  skip-cert-verify: false
+  tls: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: us03s.5d8ecf82.cfd
+    path: /
+- name: 美国 092
+  type: vmess
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: 7dc78582-88a8-4b4c-9e3e-50831d672766
+  sni: ''
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: amd.al
+    path: /XESALISTHEBEST?ed=2048
+- name: 美国 015
+  type: vmess
+  network: ws
+  server: ava.game.naver.com
+  port: 80
+  uuid: 7dc78582-88a8-4b4c-9e3e-50831d672766
+  skip-cert-verify: true
+  tls: false
+  udp: true
+  tfo: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: amd.al
+    path: /XESALISTHEBEST?ed=2048
+- name: 美国 017
+  type: vmess
+  network: ws
+  server: ava.game.naver.com
+  port: 2052
+  uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d
+  servername: 100-151-164-47.s1.db-link01.top
+  skip-cert-verify: true
+  alterId: 0
+  cipher: auto
+  delay: 1166
+  ws-opts:
+    headers:
+      Host: 100-151-164-47.s1.db-link01.top
+    path: /dabai.in172.67.2.142
+- name: 美国 018
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 2083
+  uuid: 846c2b6d-45ee-4549-b6c2-240fb830a4f9
+  servername: bEAt.MIRaclETaxbiTS.Top.
+  tls: true
+  client-fingerprint: chrome
+  delay: 2653
+  ws-opts:
+    headers:
+      Host: bEAt.MIRaclETaxbiTS.Top.
+    path: /2083/
+- name: 美国 020
+  type: vmess
+  network: ws
+  server: ava.game.naver.com
+  port: 2052
+  uuid: 8088e23c-2332-4422-c754-927729c568bd
+  udp: true
+  sni: ''
+  alterId: 0
+  cipher: auto
+  fingerprint: ''
+  ip-version: dual
+  ws-opts:
+    headers:
+      Host: Freedomisnear.onetwothree123.ir
+    path: /mehdi
+- name: 美国 022
+  type: vmess
+  network: ws
+  server: ava.game.naver.com
+  port: 8080
+  uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d
+  skip-cert-verify: false
+  tls: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: 100-119-215-158.s3.cn-db.top
+    path: /
+- name: 美国 023
+  type: vmess
+  network: ws
+  server: ava.game.naver.com
+  port: 8880
+  uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d
+  skip-cert-verify: true
+  tls: false
+  udp: true
+  tfo: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: 100-128-12-180.s4.db-link02.top
+    path: /dabai.in104.25.239.131
+- name: 美国 024
+  type: trojan
+  network: ws
+  server: ava.game.naver.com
+  port: 8443
+  password: 8r%3C%5B9%27l6hAO%238ZQi
+  skip-cert-verify: true
+  udp: true
+  tfo: false
+  sni: Koma-YT.PAGeS.Dev
+  ws-opts:
+    headers:
+      Host: Koma-YT.PAGeS.Dev
+    path: /tro8sFW1S91B6sZrM1?ed=2560
+- name: 美国 026
+  type: vmess
+  network: ws
+  server: ava.game.naver.com
+  port: 8080
+  uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d
+  skip-cert-verify: true
+  tls: false
+  udp: true
+  tfo: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: 100-149-191-2.s5.db-link02.top
+    path: /dabai.in104.20.16.209
+- name: 美国 027
+  type: trojan
+  network: ws
+  server: ava.game.naver.com
+  port: 2053
+  password: T%40_WvT8Ho%40LW%25w_%2C
+  skip-cert-verify: true
+  udp: true
+  tfo: false
+  sni: NOp-55q.pAgEs.dEv
+  ws-opts:
+    headers:
+      Host: NOp-55q.pAgEs.dEv
+    path: /trGPZDfetEwuO25SAs?ed=2560
+- name: 美国 032
+  type: vmess
+  network: ws
+  server: ava.game.naver.com
+  port: 2086
+  uuid: 4b36625c-b9d9-3ea6-aed5-86d62c70e16d
+  skip-cert-verify: false
+  tls: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: 100-47-154-9.s1.cn-db.top
+    path: /
+- name: 美国 033
+  type: vmess
+  network: ws
+  server: ava.game.naver.com
+  port: 443
+  uuid: 5f726fe3-d82e-4da5-a711-8af0cbb2b682
+  servername: 1a2d514b-37cf-499f-8d08-d017a92ab5bb.asoul-ava.top
+  skip-cert-verify: false
+  tls: true
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: 1a2d514b-37cf-499f-8d08-d017a92ab5bb.asoul-ava.top
+    path: /
+- name: 俄罗斯 002
+  type: vmess
+  network: ws
+  server: ava.game.naver.com
+  port: 8443
+  uuid: 191babc5-2aaf-4fe5-a563-f14244aefb4e
+  skip-cert-verify: true
+  tls: true
+  udp: true
+  tfo: false
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: lax1.ibgfw.top
+    path: /xrenvws
+- name: 加拿大 005
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 443
+  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
+  servername: c01.ylkszy.eu.org
+  skip-cert-verify: true
+  tls: true
+  udp: true
+  delay: 1303
+  ws-opts:
+    headers:
+      Host: c01.ylkszy.eu.org
+    path: /?ed=2560
+- name: 新加坡 001
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 8192
+  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
+  servername: c01.ylkszy.eu.org
+  skip-cert-verify: true
+  tls: true
+  udp: true
+  delay: 681
+  ws-opts:
+    headers:
+      Host: c01.ylkszy.eu.org
+    path: /?ed=2560
+- name: 美国 035
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 8443
+  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
+  servername: c01.ylkszy.eu.org
+  skip-cert-verify: true
+  tls: true
+  udp: true
+  delay: 1319
+  ws-opts:
+    headers:
+      Host: c01.ylkszy.eu.org
+    path: /?ed=2560
+- name: 阿联酋 001
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 443
+  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
+  servername: c01.ylkszy.eu.org
+  skip-cert-verify: true
+  tls: true
+  udp: true
+  delay: 2647
+  ws-opts:
+    headers:
+      Host: c01.ylkszy.eu.org
+    path: /?ed=2560
+- name: 美国 037
+  type: vless
+  network: ws
+  server: ava.game.naver.com
+  port: 443
+  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
+  servername: c01.ylkszy.eu.org
+  skip-cert-verify: true
+  tls: true
+  udp: true
+  delay: 1570
+  ws-opts:
+    headers:
+      Host: c01.ylkszy.eu.org
+    path: /?ed=2560
+- name: 新加坡 002
+  type: vmess
+  network: ws
+  server: ava.game.naver.com
+  port: 33443
+  uuid: b71f9e84-86c9-49c4-b5f4-b33b35ee7410
+  skip-cert-verify: true
+  tls: true
+  udp: true
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: tls.05.node-for-bigairport.win
+    path: /
+- name: 美国 038
+  type: vmess
+  network: ws
+  server: ava.game.naver.com
+  port: 443
+  uuid: 56b915c0-bdf8-4749-ab55-b44d0469e46d
+  tls: false
+  udp: true
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: go.daluquan.top
+    path: /
+- name: 美国 039
+  type: vmess
+  network: ws
+  server: ava.game.naver.com
+  port: 2096
+  uuid: b3928f8d-ea81-4d75-bcec-4016a072adff
+  servername: de01.sh-cloudflare.sbs
+  tls: true
+  udp: true
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: de01.sh-cloudflare.sbs
+    path: /
+- name: 英国 002
+  type: vmess
+  network: ws
+  server: ava.game.naver.com
+  port: 23451
+  uuid: 4e309c18-ee5f-45f3-8f28-66467d1e0c4f
+  tls: false
+  udp: true
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: us-new03.daluquan.top
+    path: /itdog?ed=2560
+- name: 哥斯达黎加 001
+  type: vmess
+  network: ws
+  server: ava.game.naver.com
+  port: 8443
+  uuid: a9326a5a-b890-46e3-bd3d-a4f9d5082323
+  tls: true
+  udp: true
+  alterId: 0
+  cipher: auto
+  ws-opts:
+    headers:
+      Host: br3.vp1000.net
+    path: /pulicpDisney
