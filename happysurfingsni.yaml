@@ -1,0 +1,274 @@
+###
+
+
+
+ipv6: false
+log-level: silent
+unified-delay: true
+dns:
+  enable: true
+  ipv6: false
+  nameserver:
+  - 8.8.8.8
+  - 8.8.4.4
+  default-nameserver:
+  - 8.8.8.8
+  - 8.8.4.4
+
+
+
+proxy-providers:
+##########################################
+  Airuopsni:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/Airuopsni.yaml"
+    interval: 28800
+    path: ./proxy_provider/Airuopsni.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+  WilliamStar007sni:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/WilliamStar007sni.yaml"
+    interval: 28800
+    path: ./proxy_provider/WilliamStar007sni.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+  anaersni:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/anaersni.yaml"
+    interval: 28800
+    path: ./proxy_provider/anaersni.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+  mahdiblandsni:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/mahdiblandsni.yaml"
+    interval: 28800
+    path: ./proxy_provider/mahdiblandsni.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+  peasoftsni:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/peasoftsni.yaml"
+    interval: 28800
+    path: ./proxy_provider/peasoftsni.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+  tbbatbbsni:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/tbbatbbsni.yaml"
+    interval: 28800
+    path: ./proxy_provider/tbbatbbsni.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+  MrMohebisni:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/MrMohebisni.yaml"
+    interval: 28800
+    path: ./proxy_provider/MrMohebisni.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+  chengaopansni:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/chengaopansni.yaml"
+    interval: 28800
+    path: ./proxy_provider/chengaopansni.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+  Airuopservername:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/Airuopservername.yaml"
+    interval: 28800
+    path: ./proxy_provider/Airuopservername.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+  WilliamStar007servername:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/WilliamStar007servername.yaml"
+    interval: 28800
+    path: ./proxy_provider/WilliamStar007servername.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+  anaerservername:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/anaerservername.yaml"
+    interval: 28800
+    path: ./proxy_provider/anaerservername.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+  mahdiblandservername:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/mahdiblandservername.yaml"
+    interval: 28800
+    path: ./proxy_provider/mahdiblandservername.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+  peasoftservername:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/peasoftservername.yaml"
+    interval: 28800
+    path: ./proxy_provider/peasoftservername.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+  tbbatbbservername:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/tbbatbbservername.yaml"
+    interval: 28800
+    path: ./proxy_provider/tbbatbbservername.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+  MrMohebiservername:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/MrMohebiservername.yaml"
+    interval: 28800
+    path: ./proxy_provider/MrMohebiservername.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+  chengaopanservername:
+    type: http
+    url: "https://raw.githubusercontent.com/DheMasker/Happy-Surfing/main/chengaopanservername.yaml"
+    interval: 28800
+    path: ./proxy_provider/chengaopanservername.yaml
+    # filter: 'a|b' # golang regex string
+    health-check:
+      enable: true
+      interval: 21600
+      # lazy: true
+      url: http://www.gstatic.com/generate_204
+##########################################
+
+
+
+proxy-groups:
+- name: CONTROL
+  type: select
+  proxies:
+  - URLTEST
+  - SELECT
+
+- name: SELECT
+  type: select
+  use:
+  - Airuopsni
+  - WilliamStar007sni
+  - anaersni
+  - mahdiblandsni
+  - peasoftsni
+  - tbbatbbsni
+  - MrMohebisni
+  - chengaopansni
+  - Airuopservername
+  - WilliamStar007servername
+  - anaerservername
+  - mahdiblandservername
+  - peasoftservername
+  - tbbatbbservername
+  - MrMohebiservername
+  - chengaopanservername
+
+- name: URLTEST
+  type: url-test
+  use:
+  - Airuopsni
+  - WilliamStar007sni
+  - anaersni
+  - mahdiblandsni
+  - peasoftsni
+  - tbbatbbsni
+  - MrMohebisni
+  - chengaopansni
+  - Airuopservername
+  - WilliamStar007servername
+  - anaerservername
+  - mahdiblandservername
+  - peasoftservername
+  - tbbatbbservername
+  - MrMohebiservername
+  - chengaopanservername
+  url: 'http://www.gstatic.com/generate_204'
+  interval: 128
+  tolerance: 68
+  
+
+
+rules:
+- MATCH,CONTROL
+
+
+
+###
