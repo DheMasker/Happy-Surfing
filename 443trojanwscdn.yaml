@@ -26073,6 +26073,45 @@ proxies:
     headers:
       Host: sourceforge.net
     path: /websocket
+- name: 🇲🇾 马来西亚 | MYS 3
+  network: ws
+  password: 531d9e93-53be-4f05-a9c1-33490d4da2f3
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: 44-ml-1.ccc4vortex.top
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: 44-ml-1.ccc4vortex.top
+    path: /images
+- name: 🇹🇼 🇨🇳 台湾 | TWN
+  network: ws
+  password: 531d9e93-53be-4f05-a9c1-33490d4da2f3
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: t2w2t2w2.bpca2026.top
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: t2w2t2w2.bpca2026.top
+    path: /images
+- name: 🇺🇸 美国 | USA 6
+  network: ws
+  password: 531d9e93-53be-4f05-a9c1-33490d4da2f3
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: uuu-3-8uuu.ccc3cosmo.top
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: uuu-3-8uuu.ccc3cosmo.top
+    path: /images
 - name: 新加坡 001
   type: trojan
   network: ws
@@ -28691,6 +28730,97 @@ proxies:
     headers:
       Host: www.ignitelimit.com
     path: /assignment
+- name: 🇲🇾 马来西亚 | MYS
+  network: ws
+  password: 531d9e93-53be-4f05-a9c1-33490d4da2f3
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: 44-ml-1.ccc4vortex.top
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: 44-ml-1.ccc4vortex.top
+    path: /images
+- name: 🇬🇧 英国 | GBR
+  network: ws
+  password: 531d9e93-53be-4f05-a9c1-33490d4da2f3
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: 0o3vr2n5k2.bpuk2026.top
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: 0o3vr2n5k2.bpuk2026.top
+    path: /images
+- name: 🇭🇰 香港 | HKG 2
+  network: ws
+  password: 531d9e93-53be-4f05-a9c1-33490d4da2f3
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: hkk-1-8hhh.ccc3cosmo.top
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: hkk-1-8hhh.ccc3cosmo.top
+    path: /images
+- name: 🇲🇾 马来西亚 | MYS 2
+  network: ws
+  password: 531d9e93-53be-4f05-a9c1-33490d4da2f3
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: 44-ml-1.ccc4vortex.top
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: 44-ml-1.ccc4vortex.top
+    path: /images
+- name: 🇲🇾 马来西亚 | MYS 3
+  network: ws
+  password: 531d9e93-53be-4f05-a9c1-33490d4da2f3
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: 44-ml-1.ccc4vortex.top
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: 44-ml-1.ccc4vortex.top
+    path: /images
+- name: 🇹🇼 🇨🇳 台湾 | TWN
+  network: ws
+  password: 531d9e93-53be-4f05-a9c1-33490d4da2f3
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: t2w2t2w2.bpca2026.top
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: t2w2t2w2.bpca2026.top
+    path: /images
+- name: 🇺🇸 美国 | USA 6
+  network: ws
+  password: 531d9e93-53be-4f05-a9c1-33490d4da2f3
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: uuu-3-8uuu.ccc3cosmo.top
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: uuu-3-8uuu.ccc3cosmo.top
+    path: /images
 - name: 新加坡 001
   type: trojan
   network: ws
@@ -31309,6 +31439,97 @@ proxies:
     headers:
       Host: www.ignitelimit.com
     path: /assignment
+- name: 🇲🇾 马来西亚 | MYS
+  network: ws
+  password: 531d9e93-53be-4f05-a9c1-33490d4da2f3
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: 44-ml-1.ccc4vortex.top
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: 44-ml-1.ccc4vortex.top
+    path: /images
+- name: 🇬🇧 英国 | GBR
+  network: ws
+  password: 531d9e93-53be-4f05-a9c1-33490d4da2f3
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: 0o3vr2n5k2.bpuk2026.top
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: 0o3vr2n5k2.bpuk2026.top
+    path: /images
+- name: 🇭🇰 香港 | HKG 2
+  network: ws
+  password: 531d9e93-53be-4f05-a9c1-33490d4da2f3
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: hkk-1-8hhh.ccc3cosmo.top
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: hkk-1-8hhh.ccc3cosmo.top
+    path: /images
+- name: 🇲🇾 马来西亚 | MYS 2
+  network: ws
+  password: 531d9e93-53be-4f05-a9c1-33490d4da2f3
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: 44-ml-1.ccc4vortex.top
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: 44-ml-1.ccc4vortex.top
+    path: /images
+- name: 🇲🇾 马来西亚 | MYS 3
+  network: ws
+  password: 531d9e93-53be-4f05-a9c1-33490d4da2f3
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: 44-ml-1.ccc4vortex.top
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: 44-ml-1.ccc4vortex.top
+    path: /images
+- name: 🇹🇼 🇨🇳 台湾 | TWN
+  network: ws
+  password: 531d9e93-53be-4f05-a9c1-33490d4da2f3
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: t2w2t2w2.bpca2026.top
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: t2w2t2w2.bpca2026.top
+    path: /images
+- name: 🇺🇸 美国 | USA 6
+  network: ws
+  password: 531d9e93-53be-4f05-a9c1-33490d4da2f3
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: uuu-3-8uuu.ccc3cosmo.top
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: uuu-3-8uuu.ccc3cosmo.top
+    path: /images
 - name: 新加坡 001
   type: trojan
   network: ws
@@ -33927,6 +34148,58 @@ proxies:
     headers:
       Host: www.ignitelimit.com
     path: /assignment
+- name: 🇲🇾 马来西亚 | MYS
+  network: ws
+  password: 531d9e93-53be-4f05-a9c1-33490d4da2f3
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: 44-ml-1.ccc4vortex.top
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: 44-ml-1.ccc4vortex.top
+    path: /images
+- name: 🇬🇧 英国 | GBR
+  network: ws
+  password: 531d9e93-53be-4f05-a9c1-33490d4da2f3
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: 0o3vr2n5k2.bpuk2026.top
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: 0o3vr2n5k2.bpuk2026.top
+    path: /images
+- name: 🇭🇰 香港 | HKG 2
+  network: ws
+  password: 531d9e93-53be-4f05-a9c1-33490d4da2f3
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: hkk-1-8hhh.ccc3cosmo.top
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: hkk-1-8hhh.ccc3cosmo.top
+    path: /images
+- name: 🇲🇾 马来西亚 | MYS 2
+  network: ws
+  password: 531d9e93-53be-4f05-a9c1-33490d4da2f3
+  port: 443
+  server: 104.18.1.196
+  skip-cert-verify: true
+  sni: 44-ml-1.ccc4vortex.top
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: 44-ml-1.ccc4vortex.top
+    path: /images
 - name: 新加坡 001
   type: trojan
   network: ws
